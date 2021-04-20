@@ -1,7 +1,5 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
 UD_Icelandic-Modern is a conversion of the 2019 additions to the Icelandic Parsed Historical Corpus (IcePaHC) to the Universal Dependencies scheme.
 
 The conversion was done using [UDConverter](https://github.com/thorunna/UDConverter).
