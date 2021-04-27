@@ -1,0 +1,30 @@
+Mon Apr 26 15:10:38 CEST 2021
+tools/check_files.pl UD_Icelandic-Modern
+[L0 Repo files] UD_Icelandic-Modern: missing test data file is_modern-ud-test.conllu
+*** FAILED ***
+./validate.sh --lang is --max-err 0 UD_Icelandic-Modern/is_modern-ud-train.conllu
+[Line 36515 Sent ALTHINGI_HHG_2013_G-33-4920265,.4 Node 9]: [L5 Morpho aux-lemma] 'þurfa' is not an auxiliary verb in language [is]
+[Line 42431 Sent ALTHINGI_SJS_2013_G-33-4545749,.6 Node 1]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (1:Frá:case --> 3:með:case)
+[Line 84649 Sent RUV_TGS_2016_G-2-1031626.SANITY,.17]: [L1 Format empty-column] Empty value in column FORM.
+[Line 84661 Sent RUV_TGS_2016_G-2-1031626.SANITY,.17]: [L1 Format empty-column] Empty value in column FORM.
+[Line 84674 Sent RUV_TGS_2016_G-2-1031626.SANITY,.17]: [L1 Format empty-column] Empty value in column FORM.
+[Line 84690 Sent RUV_TGS_2016_G-2-1031626.SANITY,.17]: [L1 Format empty-column] Empty value in column FORM.
+[Line 84705 Sent RUV_TGS_2016_G-2-1031626.SANITY,.17]: [L1 Format empty-column] Empty value in column FORM.
+[Line 84726 Sent RUV_TGS_2016_G-2-1031626.SANITY,.17]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #7 because the text is '13:30 á RÚV fimmtuda[...]'.
+[Line 84726 Sent RUV_TGS_2016_G-2-1031626.SANITY,.17]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #19 because the text is '14:05 á RÚV föstudag[...]'.
+[Line 84726 Sent RUV_TGS_2016_G-2-1031626.SANITY,.17]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #32 because the text is '16:05 á RÚV og RÚV 2[...]'.
+[Line 84726 Sent RUV_TGS_2016_G-2-1031626.SANITY,.17]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #48 because the text is '16:45 á RÚV og RÚV 2[...]'.
+[Line 84726 Sent RUV_TGS_2016_G-2-1031626.SANITY,.17]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #63 because the text is '15:00 á RÚV og RÚV 2[...]'.
+[Line 85865 Sent RUV_TGS_2016_G-2-1031922.SANITY,.12]: [L1 Format empty-column] Empty value in column FORM.
+[Line 85868 Sent RUV_TGS_2016_G-2-1031922.SANITY,.12]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #140 because the text is '10.'.
+[Line 88147 Sent RUV_TGS_2016_G-2-1032486.SANITY,.16]: [L1 Format empty-column] Empty value in column FORM.
+[Line 88172 Sent RUV_TGS_2016_G-2-1032486.SANITY,.16]: [L1 Format empty-column] Empty value in column FORM.
+[Line 88186 Sent RUV_TGS_2016_G-2-1032486.SANITY,.16]: [L1 Format empty-column] Empty value in column FORM.
+[Line 88191 Sent RUV_TGS_2016_G-2-1032486.SANITY,.16]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #12 because the text is '18:21 og verður sund[...]'.
+[Line 88191 Sent RUV_TGS_2016_G-2-1032486.SANITY,.16]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #37 because the text is '18:13 og úrslitasund[...]'.
+[Line 88191 Sent RUV_TGS_2016_G-2-1032486.SANITY,.16]: [L2 Metadata missing-spaceafter] 'SpaceAfter=No' is missing in the MISC field of node #51 because the text is '18:37.'.
+Format errors: 9
+Metadata errors: 9
+Morpho errors: 1
+Syntax errors: 1
+*** FAILED *** with 20 errors
