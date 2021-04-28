@@ -18,7 +18,9 @@ A part of the corpus has been manually corrected, 15,151 words in total. The fol
 ## Data split
 
 **Training data**
+
 72,466 words in total
+
 - `ALTHINGI_HHG_2013`
 - `ALTHINGI_SJS_2013`
 - `ALTHINGI_TKG_2011`
@@ -26,13 +28,17 @@ A part of the corpus has been manually corrected, 15,151 words in total. The fol
 - `RUV_TGS_2016`
 
 **Development data**
+
 10,237 words in total
+
 - `ALTHINGI_BO_2015`
 - `ALTHINGI_HHG_2013`
 
 
 **Testing data**
+
 10,236 words in total
+
 - `ALTHINGI_BO_2013`
 - `ALTHINGI_BO_2014`
 - `ALTHINGI_BO_2015`
