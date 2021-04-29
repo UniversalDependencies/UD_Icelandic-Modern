@@ -10,8 +10,8 @@ The conversion was done using [UDConverter](https://github.com/thorunna/UDConver
 The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) is a xxx word corpus which includes texts from the 21st century. These texts were originally manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme. These parsed texts where then automatically converted to the Universal Dependencies scheme to create UD_Icelandic-Modern.
 
 A part of the UD corpus has been manually corrected, 15,151 words in total. The following data has been manually corrected:
-- `ALTHINGI_BO_2013`
-- `ALTHINGI_BO_2014`
+- `ALTHINGI_BO_2013` All files
+- `ALTHINGI_BO_2014` All files
 - `ALTHINGI_HHG_2013` Files G-33-4492074, G-33-4497471, G-33-4500256, G-33-4525575, G-33-4528305, G-33-4534200, G-33-4542329
 - `ALTHINGI_SJS_2013` Files G-33-4493268, G-33-4496708, G-33-4496709, G-33-4496710, G-33-4500290, G-33-4500291, G-33-4503791, G-33-4510804, G-33-4517845, G-33-4517846, G-33-4524841, G-33-4528340, G-33-4542311, G-33-4542313, G-33-4545749, G-33-4545750, G-33-4545751, G-33-4556342, G-33-4556344, G-33-4563267, G-33-4565680
 
