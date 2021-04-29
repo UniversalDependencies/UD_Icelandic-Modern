@@ -65,10 +65,6 @@ The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) are ava
 
 Morphological features were generated using ABLTagger, a PoS tagger for Icelandic, developed by Steinþór Steingrímsson, Örvar Kárason and Hrafn Loftsson and available [here](https://github.com/steinst/ABLTagger).
 
-## References
-
-* (citation)
-
 
 # Changelog
 
