@@ -7,7 +7,7 @@ The conversion was done using [UDConverter](https://github.com/thorunna/UDConver
 
 # Introduction
 
-The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) is a xxx word corpus which includes texts from the 21st century. These texts were originally manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme, as used in IcePaHC. These parsed texts were then automatically converted to the Universal Dependencies scheme to create UD_Icelandic-Modern. The texts are unprepared parliament speeches by four Icelandic members of parliament in the period 2011–2015 and sports news text from two reporters at the Icelandic National Broadcasting Service (RÚV) from 2016.
+The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) is a 92,939 word corpus which includes texts from the 21st century. These texts were originally manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme, as used in IcePaHC. These parsed texts were then automatically converted to the Universal Dependencies scheme to create UD_Icelandic-Modern. The texts are unprepared parliament speeches by four Icelandic members of parliament in the period 2011–2015 and sports news text from two reporters at the Icelandic National Broadcasting Service (RÚV) from 2016.
 
 A part of the UD corpus has been manually corrected, 15,151 words in total. The following data has been manually corrected:
 - `ALTHINGI_BO_2013` All files
