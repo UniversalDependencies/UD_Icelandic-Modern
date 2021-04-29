@@ -7,7 +7,7 @@ The conversion was done using [UDConverter](https://github.com/thorunna/UDConver
 
 # Introduction
 
-The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) is a xxx word corpus which includes xxx texts from the 21st century. These texts were originally manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme. These parsed texts where then automatically converted to the Universal Dependencies scheme to create UD_Icelandic-Modern.
+The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) is a xxx word corpus which includes texts from the 21st century. These texts were originally manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme. These parsed texts where then automatically converted to the Universal Dependencies scheme to create UD_Icelandic-Modern.
 
 A part of the UD corpus has been manually corrected, 15,151 words in total. The following data has been manually corrected:
 - `ALTHINGI_BO_2013`
@@ -74,8 +74,8 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Rúnarsson, Kristján; Arnardóttir, Þórunn; Hafsteinsson, Hinrik; Sigurðsson, Einar Freyr
+Contributors: Rúnarsson, Kristján; Arnardóttir, Þórunn; Hafsteinsson, Hinrik; Barkarson, Starkaður; Jónsdóttir, Hildur; Steingrímsson, Steinþór; Sigurðsson, Einar Freyr
 Contributing: elsewhere
-Contact: krunars@gmail.com, thar@hi.is, hinrik.hafst@gmail.com, einar.freyr.sigurdsson@arnastofnun.is
+Contact: krunars@gmail.com, thar@hi.is, hinrik.hafst@gmail.com, starkadur.barkarson@arnastofnun.is, hildur.jonsdottir@gmail.com, steinthor.steingrimsson@arnastofnun.is, einar.freyr.sigurdsson@arnastofnun.is
 ===============================================================================
 </pre>
