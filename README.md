@@ -46,11 +46,11 @@ A part of the UD corpus has been manually corrected, 15,151 words in total. The 
 
 # Acknowledgments
 
-This project is funded by The Strategic Research and Development Programme for Language Technology, grant no. 180020-5301. Thanks are due to Örvar Kárason, whose previous work was used as a basis for the conversion.
+This project was funded by The Strategic Research and Development Programme for Language Technology, grant no. 180020-5301.
 
-The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) is available [here](https://github.com/antonkarl/icecorpus/tree/master/finished/additions2019).
+The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) are available [here](https://github.com/antonkarl/icecorpus/tree/master/finished/additions2019).
 
-Morphological features where generated using ABLTagger, a state-of-the-art PoS tagger for Icelandic. It is developed by Steinþór Steingrímsson, Örvar Kárason and Hrafn Loftsson and available [here](https://github.com/steinst/ABLTagger).
+Morphological features were generated using ABLTagger, a PoS tagger for Icelandic, developed by Steinþór Steingrímsson, Örvar Kárason and Hrafn Loftsson and available [here](https://github.com/steinst/ABLTagger).
 
 ## References
 
