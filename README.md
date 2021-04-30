@@ -19,7 +19,7 @@ Each sentence ID (`sent_id`) in UD_Icelandic-Modern carries the following inform
 - Name of original file (`G-33-4647803`)
 - Sentence index within file (`.1`)
 
-Along with sentence IDs within the UD corpus, each sentence contains an `X_ID` flag, indicating the original sentence(s) in IcePaHC. This is useful as some sentences in the UD scheme have more than one original sentence in IcePaHC. As sentence IDs are currently not represented in the modern-text IcePaHC doesn't, this flag is left blank, as `ID_MISSING` for each original sentence.
+Along with sentence IDs within the UD corpus, each sentence contains an `X_ID` flag, indicating the original sentence(s) in IcePaHC. This is useful as some sentences in the UD scheme have more than one original sentence in IcePaHC. As sentence IDs are currently not represented in the modern-text IcePaHC, this flag is left blank, as `ID_MISSING` for each original sentence.
 
 
 ## Manually corrected portion
