@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>6928</sentences><tokens>158134</tokens><words>158150</words><fused>16</fused></total>
+    <train><sentences>5376</sentences><tokens>123853</tokens><words>123866</words><fused>13</fused></train>
+    <dev><sentences>784</sentences><tokens>17102</tokens><words>17105</words><fused>3</fused></dev>
+    <test><sentences>768</sentences><tokens>17179</tokens><words>17179</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="5789" /><!-- að, ., vera, það, ég, í, ,, og, á, sem, þessi, ekki, hafa, til, sá -->
+  <forms unique="10021" /><!-- að, ., í, og, ,, það, er, á, sem, ég, við, ekki, til, því, um -->
+  <fusions unique="7" /><!-- eignaupplýsingar, -útisigur, /s, Afsakaðu, fyrirgefðu, háttaði, nefndum -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">8516</tag><!-- háttvirtur, góður, virðulegur, hæstvirtur, hægur, síðari, fyrstur, stór, nýr, mikill -->
+    <tag name="ADP">21246</tag><!-- í, á, til, um, með, fyrir, við, að, af, fram -->
+    <tag name="ADV">13774</tag><!-- ekki, þá, svo, hér, bara, þar, vel, _, nú, þannig -->
+    <tag name="AUX">10452</tag><!-- vera, hafa, geta, vilja, munu, verða, mega, skulu, fá -->
+    <tag name="CCONJ">5568</tag><!-- og, en, eða, bæði, til, né, hvorki, plús, enda, milli -->
+    <tag name="DET">7354</tag><!-- þessi, sá, allur, einhver, mikill, einn, enginn, hinn, margur, hver -->
+    <tag name="INTJ">164</tag><!-- nei, já, jú, ja, takk, húrra, jæja, kommon, vá, æ -->
+    <tag name="NOUN">26794</tag><!-- forseti, mál, þingmaður, ár, maður, tími, fólk, leikur, ráðherra, ríkisstjórn -->
+    <tag name="NUM">2000</tag><!-- tveir, þrír, hundrað, fjórir, 200, núll, fimm, fimmtíu, sextán, tíu -->
+    <tag name="PART">4436</tag><!-- að, bara, aðeins -->
+    <tag name="PRON">15356</tag><!-- það, ég, hann, hún, annar, hver, sig, sinn, minn, maður -->
+    <tag name="PROPN">5096</tag><!-- ísland, þingmaður, ólympíuleikar, hrafnhildur, alþingi, rúv, ríó, em, íslendingur, evrópusamband -->
+    <tag name="PUNCT">12488</tag><!-- ., ,, ?, :, „, “, ;, -, !, _ -->
+    <tag name="SCONJ">6360</tag><!-- að, sem, hvort, er, ef, og, hver, hvor, en -->
+    <tag name="VERB">18362</tag><!-- koma, eiga, gera, fara, verða, taka, segja, halda, þurfa, sjá -->
+    <tag name="X">184</tag><!-- molde, 2016, að, eidur, fk, i, se, your, zijn, 22 -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="19">
+    <feat name="Case" value="Acc" upos="ADJ,ADV,DET,NOUN,NUM,PRON,VERB">15900</feat><!-- það, þetta, mig, þá, sig, allt, þessa, mál, hvað, þær -->
+    <feat name="Case" value="Dat" upos="ADJ,ADV,DET,NOUN,NUM,PRON,VERB">14734</feat><!-- því, mér, þessu, þeim, sér, máli, þessum, hv., okkur, sinni -->
+    <feat name="Case" value="Gen" upos="ADJ,ADV,DET,NOUN,NUM,PRON,VERB">5840</feat><!-- þess, annars, m, okkar, þeirra, dæmis, vegar, hv., ára, 100 -->
+    <feat name="Case" value="Nom" upos="ADJ,ADV,DET,NOUN,NUM,PRON">23492</feat><!-- það, ég, við, forseti, þetta, hann, hv., hún, menn, þeir -->
+    <feat name="Definite" value="Ind" upos="ADV,NOUN">26830</feat><!-- forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú -->
+    <feat name="Degree" value="Cmp" upos="ADJ,ADV">1720</feat><!-- eins, heldur, betur, frekar, áður, fyrr, miður, fyrri, betri, síður -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV,DET,PART">19942</feat><!-- þá, hv., bara, hér, svo, þar, nú, þannig, mjög, alveg -->
+    <feat name="Degree" value="Sup" upos="ADJ,ADV">1086</feat><!-- fyrsta, fyrst, síðasta, síðustu, næsta, besta, næstu, helst, best, síst -->
+    <feat name="Foreign" value="Yes" upos="X">118</feat><!-- Molde, 2016, Eidur, FK, i, se, your, 22, 3, 8 -->
+    <feat name="Gender" value="Neut" upos="PRON">952</feat><!-- það -->
+    <feat name="Mood" value="Imp" upos="VERB">22</feat><!-- samanber, fyrirgefið, Afsaka, fyrirgef, komið -->
+    <feat name="Mood" value="Ind" upos="ADV,AUX,VERB">15386</feat><!-- er, var, eru, hefur, hringir, held, hafa, verður, hef, kemur -->
+    <feat name="Mood" value="Sub" upos="ADV,AUX,VERB">3272</feat><!-- sé, væri, hafi, hefði, verði, séu, eigi, ætti, geti, gæti -->
+    <feat name="Number" value="Plur" upos="ADV,NOUN">7776</feat><!-- menn, m, ára, leikunum, mál, ár, upplýsingar, efnum, þingmenn, málum -->
+    <feat name="Number" value="Sing" upos="ADV,DET,NOUN,NUM,PRON">20472</feat><!-- það, forseti, þingmaður, fólk, ráðherra, máli, tíma, mál, frú, málið -->
+    <feat name="Tense" value="Past" upos="ADV,AUX,VERB">8188</feat><!-- var, verið, væri, hefði, voru, gert, sagði, sagt, farið, tekið -->
+    <feat name="Tense" value="Pres" upos="ADV,AUX,VERB">14574</feat><!-- er, eru, sé, hefur, hringir, held, hafa, hafi, verður, hef -->
+    <feat name="VerbForm" value="Inf" upos="ADV,AUX,VERB">6088</feat><!-- vera, gera, fara, taka, hafa, koma, segja, vinna, sjá, fá -->
+    <feat name="VerbForm" value="Part" upos="ADV,AUX,VERB">4104</feat><!-- verið, varðandi, gert, sagt, farið, tekið, komið, gripið, orðið, séð -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="34">
+    <dep name="acl">3692</dep>
+    <dep name="acl:relcl">2424</dep>
+    <dep name="advcl">1008</dep>
+    <dep name="advmod">12130</dep>
+    <dep name="amod">9228</dep>
+    <dep name="appos">664</dep>
+    <dep name="aux">3056</dep>
+    <dep name="case">18614</dep>
+    <dep name="cc">5454</dep>
+    <dep name="ccomp">3622</dep>
+    <dep name="compound:prt">1964</dep>
+    <dep name="conj">5944</dep>
+    <dep name="cop">6712</dep>
+    <dep name="csubj">26</dep>
+    <dep name="dep">1458</dep>
+    <dep name="det">3060</dep>
+    <dep name="discourse">142</dep>
+    <dep name="expl">826</dep>
+    <dep name="fixed">38</dep>
+    <dep name="flat:foreign">68</dep>
+    <dep name="flat:name">872</dep>
+    <dep name="iobj">490</dep>
+    <dep name="mark">10220</dep>
+    <dep name="nmod">144</dep>
+    <dep name="nmod:poss">3524</dep>
+    <dep name="nsubj">13416</dep>
+    <dep name="nummod">1114</dep>
+    <dep name="obj">6516</dep>
+    <dep name="obl">20114</dep>
+    <dep name="parataxis">412</dep>
+    <dep name="punct">12488</dep>
+    <dep name="root">6928</dep>
+    <dep name="vocative">508</dep>
+    <dep name="xcomp">1274</dep>
+  </deps>
+</treebank>
