@@ -1,0 +1,44 @@
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Thu May 6 20:16:19 2021 +0200
+Evaluating the following revision of UD_Icelandic-Modern:
+commit 8dcd2642bcd77ca3d6de33eea36ae13bc9194868
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 12 20:59:45 2021 +0200
+Size: counted 158150 of 158150 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.1270878995033.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.8.
+Universal POS tags: 16 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.8.
+Features: 100168 out of 158150 total words have one or more features.
+Features: source of annotation (from README) factor is 0.8.
+Universal relations: 31 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.8.
+Udapi:
+               TOTAL      37566
+Udapi: found 37566 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 158150 words.
+Genres: found 2 out of 17 known.
+validate.py --lang is --max-err=10 UD_Icelandic-Modern/is_modern-ud-dev.conllu
+*** PASSED ***
+validate.py --lang is --max-err=10 UD_Icelandic-Modern/is_modern-ud-test.conllu
+*** PASSED ***
+validate.py --lang is --max-err=10 UD_Icelandic-Modern/is_modern-ud-train.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
+(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
+(weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
+(weight=0.256410256410256) * (score{size}=0.733023065417247) = 0.187954632158269
+(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.67027027027027) = 0.0515592515592516
+(TOTAL score=0.483918106945273) * (availability=1) * (validity=1) = 0.483918106945273
+STARS = 2.5
+UD_Icelandic-Modern	0.483918106945273	2.5
