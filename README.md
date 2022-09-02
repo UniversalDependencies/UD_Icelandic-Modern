@@ -4,6 +4,8 @@ UD_Icelandic-Modern is a conversion of the modern additions to the Icelandic Par
 
 The conversion was done using [UDConverter](https://github.com/thorunna/UDConverter).
 
+Note that the treebank data in versions 2.8-2.10 is flawed in that various sentences are duplicated, resulting in an overlap between train / dev / test. This issue has been fixed as of version 2.11.
+
 
 # Introduction
 
