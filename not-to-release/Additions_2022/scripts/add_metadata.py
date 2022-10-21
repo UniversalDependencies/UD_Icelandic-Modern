@@ -44,8 +44,14 @@ def check_if_esp(filename):
 # create the metadata as a whole and return as string
 def create_metadata(sentence_index, sentence_text, filename, is_esp):
     speaker = "ESP" if is_esp else "TGS"
-    return "\n".join([f"# sent_id = RUV_{speaker}_2017_{os.path.splitext(filename)[0]},.{str(sentence_index+1)}",
-                      f"# text = {sentence_text}"])
+    return "\n".join(
+        [
+            f"# sent_id = RUV_{speaker}_2017_{os.path.splitext(filename)[0]},.{str(sentence_index+1)}",
+            f"# X_ID = ID_MISSING",
+            f"# text = {sentence_text}",
+        ]
+    )
+
     
 # combine the metadata and the conllu sentence
 def add_metadata_to_sentences(sentences, filename, is_esp, texts):
@@ -61,5 +67,4 @@ if __name__ == '__main__':
         texts = get_texts("originals/" + filename)
         new_sentences = add_metadata_to_sentences(sentences, filename, check_if_esp(filename), texts)
         all_sents.extend(new_sentences)
-    write_file("fixed/additions-with-metadata.conllu", "\n\n".join(all_sents))
-        
+    write_file("additions-with-metadata.conllu", "\n\n".join(all_sents))
