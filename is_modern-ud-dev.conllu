@@ -5120,10 +5120,10 @@
 44	:	:	PUNCT	,	_	43	punct	_	_
 45	Ja	ja	INTJ	INTJ	_	67	discourse	_	SpaceAfter=No
 46	,	,	PUNCT	,	_	45	punct	_	_
-47	ég	ég	PRON	PRO-N	Case=Nom	67	nsubj	_	_
+47	ég	ég	PRON	PRO-N	Case=Nom	50	nsubj	_	_
 48	er	vera	AUX	BEPI	Mood=Ind|Tense=Pres	67	cop	_	_
-49	ekki	ekki	ADV	NEG	_	67	advmod	_	_
-50	viss	viss	ADJ	ADJ-N	Case=Nom|Degree=Pos	67	amod	_	_
+49	ekki	ekki	ADV	NEG	_	50	advmod	_	_
+50	viss	viss	ADJ	ADJ-N	Case=Nom|Degree=Pos	43	ccomp	_	_
 51	um	um	ADP	P	_	55	case	_	_
 52	að	að	SCONJ	C	_	55	mark	_	_
 53	ég	ég	PRON	PRO-N	Case=Nom	55	nsubj	_	_
@@ -5140,7 +5140,7 @@
 64	vel	vel	ADV	ADV	Degree=Pos	67	advmod	_	_
 65	úr	úr	ADP	P	_	66	case	_	_
 66	garði	garður	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	67	obl	_	_
-67	gert	gera	VERB	DAN	Tense=Past|VerbForm=Part	43	ccomp	_	SpaceAfter=No
+67	gert	gera	VERB	DAN	Tense=Past|VerbForm=Part	50	ccomp	_	SpaceAfter=No
 68	.	.	PUNCT	.	_	67	punct	_	_
 
 # sent_id = ALTHINGI_SJS_2013_G-33-4510804,8.199
