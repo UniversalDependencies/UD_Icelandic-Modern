@@ -439,13 +439,13 @@
 14	heimasíðu	heimasíða	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	9	obl	_	_
 15	Alþingis	alþingi	PROPN	NPR-G	_	14	nmod:poss	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	15	punct	_	_
-17	eru	vera	AUX	BEPI	Mood=Ind|Tense=Pres	23	cop	_	_
+17	eru	vera	AUX	BEPI	Mood=Ind|Tense=Pres	5	cop	_	_
 18	meiri	mikill	DET	QR-N	Case=Nom|Degree=Pos	19	amod	_	_
-19	líkur	líkur	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	23	nsubj	_	_
+19	líkur	líkur	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	5	nsubj	_	_
 20	á	á	ADP	P	_	23	case	_	_
 21	að	að	SCONJ	C	_	23	mark	_	_
 22	maður	maður	PRON	MAN-N	_	23	nsubj	_	_
-23	hætti	hætta	VERB	VBPS	Mood=Sub|Tense=Pres	5	ccomp	_	_
+23	hætti	hætta	VERB	VBPS	Mood=Sub|Tense=Pres	19	ccomp	_	_
 24	og	og	CCONJ	CONJ	_	25	cc	_	_
 25	fari	fara	VERB	VBPS	Mood=Sub|Tense=Pres	23	conj	_	_
 26	að	að	PART	TO	_	27	mark	_	_
