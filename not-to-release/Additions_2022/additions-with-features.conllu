@@ -1,4 +1,4 @@
-# sent_id = RUV_ESP_2017_G-2-1057336,.1
+# sent_id = RUV_ESP_2017_G-2-1057336,1.
 # X_ID = ID_MISSING
 # text = Geir Þorsteinsson sem verið hefur formaður Knattspyrnusambands Íslands frá 2007 ætlar ekki að gefa kost á sér til endurkjörs formanns á ársþingi sambandsins í febrúar.
 1	Geir	geir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	11	nsubj	_	IFD_tag=nken-s
@@ -9,7 +9,7 @@
 6	formaður	formaður	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	xcomp	_	IFD_tag=nken
 7	Knattspyrnusambands	knattspyrnusamband	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	6	nmod:poss	_	IFD_tag=nhee-s
 8	Íslands	ísland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	7	nmod:poss	_	IFD_tag=nhee-s
-9	frá	frá	ADP	P	_	10	case	_	IFD_tag=aþ
+9	frá	frá	ADP	P	_	10	case	_	IFD_tag=aa
 10	2007	2007	NUM	NUM-D	NumType=Card	4	obl	_	IFD_tag=ta
 11	ætlar	ætla	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 12	ekki	ekki	ADV	NEG	_	11	advmod	_	IFD_tag=aa
@@ -28,7 +28,7 @@
 25	febrúar	febrúar	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	22	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.2
+# sent_id = RUV_ESP_2017_G-2-1057336,2.
 # X_ID = ID_MISSING
 # text = Þetta kemur fram í yfirlýsingu sem hann sendi frá sér rétt í þessu.
 1	Þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	IFD_tag=fahen
@@ -46,7 +46,7 @@
 13	þessu	þessi	DET	D-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	IFD_tag=faheþ|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.3
+# sent_id = RUV_ESP_2017_G-2-1057336,3.
 # X_ID = ID_MISSING
 # text = Geir varð framkvæmdastjóri KSÍ 1997 og formaður tíu árum síðar.
 1	Geir	geir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nken-s
@@ -61,7 +61,7 @@
 10	síðar	síðar	ADV	ADVR	Degree=Cmp	7	advmod	_	IFD_tag=aam|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.4
+# sent_id = RUV_ESP_2017_G-2-1057336,4.
 # X_ID = ID_MISSING
 # text = Kosið verður um nýjan formann í Vestmannaeyjum 11. febrúar.
 1	Kosið	kjsaa	VERB	VAN	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþghen
@@ -76,7 +76,7 @@
 10	febrúar	febrúar	NOUN	N-G	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	7	conj	_	IFD_tag=nkeo|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.5
+# sent_id = RUV_ESP_2017_G-2-1057336,5.
 # X_ID = ID_MISSING
 # text = Nú þegar hefur Guðni Bergsson gefið kost á sér og Björn Einarsson íhugar málið.
 1	Nú	nú	ADV	ADV	_	6	advmod	_	IFD_tag=aa
@@ -95,7 +95,7 @@
 14	málið	mál	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	13	obj	_	IFD_tag=nheog|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.6
+# sent_id = RUV_ESP_2017_G-2-1057336,6.
 # X_ID = ID_MISSING
 # text = Yfirlýsing Geirs er svohljóðandi:
 1	Yfirlýsing	yfirlýsing	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	IFD_tag=nven
@@ -104,7 +104,7 @@
 4	svohljóðandi	svohljóðandi	ADJ	ADJ-N	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	IFD_tag=lvenof|SpaceAfter=No
 5	:	:	PUNCT	,	_	4	punct	_	IFD_tag=:
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.7
+# sent_id = RUV_ESP_2017_G-2-1057336,7.
 # X_ID = ID_MISSING
 # text = „Snemma á níunda áratugnum fyrir rúmum 30 árum hóf ég afskipti af knattspyrnumálum utan mín félags þegar ég tók að mér niðurröðun knattspyrnuleikja í Reykjavík, sat síðan í stjórn KSÍ 1986-87 undir forystu Ellerts B. Schram og tók að mér formennsku í mótanefnd KSÍ.
 1	„	„	PUNCT	"	_	10	punct	_	IFD_tag=„
@@ -126,7 +126,7 @@
 17	félags	félag	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nhee
 18	þegar	þegar	ADP	P	_	20	case	_	IFD_tag=c
 19	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	IFD_tag=fp1en
-20	tók	taka	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	obl	_	IFD_tag=sfg3eþ
+20	tók	taka	VERB	VBDI	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	10	obl	_	IFD_tag=sfg1eþ
 21	að	að	ADP	P	_	22	case	_	IFD_tag=aþ
 22	mér	ég	PRON	PRO-D	Case=Dat|Number=Sing|Person=1|PronType=Prs	20	obl	_	IFD_tag=fp1eþ
 23	niðurröðun	niðurröðun	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	20	obj	_	IFD_tag=nveo
@@ -146,9 +146,9 @@
 37	forystu	forysta	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	28	obl	_	IFD_tag=nveþ
 38	Ellerts	ellertur	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	37	nmod:poss	_	IFD_tag=nkee-s
 39	B.	b.	PROPN	NPR-G	_	38	flat:name	_	IFD_tag=as
-40	Schram	schram	PROPN	NPR-G	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	38	dep	_	IFD_tag=nken-s
+40	Schram	schram	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	38	dep	_	IFD_tag=nkee-s
 41	og	og	CCONJ	CONJ	_	42	cc	_	IFD_tag=c
-42	tók	taka	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	IFD_tag=sfg3eþ
+42	tók	taka	VERB	VBDI	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	IFD_tag=sfg1eþ
 43	að	að	ADP	P	_	44	case	_	IFD_tag=aþ
 44	mér	ég	PRON	PRO-D	Case=Dat|Number=Sing|Person=1|PronType=Prs	42	obl	_	IFD_tag=fp1eþ
 45	formennsku	formennska	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	42	obj	_	IFD_tag=nveo
@@ -157,7 +157,7 @@
 48	KSÍ	ksí	PROPN	NPR-G	_	47	nmod:poss	_	IFD_tag=as|SpaceAfter=No
 49	.	.	PUNCT	.	_	48	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.8
+# sent_id = RUV_ESP_2017_G-2-1057336,8.
 # X_ID = ID_MISSING
 # text = Eitt leiddi af öðru og um áramótin 1992-93 hóf ég störf á skrifstofu KSÍ, en þá hafði Eggert Magnússon tekið við formennsku KSÍ.
 1	Eitt	einn	DET	ONE-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	2	nsubj	_	IFD_tag=fohen
@@ -183,12 +183,12 @@
 21	Eggert	eggert	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	23	nsubj	_	IFD_tag=nken-s
 22	Magnússon	magnússon	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	21	flat:name	_	IFD_tag=nken-s
 23	tekið	taka	VERB	VBN	VerbForm=Sup|Voice=Act	2	conj	_	IFD_tag=ssg
-24	við	við	ADP	P	_	25	case	_	IFD_tag=ao
-25	formennsku	formennska	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	23	obl	_	IFD_tag=nveo
+24	við	við	ADP	P	_	25	case	_	IFD_tag=aþ
+25	formennsku	formennska	NOUN	N-A	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	23	obl	_	IFD_tag=nveþ
 26	KSÍ	ksí	PROPN	NPR-G	_	25	nmod:poss	_	IFD_tag=as|SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.9
+# sent_id = RUV_ESP_2017_G-2-1057336,9.
 # X_ID = ID_MISSING
 # text = Ég tók síðan við sem framkvæmdastjóri KSÍ 1997 og hef verið formaður síðan 2007.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1en
@@ -207,7 +207,7 @@
 14	2007	2007	NUM	NUM-A	NumType=Card	10	obl	_	IFD_tag=ta|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.10
+# sent_id = RUV_ESP_2017_G-2-1057336,10.
 # X_ID = ID_MISSING
 # text = Um þessi áramót hef ég staðið vaktina fyrir KSÍ samfellt í tæpan aldarfjórðung.
 1	Um	um	ADP	P	_	3	case	_	IFD_tag=ao
@@ -225,7 +225,7 @@
 13	aldarfjórðung	aldarfjórðungur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	IFD_tag=nkeo|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.11
+# sent_id = RUV_ESP_2017_G-2-1057336,11.
 # X_ID = ID_MISSING
 # text = Starfið hefur verið fjölbreytt og skemmtilegt en um leið krefjandi.
 1	Starfið	starf	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	IFD_tag=nheng
@@ -240,7 +240,7 @@
 10	krefjandi	krefja	VERB	VAG	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	IFD_tag=lhenof|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.12
+# sent_id = RUV_ESP_2017_G-2-1057336,12.
 # X_ID = ID_MISSING
 # text = Góðir stjórnunarhættir kalla á endurnýjun í forystu samtaka eins og KSÍ.
 1	Góðir	góður	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	IFD_tag=lkfnsf
@@ -250,17 +250,17 @@
 5	endurnýjun	endurnýjun	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	IFD_tag=nveo
 6	í	í	ADP	P	_	7	case	_	IFD_tag=aþ
 7	forystu	forysta	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	IFD_tag=nveþ
-8	samtaka	samtak	NOUN	NS-G	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	7	nmod:poss	_	IFD_tag=lkfosf
+8	samtaka	samtak	NOUN	NS-G	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	7	nmod:poss	_	IFD_tag=lhfnof
 9	eins	?	ADV	ADVR	_	8	advmod	_	IFD_tag=aa
 10	og	?	ADP	P	_	11	case	_	IFD_tag=c
 11	KSÍ	ksí	PROPN	NPR-G	_	9	obl	_	IFD_tag=as|SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.13
+# sent_id = RUV_ESP_2017_G-2-1057336,13.
 # X_ID = ID_MISSING
 # text = Eftir vandlega íhugun hef ég ákveðið að gefa ekki kost á mér til endurkjörs á næsta ársþingi og bið samstarfsfólk í KSÍ, aðildarfélög KSÍ og forystumenn íslenskra knattspyrnufélaga að virða ákvörðun mína og sameinast um að kjósa nýjan formann íslenskri knattspyrnu til heilla.
 1	Eftir	eftir	ADP	P	_	3	case	_	IFD_tag=ao
-2	vandlega	vandlegur	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	IFD_tag=lveosf
+2	vandlega	vandlegur	ADJ	ADJ-A	_	3	amod	_	IFD_tag=aa
 3	íhugun	íhugun	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	obl	_	IFD_tag=nveo
 4	hef	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	IFD_tag=sfg1en
 5	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	IFD_tag=fp1en
@@ -277,7 +277,7 @@
 16	næsta	næstur	ADJ	ADJS-D	Case=Dat|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing	17	amod	_	IFD_tag=lheþve
 17	ársþingi	ársþing	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nheþ
 18	og	og	CCONJ	CONJ	_	19	cc	_	IFD_tag=c
-19	bið	biðja	VERB	VBPI	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	IFD_tag=sbg2fn
+19	bið	biðja	VERB	VBPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	IFD_tag=sfg1en
 20	samstarfsfólk	samstarfsfólk	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	19	iobj	_	IFD_tag=nheo
 21	í	í	ADP	P	_	22	case	_	IFD_tag=ao
 22	KSÍ	ksí	PROPN	NPR-D	_	20	obl	_	IFD_tag=as|SpaceAfter=No
@@ -305,7 +305,7 @@
 44	heilla	heill	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	42	obl	_	IFD_tag=nvfe|SpaceAfter=No
 45	.	.	PUNCT	.	_	44	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.14
+# sent_id = RUV_ESP_2017_G-2-1057336,14.
 # X_ID = ID_MISSING
 # text = Ég er stoltur af starfi mínu og framlagi til íslenskrar knattspyrnu og hef ávallt haft hagsmuni heildarinnar í huga.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
@@ -329,7 +329,7 @@
 19	huga	hugi	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.15
+# sent_id = RUV_ESP_2017_G-2-1057336,15.
 # X_ID = ID_MISSING
 # text = Knattspyrnusamband Íslands stendur nú - utan sem innan vallar - öflugara en nokkru sinni fyrr.
 1	Knattspyrnusamband	knattspyrnusamband	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	3	nsubj	_	IFD_tag=nhen
@@ -342,14 +342,14 @@
 8	innan	innan	ADP	P	_	9	case	_	IFD_tag=ae
 9	vallar	völlur	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	3	advcl	_	IFD_tag=nkee|SpaceAfter=No
 10	-	-	PUNCT	,	_	9	punct	_	IFD_tag=-
-11	öflugara	öflugur	ADJ	ADJR-A	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	amod	_	IFD_tag=nven
+11	öflugara	öflugur	ADJ	ADJR-A	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	3	amod	_	IFD_tag=nkfe
 12	en	en	ADP	P	_	14	case	_	IFD_tag=c
 13	nokkru	nokkur	DET	Q-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	14	amod	_	IFD_tag=foheþ
 14	sinni	sinn	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	11	amod	_	IFD_tag=nheþ
 15	fyrr	snemma	ADV	ADVR	Degree=Cmp	14	advmod	_	IFD_tag=aam|SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.16
+# sent_id = RUV_ESP_2017_G-2-1057336,16.
 # X_ID = ID_MISSING
 # text = Áfram Ísland, Geir Þorsteinsson, formaður KSÍ.”
 1	Áfram	áfram	ADV	ADV	_	2	advmod	_	IFD_tag=aa
@@ -361,9 +361,9 @@
 7	formaður	formaður	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	appos	_	IFD_tag=nken
 8	KSÍ	ksí	PROPN	NPR-G	_	7	nmod:poss	_	IFD_tag=as|SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	_	IFD_tag=.|SpaceAfter=No
-10	”	;	PUNCT	"	NumType=Card	9	punct	_	IFD_tag=ta
+10	”	;	PUNCT	"	_	9	punct	_	IFD_tag=x
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.1
+# sent_id = RUV_TGS_2017_G-2-1055090,1.
 # X_ID = ID_MISSING
 # text = Íslenska karlalandsliðið í handbolta kom saman í dag til undirbúnings fyrir heimsmeistaramótið sem hefst í Frakklandi eftir tvær vikur.
 1	Íslenska	íslenskur	ADJ	ADJ-N	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	IFD_tag=lhenvf
@@ -387,7 +387,7 @@
 19	vikur	vika	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	14	obl	_	IFD_tag=nvfo|SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.2
+# sent_id = RUV_TGS_2017_G-2-1055090,2.
 # X_ID = ID_MISSING
 # text = Nokkur spurningamerki hafa verið vegna meiðsla lykilmanna í landsliðinu, en við settumst niður með þeim í dag og spurðum þá út í ástandið.
 1	Nokkur	nokkur	DET	Q-N	Case=Nom|Gender=Neut|Number=Plur|PronType=Ind	2	amod	_	IFD_tag=fohfn
@@ -416,7 +416,7 @@
 24	ástandið	ástand	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	20	obl	_	IFD_tag=nheog|SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.3
+# sent_id = RUV_TGS_2017_G-2-1055090,3.
 # X_ID = ID_MISSING
 # text = Aron Pálmarsson hefur ekki spilað handbolta vegna nárameiðsla í rúman mánuð en er bjartsýnn að ná HM.
 1	Aron	aron	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	IFD_tag=nken-s
@@ -438,7 +438,7 @@
 17	HM	hm	PROPN	NPR-A	_	16	obj	_	IFD_tag=as|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.4
+# sent_id = RUV_TGS_2017_G-2-1055090,4.
 # X_ID = ID_MISSING
 # text = „Eins og staðan er í dag þá lítur þetta ágætlega út.
 1	„	„	PUNCT	"	_	9	punct	_	IFD_tag=„
@@ -455,7 +455,7 @@
 12	út	út	ADP	RP	_	9	compound:prt	_	IFD_tag=aa|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.5
+# sent_id = RUV_TGS_2017_G-2-1055090,5.
 # X_ID = ID_MISSING
 # text = Ég er búinn að vera í meðhöndlun hjá Ella sjúkraþjálfara og þetta er á réttri leið.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
@@ -466,7 +466,7 @@
 6	í	í	ADP	P	_	7	case	_	IFD_tag=aþ
 7	meðhöndlun	meðhöndlun	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	IFD_tag=nveþ
 8	hjá	hjá	ADP	P	_	9	case	_	IFD_tag=aþ
-9	Ella	elli	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	IFD_tag=nkeþ-s
+9	Ella	elli	PROPN	NPR-D	_	4	obl	_	IFD_tag=x
 10	sjúkraþjálfara	sjúkraþjálfari	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	9	appos	_	IFD_tag=nkeþ
 11	og	og	CCONJ	CONJ	_	16	cc	_	IFD_tag=c
 12	þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	16	nsubj	_	IFD_tag=fahen
@@ -476,7 +476,7 @@
 16	leið	leið	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	3	conj	_	IFD_tag=nveþ|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.6
+# sent_id = RUV_TGS_2017_G-2-1055090,6.
 # X_ID = ID_MISSING
 # text = Ég klárlega bjartsýnn.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
@@ -484,7 +484,7 @@
 3	bjartsýnn	bjartsýnn	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	IFD_tag=lkensf|SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.7
+# sent_id = RUV_TGS_2017_G-2-1055090,7.
 # X_ID = ID_MISSING
 # text = Þetta hafa verið erfið og þreytandi meiðsli.
 1	Þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	IFD_tag=fahen
@@ -496,7 +496,7 @@
 7	meiðsli	meiðsli	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	2	xcomp	_	IFD_tag=nhfn|SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.8
+# sent_id = RUV_TGS_2017_G-2-1055090,8.
 # X_ID = ID_MISSING
 # text = Það er loksins núna sem ég er farinn að sjá ljósið,“ segir Aron Pálmarsson.
 1	Það	það	PRON	PRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	14	nsubj	_	IFD_tag=fphen
@@ -517,7 +517,7 @@
 16	Pálmarsson	pálmarsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	15	flat:name	_	IFD_tag=nken-s|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.9
+# sent_id = RUV_TGS_2017_G-2-1055090,9.
 # X_ID = ID_MISSING
 # text = Aron Rafn Eðvarðsson markvörður hefur líka glímt við meiðsli að undanförnu, sem og Arnór Atlason, en fram kom í fréttum Stöðvar 2 í byrjun desember að Arnór myndi líklega missa af HM.
 1	Aron	aron	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	IFD_tag=nken-s
@@ -556,7 +556,7 @@
 34	HM	hm	PROPN	NPR-D	_	32	obl	_	IFD_tag=as|SpaceAfter=No
 35	.	.	PUNCT	.	_	34	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.10
+# sent_id = RUV_TGS_2017_G-2-1055090,10.
 # X_ID = ID_MISSING
 # text = Arnór hefur þó aldrei gefið upp vonina með HM.
 1	Arnór	arnór	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	IFD_tag=nken-s
@@ -570,17 +570,17 @@
 9	HM	hm	PROPN	NPR-D	_	5	obl	_	IFD_tag=as|SpaceAfter=No
 10	.	.	PUNCT	.	_	9	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.11
+# sent_id = RUV_TGS_2017_G-2-1055090,11.
 # X_ID = ID_MISSING
 # text = „Þetta hefur verið uppávið.
 1	„	„	PUNCT	"	_	3	punct	_	IFD_tag=„
 2	Þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	IFD_tag=fahen
 3	hefur	hafa	VERB	HVPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 4	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	3	cop	_	IFD_tag=ssg
-5	uppávið	uppáv	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	3	xcomp	_	IFD_tag=nhen|SpaceAfter=No
+5	uppávið	uppáv	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	3	xcomp	_	IFD_tag=nheng|SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.12
+# sent_id = RUV_TGS_2017_G-2-1055090,12.
 # X_ID = ID_MISSING
 # text = Ég er búinn að vera á bekknum í síðustu tveimur leikjum og verið til taks.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
@@ -595,12 +595,12 @@
 10	tveimur	tveir	NUM	NUM-D	Case=Dat|Gender=Masc|Number=Plur|NumType=Card	11	nummod	_	IFD_tag=tfkfþ
 11	leikjum	leikur	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	4	obl	_	IFD_tag=nkfþ
 12	og	og	CCONJ	CONJ	_	15	cc	_	IFD_tag=c
-13	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	4	cop	_	IFD_tag=ssg
+13	verið	vera	AUX	BEN	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	4	cop	_	IFD_tag=sþghen
 14	til	til	ADP	P	_	15	case	_	IFD_tag=ae
 15	taks	tak	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	4	obl	_	IFD_tag=nhee|SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.13
+# sent_id = RUV_TGS_2017_G-2-1055090,13.
 # X_ID = ID_MISSING
 # text = Ég vonast til að vera tilbúinn en það verður að koma betur í ljós á næstu dögum.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1en
@@ -622,14 +622,14 @@
 17	dögum	dagur	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	11	obl	_	IFD_tag=nkfþ|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.14
+# sent_id = RUV_TGS_2017_G-2-1055090,14.
 # X_ID = ID_MISSING
 # text = Það er eitt ná leik í dönsku deildinni og svo annað að halda út heilt Heimsmeistaramót.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	4	expl	_	IFD_tag=fphen
 2	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	IFD_tag=sfg3en
 3	eitt	einn	DET	ONE-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	4	obl	_	IFD_tag=fohen
 4	ná	ná	VERB	VB	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	IFD_tag=nven
-5	leik	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	4	obj	_	IFD_tag=nkeþ
+5	leik	leikur	NOUN	N-D	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	obj	_	IFD_tag=nkeo
 6	í	í	ADP	P	_	8	case	_	IFD_tag=aþ
 7	dönsku	danskur	ADJ	ADJ-D	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	IFD_tag=lveþvf
 8	deildinni	deild	NOUN	N-D	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	4	obl	_	IFD_tag=nveþg
@@ -640,10 +640,10 @@
 13	halda	halda	VERB	VB	VerbForm=Inf|Voice=Act	11	acl	_	IFD_tag=sng
 14	út	út	ADP	RP	_	13	compound:prt	_	IFD_tag=aa
 15	heilt	heill	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	IFD_tag=lheosf
-16	Heimsmeistaramót	heimsmeistaramót	NOUN	N-A	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	13	obj	_	IFD_tag=nhen-s|SpaceAfter=No
+16	Heimsmeistaramót	heimsmeistaramót	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	13	obj	_	IFD_tag=nheo-s|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.15
+# sent_id = RUV_TGS_2017_G-2-1055090,15.
 # X_ID = ID_MISSING
 # text = Þetta verður að koma í ljós en ég er bjartsýnn,“ segor Arnór Atlason.
 1	Þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	IFD_tag=fahen
@@ -658,12 +658,12 @@
 10	bjartsýnn	bjartsýnn	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	IFD_tag=lkensf|SpaceAfter=No
 11	,	,	PUNCT	,	_	10	punct	_	IFD_tag=,|SpaceAfter=No
 12	“	“	PUNCT	"	_	11	punct	_	IFD_tag=“
-13	segor	segja	VERB	VBPI	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	parataxis	_	IFD_tag=nken
+13	segor	segja	VERB	VBPI	Foreign=Yes	2	parataxis	_	IFD_tag=e
 14	Arnór	arnór	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	IFD_tag=nken-s
-15	Atlason	atlason	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	14	flat:name	_	IFD_tag=nken-s|SpaceAfter=No
+15	Atlason	atlason	PROPN	NPR-N	Foreign=Yes	14	flat:name	_	IFD_tag=e|SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.16
+# sent_id = RUV_TGS_2017_G-2-1055090,16.
 # X_ID = ID_MISSING
 # text = Ásgeir Örn Hallgrímsson fór úr lið á putta í byrjun október og missti af leikjunum í undankeppni EM um mánaðamótin október/nóvember.
 1	Ásgeir	ásgeir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
@@ -682,7 +682,7 @@
 14	af	af	ADP	P	_	15	case	_	IFD_tag=aþ
 15	leikjunum	leikur	NOUN	NS-D	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	13	obl	_	IFD_tag=nkfþg
 16	í	í	ADP	P	_	17	case	_	IFD_tag=aþ
-17	undankeppni	undankeppni	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	IFD_tag=nveþ
+17	undankeppni	undankeppni	NOUN	N-D	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	IFD_tag=nveo
 18	EM	em	PROPN	NPR-G	_	17	nmod:poss	_	IFD_tag=as
 19	um	um	ADP	P	_	20	case	_	IFD_tag=ao
 20	mánaðamótin	mánaðamót	NOUN	NS-A	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	13	obl	_	IFD_tag=nhfog
@@ -691,7 +691,7 @@
 23	nóvember	nóvember	NOUN	N-G	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	21	obl	_	IFD_tag=nkeo|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.17
+# sent_id = RUV_TGS_2017_G-2-1055090,17.
 # X_ID = ID_MISSING
 # text = „Þetta er búinn að vera ansi erfiður vetur hjá mér og er búinn að vera mikið meiddur í allan vetur en var að ná mér og að skríða saman núna í desember.
 1	„	„	PUNCT	"	_	4	punct	_	IFD_tag=„
@@ -729,7 +729,7 @@
 33	desember	desember	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	29	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 34	.	.	PUNCT	.	_	33	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.18
+# sent_id = RUV_TGS_2017_G-2-1055090,18.
 # X_ID = ID_MISSING
 # text = Ég náði að spila þrjá leiki í byrjun desember sem gáfu mér góða von um að ég geti verið kominn í gott stand í janúar,“ segir Ásgeir Örn.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1en
@@ -764,7 +764,7 @@
 30	Örn	örn	PROPN	NPR-N	_	29	flat:name	_	IFD_tag=x|SpaceAfter=No
 31	.	.	PUNCT	.	_	30	punct	_	IFD_tag=x
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.19
+# sent_id = RUV_TGS_2017_G-2-1055090,19.
 # X_ID = ID_MISSING
 # text = Það kemur í ljós á næstu dögum hvernig ástand þessara lykilmanna er, en landsliðið heldur svo til Danmerkur í næstu viku þar sem Ísland spilar við Egyptaland, Ungverjaland og Danmörku á fjögurra liða æfingamóti sem sýnt verður beint á RÚV, rétt eins og HM í Frakklandi.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	IFD_tag=fphen
@@ -818,10 +818,10 @@
 49	Frakklandi	frakkland	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	47	obl	_	IFD_tag=nheþ-s|SpaceAfter=No
 50	.	.	PUNCT	.	_	49	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.1
+# sent_id = RUV_ESP_2017_G-2-1065341,1.
 # X_ID = ID_MISSING
 # text = Elfar Freyr Helgason hefur skrifað undir nýjan þriggja ára samning við úrvalsdeildarlið Breiðabliks í fótbolta.
-1	Elfar	elfur	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	IFD_tag=nken-s
+1	Elfar	elfur	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nsubj	_	IFD_tag=nven-s
 2	Freyr	freyr	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
 3	Helgason	helgason	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	dep	_	IFD_tag=nken-s
 4	hefur	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	IFD_tag=sfg3en
@@ -838,7 +838,7 @@
 15	fótbolta	fótbolti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	13	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.2
+# sent_id = RUV_ESP_2017_G-2-1065341,2.
 # X_ID = ID_MISSING
 # text = Jafnframt hefur verið ákveðið að hann fari á lánssamningi til Horsens sem spilar í efstu deild í Danmörku.
 1	Jafnframt	jafnframt	ADV	ADV	_	4	advmod	_	IFD_tag=aa
@@ -861,7 +861,7 @@
 18	Danmörku	danmörk	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	16	obl	_	IFD_tag=nveþ-s|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.3
+# sent_id = RUV_ESP_2017_G-2-1065341,3.
 # X_ID = ID_MISSING
 # text = Frá þessu var greint á heimasíðu Breiðbliks í dag.
 1	Frá	frá	ADP	P	_	2	case	_	IFD_tag=aþ
@@ -870,12 +870,12 @@
 4	greint	greina	VERB	VAN	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþghen
 5	á	á	ADP	P	_	6	case	_	IFD_tag=aþ
 6	heimasíðu	heimasíða	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	IFD_tag=nveþ
-7	Breiðbliks	breiðblik	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	nmod:poss	_	IFD_tag=nkee-s
+7	Breiðbliks	breiðblik	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	6	nmod:poss	_	IFD_tag=nhee-s
 8	í	í	ADP	P	_	9	case	_	IFD_tag=ao
 9	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	IFD_tag=nkeo|SpaceAfter=No
 10	.	.	PUNCT	.	_	9	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.4
+# sent_id = RUV_ESP_2017_G-2-1065341,4.
 # X_ID = ID_MISSING
 # text = Elfar sem er 27 ára hefur spilað 197 leiki með meistaraflokki Breiðabliks og skorað í þeim níu mörk.
 1	Elfar	elfur	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	IFD_tag=nven-s
@@ -898,7 +898,7 @@
 18	mörk	mark	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	14	obj	_	IFD_tag=nhfo|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.5
+# sent_id = RUV_ESP_2017_G-2-1065341,5.
 # X_ID = ID_MISSING
 # text = Hann hefur spilað sex leiki með U-21 árs landsliði Íslands og einn með A-landsliðinu.
 1	Hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	3	nsubj	_	IFD_tag=fpken
@@ -919,7 +919,7 @@
 16	landsliðinu	landslið	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	12	obl	_	IFD_tag=x|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.6
+# sent_id = RUV_ESP_2017_G-2-1065341,6.
 # X_ID = ID_MISSING
 # text = Hann mun spila með Horsens næstu mánuði og þar hittir hann fyrir Kjartan Henry Finnbogason sem gekk til liðs við félagið 2014.
 1	Hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	3	nsubj	_	IFD_tag=fpken
@@ -946,13 +946,13 @@
 22	2014	2014	NUM	NUM-A	NumType=Card	17	obl	_	IFD_tag=ta|SpaceAfter=No
 23	.	.	PUNCT	.	_	22	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.7
+# sent_id = RUV_ESP_2017_G-2-1065341,7.
 # X_ID = ID_MISSING
 # text = Þjálfari liðsins er Bo Henriksen sem spilaði hérlendis á árum áður, með Val, Fram og ÍBV.
 1	Þjálfari	þjálfari	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken
 2	liðsins	lið	NOUN	N-G	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	1	nmod:poss	_	IFD_tag=nheeg
 3	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	IFD_tag=sfg3en
-4	Bo	bo	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	IFD_tag=nken-s
+4	Bo	bo	PROPN	NPR-N	Foreign=Yes	0	root	_	IFD_tag=e
 5	Henriksen	henriksen	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	flat:name	_	IFD_tag=nken-s
 6	sem	sem	SCONJ	C	_	7	mark	_	IFD_tag=ct
 7	spilaði	spila	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	IFD_tag=sfg3eþ
@@ -961,15 +961,15 @@
 10	árum	ár	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	7	obl	_	IFD_tag=nhfþ
 11	áður	áður	ADV	ADVR	_	7	advmod	_	IFD_tag=aa|SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	_	IFD_tag=,
-13	með	með	ADP	P	_	14	case	_	IFD_tag=ao
-14	Val	valur	PROPN	NPR-D	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	IFD_tag=nkeo-s|SpaceAfter=No
+13	með	með	ADP	P	_	14	case	_	IFD_tag=aþ
+14	Val	valur	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	IFD_tag=nkeþ-s|SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	_	IFD_tag=,
 16	Fram	fram	PROPN	NPR-D	_	14	dep	_	IFD_tag=aa
 17	og	og	CCONJ	CONJ	_	14	cc	_	IFD_tag=c
 18	ÍBV	íbv	PROPN	NPR-D	_	14	dep	_	IFD_tag=as|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1307543,.1
+# sent_id = RUV_TGS_2017_G-2-1307543,1.
 # X_ID = ID_MISSING
 # text = Stefán Rafn Sigurmannsson vinstri hornamaður er kominn til Frakklands og æfði með íslenska landsliðinu í Metz í gær.
 1	Stefán	stefán	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	IFD_tag=nken-s
@@ -992,7 +992,7 @@
 18	gær	gær	ADV	ADV	_	11	obl	_	IFD_tag=aa|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1307543,.2
+# sent_id = RUV_TGS_2017_G-2-1307543,2.
 # X_ID = ID_MISSING
 # text = Stefán Rafn var einn þeirra sem ekki komst í gegnum niðurskurð Geirs Sveinssonar landsliðsþjálfara áður en Ísland hélt á fjögurra þjóða æfingamót í Danmörku um síðustu helgi, en er nú kominn aftur inn í hópinn.
 1	Stefán	stefán	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
@@ -1013,7 +1013,7 @@
 16	en	en	ADP	P	_	18	case	_	IFD_tag=c
 17	Ísland	ísland	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	18	nsubj	_	IFD_tag=nhen-s
 18	hélt	halda	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	obl	_	IFD_tag=sfg3eþ
-19	á	á	ADP	P	_	22	case	_	IFD_tag=aþ
+19	á	á	ADP	P	_	22	case	_	IFD_tag=ao
 20	fjögurra	fjórir	NUM	NUM-G	Case=Gen|Gender=Fem|Number=Plur|NumType=Card	21	nummod	_	IFD_tag=tfvfe
 21	þjóða	þjóð	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	22	nmod:poss	_	IFD_tag=nvfe
 22	æfingamót	æfingamót	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	18	obl	_	IFD_tag=nheo
@@ -1033,7 +1033,7 @@
 36	hópinn	hópur	NOUN	N-A	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	32	obl	_	IFD_tag=nkeog|SpaceAfter=No
 37	.	.	PUNCT	.	_	36	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1307543,.3
+# sent_id = RUV_TGS_2017_G-2-1307543,3.
 # X_ID = ID_MISSING
 # text = Þau svör fengust frá HSÍ að ástæða þess að Stefán Rafn væri kominn til Metz væri til að vera til taks, vegna meiðsla Bjarka Más Elíssonar.
 1	Þau	sá	DET	D-N	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	2	det	_	IFD_tag=fahfn
@@ -1065,7 +1065,7 @@
 27	Elíssonar	elísson	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	25	dep	_	IFD_tag=nkee-s|SpaceAfter=No
 28	.	.	PUNCT	.	_	27	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1307543,.4
+# sent_id = RUV_TGS_2017_G-2-1307543,4.
 # X_ID = ID_MISSING
 # text = Bjarki Már missti af leik Íslands og Danmerkur í Árósum á sunnudag eftir að meiðsli tók sig upp.
 1	Bjarki	bjarki	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken-s
@@ -1088,7 +1088,7 @@
 18	upp	upp	ADP	RP	_	16	compound:prt	_	IFD_tag=aa|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1307543,.5
+# sent_id = RUV_TGS_2017_G-2-1307543,5.
 # X_ID = ID_MISSING
 # text = Stefán Rafn hefur verið í íslenska landsliðinu á síðustu fjórum stórmótum, en Bjarki Már hefur aldrei áður farið með A-landsliðinu á stórmót.
 1	Stefán	stefán	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken-s
@@ -1118,7 +1118,7 @@
 25	stórmót	stórmót	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	19	obl	_	IFD_tag=nheo|SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1307543,.6
+# sent_id = RUV_TGS_2017_G-2-1307543,6.
 # X_ID = ID_MISSING
 # text = Ástand Bjarka Más verður skoðað betur í dag, en Ísland þarf að tilkynna 16 manna hóp fyrir leikinn á móti Spáni annað kvöld, á tæknifundi klukkan 18 að íslenskum tíma í kvöld.
 1	Ástand	ástand	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	5	nsubj	_	IFD_tag=nhen
@@ -1157,7 +1157,7 @@
 34	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	28	obl	_	IFD_tag=nheo|SpaceAfter=No
 35	.	.	PUNCT	.	_	34	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.1
+# sent_id = RUV_TGS_2017_G-2-1054808,1.
 # X_ID = ID_MISSING
 # text = Heimir Hallgrímsson landsliðsþjálfari í knattspyrnu valdi sjö nýliða í A-landsliðið sem er á leið á æfingamót í Kína í næstu viku.
 1	Heimir	heimir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	IFD_tag=nken-s
@@ -1167,7 +1167,7 @@
 5	knattspyrnu	knattspyrna	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	IFD_tag=nveþ
 6	valdi	velja	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
 7	sjö	sjö	NUM	NUM-A	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	8	nummod	_	IFD_tag=tfkfo
-8	nýliða	nýlið	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	6	obj	_	IFD_tag=nkfo
+8	nýliða	nýlið	NOUN	NS-A	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	6	obj	_	IFD_tag=nkfe
 9	í	í	ADP	P	_	12	case	_	IFD_tag=aþ
 10	A	atel	NUM	NUM-A	Case=Acc	12	dep	_	IFD_tag=x|SpaceAfter=No
 11	-	-	PUNCT	,	_	10	punct	_	IFD_tag=x
@@ -1185,7 +1185,7 @@
 23	viku	vika	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	16	obl	_	IFD_tag=nveþ|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.2
+# sent_id = RUV_TGS_2017_G-2-1054808,2.
 # X_ID = ID_MISSING
 # text = Heimir vonast til að nýjir leikmenn stimpli sig inn í hópinn.
 1	Heimir	heimir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nken-s
@@ -1201,7 +1201,7 @@
 11	hópinn	hópur	NOUN	N-A	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	IFD_tag=nkeog|SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.3
+# sent_id = RUV_TGS_2017_G-2-1054808,3.
 # X_ID = ID_MISSING
 # text = „Sagan hefur sýnt okkur að það eru alltaf einn til tveir leikmenn í þessum janúarverkefnum sem síðan stimpla sig inn í mótsleikina á því ári.
 1	„	„	PUNCT	"	_	4	punct	_	IFD_tag=„
@@ -1218,7 +1218,7 @@
 12	tveir	tveir	NUM	NUM-N	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	13	nummod	_	IFD_tag=tfkfn
 13	leikmenn	leikmaður	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	7	obl	_	IFD_tag=nkfn
 14	í	í	ADP	P	_	16	case	_	IFD_tag=ao
-15	þessum	þessi	DET	D-D	Case=Dat|Gender=Neut|Number=Plur|PronType=Dem	16	det	_	IFD_tag=fahfþ
+15	þessum	þessi	DET	D-D	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem	16	det	_	IFD_tag=fakfþ
 16	janúarverkefnum	janúarverkefni	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	7	obl	_	IFD_tag=nkfþ
 17	sem	sem	SCONJ	C	_	19	mark	_	IFD_tag=ct
 18	síðan	síðan	ADV	ADV	_	19	advmod	_	IFD_tag=aa
@@ -1232,7 +1232,7 @@
 26	ári	ár	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	19	obl	_	IFD_tag=nheþ|SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.4
+# sent_id = RUV_TGS_2017_G-2-1054808,4.
 # X_ID = ID_MISSING
 # text = Í öðru lagi þá erum við að hugsa til framtíðar.
 1	Í	í	ADP	P	_	3	case	_	IFD_tag=aþ
@@ -1247,13 +1247,13 @@
 10	framtíðar	framtíð	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	IFD_tag=nvee|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.5
+# sent_id = RUV_TGS_2017_G-2-1054808,5.
 # X_ID = ID_MISSING
 # text = Fleistir mótsleikir okkar undanfarin fjögur til fimm ár hafa verið úrslitaleikir og enginn tími til að gera einhverjar tilraunir og gefa mönnum tækifæri.
-1	Fleistir	fleistu	ADJ	ADJ-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	2	amod	_	IFD_tag=nvfn
+1	Fleistir	fleistu	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	IFD_tag=lkfnsf
 2	mótsleikir	mótsleik	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	9	nsubj	_	IFD_tag=nkfn
 3	okkar	ég	PRON	PRO-G	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	nmod:poss	_	IFD_tag=fp1fe
-4	undanfarin	undanfarinn	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Plur	8	amod	_	IFD_tag=lhfosf
+4	undanfarin	undanfarinn	ADJ	ADJ-A	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Plur	8	amod	_	IFD_tag=lhfnsf
 5	fjögur	fjórir	NUM	NUM-A	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	8	nummod	_	IFD_tag=tfhfn
 6	til	til	ADP	P	_	5	case	_	IFD_tag=ae
 7	fimm	fimm	NUM	NUM-A	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	5	nummod	_	IFD_tag=tfhfo
@@ -1275,7 +1275,7 @@
 23	tækifæri	tækifæri	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	21	obj	_	IFD_tag=nheo|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.6
+# sent_id = RUV_TGS_2017_G-2-1054808,6.
 # X_ID = ID_MISSING
 # text = Framtíðin kemur hvort sem gengur vel eða illa og það gleymist oft í velgengninni að það kemur framtíð.
 1	Framtíðin	framtíð	NOUN	N-N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	IFD_tag=nveng
@@ -1298,7 +1298,7 @@
 18	framtíð	framtíð	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	17	obl	_	IFD_tag=nven|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.7
+# sent_id = RUV_TGS_2017_G-2-1054808,7.
 # X_ID = ID_MISSING
 # text = Við þurfum að vera undirbúnir fyrir hana og gefa mönnum tækifæri til að spila sína fyrstu landsleiki og sýna hvað þeir geta.“ segir Heimir.
 1	Við	ég	PRON	PRO-N	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1fn
@@ -1329,11 +1329,11 @@
 26	Heimir	heimir	PROPN	NPR-N	_	25	nsubj	_	IFD_tag=x|SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.8
+# sent_id = RUV_TGS_2017_G-2-1054808,8.
 # X_ID = ID_MISSING
 # text = Eingöngu leikmenn sem spila með félagsliðum á Norðurlöndunum eru í hópnum því mótið fer fram utan alþjóðlegra landsleikjadaga.
-1	Eingöngu	eingöngu	ADV	ADV	_	2	advmod	_	IFD_tag=aa
-2	leikmenn	leikmaður	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	11	nsubj	_	IFD_tag=nkfn
+1	Eingöngu	eingöngu	ADV	ADV	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	2	advmod	_	IFD_tag=lkfovf
+2	leikmenn	leikmaður	NOUN	NS-N	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	11	nsubj	_	IFD_tag=nkfo
 3	sem	sem	SCONJ	C	_	4	mark	_	IFD_tag=ct
 4	spila	spila	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	IFD_tag=sfg3fn
 5	með	með	ADP	P	_	6	case	_	IFD_tag=aþ
@@ -1352,7 +1352,7 @@
 18	landsleikjadaga	landsleikjadagur	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	14	obl	_	IFD_tag=nhfe|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.9
+# sent_id = RUV_TGS_2017_G-2-1054808,9.
 # X_ID = ID_MISSING
 # text = Nýliðarnir eru markmaðurinn Rúnar Alex Rúnarsson, varnarmennirnir Orri Sigurður Ómarsson, Viðar Ari Jónsson og Böðvar Böðvarsson, miðjumennirnir Óttar Magnús Karlsson og Sigurður Egill Lárusson og framherjinn Albert Guðmundsson.
 1	Nýliðarnir	nýlið	NOUN	NS-N	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	IFD_tag=nkfng
@@ -1388,7 +1388,7 @@
 31	Guðmundsson	guðmundsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	30	flat:name	_	IFD_tag=nken-s|SpaceAfter=No
 32	.	.	PUNCT	.	_	31	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.10
+# sent_id = RUV_TGS_2017_G-2-1054808,10.
 # X_ID = ID_MISSING
 # text = Mótið ber nafnið China cup 2017 eða Kínabikarinn þar sem fjögur lið spila.
 1	Mótið	mót	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	IFD_tag=nheng
@@ -1401,17 +1401,17 @@
 8	Kínabikarinn	kínabikar	PROPN	NPR-N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	conj	_	IFD_tag=nkengs
 9	þar	þar	ADV	ADV	_	13	advmod	_	IFD_tag=aa
 10	sem	sem	SCONJ	C	_	13	mark	_	IFD_tag=c
-11	fjögur	fjórir	NUM	NUM-N	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	12	nummod	_	IFD_tag=tfhfn
+11	fjögur	fjórir	NUM	NUM-N	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	12	nummod	_	IFD_tag=tfhfo
 12	lið	lið	NOUN	NS-N	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	13	nsubj	_	IFD_tag=nhfo
 13	spila	spila	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	IFD_tag=sfg3fn|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.11
+# sent_id = RUV_TGS_2017_G-2-1054808,11.
 # X_ID = ID_MISSING
 # text = Ísland mætir Kína þriðjudaginn 10. janúar klukkan 12:00 og svo annað hvort Króatíu eða Síle sem eigast við í hinum leiknum 11. janúar. Markmenn Hannes Þór Halldórsson - Randers FC Ögmundur Kristinsson - Hammarby Rúnar Alex Rúnarsson - Nordsjælland Varnarmenn Birkir Már Sævarsson - Hammarby Kári Árnason - Malmö Jón Guðni Fjóluson - Norrköping Kristinn Jónsson - Sarpsborg 08 Orri Sigurður Ómarsson - Valur Viðar Ari Jónsson - Fjölnir Böðvar Böðvarsson - FH Miðjumenn Theódór Elmar Bjarnason - AGF Arnór Smárason - Hammarby Björn Daníel Sverrisson - AGF Guðlaugur Victor Pálsson - Esbjerg Aron Sigurðarson - Tromsö Oliver Sigurjónsson - Breiðablik Óttar Magnús Karlsson - Molde BK Sigurður Egill Lárusson - Valur Sóknarmenn Elías Már Ómarsson - Gautaborg Kjartan Henrý Finnbogason - Horsens Björn Bergmann Sigurðarson - Molde BK Albert Guðmundsson - PSV
 1	Ísland	ísland	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	nsubj	_	IFD_tag=nhen-s
 2	mætir	mæta	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
-3	Kína	kína	PROPN	NPR-A	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	2	obj	_	IFD_tag=nhee-s
+3	Kína	kína	PROPN	NPR-A	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	2	obj	_	IFD_tag=nheþ-s
 4	þriðjudaginn	þriðjudagur	NOUN	N-A	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	IFD_tag=nkeog
 5	10	tíu	NUM	NUM-A	Case=Acc	4	appos	_	IFD_tag=x|SpaceAfter=No
 6	.	.	PUNCT	,	_	7	punct	_	IFD_tag=.
@@ -1421,10 +1421,10 @@
 10	og	og	CCONJ	CONJ	_	12	cc	_	IFD_tag=c
 11	svo	svo	ADV	ADV	_	8	advmod	_	IFD_tag=aa
 12	annað	annar	PRON	OTHER-A	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	8	det	_	IFD_tag=fohen
-13	hvort	hvort	PRON	WPRO	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	12	nmod	_	IFD_tag=fohen
-14	Króatíu	króatía	PROPN	NPR-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	conj	_	IFD_tag=nveo-s
+13	hvort	hvort	PRON	WPRO	_	12	nmod	_	IFD_tag=c
+14	Króatíu	króatía	PROPN	NPR-A	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	12	conj	_	IFD_tag=nveþ-s
 15	eða	eða	CCONJ	CONJ	_	14	cc	_	IFD_tag=c
-16	Síle	síle	PROPN	NPR-A	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	14	dep	_	IFD_tag=nheþ-s
+16	Síle	síle	PROPN	NPR-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	14	dep	_	IFD_tag=nheo-s
 17	sem	sem	SCONJ	C	_	18	mark	_	IFD_tag=ct
 18	eigast	eiga	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	14	acl:relcl	_	IFD_tag=sfm3fn
 19	við	við	ADP	RP	_	18	compound:prt	_	IFD_tag=aa
@@ -1546,7 +1546,7 @@
 135	-	-	PUNCT	,	_	119	punct	_	IFD_tag=x
 136	PSV	psv	PROPN	NPR-G	_	127	nmod:poss	_	IFD_tag=x
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.1
+# sent_id = RUV_ESP_2017_G-2-1057342,1.
 # X_ID = ID_MISSING
 # text = Fótboltamaðurinn og Sauðkrækingurinn Rúnar Már Sigurjónsson sem spilar fyrir úrvalsdeildarlið Grasshopper í Sviss og íslenska landsliðið var gestur knattspyrnudeildar Tindastóls á dögunum.
 1	Fótboltamaðurinn	fótboltamaður	NOUN	N-N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	IFD_tag=nkeng
@@ -1559,7 +1559,7 @@
 8	spilar	spila	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	IFD_tag=sfg3en
 9	fyrir	fyrir	ADP	P	_	10	case	_	IFD_tag=ao
 10	úrvalsdeildarlið	úrvalsdeildarlið	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	8	obl	_	IFD_tag=nheog
-11	Grasshopper	grasshopper	PROPN	NPR-A	Case=Dat|Definite=Ind|Number=Sing	10	appos	_	IFD_tag=nxeþ-s
+11	Grasshopper	grasshopper	PROPN	NPR-A	Foreign=Yes	10	appos	_	IFD_tag=e
 12	í	í	ADP	P	_	13	case	_	IFD_tag=aþ
 13	Sviss	sviss	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	11	obl	_	IFD_tag=nheþ-s
 14	og	og	CCONJ	CONJ	_	16	cc	_	IFD_tag=c
@@ -1573,17 +1573,17 @@
 22	dögunum	dagur	NOUN	NS-D	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	19	obl	_	IFD_tag=nkfþg|SpaceAfter=No
 23	.	.	PUNCT	.	_	22	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.2
+# sent_id = RUV_ESP_2017_G-2-1057342,2.
 # X_ID = ID_MISSING
 # text = Þar ræddi hann við unga og áhugasama knattspyrnuiðkendur sem fjölmenntu á svæðið um feril sinn og þátttökuna á EM síðasta sumar.
 1	Þar	þar	ADV	ADV	_	2	advmod	_	IFD_tag=aa
 2	ræddi	ræða	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
 3	hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	IFD_tag=fpken
 4	við	við	ADP	P	_	8	case	_	IFD_tag=ao
-5	unga	ungur	ADJ	ADJ-A	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	IFD_tag=lkeovf
+5	unga	ungur	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	IFD_tag=lkfosf
 6	og	og	CCONJ	CONJ	_	5	cc	_	IFD_tag=c
 7	áhugasama	áhugasamur	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	IFD_tag=lkfosf
-8	knattspyrnuiðkendur	knattspyrnuiðkandi	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	2	obl	_	IFD_tag=nvfo
+8	knattspyrnuiðkendur	knattspyrnuiðkandi	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	2	obl	_	IFD_tag=nkfo
 9	sem	sem	SCONJ	C	_	10	mark	_	IFD_tag=ct
 10	fjölmenntu	fjölmenna	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	_	IFD_tag=sfg3fþ
 11	á	á	ADP	P	_	12	case	_	IFD_tag=ao
@@ -1599,7 +1599,7 @@
 21	sumar	sumar	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	19	obl	_	IFD_tag=nheo|SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.3
+# sent_id = RUV_ESP_2017_G-2-1057342,3.
 # X_ID = ID_MISSING
 # text = Rúnar fæddist á Sauðárkróki 18. júní 1990 og verður því 27 ára í sumar.
 1	Rúnar	rúnar	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nken-s
@@ -1619,7 +1619,7 @@
 15	sumar	sumar	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nheo|SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.4
+# sent_id = RUV_ESP_2017_G-2-1057342,4.
 # X_ID = ID_MISSING
 # text = Ferilinn hóf hann hjá Tindastóli en hefur síðan spilað fyrir Ými, HK, Val, PEC Zwolle í Hollandi, Sundsvall í Svíþjóð og Grasshopper í Sviss.
 1	Ferilinn	ferill	NOUN	N-A	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	obj	_	IFD_tag=nkeng
@@ -1631,7 +1631,7 @@
 7	hefur	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	IFD_tag=sfg3en
 8	síðan	síðan	ADV	ADV	_	9	advmod	_	IFD_tag=aa
 9	spilað	spila	VERB	VBN	VerbForm=Sup|Voice=Act	2	conj	_	IFD_tag=ssg
-10	fyrir	fyrir	ADP	P	_	11	case	_	IFD_tag=ao
+10	fyrir	fyrir	ADP	P	_	11	case	_	IFD_tag=aþ
 11	Ými	ými	PROPN	NPR-A	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	9	obl	_	IFD_tag=nkeþ-s|SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	_	IFD_tag=,
 13	HK	hk	PROPN	NPR-A	_	11	dep	_	IFD_tag=as|SpaceAfter=No
@@ -1643,16 +1643,16 @@
 19	í	í	ADP	P	_	20	case	_	IFD_tag=aþ
 20	Hollandi	holland	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	17	obl	_	IFD_tag=nheþ-s|SpaceAfter=No
 21	,	,	PUNCT	,	_	22	punct	_	IFD_tag=,
-22	Sundsvall	sundsvall	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	11	conj	_	IFD_tag=nxeþ-s
+22	Sundsvall	sundsvall	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	11	conj	_	IFD_tag=nkeþ-s
 23	í	í	ADP	P	_	24	case	_	IFD_tag=aþ
 24	Svíþjóð	svíþjóð	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	22	obl	_	IFD_tag=nveþ-s
 25	og	og	CCONJ	CONJ	_	26	cc	_	IFD_tag=c
-26	Grasshopper	grasshopper	PROPN	NPR-N	Foreign=Yes	11	conj	_	IFD_tag=e
+26	Grasshopper	grasshopper	PROPN	NPR-N	Case=Dat|Definite=Ind|Number=Sing	11	conj	_	IFD_tag=nxeþ-s
 27	í	í	ADP	P	_	28	case	_	IFD_tag=aþ
 28	Sviss	sviss	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	26	obl	_	IFD_tag=nheþ-s|SpaceAfter=No
 29	.	.	PUNCT	.	_	28	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.5
+# sent_id = RUV_ESP_2017_G-2-1057342,5.
 # X_ID = ID_MISSING
 # text = Hann spilaði sinn fyrsta leik fyrir A-landslið karla 2012 og leikirnir eru nú orðnir tólf.
 1	Hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	IFD_tag=fpken
@@ -1674,12 +1674,12 @@
 17	tólf	tólf	NUM	NUM-N	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	16	xcomp	_	IFD_tag=tfkfn|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.6
+# sent_id = RUV_ESP_2017_G-2-1057342,6.
 # X_ID = ID_MISSING
 # text = Samkvæmt héraðsblaðinu Feykivar Rúnari tíðrætt um hugarfarið í spjalli sínu við krakkana.
 1	Samkvæmt	samkvæmt	ADP	P	_	2	case	_	IFD_tag=aþ
 2	héraðsblaðinu	héraðsblað	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	0	root	_	IFD_tag=nheþg
-3	Feykivar	feykivar	PROPN	NPR-D	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	appos	_	IFD_tag=nken-s
+3	Feykivar	feykivar	PROPN	NPR-D	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	2	appos	_	IFD_tag=nkfn-s
 4	Rúnari	rúnari	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	3	flat:name	_	IFD_tag=nkeþ-s
 5	tíðrætt	tíðræddur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	IFD_tag=lhensf
 6	um	um	ADP	P	_	7	case	_	IFD_tag=ao
@@ -1691,7 +1691,7 @@
 12	krakkana	krakki	NOUN	NS-A	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	9	obl	_	IFD_tag=nkfog|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.7
+# sent_id = RUV_ESP_2017_G-2-1057342,7.
 # X_ID = ID_MISSING
 # text = Það væri aðalatriðið í fótboltaheiminum og mikilvægt væri að halda einbeitingu og vera jákvæður.
 1	Það	það	PRON	PRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	3	nsubj	_	IFD_tag=fphen
@@ -1710,7 +1710,7 @@
 14	jákvæður	jákvæður	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	10	acl	_	IFD_tag=lkensf|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.8
+# sent_id = RUV_ESP_2017_G-2-1057342,8.
 # X_ID = ID_MISSING
 # text = Þá hefði fótboltinn sínar neikvæðu hliðar sem væri mikilvægt að ungir iðkendur gerðu sér grein fyrir, t.d. væri samkeppnin hörð og það litaði samskipti og traust við aðra fótboltamenn.
 1	Þá	þá	ADV	ADV	_	2	advmod	_	IFD_tag=aa
@@ -1746,7 +1746,7 @@
 31	fótboltamenn	fótboltamaður	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	26	obl	_	IFD_tag=nkfo|SpaceAfter=No
 32	.	.	PUNCT	.	_	31	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.9
+# sent_id = RUV_ESP_2017_G-2-1057342,9.
 # X_ID = ID_MISSING
 # text = Lífið sem atvinnumaður í fótbolta gæti líka verið einmanalegt.
 1	Lífið	líf	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	6	nsubj	_	IFD_tag=nheng
@@ -1760,7 +1760,7 @@
 9	einmanalegt	einmanalegur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	IFD_tag=lhensf|SpaceAfter=No
 10	.	.	PUNCT	.	_	9	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.10
+# sent_id = RUV_ESP_2017_G-2-1057342,10.
 # X_ID = ID_MISSING
 # text = Þrátt fyrir harðan heim sagðist Rúnar ekki vilja gera neitt annað, fótboltinn væri það sem hann kynni best og hann myndi hugsanlega alltaf vinna við fótbolta á einhvern hátt.
 1	Þrátt	þrátt	ADV	ADV	_	4	advmod	_	IFD_tag=aa
@@ -1795,7 +1795,7 @@
 30	hátt	háttur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	25	obl	_	IFD_tag=nkeo|SpaceAfter=No
 31	.	.	PUNCT	.	_	30	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054845,.1
+# sent_id = RUV_TGS_2017_G-2-1054845,1.
 # X_ID = ID_MISSING
 # text = Geir Sveinsson landsliðsþjálfari í handbolta býst við að það skýrist í síðasta lagi á morgun hvort Aron Pálmarsson og Ásgeir Örn Hallgrímsson verði leikfærir fyrir HM í handbolta sem hefst í Frakklandi eftir 10 daga.
 1	Geir	geir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	IFD_tag=nken-s
@@ -1821,8 +1821,8 @@
 21	Örn	örn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	20	flat:name	_	IFD_tag=nken-s
 22	Hallgrímsson	hallgrímsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	20	dep	_	IFD_tag=nken-s
 23	verði	verða	VERB	RDPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	_	IFD_tag=svg3en
-24	leikfærir	leikfær	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	IFD_tag=lkensf
-25	fyrir	fyrir	ADP	P	_	26	case	_	IFD_tag=aþ
+24	leikfærir	leikfær	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	23	amod	_	IFD_tag=lkfnsf
+25	fyrir	fyrir	ADP	P	_	26	case	_	IFD_tag=ao
 26	HM	hm	PROPN	NPR-A	_	24	amod	_	IFD_tag=as
 27	í	í	ADP	P	_	28	case	_	IFD_tag=aþ
 28	handbolta	handbolti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	26	obl	_	IFD_tag=nkeþ
@@ -1835,7 +1835,7 @@
 35	daga	dagur	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	30	obl	_	IFD_tag=nkfo|SpaceAfter=No
 36	.	.	PUNCT	.	_	35	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.1
+# sent_id = RUV_ESP_2017_G-2-1065332,1.
 # X_ID = ID_MISSING
 # text = Stjórn og starfsfólk Íþróttasambands fatlaðra hefur lýst yfir vonbrigðum yfir því að Helgi Sveinsson, Evrópumeistari í spjótkasti, hafi ekki hlotið stig í kjöri Samtaka íþróttafréttamanna á Íþróttamanni ársins 2016.
 1	Stjórn	stjórn	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	IFD_tag=nven
@@ -1860,7 +1860,7 @@
 20	hafi	hafa	AUX	HVPS	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	aux	_	IFD_tag=svg3fn
 21	ekki	ekki	ADV	NEG	_	22	advmod	_	IFD_tag=aa
 22	hlotið	hljóta	VERB	VBN	VerbForm=Sup|Voice=Act	11	ccomp	_	IFD_tag=ssg
-23	stig	stig	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	22	obj	_	IFD_tag=nheo
+23	stig	stig	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	22	obj	_	IFD_tag=nhfo
 24	í	í	ADP	P	_	25	case	_	IFD_tag=aþ
 25	kjöri	kjör	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	22	obl	_	IFD_tag=nheþ
 26	Samtaka	samtaka	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	25	nmod:poss	_	IFD_tag=nhfe-s
@@ -1871,7 +1871,7 @@
 31	2016	2016	NUM	NUM-A	NumType=Card	29	obl	_	IFD_tag=ta|SpaceAfter=No
 32	.	.	PUNCT	.	_	31	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.2
+# sent_id = RUV_ESP_2017_G-2-1065332,2.
 # X_ID = ID_MISSING
 # text = Formaður Samtaka íþróttafréttamanna segir ekki litið niður á neinar íþróttir.
 1	Formaður	formaður	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken
@@ -1886,7 +1886,7 @@
 10	íþróttir	íþrótt	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	6	obl	_	IFD_tag=nvfo|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.3
+# sent_id = RUV_ESP_2017_G-2-1065332,3.
 # X_ID = ID_MISSING
 # text = Á síðu Íþróttasambands fatlaðra má lesa eftirfarandi:
 1	Á	á	ADP	P	_	2	case	_	IFD_tag=aþ
@@ -1898,7 +1898,7 @@
 7	eftirfarandi	eftirfarandi	ADJ	N-A	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	obj	_	IFD_tag=lheoof|SpaceAfter=No
 8	:	:	PUNCT	.	_	7	punct	_	IFD_tag=:
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.4
+# sent_id = RUV_ESP_2017_G-2-1065332,4.
 # X_ID = ID_MISSING
 # text = „Stjórn og starfsfólk Íþróttasambands fatlaðra lýsa yfir vonbrigðum sínum á þeirri staðreynd að Evrópumeistarinn Helgi Sveinsson hafi ekki hlotið eitt einasta stig í kjöri Samtaka Íþróttafréttamanna á Íþróttamanni ársins 2016.
 1	„	„	PUNCT	"	_	7	punct	_	IFD_tag=„
@@ -1934,7 +1934,7 @@
 31	2016	2016	NUM	NUM-A	NumType=Card	29	obl	_	IFD_tag=ta|SpaceAfter=No
 32	.	.	PUNCT	.	_	31	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.5
+# sent_id = RUV_ESP_2017_G-2-1065332,5.
 # X_ID = ID_MISSING
 # text = Fjöldi íþróttamanna gerði hávært tilkall til þess að vera inni á topp 10 listanum fyrir árið 2016 en alls voru 19 íþróttamenn sem hlutu stig í kosningunni.
 1	Fjöldi	fjöldi	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken
@@ -1966,7 +1966,7 @@
 27	kosningunni	kosning	NOUN	N-D	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	24	obl	_	IFD_tag=nveþg|SpaceAfter=No
 28	.	.	PUNCT	.	_	27	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.6
+# sent_id = RUV_ESP_2017_G-2-1065332,6.
 # X_ID = ID_MISSING
 # text = Allir sem fengu atkvæði í kosningunni eru vel að þeim komin og óskar Íþróttasamband fatlaðra þeim öllum innilega til hamingju.
 1	Allir	allur	DET	Q-N	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	11	nsubj	_	IFD_tag=fokfn
@@ -1991,7 +1991,7 @@
 20	hamingju	hamingja	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	obl	_	IFD_tag=nvee|SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.7
+# sent_id = RUV_ESP_2017_G-2-1065332,7.
 # X_ID = ID_MISSING
 # text = Enginn íþróttamaður úr röðum fatlaðra hlaut stig í kjörinu þetta árið.
 1	Enginn	enginn	DET	Q-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	amod	_	IFD_tag=foken
@@ -2007,7 +2007,7 @@
 11	árið	ár	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	6	obl	_	IFD_tag=nheog|SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.8
+# sent_id = RUV_ESP_2017_G-2-1065332,8.
 # X_ID = ID_MISSING
 # text = Árið 2016 varð Helgi Sveinsson Evrópumeistari í spjótkasti í sameinuðum flokkum F42,43 og 44.
 1	Árið	ár	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	3	obl	_	IFD_tag=nheog
@@ -2026,7 +2026,7 @@
 14	44	fjórtán	NUM	NUM-N	NumType=Card	12	nummod	_	IFD_tag=ta|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.9
+# sent_id = RUV_ESP_2017_G-2-1065332,9.
 # X_ID = ID_MISSING
 # text = Þá setti hann nýtt Paralympic-met í flokki 42 á Paralympics sem fram fóru í Ríó de Janeiro þegar hann kastaði 53,96 metra og hafnaði í 5. sæti.
 1	Þá	þá	ADV	ADV	_	2	advmod	_	IFD_tag=aa
@@ -2061,7 +2061,7 @@
 30	sæti	sæti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	26	obl	_	IFD_tag=nheþ|SpaceAfter=No
 31	.	.	PUNCT	.	_	30	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.10
+# sent_id = RUV_ESP_2017_G-2-1065332,10.
 # X_ID = ID_MISSING
 # text = Á Paralympics er einnig keppt í sameinuðum flokkum aflimaðra (42,43 og 44) og er Helgi í flokki 42 eða þeirra sem keppa með mesta skerðingu innan flokkanna þriggja.
 1	Á	á	ADP	P	_	2	case	_	IFD_tag=aþ
@@ -2096,7 +2096,7 @@
 30	þriggja	þrír	NUM	NUM-G	Case=Gen|Gender=Masc|Number=Plur|NumType=Card	29	nummod	_	IFD_tag=tfkfe|SpaceAfter=No
 31	.	.	PUNCT	.	_	30	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.11
+# sent_id = RUV_ESP_2017_G-2-1065332,11.
 # X_ID = ID_MISSING
 # text = Var hann einn úr hópi keppenda í flokki 42 sem komust í úrslit spjótkastkeppninnar í Ríó.
 1	Var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	IFD_tag=sfg3eþ
@@ -2117,14 +2117,14 @@
 16	Ríó	ríó	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	14	obl	_	IFD_tag=nheþ-s|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.12
+# sent_id = RUV_ESP_2017_G-2-1065332,12.
 # X_ID = ID_MISSING
 # text = Er það einlæg von Íþróttasambands fatlaðra að ekki sé svo litið á að Evrópumeistaratitill í íþróttum fatlaðra og Paralympic-met séu svo léttvæg fundin að hægt sé að afskrifa slík afrek með öllu.“
 1	Er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	IFD_tag=sfg3en
 2	það	það	PRON	PRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	3	nsubj	_	IFD_tag=fphen
 3	einlæg	einlægur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	IFD_tag=lvensf
 4	von	von	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	conj	_	IFD_tag=nven
-5	Íþróttasambands	íþróttasamband	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	3	nmod:poss	_	IFD_tag=nhee-s
+5	Íþróttasambands	íþróttasamband	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	3	nmod:poss	_	IFD_tag=nkee-s
 6	fatlaðra	fatlaður	ADJ	ADJ-G	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	IFD_tag=lkfesf
 7	að	að	SCONJ	C	_	11	mark	_	IFD_tag=cn
 8	ekki	ekki	ADV	NEG	_	11	advmod	_	IFD_tag=aa
@@ -2157,7 +2157,7 @@
 35	.	.	PUNCT	.	_	34	punct	_	IFD_tag=.|SpaceAfter=No
 36	“	“	PUNCT	"	_	35	punct	_	IFD_tag=“
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.13
+# sent_id = RUV_ESP_2017_G-2-1065332,13.
 # X_ID = ID_MISSING
 # text = Íþróttamaður ársins 2016 var kjörinn Gylfi Þór Sigurðsson, knattspyrnumaður hjá velska liðinu Swansea.
 1	Íþróttamaður	íþróttamaður	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	IFD_tag=nken
@@ -2176,7 +2176,7 @@
 14	Swansea	ssansea	PROPN	NPR-G	Foreign=Yes	13	appos	_	IFD_tag=e|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.14
+# sent_id = RUV_ESP_2017_G-2-1065332,14.
 # X_ID = ID_MISSING
 # text = Eiríkur Stefán Ásgeirsson, formaður Samtaka íþróttafréttamanna, hafði þetta um málið að segja:
 1	Eiríkur	eiríkur	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	9	nsubj	_	IFD_tag=nken-s
@@ -2195,7 +2195,7 @@
 14	segja	segja	VERB	VB	VerbForm=Inf|Voice=Act	10	xcomp	_	IFD_tag=sng|SpaceAfter=No
 15	:	:	PUNCT	.	_	14	punct	_	IFD_tag=:
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.15
+# sent_id = RUV_ESP_2017_G-2-1065332,15.
 # X_ID = ID_MISSING
 # text = „Svona var niðurstaðan að þessu sinni, við lítum ekki niður á neinar íþróttir.“.
 1	„	„	PUNCT	"	_	2	punct	_	IFD_tag=„
@@ -2217,7 +2217,7 @@
 17	“	“	PUNCT	"	_	16	punct	_	IFD_tag=“|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285534,.1
+# sent_id = RUV_TGS_2017_G-2-1285534,1.
 # X_ID = ID_MISSING
 # text = Í landsliðshópi Geirs Sveinssonar sem keppir fyrir Íslands hönd á HM í Frakklandi eru ungir og efnilegir leikmenn í bland við eldri og reynslumeiri.
 1	Í	í	ADP	P	_	2	case	_	IFD_tag=aþ
@@ -2246,7 +2246,7 @@
 24	reynslumeiri	reynslumiriil	ADJ	ADJR-A	Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	22	amod	_	IFD_tag=lkfovm|SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285534,.2
+# sent_id = RUV_TGS_2017_G-2-1285534,2.
 # X_ID = ID_MISSING
 # text = Guðjón Valur Sigurðsson keppir á sínu 20. stórmóti, en Bjarki Már Elísson, Arnar Freyr Arnarsson, Janus Daði Smárason og Ómar Ingi Magnússon eru allir á sínu fyrsta stórmóti.
 1	Guðjón	guðjón	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
@@ -2283,7 +2283,7 @@
 32	stórmóti	stórmót	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	4	conj	_	IFD_tag=nheþ|SpaceAfter=No
 33	.	.	PUNCT	.	_	32	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285534,.3
+# sent_id = RUV_TGS_2017_G-2-1285534,3.
 # X_ID = ID_MISSING
 # text = Upplýsingar um leikmenn Íslands má sjá hér fyrir neðan.
 1	Upplýsingar	upplýsing	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	6	obj	_	IFD_tag=nvfo
@@ -2297,7 +2297,7 @@
 9	neðan	neðan	ADV	ADV	_	7	obl	_	IFD_tag=aa|SpaceAfter=No
 10	.	.	PUNCT	.	_	9	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285534,.4
+# sent_id = RUV_TGS_2017_G-2-1285534,4.
 # X_ID = ID_MISSING
 # text = Vignir Svavarsson er veikur og fór ekki með liðinu til Kaupmannahafnar í dag þaðan sem liðið ferðast til Frakklands á morgun.
 1	Vignir	vigni	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
@@ -2315,7 +2315,7 @@
 13	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	IFD_tag=nkeo
 14	þaðan	þaðan	ADV	ADV	_	17	advmod	_	IFD_tag=aa
 15	sem	sem	SCONJ	C	_	17	mark	_	IFD_tag=c
-16	liðið	lið	NOUN	N-N	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	17	nsubj	_	IFD_tag=sþghen
+16	liðið	lið	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	17	nsubj	_	IFD_tag=nheng
 17	ferðast	ferðast	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	acl:relcl	_	IFD_tag=sfm3en
 18	til	til	ADP	P	_	19	case	_	IFD_tag=ae
 19	Frakklands	frakkland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	17	obl	_	IFD_tag=nhee-s
@@ -2323,7 +2323,7 @@
 21	morgun	morgunn	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	IFD_tag=nkeo|SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285534,.5
+# sent_id = RUV_TGS_2017_G-2-1285534,5.
 # X_ID = ID_MISSING
 # text = Aron Pálmarsson er hins vegar kominn til móts við íslenska liðið, en það er þó enn óvíst um þátttöku hans á HM.
 1	Aron	aron	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	IFD_tag=nken-s
@@ -2351,7 +2351,7 @@
 23	HM	hm	PROPN	NPR-D	_	20	obl	_	IFD_tag=as|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057360,.1
+# sent_id = RUV_ESP_2017_G-2-1057360,1.
 # X_ID = ID_MISSING
 # text = Unglingalandsliðsmanni í körfubolta var boðin nýjasta tegund af snjallsíma fyrir að hitta ekki úr fyrsta vítaskoti sínu í leik með landsliðinu fyrir nokkrum árum.
 1	Unglingalandsliðsmanni	unglingalandsliðsmaður	NOUN	N-D	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	IFD_tag=nken
@@ -2372,7 +2372,7 @@
 16	vítaskoti	vítaskotu	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	12	obl	_	IFD_tag=nheþ
 17	sínu	sinn	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	16	nmod:poss	_	IFD_tag=feheþ
 18	í	í	ADP	P	_	19	case	_	IFD_tag=aþ
-19	leik	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	IFD_tag=nkeþ
+19	leik	leikur	NOUN	N-D	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	IFD_tag=nkeo
 20	með	með	ADP	P	_	21	case	_	IFD_tag=aþ
 21	landsliðinu	landslið	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	19	obl	_	IFD_tag=nheþg
 22	fyrir	fyrir	ADP	P	_	24	case	_	IFD_tag=aþ
@@ -2380,7 +2380,7 @@
 24	árum	ár	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	19	obl	_	IFD_tag=nhfþ|SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057360,.2
+# sent_id = RUV_ESP_2017_G-2-1057360,2.
 # X_ID = ID_MISSING
 # text = Þetta kom fram á fundi Körfuknattleikssambands Íslands með foreldrum leikmanna í úrtakshópi fyrir unglingalandslið í körfubolta.
 1	Þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	IFD_tag=fahen
@@ -2396,12 +2396,12 @@
 11	í	í	ADP	P	_	12	case	_	IFD_tag=aþ
 12	úrtakshópi	úrtakshópur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	IFD_tag=nkeþ
 13	fyrir	fyrir	ADP	P	_	14	case	_	IFD_tag=ao
-14	unglingalandslið	unglingalandslið	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nheog
+14	unglingalandslið	unglingalandslið	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nheo
 15	í	í	ADP	P	_	16	case	_	IFD_tag=aþ
 16	körfubolta	körfubolti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	14	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057360,.3
+# sent_id = RUV_ESP_2017_G-2-1057360,3.
 # X_ID = ID_MISSING
 # text = Tilboðið kom frá manni sem setti sig í samband við leikmanninn stuttu fyrir landsliðsverkefni og ætlaði sér að græða á „klúðrinu“.
 1	Tilboðið	tilboð	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	IFD_tag=nheng
@@ -2429,7 +2429,7 @@
 23	“	“	PUNCT	"	_	22	punct	_	IFD_tag=“|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057360,.4
+# sent_id = RUV_ESP_2017_G-2-1057360,4.
 # X_ID = ID_MISSING
 # text = Leikmaðurinn var sextán ára þegar atvikið kom upp, fyrir tveimur til þremur árum, að sögn Hannesar S. Jónssonar formanns KKÍ en sambandið hafi ekki heyrt af þessu fyrr en eftir á og því ekki getað aðhafst neitt.
 1	Leikmaðurinn	leikmaður	NOUN	N-N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	IFD_tag=nkeng
@@ -2453,7 +2453,7 @@
 19	S.	s.	PROPN	NPR-G	_	18	flat:name	_	IFD_tag=as
 20	Jónssonar	jónsson	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	18	dep	_	IFD_tag=nkee-s
 21	formanns	formaður	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	18	appos	_	IFD_tag=nkee
-22	KKÍ	kkí	PROPN	NPR-G	Case=Gen|Definite=Ind|Number=Sing	21	nmod:poss	_	IFD_tag=nxee-s
+22	KKÍ	kkí	PROPN	NPR-G	_	21	nmod:poss	_	IFD_tag=as
 23	en	en	CCONJ	CONJ	_	27	cc	_	IFD_tag=c
 24	sambandið	samband	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	27	nsubj	_	IFD_tag=nheng
 25	hafi	hafa	AUX	HVPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	aux	_	IFD_tag=svg3en
@@ -2470,10 +2470,10 @@
 36	ekki	ekki	ADV	NEG	_	38	advmod	_	IFD_tag=aa
 37	getað	geta	AUX	MDN	VerbForm=Sup|Voice=Act	38	aux	_	IFD_tag=ssg
 38	aðhafst	aðhafast	VERB	VBN	VerbForm=Sup|Voice=Mid	27	dep	_	IFD_tag=ssm
-39	neitt	neinn	DET	Q-A	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	38	obj	_	IFD_tag=fohen|SpaceAfter=No
+39	neitt	neinn	DET	Q-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	38	obj	_	IFD_tag=foheo|SpaceAfter=No
 40	.	.	PUNCT	.	_	39	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057360,.5
+# sent_id = RUV_ESP_2017_G-2-1057360,5.
 # X_ID = ID_MISSING
 # text = „Þessi hluti kynningarinnar var til þess gerður að foreldrar átti sig á þeirri vá sem fylgir veðmálum og hagræðingu úrslita sem er því miður orðin fylgifiskur fótbolta, körfubolta og fleiri íþróttagreina,“ segir Hannes jafnframt í umfjöllun um málið í Morgunblaðinu í dag.
 1	„	„	PUNCT	"	_	36	punct	_	IFD_tag=„
@@ -2524,7 +2524,7 @@
 46	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	44	obl	_	IFD_tag=nkeo|SpaceAfter=No
 47	.	.	PUNCT	.	_	46	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.1
+# sent_id = RUV_ESP_2017_G-2-1065338,1.
 # X_ID = ID_MISSING
 # text = Björn Einarsson, formaður Víkings, ætlar að gefa kost á sér til formanns Knattspyrnusambands Íslands.
 1	Björn	björn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	IFD_tag=nken-s
@@ -2545,7 +2545,7 @@
 16	Íslands	ísland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	15	nmod:poss	_	IFD_tag=nhee-s|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.2
+# sent_id = RUV_ESP_2017_G-2-1065338,2.
 # X_ID = ID_MISSING
 # text = Þessu er haldið fram á fréttavefnum Vísi.
 1	Þessu	þessi	DET	D-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	IFD_tag=faheþ
@@ -2554,10 +2554,10 @@
 4	fram	fram	ADP	RP	_	3	compound:prt	_	IFD_tag=aa
 5	á	á	ADP	P	_	6	case	_	IFD_tag=aþ
 6	fréttavefnum	fréttavefur	NOUN	N-D	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	IFD_tag=nkeþg
-7	Vísi	vísir	PROPN	NPR-D	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	appos	_	IFD_tag=nken-s|SpaceAfter=No
+7	Vísi	vísir	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	6	appos	_	IFD_tag=nkeþ-s|SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.3
+# sent_id = RUV_ESP_2017_G-2-1065338,3.
 # X_ID = ID_MISSING
 # text = Það kom mörgum á óvart í gær þegar Geir Þorsteinsson, formaður KSÍ til tíu ára, sagðist ekki myndu bjóða sig fram til áframhaldandi setu á ársþingi sambandsins í febrúar.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	IFD_tag=fphen
@@ -2593,7 +2593,7 @@
 31	febrúar	febrúar	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	28	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 32	.	.	PUNCT	.	_	31	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.4
+# sent_id = RUV_ESP_2017_G-2-1065338,4.
 # X_ID = ID_MISSING
 # text = Guðni Bergsson, fyrrverandi landsliðsfyrirliði, hefur þegar tilkynnt framboð og Björn hafði fram til þessa legið undir feldi.
 1	Guðni	guðni	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	9	nsubj	_	IFD_tag=nken-s
@@ -2617,7 +2617,7 @@
 19	feldi	feldur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.5
+# sent_id = RUV_ESP_2017_G-2-1065338,5.
 # X_ID = ID_MISSING
 # text = Nafn Guðrúnar Ingu Sívertsen, varaformanns KSÍ, hefur einnig verið nefnt í þessu samhengi og sagðist hún í samtali við fotbolta.net ekki útiloka neitt í þeim efnum.
 1	Nafn	nafn	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	12	nsubj	_	IFD_tag=nhen
@@ -2641,7 +2641,7 @@
 19	í	í	ADP	P	_	20	case	_	IFD_tag=aþ
 20	samtali	samtal	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	24	obl	_	IFD_tag=nheþ
 21	við	við	ADP	P	_	22	case	_	IFD_tag=ao
-22	fotbolta.net	fotboltannet	PROPN	NPR-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	24	obl	_	IFD_tag=fpheo
+22	fotbolta.net	fotboltannet	PROPN	NPR-A	_	24	obl	_	IFD_tag=v
 23	ekki	ekki	ADV	NEG	_	24	advmod	_	IFD_tag=aa
 24	útiloka	útiloka	VERB	VB	VerbForm=Inf|Voice=Act	17	acl	_	IFD_tag=sng
 25	neitt	neinn	DET	Q-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	24	obj	_	IFD_tag=foheo
@@ -2650,7 +2650,7 @@
 28	efnum	efni	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	24	obl	_	IFD_tag=nhfþ|SpaceAfter=No
 29	.	.	PUNCT	.	_	28	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.6
+# sent_id = RUV_ESP_2017_G-2-1065338,6.
 # X_ID = ID_MISSING
 # text = Það virðist því stefna í spennandi formannskjör í Vestmannaeyjum í febrúar.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	IFD_tag=fphen
@@ -2666,7 +2666,7 @@
 11	febrúar	febrúar	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	9	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.7
+# sent_id = RUV_ESP_2017_G-2-1065338,7.
 # X_ID = ID_MISSING
 # text = Björn sendi frá sér eftirfarandi tilkynningu:
 1	Björn	björn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nken-s
@@ -2677,7 +2677,7 @@
 6	tilkynningu	tilkynning	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	IFD_tag=nveo|SpaceAfter=No
 7	:	:	PUNCT	.	_	6	punct	_	IFD_tag=:
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.8
+# sent_id = RUV_ESP_2017_G-2-1065338,8.
 # X_ID = ID_MISSING
 # text = Björn Einarsson, formaður Knattspyrnufélagsins Víkings, hefur ákveðið að bjóða sig fram til formanns Knattspyrnusambands Íslands á ársþingi KSÍ 11. febrúar.
 1	Björn	björn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	9	nsubj	_	IFD_tag=nken-s
@@ -2702,10 +2702,10 @@
 20	KSÍ	ksí	PROPN	NPR-G	_	19	nmod:poss	_	IFD_tag=as
 21	11	e1lefu	NUM	NUM-G	Case=Gen	20	obl	_	IFD_tag=x|SpaceAfter=No
 22	.	.	PUNCT	,	_	23	punct	_	IFD_tag=.
-23	febrúar	febrúar	NOUN	N-G	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	20	conj	_	IFD_tag=nkeo|SpaceAfter=No
+23	febrúar	febrúar	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	20	conj	_	IFD_tag=nkee|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.9
+# sent_id = RUV_ESP_2017_G-2-1065338,9.
 # X_ID = ID_MISSING
 # text = Björn hefur mikla og víðtæka reynslu af stjórnarstörfum í íþrótta- og knattspyrnuhreyfingunni.
 1	Björn	björn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nken-s
@@ -2722,7 +2722,7 @@
 12	knattspyrnuhreyfingunni	knattspyrnuhreyfing	NOUN	N-D	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	10	conj	_	IFD_tag=nveþg|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.10
+# sent_id = RUV_ESP_2017_G-2-1065338,10.
 # X_ID = ID_MISSING
 # text = Hann var formaður knattspyrnudeildar Víkings 2007-2013 og formaður aðalstjórnar Víkings frá 2013 auk þess sem hann hefur setið í stjórn Íslensks toppfótbolta (ÍTF).
 1	Hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	3	nsubj	_	IFD_tag=fpken
@@ -2745,7 +2745,7 @@
 18	hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	20	nsubj	_	IFD_tag=fpken
 19	hefur	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	IFD_tag=sfg3en
 20	setið	sitja	VERB	VBN	VerbForm=Sup|Voice=Act	16	acl:relcl	_	IFD_tag=ssg
-21	í	í	ADP	P	_	22	case	_	IFD_tag=aþ
+21	í	í	ADP	P	_	22	case	_	IFD_tag=ao
 22	stjórn	stjórn	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	20	obl	_	IFD_tag=nveþ
 23	Íslensks	íslenskur	ADJ	ADJ-G	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	IFD_tag=lkeesf
 24	toppfótbolta	toppfótbolti	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	22	nmod:poss	_	IFD_tag=nkee|SpaceAfter=No
@@ -2754,7 +2754,7 @@
 27	)	„	PUNCT	.	_	26	punct	_	IFD_tag=)|SpaceAfter=No
 28	.	.	PUNCT	.	_	27	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.11
+# sent_id = RUV_ESP_2017_G-2-1065338,11.
 # X_ID = ID_MISSING
 # text = Björn hefur auk þess 20 ára reynslu af að stýra fyrirtækjum bæði hér á landi sem og erlendis.
 1	Björn	björn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nken-s
@@ -2777,7 +2777,7 @@
 18	erlendis	erlendis	ADV	ADV	_	17	advmod	_	IFD_tag=aa|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.12
+# sent_id = RUV_ESP_2017_G-2-1065338,12.
 # X_ID = ID_MISSING
 # text = Hann hefur verið framkvæmdastjóri TVG-Zimsen frá árinu 2006.
 1	Hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	IFD_tag=fpken
@@ -2792,7 +2792,7 @@
 10	2006	2006	NUM	NUM-D	NumType=Card	9	appos	_	IFD_tag=ta|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.13
+# sent_id = RUV_ESP_2017_G-2-1065338,13.
 # X_ID = ID_MISSING
 # text = Björn mun ekki þiggja laun sem formaður KSÍ.
 1	Björn	björn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
@@ -2805,7 +2805,7 @@
 8	KSÍ	ksí	PROPN	NPR-G	_	7	nmod:poss	_	IFD_tag=as|SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.14
+# sent_id = RUV_ESP_2017_G-2-1065338,14.
 # X_ID = ID_MISSING
 # text = „Ég hef fengið mikla hvatningu úr knattspyrnuhreyfingunni undanfarnar vikur til að bjóða mig fram til formanns KSÍ.
 1	„	„	PUNCT	"	_	4	punct	_	IFD_tag=„
@@ -2828,7 +2828,7 @@
 18	KSÍ	ksí	PROPN	NPR-G	_	17	nmod:poss	_	IFD_tag=as|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.15
+# sent_id = RUV_ESP_2017_G-2-1065338,15.
 # X_ID = ID_MISSING
 # text = Þetta er ákvörðun sem ég tek að mjög vel yfirlögðu ráði.
 1	Þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	IFD_tag=fahen
@@ -2844,7 +2844,7 @@
 11	ráði	ráð	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	6	obl	_	IFD_tag=nheþ|SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.16
+# sent_id = RUV_ESP_2017_G-2-1065338,16.
 # X_ID = ID_MISSING
 # text = Margt gott hefur áunnist innan sambandsins síðastliðinn áratug en engu að síður er skýr krafa um breytta og öflugri stjórnsýslu innan KSÍ sem mikilvægt er að hlusta á.
 1	Margt	margur	DET	Q-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	IFD_tag=lhensf
@@ -2865,11 +2865,11 @@
 16	um	um	ADP	P	_	20	case	_	IFD_tag=ao
 17	breytta	breyttur	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	IFD_tag=lveosf
 18	og	og	CCONJ	CONJ	_	17	cc	_	IFD_tag=c
-19	öflugri	öflugur	ADJ	ADJR-A	Case=Dat|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	IFD_tag=lveþsf
-20	stjórnsýslu	stjórnsýsla	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	IFD_tag=nveo
+19	öflugri	öflugur	ADJ	ADJR-A	Case=Acc|Definite=Def|Degree=Cmp|Gender=Fem|Number=Sing	17	amod	_	IFD_tag=lveovm
+20	stjórnsýslu	stjórnsýsla	NOUN	N-A	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	IFD_tag=nveþ
 21	innan	innan	ADP	P	_	22	case	_	IFD_tag=ae
 22	KSÍ	ksí	PROPN	NPR-G	_	20	obl	_	IFD_tag=as
-23	sem	sem	SCONJ	C	_	27	mark	_	IFD_tag=c
+23	sem	sem	SCONJ	C	_	27	mark	_	IFD_tag=ct
 24	mikilvægt	mikilvægur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	IFD_tag=lhensf
 25	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	cop	_	IFD_tag=sfg3en
 26	að	að	PART	TO	_	27	mark	_	IFD_tag=cn
@@ -2877,7 +2877,7 @@
 28	á	á	ADP	P	_	27	obl	_	IFD_tag=aa|SpaceAfter=No
 29	.	.	PUNCT	.	_	28	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.17
+# sent_id = RUV_ESP_2017_G-2-1065338,17.
 # X_ID = ID_MISSING
 # text = Ég tel mig koma með mikla reynslu og þekkingu úr knattspyrnuhreyfingunni og atvinnulífinu til að vinna að þessum breytingum með jákvæðum hætti og samvinnu allra aðila.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1en
@@ -2908,7 +2908,7 @@
 26	aðila	aðili	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	25	conj	_	IFD_tag=nkfe|SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.18
+# sent_id = RUV_ESP_2017_G-2-1065338,18.
 # X_ID = ID_MISSING
 # text = Mjög mikilvægt er að styrkja ímynd KSÍ gagnvart samfélaginu, aðildarfélögunum og samstarfsaðilum, innlendum sem erlendum.
 1	Mjög	mjög	ADV	ADV	_	2	amod	_	IFD_tag=aa
@@ -2925,12 +2925,12 @@
 12	og	og	CCONJ	CONJ	_	13	cc	_	IFD_tag=c
 13	samstarfsaðilum	samstarfsaðili	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	9	conj	_	IFD_tag=nkfþ|SpaceAfter=No
 14	,	,	PUNCT	,	_	13	punct	_	IFD_tag=,
-15	innlendum	innlendur	ADJ	ADJ-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	IFD_tag=lkeþsf
+15	innlendum	innlendur	ADJ	ADJ-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	13	amod	_	IFD_tag=lkfþsf
 16	sem	sem	SCONJ	C	_	17	mark	_	IFD_tag=c
 17	erlendum	erlendur	ADJ	ADJ-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Neut|Number=Plur	15	amod	_	IFD_tag=lhfþsf|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.19
+# sent_id = RUV_ESP_2017_G-2-1065338,19.
 # X_ID = ID_MISSING
 # text = Það er mikill mannauður og reynsla innan stjórnar og á skrifstofu KSÍ sem nýta þarf vel og vandlega.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	8	expl	_	IFD_tag=fphen
@@ -2946,14 +2946,14 @@
 11	skrifstofu	skrifstofa	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	4	conj	_	IFD_tag=nveþ
 12	KSÍ	ksí	PROPN	NPR-G	_	11	nmod:poss	_	IFD_tag=as
 13	sem	sem	SCONJ	C	_	14	mark	_	IFD_tag=ct
-14	nýta	nýta	VERB	VB	VerbForm=Inf|Voice=Act	11	acl:relcl	_	IFD_tag=sng
+14	nýta	nýta	VERB	VB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	IFD_tag=sfg3fn
 15	þarf	þurfa	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	dep	_	IFD_tag=sfg3en
 16	vel	vel	ADV	ADV	_	14	advmod	_	IFD_tag=aa
 17	og	og	CCONJ	CONJ	_	16	cc	_	IFD_tag=c
 18	vandlega	vandlega	ADV	ADV	_	16	advmod	_	IFD_tag=aa|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.20
+# sent_id = RUV_ESP_2017_G-2-1065338,20.
 # X_ID = ID_MISSING
 # text = Efla þarf sjálfstæði skrifstofu KSÍ og styrkja hana enn betur til að takast á við daglegan rekstur.
 1	Efla	efla	VERB	VB	VerbForm=Inf|Voice=Act	2	acl	_	IFD_tag=sng
@@ -2975,7 +2975,7 @@
 17	rekstur	rekstur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	13	obl	_	IFD_tag=nkeo|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.21
+# sent_id = RUV_ESP_2017_G-2-1065338,21.
 # X_ID = ID_MISSING
 # text = Ennfremur er mikilvægt í mínum huga að tryggja þarf skýrt jafnvægi milli stjórnar KSÍ og skrifstofu sambandsins.
 1	Ennfremur	ennfremu	ADV	ADV	_	3	advmod	_	IFD_tag=aa
@@ -2993,11 +2993,11 @@
 13	stjórnar	stjórn	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	IFD_tag=nvee
 14	KSÍ	ksí	PROPN	NPR-G	_	13	nmod:poss	_	IFD_tag=as
 15	og	og	CCONJ	CONJ	_	16	cc	_	IFD_tag=c
-16	skrifstofu	skrifstofa	NOUN	N-G	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	13	conj	_	IFD_tag=nveþ
+16	skrifstofu	skrifstofa	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	conj	_	IFD_tag=nvee
 17	sambandsins	samband	NOUN	N-G	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	16	nmod:poss	_	IFD_tag=nheeg|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.22
+# sent_id = RUV_ESP_2017_G-2-1065338,22.
 # X_ID = ID_MISSING
 # text = Það er mikil og góð vinna unnin í grasrótinni og á meðal aðildarfélaga KSÍ.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	7	expl	_	IFD_tag=fphen
@@ -3006,7 +3006,7 @@
 4	og	og	CCONJ	CONJ	_	3	cc	_	IFD_tag=c
 5	góð	góður	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	IFD_tag=lvensf
 6	vinna	vinna	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	IFD_tag=nven
-7	unnin	vinna	VERB	VAN	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	IFD_tag=lvensf
+7	unnin	vinna	VERB	VAN	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþgven
 8	í	í	ADP	P	_	9	case	_	IFD_tag=aþ
 9	grasrótinni	grasrót	NOUN	N-D	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	13	obl	_	IFD_tag=nveþg
 10	og	og	CCONJ	CONJ	_	13	cc	_	IFD_tag=c
@@ -3016,7 +3016,7 @@
 14	KSÍ	ksí	PROPN	NPR-G	_	13	nmod:poss	_	IFD_tag=as|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.23
+# sent_id = RUV_ESP_2017_G-2-1065338,23.
 # X_ID = ID_MISSING
 # text = Tryggja þarf öflugri brú á milli KSÍ og aðildarfélaganna sem hafa margar og ólíkar þarfir.
 1	Tryggja	tryggja	VERB	VB	VerbForm=Inf|Voice=Act	2	acl	_	IFD_tag=sng
@@ -3036,7 +3036,7 @@
 15	þarfir	þörf	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	11	obj	_	IFD_tag=nvfo|SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.24
+# sent_id = RUV_ESP_2017_G-2-1065338,24.
 # X_ID = ID_MISSING
 # text = Ég mun beita mér fyrir því að að efla umgjörð og vinnuramma landshlutafulltrúa sambandsins og styrkja þannig tengingu landsbyggðarinnar við KSÍ.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
@@ -3051,7 +3051,7 @@
 10	umgjörð	umgjörð	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	9	obj	_	IFD_tag=nveo
 11	og	og	CCONJ	CONJ	_	10	cc	_	IFD_tag=c
 12	vinnuramma	vinnurammi	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	10	conj	_	IFD_tag=nkfo
-13	landshlutafulltrúa	landshlutafulltrúi	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	10	nmod:poss	_	IFD_tag=nkee
+13	landshlutafulltrúa	landshlutafulltrúi	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	10	nmod:poss	_	IFD_tag=nkfe
 14	sambandsins	samband	NOUN	N-G	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	13	nmod:poss	_	IFD_tag=nheeg
 15	og	og	CCONJ	CONJ	_	16	cc	_	IFD_tag=c
 16	styrkja	styrkja	VERB	VB	VerbForm=Inf|Voice=Act	9	acl	_	IFD_tag=sng
@@ -3062,7 +3062,7 @@
 21	KSÍ	ksí	PROPN	NPR-A	_	18	obl	_	IFD_tag=as|SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.25
+# sent_id = RUV_ESP_2017_G-2-1065338,25.
 # X_ID = ID_MISSING
 # text = Ég mun leggja mig allan fram og vinna af krafti og heilindum fyrir öll aðildarfélög KSÍ og íslenska knattspyrnu.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
@@ -3086,7 +3086,7 @@
 19	knattspyrnu	knattspyrna	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	15	conj	_	IFD_tag=nveo|SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.26
+# sent_id = RUV_ESP_2017_G-2-1065338,26.
 # X_ID = ID_MISSING
 # text = Tækifærin eru sannarlega til staðar í þessum frábæra meðbyr sem íslensku landsliðin, bæði kvenna og karla, hafa búið til fyrir okkur,“ segir Björn.
 1	Tækifærin	tækifær	NOUN	NS-N	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	5	nsubj	_	IFD_tag=nhfng
@@ -3118,7 +3118,7 @@
 27	Björn	björn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	26	nsubj	_	IFD_tag=nken-s|SpaceAfter=No
 28	.	.	PUNCT	.	_	27	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.1
+# sent_id = RUV_ESP_2017_G-2-1057362,1.
 # X_ID = ID_MISSING
 # text = Esja vann sinn fjórtánda leik í röð í Hertz-deild karla í íshokkí í gærkvöld.
 1	Esja	esja	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	IFD_tag=nven-s
@@ -3139,7 +3139,7 @@
 16	gærkvöld	gærkvöld	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	2	obl	_	IFD_tag=nheo|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.2
+# sent_id = RUV_ESP_2017_G-2-1057362,2.
 # X_ID = ID_MISSING
 # text = Liðið hafði þá betur gegn Skautafélagi Akureyrar 5-3 í jöfnum og spennandi leik.
 1	Liðið	lið	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	IFD_tag=nheng
@@ -3159,7 +3159,7 @@
 15	leik	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.3
+# sent_id = RUV_ESP_2017_G-2-1057362,3.
 # X_ID = ID_MISSING
 # text = Esja byrjaði betur en eftir því sem leið á fyrstu lotu komst SA betur inn í leikinn.
 1	Esja	esja	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	IFD_tag=nven-s
@@ -3174,14 +3174,14 @@
 10	fyrstu	fyrstur	ADJ	ADJS-D	Case=Dat|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing	11	amod	_	IFD_tag=lveþve
 11	lotu	lota	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	IFD_tag=nveþ
 12	komst	koma	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	IFD_tag=sfm3eþ
-13	SA	sa	PROPN	NPR-N	_	12	nsubj	_	IFD_tag=aa
+13	SA	sa	PROPN	NPR-N	_	12	nsubj	_	IFD_tag=as
 14	betur	vel	ADV	ADVR	Degree=Cmp	12	advmod	_	IFD_tag=aam
 15	inn	inn	ADP	RP	_	17	compound:prt	_	IFD_tag=aa
 16	í	í	ADP	P	_	17	case	_	IFD_tag=ao
 17	leikinn	leikur	NOUN	N-A	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	IFD_tag=nkeog|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.4
+# sent_id = RUV_ESP_2017_G-2-1057362,4.
 # X_ID = ID_MISSING
 # text = Hvorugu liðinu tókst þó að skora fyrstu 20 mínúturnar.
 1	Hvorugu	hvorugur	DET	Q-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	IFD_tag=lheþsf
@@ -3195,7 +3195,7 @@
 9	mínúturnar	mínúta	NOUN	NS-A	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	8	conj	_	IFD_tag=nvfog|SpaceAfter=No
 10	.	.	PUNCT	.	_	9	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.5
+# sent_id = RUV_ESP_2017_G-2-1057362,5.
 # X_ID = ID_MISSING
 # text = Mikko Salonen kom SA yfir í upphafi annarrar lotu en það tók Matthías Sigurðsson aðeins 20 sekúndur að jafna fyrir toppliðið.
 1	Mikko	mikko	PROPN	NPR-N	Foreign=Yes	3	nsubj	_	IFD_tag=e
@@ -3208,7 +3208,7 @@
 8	annarrar	annar	PRON	OTHER-G	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	9	det	_	IFD_tag=fovee
 9	lotu	lota	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	7	nmod:poss	_	IFD_tag=nvee
 10	en	en	CCONJ	CONJ	_	12	cc	_	IFD_tag=c
-11	það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	12	expl	_	IFD_tag=fphen
+11	það	það	PRON	ES	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	12	expl	_	IFD_tag=fpheo
 12	tók	taka	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	IFD_tag=sfg3eþ
 13	Matthías	matthías	PROPN	NPR-A	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	12	nsubj	_	IFD_tag=nken-s
 14	Sigurðsson	sigurðsson	PROPN	NPR-A	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	flat:name	_	IFD_tag=nken-s
@@ -3221,13 +3221,13 @@
 21	toppliðið	topplið	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	19	obl	_	IFD_tag=nheog|SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.6
+# sent_id = RUV_ESP_2017_G-2-1057362,6.
 # X_ID = ID_MISSING
 # text = Andri Mikaelsson kom SA aftur yfir þegar um þrjár mínútur voru eftir af lotunni en aftur jöfnuðu Esjumenn stuttu síðar með marki frá Agli Þormóðssyni og staðan 2-2 fyrir lokalotuna.
 1	Andri	andri	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken-s
 2	Mikaelsson	mikaelsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
 3	kom	koma	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
-4	SA	sa	PROPN	NPR-D	_	3	obj	_	IFD_tag=as
+4	SA	sa	PROPN	NPR-D	_	3	obj	_	IFD_tag=aa
 5	aftur	aftur	ADV	ADV	_	3	advmod	_	IFD_tag=aa
 6	yfir	yfir	ADV	ADV	_	3	advmod	_	IFD_tag=aa
 7	þegar	þegar	ADP	P	_	14	case	_	IFD_tag=c
@@ -3258,7 +3258,7 @@
 32	lokalotuna	lokalota	NOUN	N-A	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	conj	_	IFD_tag=nveog|SpaceAfter=No
 33	.	.	PUNCT	.	_	32	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.7
+# sent_id = RUV_ESP_2017_G-2-1057362,7.
 # X_ID = ID_MISSING
 # text = Egill var aftur á ferðinni í þriðju lotu þegar hann kom Esjumönnum yfir í fyrsta skipti í leiknum.
 1	Egill	egill	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	IFD_tag=nken-s
@@ -3281,7 +3281,7 @@
 18	leiknum	leikur	NOUN	N-D	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	IFD_tag=nkeþg|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.8
+# sent_id = RUV_ESP_2017_G-2-1057362,8.
 # X_ID = ID_MISSING
 # text = Andri Sverrisson breytti stöðunni svo í 4-2 en Akureyringar gáfust ekki upp og Sigurður Sigurðarson minnkaði muninn sjö mínútum fyrir leikslok.
 1	Andri	andri	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken-s
@@ -3309,7 +3309,7 @@
 23	leikslok	leikslok	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	21	obl	_	IFD_tag=nhfo|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.9
+# sent_id = RUV_ESP_2017_G-2-1057362,9.
 # X_ID = ID_MISSING
 # text = Ólafur Björnsson gulltryggði hins vegar sigur Esju 5-3 í blálokin og liðið er enn ósigrað á tímabilinu.
 1	Ólafur	ólafur	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken-s
@@ -3323,7 +3323,7 @@
 9	-	-	PUNCT	,	_	10	punct	_	IFD_tag=-
 10	3	þrír	NUM	NUM-N	NumType=Card	8	conj	_	IFD_tag=ta
 11	í	í	ADP	P	_	12	case	_	IFD_tag=ao
-12	blálokin	blálok	NOUN	NS-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	3	obl	_	IFD_tag=nheog
+12	blálokin	blálok	NOUN	NS-A	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	3	obl	_	IFD_tag=nhfog
 13	og	og	CCONJ	CONJ	_	17	cc	_	IFD_tag=c
 14	liðið	lið	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	17	nsubj	_	IFD_tag=nheng
 15	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	IFD_tag=sfg3en
@@ -3333,7 +3333,7 @@
 19	tímabilinu	tímabil	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	17	obl	_	IFD_tag=nheþg|SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.10
+# sent_id = RUV_ESP_2017_G-2-1057362,10.
 # X_ID = ID_MISSING
 # text = Björninn vann Skautafélag Reykjavíkur í gærkvöldi 12-2 og situr í öðru sæti deildarinnar ásamt SA.
 1	Björninn	björni	PROPN	NPR-N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nkeng
@@ -3355,7 +3355,7 @@
 17	SA	sa	PROPN	NPR-D	_	11	obl	_	IFD_tag=as|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.11
+# sent_id = RUV_ESP_2017_G-2-1057362,11.
 # X_ID = ID_MISSING
 # text = Esja hefur örugga forystu á toppi deildarinnar.
 1	Esja	esja	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	IFD_tag=nven-s
@@ -3367,7 +3367,7 @@
 7	deildarinnar	deild	NOUN	N-G	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod:poss	_	IFD_tag=nveeg|SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.1
+# sent_id = RUV_ESP_2017_G-2-1057358,1.
 # X_ID = ID_MISSING
 # text = Tæplega 30% knattspyrnumanna á Íslandi, sem tóku þátt í íslenskri rannsókn, segjast stunda peningaspil vikulega eða oftar.
 1	Tæplega	tæplega	ADV	ADV	_	4	advmod	_	IFD_tag=aa
@@ -3392,7 +3392,7 @@
 20	oftar	oft	ADV	ADVR	Degree=Cmp	18	advmod	_	IFD_tag=aam|SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.2
+# sent_id = RUV_ESP_2017_G-2-1057358,2.
 # X_ID = ID_MISSING
 # text = Um fimmtungur þeirra viðurkennir að þeir veðji á eigin leiki.
 1	Um	um	ADV	ADV	_	2	advmod	_	IFD_tag=aa
@@ -3407,7 +3407,7 @@
 10	leiki	leikur	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	7	obl	_	IFD_tag=nkfo|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.3
+# sent_id = RUV_ESP_2017_G-2-1057358,3.
 # X_ID = ID_MISSING
 # text = Rúmlega sjö hundruð leikmenn tóku þátt í rannsókninni og niðurstöðurnar voru kynntar á ráðstefnu í Háskóla Íslands í gær.
 1	Rúmlega	rúmlega	ADV	ADV	_	4	advmod	_	IFD_tag=aa
@@ -3431,7 +3431,7 @@
 19	gær	gær	ADV	ADV	_	16	obl	_	IFD_tag=aa|SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.4
+# sent_id = RUV_ESP_2017_G-2-1057358,4.
 # X_ID = ID_MISSING
 # text = Aðeins 2,3% knattspyrnukvenna segjast stunda peningaspil vikulega, langflestar á erlendum vefsíðum.
 1	Aðeins	aðeins	ADV	FP	_	4	advmod	_	IFD_tag=aa
@@ -3449,7 +3449,7 @@
 13	vefsíðum	vefsíða	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Plur	10	obl	_	IFD_tag=nvfþ|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.5
+# sent_id = RUV_ESP_2017_G-2-1057358,5.
 # X_ID = ID_MISSING
 # text = Samkvæmt reglum Knattspyrnusambands Íslands mega samningsbundnir leikmenn á Íslandi ekki veðja á úrslit neinna leikja hérlendis - hvorki sinna eigin leikja né annarra liða.
 1	Samkvæmt	samkvæmt	ADP	P	_	2	case	_	IFD_tag=aþ
@@ -3478,14 +3478,14 @@
 24	liða	lið	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	21	conj	_	IFD_tag=nkfe|SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.6
+# sent_id = RUV_ESP_2017_G-2-1057358,6.
 # X_ID = ID_MISSING
 # text = Af þeim rúmlega sjö hundruð, sem tóku þátt í rannsókninni, viðurkenndu um 7% að hafa veðjað á úrslit eigin leikja.
 1	Af	af	ADP	P	_	5	case	_	IFD_tag=aþ
 2	þeim	sá	DET	D-D	Case=Dat|Gender=Neut|Number=Plur|PronType=Prs	5	det	_	IFD_tag=fphfþ
 3	rúmlega	rúmlega	ADV	ADV	_	5	advmod	_	IFD_tag=aa
 4	sjö	sjö	NUM	NUM-D	NumType=Ord	5	nummod	_	IFD_tag=to
-5	hundruð	hundrað	NUM	NS-D	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	13	obl	_	IFD_tag=tfhfn|SpaceAfter=No
+5	hundruð	hundrað	NUM	NS-D	NumType=Ord	13	obl	_	IFD_tag=to|SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	IFD_tag=,
 7	sem	sem	SCONJ	C	_	8	mark	_	IFD_tag=ct
 8	tóku	taka	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	IFD_tag=sfg3fþ
@@ -3506,7 +3506,7 @@
 23	leikja	leikur	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	21	nmod:poss	_	IFD_tag=nkfe|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.7
+# sent_id = RUV_ESP_2017_G-2-1057358,7.
 # X_ID = ID_MISSING
 # text = Daníel Ólason, prófessor í sálfræði við HÍ og einn aðstandenda rannsóknarinnar, bendir á í samtali við Vísiað þrátt fyrir að niðurstöðurnar segi ekki til um hvort úrslitum leikja á Íslandi hafi verið hagrætt séu háar fjárhæðir undir og freistingin klárlega til staðar.
 1	Daníel	daníel	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	14	nsubj	_	IFD_tag=nken-s
@@ -3555,7 +3555,7 @@
 44	staðar	staður	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	41	obl	_	IFD_tag=nkee|SpaceAfter=No
 45	.	.	PUNCT	.	_	44	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.1
+# sent_id = RUV_ESP_2017_G-2-1057364,1.
 # X_ID = ID_MISSING
 # text = Arnar Davíð Jónsson sló í gærkvöldi tvö Íslandsmet í keilu, annað tíu ára gamalt, á Veitvet DBL-mótinu í Noregi.
 1	Arnar	arnar	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
@@ -3565,7 +3565,7 @@
 5	í	í	ADP	P	_	6	case	_	IFD_tag=aþ
 6	gærkvöldi	gærkvöld	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	4	obl	_	IFD_tag=nheþ
 7	tvö	tveir	NUM	NUM-A	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	8	nummod	_	IFD_tag=tfhfo
-8	Íslandsmet	íslandsmet	PROPN	NPRS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	4	obj	_	IFD_tag=nhfo
+8	Íslandsmet	íslandsmet	PROPN	NPRS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	4	obj	_	IFD_tag=nhfo-s
 9	í	í	ADP	P	_	10	case	_	IFD_tag=aþ
 10	keilu	keila	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	IFD_tag=nveþ|SpaceAfter=No
 11	,	,	PUNCT	,	_	10	punct	_	IFD_tag=,
@@ -3583,7 +3583,7 @@
 23	Noregi	noregur	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	21	obl	_	IFD_tag=nkeþ-s|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.2
+# sent_id = RUV_ESP_2017_G-2-1057364,2.
 # X_ID = ID_MISSING
 # text = Hann spilaði frábærlega á 1352 í fimm leikjum, 270,4 að meðaltali.
 1	Hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	IFD_tag=fpken
@@ -3600,7 +3600,7 @@
 12	meðaltali	meðaltal	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nheþ|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.3
+# sent_id = RUV_ESP_2017_G-2-1057364,3.
 # X_ID = ID_MISSING
 # text = Í þessari fimm leikja röð sló hann metin tvö, þ.e.a.s. bæði í fjögurra og fimm leikja röð.
 1	Í	í	ADP	P	_	5	case	_	IFD_tag=aþ
@@ -3616,7 +3616,7 @@
 11	þ.e.a.s	þ.e.a	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	8	appos	_	IFD_tag=x|SpaceAfter=No
 12	.	.	PUNCT	,	_	11	punct	_	IFD_tag=.
 13	bæði	bæði	CCONJ	CONJ	_	19	cc	_	IFD_tag=c
-14	í	í	ADP	P	_	19	case	_	IFD_tag=ao
+14	í	í	ADP	P	_	19	case	_	IFD_tag=aþ
 15	fjögurra	fjórir	NUM	NUM-G	Case=Gen|Gender=Masc|Number=Plur|NumType=Card	18	nummod	_	IFD_tag=tfkfe
 16	og	og	CCONJ	CONJ	_	15	cc	_	IFD_tag=c
 17	fimm	fimm	NUM	NUM-G	Case=Gen|Gender=Masc|Number=Plur|NumType=Card	15	nummod	_	IFD_tag=tfkfe
@@ -3624,17 +3624,17 @@
 19	röð	röð	NOUN	N-D	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	obl	_	IFD_tag=nveo|SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.4
+# sent_id = RUV_ESP_2017_G-2-1057364,4.
 # X_ID = ID_MISSING
 # text = Það fyrra, 1069 í fjögurra leikja röð, setti Hafþór Harðarson 2011 og Arnar bætti það um 25 pinna (samtals 1094).
 1	Það	sá	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	10	obj	_	IFD_tag=fphen
 2	fyrra	fyrri	ADJ	ADJR-N	Case=Nom|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing	1	amod	_	IFD_tag=lhenvm|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	IFD_tag=,
 4	1069	1069	NUM	NUM-A	NumType=Card	1	appos	_	IFD_tag=ta
-5	í	í	ADP	P	_	8	case	_	IFD_tag=ao
+5	í	í	ADP	P	_	8	case	_	IFD_tag=aþ
 6	fjögurra	fjórir	NUM	NUM-G	Case=Gen|Gender=Masc|Number=Plur|NumType=Card	7	nummod	_	IFD_tag=tfkfe
 7	leikja	leikur	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	8	nmod:poss	_	IFD_tag=nkfe
-8	röð	röð	NOUN	N-D	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	IFD_tag=nveo|SpaceAfter=No
+8	röð	röð	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	IFD_tag=nveþ|SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	IFD_tag=,
 10	setti	setja	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
 11	Hafþór	hafþór	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	IFD_tag=nken-s
@@ -3653,7 +3653,7 @@
 24	)	„	PUNCT	.	_	23	punct	_	IFD_tag=)|SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.5
+# sent_id = RUV_ESP_2017_G-2-1057364,5.
 # X_ID = ID_MISSING
 # text = Hafþór átti líka síðara metið sem hann setti 2007, 1284 í fimm leikja röð, en Arnar bætti það svo um munaði um 68 pinna (samtals 1352).
 1	Hafþór	hafþór	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nken-s
@@ -3688,7 +3688,7 @@
 30	)	„	PUNCT	.	_	29	punct	_	IFD_tag=)|SpaceAfter=No
 31	.	.	PUNCT	.	_	30	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.6
+# sent_id = RUV_ESP_2017_G-2-1057364,6.
 # X_ID = ID_MISSING
 # text = Arnar er núna að undirbúa sig fyrir stórt mót í Svíþjóð, AIK International, sem er haldið í Stokkhólmi þessa dagana og lýkur næstu helgi.
 1	Arnar	arn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	IFD_tag=nken-s
@@ -3719,7 +3719,7 @@
 26	helgi	helgi	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	24	obl	_	IFD_tag=nveo|SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.7
+# sent_id = RUV_ESP_2017_G-2-1057364,7.
 # X_ID = ID_MISSING
 # text = Magnús Guðmundsson verður þar einnig meðal keppenda.
 1	Magnús	magnús	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken-s
@@ -3731,7 +3731,7 @@
 7	keppenda	keppandi	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	3	obl	_	IFD_tag=nkfe|SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.1
+# sent_id = RUV_TGS_2017_G-2-1321615,1.
 # X_ID = ID_MISSING
 # text = „Það er hellingur sem við getum lært af leiknum í gær.
 1	„	„	PUNCT	"	_	2	punct	_	IFD_tag=„
@@ -3748,7 +3748,7 @@
 12	gær	gær	ADV	ADV	_	10	obl	_	IFD_tag=aa|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.2
+# sent_id = RUV_TGS_2017_G-2-1321615,2.
 # X_ID = ID_MISSING
 # text = Við þurfum kannski fyrst og fremst að hafa áfram trú á leikskipulaginu okkar.
 1	Við	ég	PRON	PRO-N	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1fn
@@ -3766,7 +3766,7 @@
 13	okkar	ég	PRON	PRO-G	Case=Gen|Number=Plur|Person=1|PronType=Prs	12	nmod:poss	_	IFD_tag=fp1fe|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.3
+# sent_id = RUV_TGS_2017_G-2-1321615,3.
 # X_ID = ID_MISSING
 # text = Við fórum aðeins flýta okkur þegar leið á seinni hálfleikinn eftir að hafa spilað fyrri hluta seinni hálfleiks bara nokkuð vel,“ sagði Janus Daði Smárason leikstjórnandi í íslenska landsliðinu í handbolta þegar RÚV ræddi við hann í dag.
 1	Við	ég	PRON	PRO-N	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1fn
@@ -3811,7 +3811,7 @@
 40	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	36	obl	_	IFD_tag=nkeo|SpaceAfter=No
 41	.	.	PUNCT	.	_	40	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.4
+# sent_id = RUV_TGS_2017_G-2-1321615,4.
 # X_ID = ID_MISSING
 # text = Janus telur íslenska landsliðið taka framförum í hverjum leik sem liðið spilar, en talsverðar breytingar hafa orðið á íslenska landsliðinu á síðustu mánuðum.
 1	Janus	janus	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nken-s
@@ -3824,7 +3824,7 @@
 8	hverjum	hver	DET	Q-D	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	9	amod	_	IFD_tag=fokeþ
 9	leik	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	IFD_tag=nkeþ
 10	sem	sem	SCONJ	C	_	12	mark	_	IFD_tag=ct
-11	liðið	lið	NOUN	N-N	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	12	nsubj	_	IFD_tag=sþghen
+11	liðið	lið	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	12	nsubj	_	IFD_tag=nheng
 12	spilar	spila	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	IFD_tag=sfg3en|SpaceAfter=No
 13	,	,	PUNCT	,	_	12	punct	_	IFD_tag=,
 14	en	en	CCONJ	CONJ	_	18	cc	_	IFD_tag=c
@@ -3840,13 +3840,13 @@
 24	mánuðum	mánuður	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	18	obl	_	IFD_tag=nkfþ|SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.5
+# sent_id = RUV_TGS_2017_G-2-1321615,5.
 # X_ID = ID_MISSING
 # text = „Spánverjar eru eitt af þremur bestu liðum í heimi.
 1	„	„	PUNCT	"	_	2	punct	_	IFD_tag=„
 2	Spánverjar	spánverji	PROPN	NPRS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	IFD_tag=nkfn-s
 3	eru	vera	AUX	BEPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	IFD_tag=sfg3fn
-4	eitt	einn	DET	ONE-N	Case=Nom|Gender=Neut|Number=Sing|NumType=Card	2	xcomp	_	IFD_tag=tfhen
+4	eitt	einn	DET	ONE-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	2	xcomp	_	IFD_tag=fohen
 5	af	af	ADP	P	_	8	case	_	IFD_tag=aþ
 6	þremur	þrír	NUM	NUM-D	Case=Dat|Gender=Neut|Number=Plur|NumType=Card	8	nummod	_	IFD_tag=tfhfþ
 7	bestu	góður	ADJ	ADJS-D	Case=Dat|Definite=Def|Degree=Sup|Gender=Neut|Number=Plur	8	amod	_	IFD_tag=lhfþve
@@ -3855,7 +3855,7 @@
 10	heimi	heimur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.6
+# sent_id = RUV_TGS_2017_G-2-1321615,6.
 # X_ID = ID_MISSING
 # text = Þannig það eru auðvitað bara forréttindi fyrir okkur að læra hvað þarf að gera betur til að vinna bestu liðin.“
 1	Þannig	þannig	ADV	ADV	_	0	root	_	IFD_tag=aa
@@ -3881,7 +3881,7 @@
 21	.	.	PUNCT	.	_	20	punct	_	IFD_tag=.|SpaceAfter=No
 22	“	“	PUNCT	"	_	21	punct	_	IFD_tag=“
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.7
+# sent_id = RUV_TGS_2017_G-2-1321615,7.
 # X_ID = ID_MISSING
 # text = Ísland mætir Slóveníu í næsta leik á HM klukkan 13:45 á morgun.
 1	Ísland	ísland	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	nsubj	_	IFD_tag=nhen-s
@@ -3898,18 +3898,18 @@
 12	morgun	morgunn	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	9	obl	_	IFD_tag=nkeo|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.8
+# sent_id = RUV_TGS_2017_G-2-1321615,8.
 # X_ID = ID_MISSING
 # text = Janus telur slóvenska liðið gríðarlega sterkt.
 1	Janus	janus	PROPN	NPR-N	Foreign=Yes	2	nsubj	_	IFD_tag=e
 2	telur	telja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
-3	slóvenska	slóvenskur	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	IFD_tag=lkfosf
-4	liðið	lið	NOUN	N-A	VerbForm=Sup|Voice=Act	6	nsubj	_	IFD_tag=ssg
+3	slóvenska	slóvenskur	ADJ	ADJ-A	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	IFD_tag=lheovf
+4	liðið	lið	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	6	nsubj	_	IFD_tag=nheog
 5	gríðarlega	gríðarlega	ADV	ADV	_	6	amod	_	IFD_tag=aa
 6	sterkt	sterkur	ADJ	ADJ-A	_	2	ccomp	_	IFD_tag=aa|SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.9
+# sent_id = RUV_TGS_2017_G-2-1321615,9.
 # X_ID = ID_MISSING
 # text = „Við þurfum að mæta vel innstilltir á móti Slóvenum.
 1	„	„	PUNCT	"	_	3	punct	_	IFD_tag=„
@@ -3924,7 +3924,7 @@
 10	Slóvenum	slóvenir	PROPN	NPRS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	9	nmod:poss	_	IFD_tag=nkfþ-s|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.10
+# sent_id = RUV_TGS_2017_G-2-1321615,10.
 # X_ID = ID_MISSING
 # text = Svona eins og við gerðum í gær, en við þurfum bara að eiga 60 frábærar mínútur til að vinna þá,“ sagði Janus um Slóvenana.
 1	Svona	svona	ADV	ADV	_	0	root	_	IFD_tag=aa
@@ -3956,7 +3956,7 @@
 27	Slóvenana	slóvenu	NOUN	NS-A	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	24	obl	_	IFD_tag=nkfogs|SpaceAfter=No
 28	.	.	PUNCT	.	_	27	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.11
+# sent_id = RUV_TGS_2017_G-2-1321615,11.
 # X_ID = ID_MISSING
 # text = „Ef við förum ekki vel með boltann og endum sóknirnar okkar ekki vel, þá vitum við að Slóvenar keyra í bakið á okkur,“ sagði Janus vel meðvitaður um styrkleika slóvenska liðsins.
 1	„	„	PUNCT	"	_	17	punct	_	IFD_tag=„
@@ -3996,7 +3996,7 @@
 35	liðsins	lið	NOUN	N-G	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	33	nmod:poss	_	IFD_tag=nheeg|SpaceAfter=No
 36	.	.	PUNCT	.	_	35	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.12
+# sent_id = RUV_TGS_2017_G-2-1321615,12.
 # X_ID = ID_MISSING
 # text = Þau tíðindi bárust í morgun frá Haukum að Janus Daði myndi ekki snúa aftur til Hauka eftir HM, heldur færi beint til Álaborgar í Danmerkur.
 1	Þau	sá	DET	D-N	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	2	det	_	IFD_tag=fahfn
@@ -4005,9 +4005,9 @@
 4	í	í	ADP	P	_	5	case	_	IFD_tag=aþ
 5	morgun	morgunn	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	IFD_tag=nkeo
 6	frá	frá	ADP	P	_	7	case	_	IFD_tag=aþ
-7	Haukum	haukur	PROPN	NPRS-D	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	obl	_	IFD_tag=sfg1fþ
+7	Haukum	haukur	PROPN	NPRS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	3	obl	_	IFD_tag=nkfþ-s
 8	að	að	SCONJ	C	_	13	mark	_	IFD_tag=c
-9	Janus	janus	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	IFD_tag=nken-s
+9	Janus	janus	PROPN	NPR-N	Foreign=Yes	13	nsubj	_	IFD_tag=e
 10	Daði	daði	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	9	flat:name	_	IFD_tag=nken-s
 11	myndi	munu	AUX	MDDS	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	aux	_	IFD_tag=svg3eþ
 12	ekki	ekki	ADV	NEG	_	13	advmod	_	IFD_tag=aa
@@ -4015,7 +4015,7 @@
 14	aftur	aftur	ADV	ADV	_	13	advmod	_	IFD_tag=aa
 15	til	til	ADP	P	_	16	case	_	IFD_tag=ae
 16	Hauka	haukur	PROPN	NPRS-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	13	obl	_	IFD_tag=nkfe-s
-17	eftir	eftir	ADP	P	_	18	case	_	IFD_tag=aþ
+17	eftir	eftir	ADP	P	_	18	case	_	IFD_tag=ao
 18	HM	hm	PROPN	NPR-A	_	13	obl	_	IFD_tag=as|SpaceAfter=No
 19	,	,	PUNCT	,	_	18	punct	_	IFD_tag=,
 20	heldur	heldur	ADV	ADVR	_	21	advmod	_	IFD_tag=c
@@ -4027,7 +4027,7 @@
 26	Danmerkur	danmerk	PROPN	NPR-D	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	24	obl	_	IFD_tag=nvee-s|SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.13
+# sent_id = RUV_TGS_2017_G-2-1321615,13.
 # X_ID = ID_MISSING
 # text = Álaborg hafði gengið frá samningi við Janus Daða frá og með næsta sumri, en óskaði eftir því á þriðjudag að fá hann strax að heimsmeistaramóti loknu.
 1	Álaborg	álaborg	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	IFD_tag=nven-s
@@ -4059,7 +4059,7 @@
 27	loknu	ljúka	VERB	VAN-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	22	obl	_	IFD_tag=lheþsf|SpaceAfter=No
 28	.	.	PUNCT	.	_	27	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.14
+# sent_id = RUV_TGS_2017_G-2-1321615,14.
 # X_ID = ID_MISSING
 # text = „Álaborg er bara með fimm útispilara og vildu bara fá aukinn liðsstyrk fyrir komandi átök.
 1	„	„	PUNCT	"	_	7	punct	_	IFD_tag=„
@@ -4068,7 +4068,7 @@
 4	bara	bara	ADV	FP	_	7	advmod	_	IFD_tag=aa
 5	með	með	ADP	P	_	7	case	_	IFD_tag=ao
 6	fimm	fimm	NUM	NUM-A	Case=Gen|Gender=Masc|Number=Plur|NumType=Card	7	nummod	_	IFD_tag=tfkfe
-7	útispilara	útispilar	NOUN	NS-A	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	IFD_tag=nkfe
+7	útispilara	útispilar	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	IFD_tag=nkfo
 8	og	og	CCONJ	CONJ	_	11	cc	_	IFD_tag=c
 9	vildu	vilja	AUX	MDDI	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	aux	_	IFD_tag=sfg3fþ
 10	bara	bara	ADV	FP	_	11	advmod	_	IFD_tag=aa
@@ -4080,7 +4080,7 @@
 16	átök	átak	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	11	obl	_	IFD_tag=nhfo|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.15
+# sent_id = RUV_TGS_2017_G-2-1321615,15.
 # X_ID = ID_MISSING
 # text = Þeir eru í bikarnum og svo úrslitakeppni framundan og svona.
 1	Þeir	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	4	nsubj	_	IFD_tag=fpkfn
@@ -4095,7 +4095,7 @@
 10	svona	svona	ADV	ADV	_	8	conj	_	IFD_tag=aa|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.16
+# sent_id = RUV_TGS_2017_G-2-1321615,16.
 # X_ID = ID_MISSING
 # text = Þannig þetta endaði svona og ég er bara spenntur,“ sagði Janus Daði sem þakkaði Haukum kærlega fyrir að vera svo liðlegir í því að leyfa honum að halda strax til Álaborgar.
 1	Þannig	þannig	ADV	ADV	_	12	advmod	_	IFD_tag=aa
@@ -4133,13 +4133,13 @@
 33	Álaborgar	álaborg	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	30	obl	_	IFD_tag=nvee-s|SpaceAfter=No
 34	.	.	PUNCT	.	_	33	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.17
+# sent_id = RUV_TGS_2017_G-2-1321615,17.
 # X_ID = ID_MISSING
 # text = Rætt er við Janus Daða í spilaranum hér fyrir ofan.
 1	Rætt	ræta	VERB	VAN	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþghen
 2	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	IFD_tag=sfg3en
 3	við	við	ADP	P	_	4	case	_	IFD_tag=ao
-4	Janus	janus	PROPN	NPR-A	Foreign=Yes	1	obl	_	IFD_tag=e
+4	Janus	janus	PROPN	NPR-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	IFD_tag=nkeo-s
 5	Daða	daði	PROPN	NPR-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	flat:name	_	IFD_tag=nkeo-s
 6	í	í	ADP	P	_	7	case	_	IFD_tag=aþ
 7	spilaranum	spilari	NOUN	N-D	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	IFD_tag=nkeþg
@@ -4148,7 +4148,7 @@
 10	ofan	ofan	ADV	ADV	_	8	obl	_	IFD_tag=aa|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.1
+# sent_id = RUV_TGS_2017_G-2-1054741,1.
 # X_ID = ID_MISSING
 # text = Guðjón Valur Sigurðsson, fyrirliði íslenska karlalandsliðsins í handbolta, er á leið á sitt tuttugasta stórmót nú þegar HM í Frakklandi hefst í næstu viku.
 1	Guðjón	guðjón	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	IFD_tag=nken-s
@@ -4179,7 +4179,7 @@
 26	viku	vika	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	23	obl	_	IFD_tag=nveþ|SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.2
+# sent_id = RUV_TGS_2017_G-2-1054741,2.
 # X_ID = ID_MISSING
 # text = Guðjón Valur hefur þó lengi verið á þeirri skoðun að stórmót í handbolta séu alltof mörg.
 1	Guðjón	guðjón	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken-s
@@ -4200,7 +4200,7 @@
 16	mörg	margur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Plur	9	ccomp	_	IFD_tag=lhfnsf|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.3
+# sent_id = RUV_TGS_2017_G-2-1054741,3.
 # X_ID = ID_MISSING
 # text = Þrátt fyrir mikið leikjaálag og fjölda móta hefur Guðjón Valur aldrei skorast undan því að spila fyrir landsliðið.
 1	Þrátt	þrátt	ADV	ADV	_	4	advmod	_	IFD_tag=aa
@@ -4223,7 +4223,7 @@
 18	landsliðið	landslið	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	16	obl	_	IFD_tag=nheog|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.4
+# sent_id = RUV_TGS_2017_G-2-1054741,4.
 # X_ID = ID_MISSING
 # text = „Ef að maður tekur þá ákvörðun að gefa kost á sér og fara á mót, þá verður maður að taka því eins og það er lagt upp. Ekki væla yfir því hvernig leikjafyrirkomulagið er.
 1	„	„	PUNCT	"	_	19	punct	_	IFD_tag=„
@@ -4236,12 +4236,12 @@
 8	að	að	PART	TO	_	9	mark	_	IFD_tag=cn
 9	gefa	gefa	VERB	VB	VerbForm=Inf|Voice=Act	7	acl	_	IFD_tag=sng
 10	kost	kostur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	9	obj	_	IFD_tag=nkeo
-11	á	á	ADP	P	_	12	case	_	IFD_tag=aa
+11	á	á	ADP	P	_	12	case	_	IFD_tag=ao
 12	sér	sig	PRON	PRO-D	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	10	obl	_	IFD_tag=fpkeþ
 13	og	og	CCONJ	CONJ	_	14	cc	_	IFD_tag=c
 14	fara	fara	VERB	VB	VerbForm=Inf|Voice=Act	9	acl	_	IFD_tag=sng
-15	á	á	ADP	P	_	16	case	_	IFD_tag=aa
-16	mót	mót	NOUN	N-A	_	14	obl	_	IFD_tag=aa|SpaceAfter=No
+15	á	á	ADP	P	_	16	case	_	IFD_tag=ao
+16	mót	mót	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	14	obl	_	IFD_tag=nheo|SpaceAfter=No
 17	,	,	PUNCT	,	_	19	punct	_	IFD_tag=,
 18	þá	þá	ADV	ADV	_	19	advmod	_	IFD_tag=aa
 19	verður	verða	VERB	RDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
@@ -4265,7 +4265,7 @@
 37	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	cop	_	IFD_tag=sfg3en|SpaceAfter=No
 38	.	.	PUNCT	.	_	37	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.5
+# sent_id = RUV_TGS_2017_G-2-1054741,5.
 # X_ID = ID_MISSING
 # text = Ég tek þessu eins og það er, en reyni kannski að breyta einhverju þegar ég verð hættur að spila,“ segir Guðjón Valur.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1en
@@ -4295,7 +4295,7 @@
 25	Valur	valur	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	24	flat:name	_	IFD_tag=nken-s|SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.6
+# sent_id = RUV_TGS_2017_G-2-1054741,6.
 # X_ID = ID_MISSING
 # text = Guðjón hefur þó lengi verið þeirrar skoðunar að stórmót í handbolta eru of mörg.
 1	Guðjón	guðjón	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nken-s
@@ -4314,7 +4314,7 @@
 14	mörg	margur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Plur	2	ccomp	_	IFD_tag=lhfnsf|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.7
+# sent_id = RUV_TGS_2017_G-2-1054741,7.
 # X_ID = ID_MISSING
 # text = „Þú átt að fækka stórmótum - alveg klárlega.
 1	„	„	PUNCT	"	_	3	punct	_	IFD_tag=„
@@ -4328,7 +4328,7 @@
 9	klárlega	klárlega	ADV	ADV	_	8	advmod	_	IFD_tag=aa|SpaceAfter=No
 10	.	.	PUNCT	.	_	9	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.8
+# sent_id = RUV_TGS_2017_G-2-1054741,8.
 # X_ID = ID_MISSING
 # text = Það er enginn sem að veit hvort það sé HM eða EM framundan.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	0	root	_	IFD_tag=fphen
@@ -4346,7 +4346,7 @@
 13	framundan	framundan	ADV	ADV	_	10	advmod	_	IFD_tag=aa|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.9
+# sent_id = RUV_TGS_2017_G-2-1054741,9.
 # X_ID = ID_MISSING
 # text = Þeir sem voru á Ólympíuleikunum eru að fara á sitt þriðja stórmót á tólf mánuðum.
 1	Þeir	sá	DET	D-N	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	0	root	_	IFD_tag=fakfn
@@ -4366,7 +4366,7 @@
 15	mánuðum	mánuður	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	12	obl	_	IFD_tag=nkfþ|SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.10
+# sent_id = RUV_TGS_2017_G-2-1054741,10.
 # X_ID = ID_MISSING
 # text = Það er engin vitglóra í því að mínu mati.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	6	expl	_	IFD_tag=fphen
@@ -4380,7 +4380,7 @@
 9	mati	mat	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	6	obl	_	IFD_tag=nheþ|SpaceAfter=No
 10	.	.	PUNCT	.	_	9	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.11
+# sent_id = RUV_TGS_2017_G-2-1054741,11.
 # X_ID = ID_MISSING
 # text = Ég segi reyndar líka að það eigi að færa mótin aftur fyrir deildakeppnirnar og vera með þau í byrjun sumars.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1en
@@ -4405,7 +4405,7 @@
 20	sumars	sumar	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	19	nmod:poss	_	IFD_tag=nhee|SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.12
+# sent_id = RUV_TGS_2017_G-2-1054741,12.
 # X_ID = ID_MISSING
 # text = Þá hefur þú líka eitthvað fyrir áhorfendur.
 1	Þá	þá	ADV	ADV	_	2	advmod	_	IFD_tag=aa
@@ -4417,7 +4417,7 @@
 7	áhorfendur	áhorfandi	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	2	obl	_	IFD_tag=nkfo|SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.13
+# sent_id = RUV_TGS_2017_G-2-1054741,13.
 # X_ID = ID_MISSING
 # text = Þá geta þeir verið úti og skemmt sér eins og við sjáum í Final4 úrslitahelgi Meistaradeildarinnar.“
 1	Þá	þá	ADV	ADV	_	2	advmod	_	IFD_tag=aa
@@ -4434,12 +4434,12 @@
 12	sjáum	sjá	VERB	VBPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	obl	_	IFD_tag=sfg1fn
 13	í	í	ADP	P	_	14	case	_	IFD_tag=aþ
 14	Final4	finall	PROPN	NPR-D	_	12	obl	_	IFD_tag=x
-15	úrslitahelgi	úrslitahelgir	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	12	appos	_	IFD_tag=nheþ
+15	úrslitahelgi	úrslitahelgir	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	12	appos	_	IFD_tag=nveþ
 16	Meistaradeildarinnar	meistaradeild	PROPN	NPR-G	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod:poss	_	IFD_tag=nveegs|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.|SpaceAfter=No
 18	“	“	PUNCT	"	_	17	punct	_	IFD_tag=“
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.14
+# sent_id = RUV_TGS_2017_G-2-1054741,14.
 # X_ID = ID_MISSING
 # text = „Við höfum alltaf spilað í janúar.
 1	„	„	PUNCT	"	_	5	punct	_	IFD_tag=„
@@ -4451,7 +4451,7 @@
 7	janúar	janúar	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.15
+# sent_id = RUV_TGS_2017_G-2-1054741,15.
 # X_ID = ID_MISSING
 # text = Af því það hefur alltaf verið gert, þá er það gert áfram.
 1	Af	af	ADP	P	_	2	case	_	IFD_tag=aþ
@@ -4469,7 +4469,7 @@
 13	áfram	áfram	ADV	ADV	_	12	advmod	_	IFD_tag=aa|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.16
+# sent_id = RUV_TGS_2017_G-2-1054741,16.
 # X_ID = ID_MISSING
 # text = Það má engu breyta.“
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	4	expl	_	IFD_tag=fphen
@@ -4479,10 +4479,10 @@
 5	.	.	PUNCT	.	_	4	punct	_	IFD_tag=.|SpaceAfter=No
 6	“	“	PUNCT	"	_	5	punct	_	IFD_tag=“
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.17
+# sent_id = RUV_TGS_2017_G-2-1054741,17.
 # X_ID = ID_MISSING
 # text = Það sama virðist vera upp á teningnum í kvennahandboltanum og Þórir Hergeirsson þjálfari norska kvennalandsliðsins deilir skoðunum Guðjóns Vals.
-1	Það	sá	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	IFD_tag=fahen
+1	Það	sá	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	3	nsubj	_	IFD_tag=fphen
 2	sama	sami	ADJ	ADJ-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	amod	_	IFD_tag=fbhen
 3	virðist	virða	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	IFD_tag=sfm3en
 4	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	3	acl	_	IFD_tag=sng
@@ -4503,7 +4503,7 @@
 19	Vals	valur	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	18	flat:name	_	IFD_tag=nkee-s|SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.18
+# sent_id = RUV_TGS_2017_G-2-1054741,18.
 # X_ID = ID_MISSING
 # text = „Ég finn fyrir mikilli pressu frá okkar styrktaraðilum sem leggja mikla peninga í handboltann í Noregi, að þeir vilja að allir bestu leikmennirnir séu alltaf með landsliðinu,“ segir Þórir.
 1	„	„	PUNCT	"	_	3	punct	_	IFD_tag=„
@@ -4541,7 +4541,7 @@
 33	Þórir	þórir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	32	nsubj	_	IFD_tag=nken-s|SpaceAfter=No
 34	.	.	PUNCT	.	_	33	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.19
+# sent_id = RUV_TGS_2017_G-2-1054741,19.
 # X_ID = ID_MISSING
 # text = Þórir telur besta handboltafólk heims spila alltof marga leiki yfir árið með félagsliðum sínum og landsliðum.
 1	Þórir	þórir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nken-s
@@ -4562,7 +4562,7 @@
 16	landsliðum	landslið	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	13	conj	_	IFD_tag=nhfþ|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.20
+# sent_id = RUV_TGS_2017_G-2-1054741,20.
 # X_ID = ID_MISSING
 # text = „Þetta er orðið alltof mikið.
 1	„	„	PUNCT	"	_	4	punct	_	IFD_tag=„
@@ -4573,7 +4573,7 @@
 6	mikið	mikill	DET	Q-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	IFD_tag=lhensf|SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.21
+# sent_id = RUV_TGS_2017_G-2-1054741,21.
 # X_ID = ID_MISSING
 # text = Bestu leikmennirnir eru farnir að spila 80-90 leikmenn á ári.“
 1	Bestu	góður	ADJ	ADJS-N	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur	2	amod	_	IFD_tag=lkfnve
@@ -4585,13 +4585,13 @@
 7	80	áttatíu	NUM	NUM-A	NumType=Card	10	nummod	_	IFD_tag=ta
 8	-	til	CCONJ	CONJ	_	7	cc	_	IFD_tag=-
 9	90	níutíu	NUM	NUM-A	NumType=Card	7	nummod	_	IFD_tag=ta
-10	leikmenn	leikmaður	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	6	obj	_	IFD_tag=nkfo
+10	leikmenn	leikmaður	NOUN	NS-A	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	6	obj	_	IFD_tag=nkfn
 11	á	á	ADP	P	_	12	case	_	IFD_tag=aþ
 12	ári	ár	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nheþ|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.|SpaceAfter=No
 14	“	“	PUNCT	"	_	13	punct	_	IFD_tag=“
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.22
+# sent_id = RUV_TGS_2017_G-2-1054741,22.
 # X_ID = ID_MISSING
 # text = „En spurningin er líka hvort fólk fái ekki einhvern tímann ógeð þegar við erum alltaf að, og aldrei má gefa hvíld.
 1	„	„	PUNCT	"	_	3	punct	_	IFD_tag=„
@@ -4619,7 +4619,7 @@
 23	hvíld	hvíld	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	22	obj	_	IFD_tag=nveo|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.23
+# sent_id = RUV_TGS_2017_G-2-1054741,23.
 # X_ID = ID_MISSING
 # text = Það er eins og fólk sé hrætt við að handboltinn gleymist ef við erum ekki alltaf að,“ segir Guðjón Valur Sigurðsson.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	20	expl	_	IFD_tag=fphen
@@ -4647,7 +4647,7 @@
 23	Sigurðsson	sigurðsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	21	dep	_	IFD_tag=nken-s|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.24
+# sent_id = RUV_TGS_2017_G-2-1054741,24.
 # X_ID = ID_MISSING
 # text = Rætt er við Guðjón Val Sigurðsson og Þóri Hergeirsson í myndskeiðinu sem sjá má efst í fréttinni.
 1	Rætt	ræta	VERB	VAN	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþghen
@@ -4669,7 +4669,7 @@
 17	fréttinni	frétt	NOUN	N-D	Case=Dat|Definite=Def|Gender=Fem|Number=Sing	13	obl	_	IFD_tag=nveþg|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.1
+# sent_id = RUV_TGS_2017_G-2-1285942,1.
 # X_ID = ID_MISSING
 # text = Íslenska karlalandsliðið í handbolta verður aðeins með 14 leikmenn á leikskýrslu þegar Ísland mætir Danmörku í lokaleik Bygma-bikarsins í handbolta í kvöld.
 1	Íslenska	íslenskur	ADJ	ADJ-N	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	IFD_tag=lhenvf
@@ -4678,7 +4678,7 @@
 4	handbolta	handbolti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	IFD_tag=nkeþ
 5	verður	verða	VERB	RDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 6	aðeins	aðeins	ADV	FP	_	9	advmod	_	IFD_tag=aa
-7	með	með	ADP	P	_	9	case	_	IFD_tag=aa
+7	með	með	ADP	P	_	9	case	_	IFD_tag=ao
 8	14	fjórtán	NUM	NUM-A	NumType=Card	9	nummod	_	IFD_tag=ta
 9	leikmenn	leikmaður	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	IFD_tag=nkfo
 10	á	á	ADP	P	_	11	case	_	IFD_tag=aþ
@@ -4698,10 +4698,10 @@
 24	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	14	obl	_	IFD_tag=nheo|SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.2
+# sent_id = RUV_TGS_2017_G-2-1285942,2.
 # X_ID = ID_MISSING
 # text = Liðin mætast í Árósum klukkan 19:15 í leik sem sýndur verður í beinni útsendingu RÚV 2.
-1	Liðin	lið	NOUN	NS-N	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	2	nsubj	_	IFD_tag=nhfng
+1	Liðin	lið	NOUN	NS-N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	IFD_tag=nveng
 2	mætast	mæta	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	IFD_tag=sfm3fn
 3	í	í	ADP	P	_	4	case	_	IFD_tag=aþ
 4	Árósum	árós	PROPN	NPRS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	2	obl	_	IFD_tag=nkfþ-s
@@ -4719,7 +4719,7 @@
 16	2	tveir	NUM	NPR-G	NumType=Card	15	nmod:poss	_	IFD_tag=ta|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.3
+# sent_id = RUV_TGS_2017_G-2-1285942,3.
 # X_ID = ID_MISSING
 # text = Arnar Freyr Arnarsson og Ómar Ingi Magnússon héldu til Serbíu í gær til móts við 21 árs landslið Íslands og verða því ekki með í dag.
 1	Arnar	arnar	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	IFD_tag=nken-s
@@ -4750,7 +4750,7 @@
 26	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	21	obl	_	IFD_tag=nkeo|SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.4
+# sent_id = RUV_TGS_2017_G-2-1285942,4.
 # X_ID = ID_MISSING
 # text = Það hafði raunar alltaf staðið til.
 1	Það	það	PRON	PRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	5	nsubj	_	IFD_tag=fphen
@@ -4761,7 +4761,7 @@
 6	til	til	ADP	RP	_	5	compound:prt	_	IFD_tag=aa|SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.5
+# sent_id = RUV_TGS_2017_G-2-1285942,5.
 # X_ID = ID_MISSING
 # text = Bjarki Már Elísson og Vignir Svavarsson munu svo hvorugur spila leikinn við Danmörku í kvöld.
 1	Bjarki	bjarki	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	IFD_tag=nken-s
@@ -4781,7 +4781,7 @@
 15	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nheo|SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.6
+# sent_id = RUV_TGS_2017_G-2-1285942,6.
 # X_ID = ID_MISSING
 # text = Geir Sveinsson landsliðsþjálfari sagði við RÚV að smávægileg meiðsli hafi tekið sig upp hjá Bjarka Má og því hafi verið ákveðið að hvíla hann í kvöld.
 1	Geir	geir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
@@ -4812,7 +4812,7 @@
 26	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	23	obl	_	IFD_tag=nheo|SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.7
+# sent_id = RUV_TGS_2017_G-2-1285942,7.
 # X_ID = ID_MISSING
 # text = Vignir Svavarsson er svo orðinn veikur og verður því ekki með í dag.
 1	Vignir	vigni	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	IFD_tag=nken-s
@@ -4830,7 +4830,7 @@
 13	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	IFD_tag=nkeo|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.8
+# sent_id = RUV_TGS_2017_G-2-1285942,8.
 # X_ID = ID_MISSING
 # text = Vignir er nánast kominn í einangrum svo fleiri í hópnum verði ekki veikir.
 1	Vignir	vigni	PROPN	NPRS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
@@ -4848,7 +4848,7 @@
 13	veikir	veikur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	IFD_tag=lkfnsf|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.9
+# sent_id = RUV_TGS_2017_G-2-1285942,9.
 # X_ID = ID_MISSING
 # text = Kári Kristján Kristjánsson sem var herbergisfélagi Vignis er því fluttur út úr herbergi Vignis.
 1	Kári	kári	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	IFD_tag=nken-s
@@ -4867,7 +4867,7 @@
 14	Vignis	vigni	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	nmod:poss	_	IFD_tag=nkee-s|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.10
+# sent_id = RUV_TGS_2017_G-2-1285942,10.
 # X_ID = ID_MISSING
 # text = Leikur Íslands og Danmerkur hefst klukkan 19:15 og verður sýndur á RÚV 2.
 1	Leikur	leikur	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	IFD_tag=nken
@@ -4885,7 +4885,7 @@
 13	2	tveir	NUM	NUM-N	NumType=Card	12	nmod:poss	_	IFD_tag=ta|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057329,.1
+# sent_id = RUV_ESP_2017_G-2-1057329,1.
 # X_ID = ID_MISSING
 # text = Eins og fram hefur komið ætlar Geir Þorsteinsson ekki að gefa kost á sér að nýju eftir tíu ára setu sem formaður Knattspyrnusambands Íslands og hátt í 25 ára starf hjá sambandinu.
 1	Eins	eins	ADV	ADVR	_	6	advmod	_	IFD_tag=aa
@@ -4922,7 +4922,7 @@
 32	sambandinu	samband	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	30	obl	_	IFD_tag=nheþg|SpaceAfter=No
 33	.	.	PUNCT	.	_	32	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057329,.2
+# sent_id = RUV_ESP_2017_G-2-1057329,2.
 # X_ID = ID_MISSING
 # text = Hann segist þó fullviss um að hann hefði borið sigur úr býtum á ársþingi KSÍ sem haldið verður í Vestmannaeyjum 11. febrúar og ekkert leynist í pokahorninu sem ekki þoli dagsljós.
 1	Hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	IFD_tag=fpken
@@ -4956,10 +4956,10 @@
 29	sem	sem	SCONJ	C	_	31	mark	_	IFD_tag=ct
 30	ekki	ekki	ADV	NEG	_	31	advmod	_	IFD_tag=aa
 31	þoli	þola	VERB	VBPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	acl:relcl	_	IFD_tag=svg3en
-32	dagsljós	dagsljós	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	31	obj	_	IFD_tag=nheo|SpaceAfter=No
+32	dagsljós	dagsljós	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	31	obj	_	IFD_tag=nhfo|SpaceAfter=No
 33	.	.	PUNCT	.	_	32	punct	_	IFD_tag=.
 
-# sent_id = RUV_ESP_2017_G-2-1057329,.3
+# sent_id = RUV_ESP_2017_G-2-1057329,3.
 # X_ID = ID_MISSING
 # text = Viðtal Hans Steinars Bjarnasonar við Geir má finna í spilaranum að ofan.
 1	Viðtal	viðtal	NOUN	N-A	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	8	obj	_	IFD_tag=nhen
@@ -4976,7 +4976,7 @@
 12	ofan	ofan	ADV	ADV	_	10	obl	_	IFD_tag=aa|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.1
+# sent_id = RUV_TGS_2017_G-2-1055088,1.
 # X_ID = ID_MISSING
 # text = Vignir Svavarsson segist alltaf líta á það sem forréttindi að vera valinn í íslenska landsliðið.
 1	Vignir	vignir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken-s
@@ -4996,7 +4996,7 @@
 15	landsliðið	landslið	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	12	obl	_	IFD_tag=nheog|SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.2
+# sent_id = RUV_TGS_2017_G-2-1055088,2.
 # X_ID = ID_MISSING
 # text = Hann hlaut ekki náð fyrir augum landsliðsþjálfarans fyrir leikina í undankeppni EM í byrjun nóvember, en er nú valinn á ný í landsliðið.
 1	Hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	IFD_tag=fpken
@@ -5025,7 +5025,7 @@
 24	landsliðið	landslið	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	20	obl	_	IFD_tag=nheog|SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.3
+# sent_id = RUV_TGS_2017_G-2-1055088,3.
 # X_ID = ID_MISSING
 # text = „Ég er alltaf stoltur og glaður með að vera valinn í landsliðið og það er engin undantekning á því núna þó ég hafi ekki verið í hóp síðast.
 1	„	„	PUNCT	"	_	5	punct	_	IFD_tag=„
@@ -5059,7 +5059,7 @@
 29	síðast	síðar	ADV	ADVS	Degree=Sup	24	advmod	_	IFD_tag=aae|SpaceAfter=No
 30	.	.	PUNCT	.	_	29	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.4
+# sent_id = RUV_TGS_2017_G-2-1055088,4.
 # X_ID = ID_MISSING
 # text = Ég er glaður að fá að vera með,“ segir Vignir Svavarsson í viðtali við RÚV.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	IFD_tag=fp1en
@@ -5081,7 +5081,7 @@
 17	RÚV	rúv	PROPN	NPR-A	_	15	obl	_	IFD_tag=as|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.5
+# sent_id = RUV_TGS_2017_G-2-1055088,5.
 # X_ID = ID_MISSING
 # text = Hvernig var að fylgjast með þessum undankeppnisleikjum þegar þú varst ekki með?
 1	Hvernig	hvernig	ADV	WADV	_	4	advmod	_	IFD_tag=aa
@@ -5098,7 +5098,7 @@
 12	með	með	ADP	RP	_	9	compound:prt	_	IFD_tag=aa|SpaceAfter=No
 13	?	?	PUNCT	.	_	12	punct	_	IFD_tag=?
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.6
+# sent_id = RUV_TGS_2017_G-2-1055088,6.
 # X_ID = ID_MISSING
 # text = „Ég verð að viðurkenna að það var svolítið skrýtið að vera allt í einu heima í stofu og að horfa á þetta í sjónvarpinu.
 1	„	„	PUNCT	"	_	3	punct	_	IFD_tag=„
@@ -5128,7 +5128,7 @@
 25	sjónvarpinu	sjónvarp	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	21	obl	_	IFD_tag=nheþg|SpaceAfter=No
 26	.	.	PUNCT	.	_	25	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.7
+# sent_id = RUV_TGS_2017_G-2-1055088,7.
 # X_ID = ID_MISSING
 # text = Þetta var undarleg tilfinning og undarlegri en ég bjóst við.
 1	Þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	IFD_tag=fahen
@@ -5143,7 +5143,7 @@
 10	við	við	ADP	P	_	9	compound:prt	_	IFD_tag=aa|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.8
+# sent_id = RUV_TGS_2017_G-2-1055088,8.
 # X_ID = ID_MISSING
 # text = Ég hélt að þetta yrði ekkert mál en það var skrýtið að horfa á strákanna,“ segir Vignir.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1en
@@ -5167,7 +5167,7 @@
 19	Vignir	vigni	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	18	nsubj	_	IFD_tag=nken-s|SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.9
+# sent_id = RUV_TGS_2017_G-2-1055088,9.
 # X_ID = ID_MISSING
 # text = „Ég hef alltaf barist fyrir sæti mínu í liðinu.
 1	„	„	PUNCT	"	_	5	punct	_	IFD_tag=„
@@ -5182,7 +5182,7 @@
 10	liðinu	lið	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	7	obl	_	IFD_tag=nheþg|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.10
+# sent_id = RUV_TGS_2017_G-2-1055088,10.
 # X_ID = ID_MISSING
 # text = Ég hef aldrei gengið að því vísu að vera í landsliðinu þó ég hafi verið þar í öll þessi ár.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	IFD_tag=fp1en
@@ -5207,7 +5207,7 @@
 20	ár	ár	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	15	obl	_	IFD_tag=nhfo|SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.11
+# sent_id = RUV_TGS_2017_G-2-1055088,11.
 # X_ID = ID_MISSING
 # text = Ég hef ekki haft stórt hlutverk innan liðsins og oft verið varaskeifa.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1en
@@ -5224,7 +5224,7 @@
 12	varaskeifa	varaskeifa	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	conj	_	IFD_tag=nven|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.12
+# sent_id = RUV_TGS_2017_G-2-1055088,12.
 # X_ID = ID_MISSING
 # text = Ég hef alltaf þurft að hafa fyrir þessu og það er engin breyting núna.“
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	IFD_tag=fp1en
@@ -5244,15 +5244,15 @@
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.|SpaceAfter=No
 16	“	“	PUNCT	"	_	15	punct	_	IFD_tag=“
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.13
+# sent_id = RUV_TGS_2017_G-2-1055088,13.
 # X_ID = ID_MISSING
 # text = Heyra má enn frekar í Vigni í myndbandinu hér að ofan.
-1	Heyra	heyra	VERB	VB	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	IFD_tag=nven
+1	Heyra	heyra	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	IFD_tag=sng
 2	má	mega	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	IFD_tag=sfg3en
 3	enn	enn	ADV	ADV	_	1	advmod	_	IFD_tag=aa
 4	frekar	frekar	ADV	ADVR	Degree=Cmp	3	advmod	_	IFD_tag=aam
 5	í	í	ADP	P	_	6	case	_	IFD_tag=aþ
-6	Vigni	vigni	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	IFD_tag=nkeþ-s
+6	Vigni	vigni	PROPN	NPR-D	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	IFD_tag=nkeo-s
 7	í	í	ADP	P	_	8	case	_	IFD_tag=aþ
 8	myndbandinu	myndband	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	1	obl	_	IFD_tag=nheþg
 9	hér	hér	ADV	ADV	_	8	obl	_	IFD_tag=aa
@@ -5260,7 +5260,7 @@
 11	ofan	ofan	ADV	ADV	_	9	obl	_	IFD_tag=aa|SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.1
+# sent_id = RUV_TGS_2017_G-2-1321599,1.
 # X_ID = ID_MISSING
 # text = „Við verðum að ná strax áttum eftir leikinn við Spán í gærkvöld, því tíminn er knappur.
 1	„	„	PUNCT	"	_	3	punct	_	IFD_tag=„
@@ -5283,7 +5283,7 @@
 18	knappur	knappur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	15	ccomp	_	IFD_tag=lkensf|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.2
+# sent_id = RUV_TGS_2017_G-2-1321599,2.
 # X_ID = ID_MISSING
 # text = Það er stutt í næsta verkefni.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	3	expl	_	IFD_tag=fphen
@@ -5291,10 +5291,10 @@
 3	stutt	stuttur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	IFD_tag=lhensf
 4	í	í	ADP	P	_	6	case	_	IFD_tag=ao
 5	næsta	næstur	ADJ	ADJS-A	Case=Acc|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing	6	amod	_	IFD_tag=lheove
-6	verkefni	verkefni	NOUN	N-A	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	3	obl	_	IFD_tag=nheþ|SpaceAfter=No
+6	verkefni	verkefni	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	3	obl	_	IFD_tag=nheo|SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.3
+# sent_id = RUV_TGS_2017_G-2-1321599,3.
 # X_ID = ID_MISSING
 # text = Við skoðuðum Spánarleikinn strax saman í gærkvöld - hvað var gott og hvað mætti betur fara.
 1	Við	ég	PRON	PRO-N	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1fn
@@ -5315,7 +5315,7 @@
 16	fara	fara	VERB	VB	VerbForm=Inf|Voice=Act	11	conj	_	IFD_tag=sng|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.4
+# sent_id = RUV_TGS_2017_G-2-1321599,4.
 # X_ID = ID_MISSING
 # text = Ég er bara í sjálfu sér nokkuð sáttur,“ sagði Geir Sveinsson landsliðsþjálfari þegar RÚV ræddi við hann í dag.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	IFD_tag=fp1en
@@ -5341,14 +5341,14 @@
 21	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	IFD_tag=nkeo|SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.5
+# sent_id = RUV_TGS_2017_G-2-1321599,5.
 # X_ID = ID_MISSING
 # text = „Ég sé klárlega mun á liðinu með hverjum leik.
 1	„	„	PUNCT	"	_	3	punct	_	IFD_tag=„
 2	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
 3	sé	sjá	VERB	VBPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg1en
 4	klárlega	klárlega	ADV	ADV	_	3	advmod	_	IFD_tag=aa
-5	mun	munur	NOUN	N-A	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	obj	_	IFD_tag=lhensf
+5	mun	munur	NOUN	N-A	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	IFD_tag=nkeþ
 6	á	á	ADP	P	_	7	case	_	IFD_tag=aþ
 7	liðinu	lið	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	5	obl	_	IFD_tag=nheþg
 8	með	með	ADP	P	_	10	case	_	IFD_tag=aþ
@@ -5356,7 +5356,7 @@
 10	leik	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.6
+# sent_id = RUV_TGS_2017_G-2-1321599,6.
 # X_ID = ID_MISSING
 # text = Það er auðvitað tíminn sem hjálpar til við það að við verðum sífellt betri.
 1	Það	það	PRON	PRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	4	nsubj	_	IFD_tag=fphen
@@ -5375,13 +5375,13 @@
 14	betri	góður	ADJ	ADJR-N	Case=Nom|Definite=Def|Degree=Cmp|Gender=Neut|Number=Plur	12	amod	_	IFD_tag=lhfnvm|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.7
+# sent_id = RUV_TGS_2017_G-2-1321599,7.
 # X_ID = ID_MISSING
 # text = Ég vildi fá sem mest út úr þessum leik í gær og samhæfa menn sem mest.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
 2	vildi	vilja	AUX	MDDI	Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	IFD_tag=svg1eþ
 3	fá	fá	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	IFD_tag=sng
-4	sem	sem	SCONJ	C	_	5	mark	_	IFD_tag=aa
+4	sem	sem	SCONJ	C	_	5	mark	_	IFD_tag=ct
 5	mest	mikið	ADV	ADVS	Degree=Sup	3	advmod	_	IFD_tag=aae
 6	út	út	ADP	RP	_	9	compound:prt	_	IFD_tag=aa
 7	úr	úr	ADP	P	_	9	case	_	IFD_tag=aþ
@@ -5390,13 +5390,13 @@
 10	í	í	ADP	P	_	11	case	_	IFD_tag=aa
 11	gær	gær	ADV	ADV	_	9	obl	_	IFD_tag=aa
 12	og	og	CCONJ	CONJ	_	13	cc	_	IFD_tag=c
-13	samhæfa	samhæfa	VERB	VB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	IFD_tag=sfg3fn
+13	samhæfa	samhæfa	VERB	VB	VerbForm=Inf|Voice=Act	3	conj	_	IFD_tag=sng
 14	menn	maður	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	13	obj	_	IFD_tag=nkfo
-15	sem	sem	SCONJ	C	_	16	mark	_	IFD_tag=aa
+15	sem	sem	SCONJ	C	_	16	mark	_	IFD_tag=ct
 16	mest	mikið	ADV	ADVS	Degree=Sup	13	advmod	_	IFD_tag=aae|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.8
+# sent_id = RUV_TGS_2017_G-2-1321599,8.
 # X_ID = ID_MISSING
 # text = Það gekk upp að mörgu leyti.
 1	Það	það	PRON	PRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	2	nsubj	_	IFD_tag=fphen
@@ -5407,7 +5407,7 @@
 6	leyti	leyti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	2	obl	_	IFD_tag=nheþ|SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.9
+# sent_id = RUV_TGS_2017_G-2-1321599,9.
 # X_ID = ID_MISSING
 # text = Nú er aðalatriðið að nýta það góða úr fyrri hluta leiksins og læra af seinni hlutanum,“ sagði Geir Sveinsson.
 1	Nú	nú	ADV	ADV	_	19	advmod	_	IFD_tag=aa
@@ -5433,7 +5433,7 @@
 21	Sveinsson	sveinsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	20	flat:name	_	IFD_tag=nken-s|SpaceAfter=No
 22	.	.	PUNCT	.	_	21	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.10
+# sent_id = RUV_TGS_2017_G-2-1321599,10.
 # X_ID = ID_MISSING
 # text = Næsti leikur Íslands á HM í Frakklandi er gegn Slóveníu á morgun.
 1	Næsti	næstur	ADJ	ADJS-N	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	2	amod	_	IFD_tag=lkenve
@@ -5450,18 +5450,18 @@
 12	morgun	morgunn	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	IFD_tag=nkeo|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.11
+# sent_id = RUV_TGS_2017_G-2-1321599,11.
 # X_ID = ID_MISSING
 # text = Slóvenía burstaði Angóla í fyrsta leik sínum og Geir segir ekki hægt að dæma Slóvena út frá þeim leik.
 1	Slóvenía	slóvenía	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	IFD_tag=nven-s
 2	burstaði	bursta	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
-3	Angóla	angóli	PROPN	NPR-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	2	obj	_	IFD_tag=nheo-s
+3	Angóla	angóli	PROPN	NPR-A	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	2	obj	_	IFD_tag=nheþ-s
 4	í	í	ADP	P	_	6	case	_	IFD_tag=aþ
 5	fyrsta	fyrstur	ADJ	ADJS-D	Case=Dat|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	6	amod	_	IFD_tag=lkeþve
 6	leik	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	IFD_tag=nkeþ
 7	sínum	sinn	PRON	PRO-D	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	6	nmod:poss	_	IFD_tag=fekeþ
 8	og	og	CCONJ	CONJ	_	10	cc	_	IFD_tag=c
-9	Geir	geir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	IFD_tag=nken-s
+9	Geir	geir	PROPN	NPR-N	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	IFD_tag=nkeþ-s
 10	segir	segja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	IFD_tag=sfg3en
 11	ekki	ekki	ADV	NEG	_	10	advmod	_	IFD_tag=aa
 12	hægt	hægur	ADJ	ADJ-N	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	IFD_tag=lheosf
@@ -5474,7 +5474,7 @@
 19	leik	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	14	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.12
+# sent_id = RUV_TGS_2017_G-2-1321599,12.
 # X_ID = ID_MISSING
 # text = „Það er enginn veginn hægt.
 1	„	„	PUNCT	"	_	6	punct	_	IFD_tag=„
@@ -5485,14 +5485,14 @@
 6	hægt	hægur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	IFD_tag=lhensf|SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.13
+# sent_id = RUV_TGS_2017_G-2-1321599,13.
 # X_ID = ID_MISSING
 # text = Miklu frekar að dæma þá útfrá frammistöðu þeirra á Ólympíuleikunum eða í æfingaleikjum við Frakkland hér í Frakklandi.
 1	Miklu	mikill	DET	Q-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	obl	_	IFD_tag=lheþsf
 2	frekar	frekar	ADV	ADVR	Degree=Cmp	4	advmod	_	IFD_tag=aam
 3	að	að	PART	TO	_	4	mark	_	IFD_tag=cn
 4	dæma	dæma	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	IFD_tag=sng
-5	þá	hann	PRON	PRO-A	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	obj	_	IFD_tag=faveo
+5	þá	hann	PRON	PRO-A	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	4	obj	_	IFD_tag=fpkfo
 6	útfrá	útfrá	ADP	P	_	7	case	_	IFD_tag=aþ
 7	frammistöðu	frammistaða	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	IFD_tag=nveo
 8	þeirra	hann	PRON	PRO-G	Case=Gen|Gender=Neut|Number=Plur|PronType=Prs	7	nmod:poss	_	IFD_tag=fphfe
@@ -5508,7 +5508,7 @@
 18	Frakklandi	frakkland	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	13	obl	_	IFD_tag=nheþ-s|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.14
+# sent_id = RUV_TGS_2017_G-2-1321599,14.
 # X_ID = ID_MISSING
 # text = Þetta er gríðarlega sterkt lið sem spilar mjög góðan handbolta og Slóvenar eru ekkert síðri en Spánn.“
 1	Þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	IFD_tag=fahen
@@ -5531,7 +5531,7 @@
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.|SpaceAfter=No
 19	“	“	PUNCT	"	_	18	punct	_	IFD_tag=“
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.15
+# sent_id = RUV_TGS_2017_G-2-1321599,15.
 # X_ID = ID_MISSING
 # text = Nánar er rætt við Geir Sveinsson í spilaranum hér fyrir ofan.
 1	Nánar	náit	ADV	ADVR	Degree=Cmp	3	advmod	_	IFD_tag=aam
@@ -5547,7 +5547,7 @@
 11	ofan	ofan	ADV	ADV	_	9	obl	_	IFD_tag=aa|SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.1
+# sent_id = RUV_TGS_2017_G-2-1055049,1.
 # X_ID = ID_MISSING
 # text = Aron Pálmarsson landsliðsmaður í handbolta segir Evrópumótið í Póllandi enn sitja í sér, nú næstum ári síðar.
 1	Aron	aron	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	IFD_tag=nken-s
@@ -5570,13 +5570,13 @@
 18	síðar	síðar	ADV	ADVR	Degree=Cmp	15	advmod	_	IFD_tag=aam|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.2
+# sent_id = RUV_TGS_2017_G-2-1055049,2.
 # X_ID = ID_MISSING
 # text = Hann segir landsliðsmenn staðráðna í að gera betur á HM í Frakklandi sem hefst eftir hálfan mánuð.
 1	Hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	IFD_tag=fpken
 2	segir	segja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 3	landsliðsmenn	landsliðsmaður	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	4	nsubj	_	IFD_tag=nkfo
-4	staðráðna	staðráðinn	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	2	ccomp	_	IFD_tag=lkfosf
+4	staðráðna	staðráðinn	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	2	ccomp	_	IFD_tag=lveosf
 5	í	í	ADP	P	_	7	case	_	IFD_tag=aþ
 6	að	að	PART	TO	_	7	mark	_	IFD_tag=cn
 7	gera	gera	VERB	DO	VerbForm=Inf|Voice=Act	4	amod	_	IFD_tag=sng
@@ -5592,7 +5592,7 @@
 17	mánuð	mánuður	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	14	obl	_	IFD_tag=nkeo|SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.3
+# sent_id = RUV_TGS_2017_G-2-1055049,3.
 # X_ID = ID_MISSING
 # text = Ísland hefur leik á HM í Frakklandi 12. janúar þegar liðið mætir Spáni.
 1	Ísland	ísland	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	nsubj	_	IFD_tag=nhen-s
@@ -5611,7 +5611,7 @@
 14	Spáni	spánn	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	13	obj	_	IFD_tag=nkeþ-s|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.4
+# sent_id = RUV_TGS_2017_G-2-1055049,4.
 # X_ID = ID_MISSING
 # text = Leikmenn Íslands eru staðráðnir í því að gera vel á HM, eftir vonbrigðin á EM í Póllandi á þessu ári, en mótið situr enn í sumum leikmönnum.
 1	Leikmenn	leikmaður	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	4	nsubj	_	IFD_tag=nkfn
@@ -5645,7 +5645,7 @@
 29	leikmönnum	leikmaður	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	25	obl	_	IFD_tag=nkfþ|SpaceAfter=No
 30	.	.	PUNCT	.	_	29	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.5
+# sent_id = RUV_TGS_2017_G-2-1055049,5.
 # X_ID = ID_MISSING
 # text = „Þetta var mjög lélegt hjá okkur og það er leiðinlegt þegar gengur illa.
 1	„	„	PUNCT	"	_	5	punct	_	IFD_tag=„
@@ -5664,7 +5664,7 @@
 14	illa	illa	ADV	ADV	_	13	advmod	_	IFD_tag=aa|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.6
+# sent_id = RUV_TGS_2017_G-2-1055049,6.
 # X_ID = ID_MISSING
 # text = Það eru nýir leikmenn inni núna og nýr þjálfari þannig að við erum með hreint blað.“ segir Aron.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	0	root	_	IFD_tag=fphen
@@ -5689,7 +5689,7 @@
 20	Aron	aron	PROPN	NPR-N	_	19	nsubj	_	IFD_tag=x|SpaceAfter=No
 21	.	.	PUNCT	.	_	20	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.7
+# sent_id = RUV_TGS_2017_G-2-1055049,7.
 # X_ID = ID_MISSING
 # text = Arnór Atlason tekur undir það.
 1	Arnór	arnór	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken-s
@@ -5699,7 +5699,7 @@
 5	það	það	PRON	PRO-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	3	obl	_	IFD_tag=fpheo|SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.8
+# sent_id = RUV_TGS_2017_G-2-1055049,8.
 # X_ID = ID_MISSING
 # text = „Það sem situr eftir er að við komumst ekki upp úr riðlinum en þetta er bara nýtt mót og við þurfum bara að einbeita okkur að komast upp úr riðlinum og þá getur allt gerst.“
 1	„	„	PUNCT	"	_	2	punct	_	IFD_tag=„
@@ -5741,7 +5741,7 @@
 37	.	.	PUNCT	.	_	36	punct	_	IFD_tag=.|SpaceAfter=No
 38	“	“	PUNCT	"	_	37	punct	_	IFD_tag=“
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.9
+# sent_id = RUV_TGS_2017_G-2-1055049,9.
 # X_ID = ID_MISSING
 # text = Ásgeir Örn Hallgrímsson segir alltaf ríkja bartsýni.
 1	Ásgeir	ásgeir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
@@ -5750,10 +5750,10 @@
 4	segir	segja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 5	alltaf	alltaf	ADV	ADV	_	4	advmod	_	IFD_tag=aa
 6	ríkja	ríkja	VERB	VB	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	4	acl	_	IFD_tag=nhfe
-7	bartsýni	bartsýni	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	6	nsubj	_	IFD_tag=nheo|SpaceAfter=No
+7	bartsýni	bartsýni	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	IFD_tag=nkeo|SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.10
+# sent_id = RUV_TGS_2017_G-2-1055049,10.
 # X_ID = ID_MISSING
 # text = „Manni líður alltaf eins og við getum farið mjög langt í hverju móti.
 1	„	„	PUNCT	"	_	3	punct	_	IFD_tag=„
@@ -5772,7 +5772,7 @@
 14	móti	mót	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	9	obl	_	IFD_tag=nheþ|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.11
+# sent_id = RUV_TGS_2017_G-2-1055049,11.
 # X_ID = ID_MISSING
 # text = Það er bara spenna og tilhlökkun.“
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	0	root	_	IFD_tag=fphen

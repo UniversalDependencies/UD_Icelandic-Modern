@@ -54,7 +54,7 @@ def create_metadata(sentence_index, sentence_text, filename, is_esp):
     speaker = "ESP" if is_esp else "TGS"
     return "\n".join(
         [
-            f"# sent_id = RUV_{speaker}_2017_{os.path.splitext(filename)[0]},.{str(sentence_index+1)}",
+            f"# sent_id = RUV_{speaker}_2017_{os.path.splitext(filename)[0]},{str(sentence_index+1)}.",
             f"# X_ID = ID_MISSING",
             f"# text = {sentence_text}",
         ]

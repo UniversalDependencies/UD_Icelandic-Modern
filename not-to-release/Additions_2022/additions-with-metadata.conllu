@@ -1,4 +1,4 @@
-# sent_id = RUV_ESP_2017_G-2-1057336,.1
+# sent_id = RUV_ESP_2017_G-2-1057336,1.
 # X_ID = ID_MISSING
 # text = Geir Þorsteinsson sem verið hefur formaður Knattspyrnusambands Íslands frá 2007 ætlar ekki að gefa kost á sér til endurkjörs formanns á ársþingi sambandsins í febrúar. 
 1	Geir	geir	PROPN	NPR-N	_	11	nsubj	_	_
@@ -28,7 +28,7 @@
 25	febrúar	febrúar	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	22	obl	_	_
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.2
+# sent_id = RUV_ESP_2017_G-2-1057336,2.
 # X_ID = ID_MISSING
 # text = Þetta kemur fram í yfirlýsingu sem hann sendi frá sér rétt í þessu.
 1	Þetta	þessi	DET	D-N	Case=Nom	2	nsubj	_	_
@@ -46,7 +46,7 @@
 13	þessu	þessi	DET	D-D	Case=Dat	8	obl	_	_
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.3
+# sent_id = RUV_ESP_2017_G-2-1057336,3.
 # X_ID = ID_MISSING
 # text = Geir varð framkvæmdastjóri KSÍ 1997 og formaður tíu árum síðar. 
 1	Geir	geir	PROPN	NPR-N	_	2	nsubj	_	_
@@ -61,7 +61,7 @@
 10	síðar	síðar	ADV	ADVR	Degree=Cmp	7	advmod	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.4
+# sent_id = RUV_ESP_2017_G-2-1057336,4.
 # X_ID = ID_MISSING
 # text = Kosið verður um nýjan formann í Vestmannaeyjum 11. febrúar. 
 1	Kosið	kjsaa	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -76,7 +76,7 @@
 10	febrúar	febrúar	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	7	conj	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.5
+# sent_id = RUV_ESP_2017_G-2-1057336,5.
 # X_ID = ID_MISSING
 # text = Nú þegar hefur Guðni Bergsson gefið kost á sér og Björn Einarsson íhugar málið.
 1	Nú	nú	ADV	ADV	Degree=Pos	6	advmod	_	_
@@ -95,7 +95,7 @@
 14	málið	mál	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	13	obj	_	_
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.6
+# sent_id = RUV_ESP_2017_G-2-1057336,6.
 # X_ID = ID_MISSING
 # text = Yfirlýsing Geirs er svohljóðandi:
 1	Yfirlýsing	yfirlýsing	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
@@ -104,7 +104,7 @@
 4	svohljóðandi	svohljóðandi	ADJ	ADJ-N	Case=Nom|Degree=Pos	0	root	_	_
 5	:	:	PUNCT	,	_	4	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.7
+# sent_id = RUV_ESP_2017_G-2-1057336,7.
 # X_ID = ID_MISSING
 # text = „Snemma á níunda áratugnum fyrir rúmum 30 árum hóf ég afskipti af knattspyrnumálum utan mín félags þegar ég tók að mér niðurröðun knattspyrnuleikja í Reykjavík, sat síðan í stjórn KSÍ 1986-87 undir forystu Ellerts B. Schram og tók að mér formennsku í mótanefnd KSÍ.
 1	„	„	PUNCT	"	_	10	punct	_	_
@@ -157,7 +157,7 @@
 48	KSÍ	ksí	PROPN	NPR-G	_	47	nmod:poss	_	_
 49	.	.	PUNCT	.	_	48	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.8
+# sent_id = RUV_ESP_2017_G-2-1057336,8.
 # X_ID = ID_MISSING
 # text = Eitt leiddi af öðru og um áramótin 1992-93 hóf ég störf á skrifstofu KSÍ, en þá hafði Eggert Magnússon tekið við formennsku KSÍ. 
 1	Eitt	einn	DET	ONE-N	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -188,7 +188,7 @@
 26	KSÍ	ksí	PROPN	NPR-G	_	25	nmod:poss	_	_
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.9
+# sent_id = RUV_ESP_2017_G-2-1057336,9.
 # X_ID = ID_MISSING
 # text = Ég tók síðan við sem framkvæmdastjóri KSÍ 1997 og hef verið formaður síðan 2007. 
 1	Ég	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -207,7 +207,7 @@
 14	2007	2007	NUM	NUM-A	Case=Acc	10	obl	_	_
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.10
+# sent_id = RUV_ESP_2017_G-2-1057336,10.
 # X_ID = ID_MISSING
 # text = Um þessi áramót hef ég staðið vaktina fyrir KSÍ samfellt í tæpan aldarfjórðung.
 1	Um	um	ADP	P	_	3	case	_	_
@@ -225,7 +225,7 @@
 13	aldarfjórðung	aldarfjórðungur	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	6	obl	_	_
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.11
+# sent_id = RUV_ESP_2017_G-2-1057336,11.
 # X_ID = ID_MISSING
 # text = Starfið hefur verið fjölbreytt og skemmtilegt en um leið krefjandi. 
 1	Starfið	starf	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	_
@@ -240,7 +240,7 @@
 10	krefjandi	krefja	VERB	VAG	Case=Nom|Degree=Pos	4	amod	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.12
+# sent_id = RUV_ESP_2017_G-2-1057336,12.
 # X_ID = ID_MISSING
 # text = Góðir stjórnunarhættir kalla á endurnýjun í forystu samtaka eins og KSÍ. 
 1	Góðir	góður	ADJ	ADJ-N	Case=Nom|Degree=Pos	2	amod	_	_
@@ -256,7 +256,7 @@
 11	KSÍ	ksí	PROPN	NPR-G	_	9	obl	_	_
 12	.	.	PUNCT	.	_	11	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.13
+# sent_id = RUV_ESP_2017_G-2-1057336,13.
 # X_ID = ID_MISSING
 # text = Eftir vandlega íhugun hef ég ákveðið að gefa ekki kost á mér til endurkjörs á næsta ársþingi og bið samstarfsfólk í KSÍ, aðildarfélög KSÍ og forystumenn íslenskra knattspyrnufélaga að virða ákvörðun mína og sameinast um að kjósa nýjan formann íslenskri knattspyrnu til heilla. 
 1	Eftir	eftir	ADP	P	_	3	case	_	_
@@ -305,7 +305,7 @@
 44	heilla	heill	NOUN	NS-G	Case=Gen|Definite=Ind|Number=Plur	42	obl	_	_
 45	.	.	PUNCT	.	_	44	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.14
+# sent_id = RUV_ESP_2017_G-2-1057336,14.
 # X_ID = ID_MISSING
 # text = Ég er stoltur af starfi mínu og framlagi til íslenskrar knattspyrnu og hef ávallt haft hagsmuni heildarinnar í huga.
 1	Ég	ég	PRON	PRO-N	Case=Nom	3	nsubj	_	_
@@ -329,7 +329,7 @@
 19	huga	hugi	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	16	obl	_	_
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.15
+# sent_id = RUV_ESP_2017_G-2-1057336,15.
 # X_ID = ID_MISSING
 # text = Knattspyrnusamband Íslands stendur nú - utan sem innan vallar - öflugara en nokkru sinni fyrr.
 1	Knattspyrnusamband	knattspyrnusamband	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	3	nsubj	_	_
@@ -349,7 +349,7 @@
 15	fyrr	snemma	ADV	ADVR	Degree=Cmp	14	advmod	_	_
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057336,.16
+# sent_id = RUV_ESP_2017_G-2-1057336,16.
 # X_ID = ID_MISSING
 # text = Áfram Ísland, Geir Þorsteinsson, formaður KSÍ.”
 1	Áfram	áfram	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -363,7 +363,7 @@
 9	.	.	PUNCT	.	_	8	punct	_	_
 10	”	;	PUNCT	"	_	9	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.1
+# sent_id = RUV_TGS_2017_G-2-1055090,1.
 # X_ID = ID_MISSING
 # text = Íslenska karlalandsliðið í handbolta kom saman í dag til undirbúnings fyrir heimsmeistaramótið sem hefst í Frakklandi eftir tvær vikur. 
 1	Íslenska	íslenskur	ADJ	ADJ-N	Case=Nom|Degree=Pos	2	amod	_	_
@@ -387,7 +387,7 @@
 19	vikur	vika	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	14	obl	_	_
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.2
+# sent_id = RUV_TGS_2017_G-2-1055090,2.
 # X_ID = ID_MISSING
 # text = Nokkur spurningamerki hafa verið vegna meiðsla lykilmanna í landsliðinu, en við settumst niður með þeim í dag og spurðum þá út í ástandið.
 1	Nokkur	nokkur	DET	Q-N	Case=Nom|Degree=Pos	2	amod	_	_
@@ -416,7 +416,7 @@
 24	ástandið	ástand	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	20	obl	_	_
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.3
+# sent_id = RUV_TGS_2017_G-2-1055090,3.
 # X_ID = ID_MISSING
 # text = Aron Pálmarsson hefur ekki spilað handbolta vegna nárameiðsla í rúman mánuð en er bjartsýnn að ná HM.
 1	Aron	aron	PROPN	NPR-N	_	5	nsubj	_	_
@@ -438,7 +438,7 @@
 17	HM	hm	PROPN	NPR-A	_	16	obj	_	_
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.4
+# sent_id = RUV_TGS_2017_G-2-1055090,4.
 # X_ID = ID_MISSING
 # text = „Eins og staðan er í dag þá lítur þetta ágætlega út. 
 1	„	„	PUNCT	"	_	9	punct	_	_
@@ -455,7 +455,7 @@
 12	út	út	ADP	RP	_	9	compound:prt	_	_
 13	.	.	PUNCT	.	_	12	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.5
+# sent_id = RUV_TGS_2017_G-2-1055090,5.
 # X_ID = ID_MISSING
 # text = Ég er búinn að vera í meðhöndlun hjá Ella sjúkraþjálfara og þetta er á réttri leið. 
 1	Ég	ég	PRON	PRO-N	Case=Nom	3	nsubj	_	_
@@ -476,7 +476,7 @@
 16	leið	leið	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	3	conj	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.6
+# sent_id = RUV_TGS_2017_G-2-1055090,6.
 # X_ID = ID_MISSING
 # text = Ég klárlega bjartsýnn. 
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
@@ -484,7 +484,7 @@
 3	bjartsýnn	bjartsýnn	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
 4	.	.	PUNCT	.	_	3	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.7
+# sent_id = RUV_TGS_2017_G-2-1055090,7.
 # X_ID = ID_MISSING
 # text = Þetta hafa verið erfið og þreytandi meiðsli. 
 1	Þetta	þessi	DET	D-N	Case=Nom	2	nsubj	_	_
@@ -496,7 +496,7 @@
 7	meiðsli	meiðsli	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	2	xcomp	_	_
 8	.	.	PUNCT	.	_	7	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.8
+# sent_id = RUV_TGS_2017_G-2-1055090,8.
 # X_ID = ID_MISSING
 # text = Það er loksins núna sem ég er farinn að sjá ljósið,“ segir Aron Pálmarsson.
 1	Það	það	PRON	PRO-N	Case=Nom	14	nsubj	_	_
@@ -517,7 +517,7 @@
 16	Pálmarsson	pálmarsson	PROPN	NPR-N	_	15	flat:name	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.9
+# sent_id = RUV_TGS_2017_G-2-1055090,9.
 # X_ID = ID_MISSING
 # text = Aron Rafn Eðvarðsson markvörður hefur líka glímt við meiðsli að undanförnu, sem og Arnór Atlason, en fram kom í fréttum Stöðvar 2 í byrjun desember að Arnór myndi líklega missa af HM. 
 1	Aron	aron	PROPN	NPR-N	_	7	nsubj	_	_
@@ -556,7 +556,7 @@
 34	HM	hm	PROPN	NPR-D	_	32	obl	_	_
 35	.	.	PUNCT	.	_	34	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.10
+# sent_id = RUV_TGS_2017_G-2-1055090,10.
 # X_ID = ID_MISSING
 # text = Arnór hefur þó aldrei gefið upp vonina með HM.
 1	Arnór	arnór	PROPN	NPR-N	_	5	nsubj	_	_
@@ -570,7 +570,7 @@
 9	HM	hm	PROPN	NPR-D	_	5	obl	_	_
 10	.	.	PUNCT	.	_	9	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.11
+# sent_id = RUV_TGS_2017_G-2-1055090,11.
 # X_ID = ID_MISSING
 # text = „Þetta hefur verið uppávið. 
 1	„	„	PUNCT	"	_	3	punct	_	_
@@ -580,7 +580,7 @@
 5	uppávið	uppáv	NOUN	N-N	Case=Acc|Definite=Ind|Number=Sing	3	xcomp	_	_
 6	.	.	PUNCT	.	_	5	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.12
+# sent_id = RUV_TGS_2017_G-2-1055090,12.
 # X_ID = ID_MISSING
 # text = Ég er búinn að vera á bekknum í síðustu tveimur leikjum og verið til taks. 
 1	Ég	ég	PRON	PRO-N	Case=Nom	3	nsubj	_	_
@@ -600,7 +600,7 @@
 15	taks	tak	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	4	obl	_	_
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.13
+# sent_id = RUV_TGS_2017_G-2-1055090,13.
 # X_ID = ID_MISSING
 # text = Ég vonast til að vera tilbúinn en það verður að koma betur í ljós á næstu dögum. 
 1	Ég	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -622,7 +622,7 @@
 17	dögum	dagur	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	11	obl	_	_
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.14
+# sent_id = RUV_TGS_2017_G-2-1055090,14.
 # X_ID = ID_MISSING
 # text = Það er eitt ná leik í dönsku deildinni og svo annað að halda út heilt Heimsmeistaramót. 
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	4	expl	_	_
@@ -643,7 +643,7 @@
 16	Heimsmeistaramót	heimsmeistaramót	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	13	obj	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.15
+# sent_id = RUV_TGS_2017_G-2-1055090,15.
 # X_ID = ID_MISSING
 # text = Þetta verður að koma í ljós en ég er bjartsýnn,“ segor Arnór Atlason.
 1	Þetta	þessi	DET	D-N	Case=Nom	2	nsubj	_	_
@@ -663,7 +663,7 @@
 15	Atlason	atlason	PROPN	NPR-N	_	14	flat:name	_	_
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.16
+# sent_id = RUV_TGS_2017_G-2-1055090,16.
 # X_ID = ID_MISSING
 # text = Ásgeir Örn Hallgrímsson fór úr lið á putta í byrjun október og missti af leikjunum í undankeppni EM um mánaðamótin október/nóvember. 
 1	Ásgeir	ásgeir	PROPN	NPR-N	_	4	nsubj	_	_
@@ -691,7 +691,7 @@
 23	nóvember	nóvember	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	21	obl	_	_
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.17
+# sent_id = RUV_TGS_2017_G-2-1055090,17.
 # X_ID = ID_MISSING
 # text = „Þetta er búinn að vera ansi erfiður vetur hjá mér og er búinn að vera mikið meiddur í allan vetur en var að ná mér og að skríða saman núna í desember. 
 1	„	„	PUNCT	"	_	4	punct	_	_
@@ -729,7 +729,7 @@
 33	desember	desember	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	29	obl	_	_
 34	.	.	PUNCT	.	_	33	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.18
+# sent_id = RUV_TGS_2017_G-2-1055090,18.
 # X_ID = ID_MISSING
 # text = Ég náði að spila þrjá leiki í byrjun desember sem gáfu mér góða von um að ég geti verið kominn í gott stand í janúar,“ segir Ásgeir Örn.
 1	Ég	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -764,7 +764,7 @@
 30	Örn	örn	PROPN	NPR-N	_	29	flat:name	_	_
 31	.	.	PUNCT	.	_	30	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055090,.19
+# sent_id = RUV_TGS_2017_G-2-1055090,19.
 # X_ID = ID_MISSING
 # text = Það kemur í ljós á næstu dögum hvernig ástand þessara lykilmanna er, en landsliðið heldur svo til Danmerkur í næstu viku þar sem Ísland spilar við Egyptaland, Ungverjaland og Danmörku á fjögurra liða æfingamóti sem sýnt verður beint á RÚV, rétt eins og HM í Frakklandi.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	2	expl	_	_
@@ -818,7 +818,7 @@
 49	Frakklandi	frakkland	PROPN	NPR-D	_	47	obl	_	_
 50	.	.	PUNCT	.	_	49	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.1
+# sent_id = RUV_ESP_2017_G-2-1065341,1.
 # X_ID = ID_MISSING
 # text = Elfar Freyr Helgason hefur skrifað undir nýjan þriggja ára samning við úrvalsdeildarlið Breiðabliks í fótbolta. 
 1	Elfar	elfur	PROPN	NPR-N	_	5	nsubj	_	_
@@ -838,7 +838,7 @@
 15	fótbolta	fótbolti	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	13	obl	_	_
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.2
+# sent_id = RUV_ESP_2017_G-2-1065341,2.
 # X_ID = ID_MISSING
 # text = Jafnframt hefur verið ákveðið að hann fari á lánssamningi til Horsens sem spilar í efstu deild í Danmörku.
 1	Jafnframt	jafnframt	ADV	ADV	Degree=Pos	4	advmod	_	_
@@ -861,7 +861,7 @@
 18	Danmörku	danmörk	PROPN	NPR-D	_	16	obl	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.3
+# sent_id = RUV_ESP_2017_G-2-1065341,3.
 # X_ID = ID_MISSING
 # text = Frá þessu var greint á heimasíðu Breiðbliks í dag.
 1	Frá	frá	ADP	P	_	2	case	_	_
@@ -875,7 +875,7 @@
 9	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	4	obl	_	_
 10	.	.	PUNCT	.	_	9	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.4
+# sent_id = RUV_ESP_2017_G-2-1065341,4.
 # X_ID = ID_MISSING
 # text = Elfar sem er 27 ára hefur spilað 197 leiki með meistaraflokki Breiðabliks og skorað í þeim níu mörk. 
 1	Elfar	elfur	PROPN	NPR-N	_	7	nsubj	_	_
@@ -898,7 +898,7 @@
 18	mörk	mark	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	14	obj	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.5
+# sent_id = RUV_ESP_2017_G-2-1065341,5.
 # X_ID = ID_MISSING
 # text = Hann hefur spilað sex leiki með U-21 árs landsliði Íslands og einn með A-landsliðinu.
 1	Hann	hann	PRON	PRO-N	Case=Nom	3	nsubj	_	_
@@ -919,7 +919,7 @@
 16	landsliðinu	landslið	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	12	obl	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.6
+# sent_id = RUV_ESP_2017_G-2-1065341,6.
 # X_ID = ID_MISSING
 # text = Hann mun spila með Horsens næstu mánuði og þar hittir hann fyrir Kjartan Henry Finnbogason sem gekk til liðs við félagið 2014. 
 1	Hann	hann	PRON	PRO-N	Case=Nom	3	nsubj	_	_
@@ -946,7 +946,7 @@
 22	2014	2014	NUM	NUM-A	Case=Acc	17	obl	_	_
 23	.	.	PUNCT	.	_	22	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065341,.7
+# sent_id = RUV_ESP_2017_G-2-1065341,7.
 # X_ID = ID_MISSING
 # text = Þjálfari liðsins er Bo Henriksen sem spilaði hérlendis á árum áður, með Val, Fram og ÍBV.
 1	Þjálfari	þjálfari	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
@@ -969,7 +969,7 @@
 18	ÍBV	íbv	PROPN	NPR-D	_	14	dep	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1307543,.1
+# sent_id = RUV_TGS_2017_G-2-1307543,1.
 # X_ID = ID_MISSING
 # text = Stefán Rafn Sigurmannsson vinstri hornamaður er kominn til Frakklands og æfði með íslenska landsliðinu í Metz í gær. 
 1	Stefán	stefán	PROPN	NPR-N	_	7	nsubj	_	_
@@ -992,7 +992,7 @@
 18	gær	gær	ADV	ADV	Degree=Pos	11	obl	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1307543,.2
+# sent_id = RUV_TGS_2017_G-2-1307543,2.
 # X_ID = ID_MISSING
 # text = Stefán Rafn var einn þeirra sem ekki komst í gegnum niðurskurð Geirs Sveinssonar landsliðsþjálfara áður en Ísland hélt á fjögurra þjóða æfingamót í Danmörku um síðustu helgi, en er nú kominn aftur inn í hópinn.
 1	Stefán	stefán	PROPN	NPR-N	_	4	nsubj	_	_
@@ -1033,7 +1033,7 @@
 36	hópinn	hópur	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	32	obl	_	_
 37	.	.	PUNCT	.	_	36	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1307543,.3
+# sent_id = RUV_TGS_2017_G-2-1307543,3.
 # X_ID = ID_MISSING
 # text = Þau svör fengust frá HSÍ að ástæða þess að Stefán Rafn væri kominn til Metz væri til að vera til taks, vegna meiðsla Bjarka Más Elíssonar. 
 1	Þau	sá	DET	D-N	Case=Nom	2	det	_	_
@@ -1065,7 +1065,7 @@
 27	Elíssonar	elísson	PROPN	NPR-G	_	25	dep	_	_
 28	.	.	PUNCT	.	_	27	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1307543,.4
+# sent_id = RUV_TGS_2017_G-2-1307543,4.
 # X_ID = ID_MISSING
 # text = Bjarki Már missti af leik Íslands og Danmerkur í Árósum á sunnudag eftir að meiðsli tók sig upp.
 1	Bjarki	bjarki	PROPN	NPR-N	_	3	nsubj	_	_
@@ -1088,7 +1088,7 @@
 18	upp	upp	ADP	RP	_	16	compound:prt	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1307543,.5
+# sent_id = RUV_TGS_2017_G-2-1307543,5.
 # X_ID = ID_MISSING
 # text = Stefán Rafn hefur verið í íslenska landsliðinu á síðustu fjórum stórmótum, en Bjarki Már hefur aldrei áður farið með A-landsliðinu á stórmót.
 1	Stefán	stefán	PROPN	NPR-N	_	3	nsubj	_	_
@@ -1118,7 +1118,7 @@
 25	stórmót	stórmót	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	19	obl	_	_
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1307543,.6
+# sent_id = RUV_TGS_2017_G-2-1307543,6.
 # X_ID = ID_MISSING
 # text = Ástand Bjarka Más verður skoðað betur í dag, en Ísland þarf að tilkynna 16 manna hóp fyrir leikinn á móti Spáni annað kvöld, á tæknifundi klukkan 18 að íslenskum tíma í kvöld.
 1	Ástand	ástand	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	5	nsubj	_	_
@@ -1157,7 +1157,7 @@
 34	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	28	obl	_	_
 35	.	.	PUNCT	.	_	34	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.1
+# sent_id = RUV_TGS_2017_G-2-1054808,1.
 # X_ID = ID_MISSING
 # text = Heimir Hallgrímsson landsliðsþjálfari í knattspyrnu valdi sjö nýliða í A-landsliðið sem er á leið á æfingamót í Kína í næstu viku. 
 1	Heimir	heimir	PROPN	NPR-N	_	6	nsubj	_	_
@@ -1185,7 +1185,7 @@
 23	viku	vika	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	16	obl	_	_
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.2
+# sent_id = RUV_TGS_2017_G-2-1054808,2.
 # X_ID = ID_MISSING
 # text = Heimir vonast til að nýjir leikmenn stimpli sig inn í hópinn.
 1	Heimir	heimir	PROPN	NPR-N	_	2	nsubj	_	_
@@ -1201,7 +1201,7 @@
 11	hópinn	hópur	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	7	obl	_	_
 12	.	.	PUNCT	.	_	11	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.3
+# sent_id = RUV_TGS_2017_G-2-1054808,3.
 # X_ID = ID_MISSING
 # text = „Sagan hefur sýnt okkur að það eru alltaf einn til tveir leikmenn í þessum janúarverkefnum sem síðan stimpla sig inn í mótsleikina á því ári. 
 1	„	„	PUNCT	"	_	4	punct	_	_
@@ -1232,7 +1232,7 @@
 26	ári	ár	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	19	obl	_	_
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.4
+# sent_id = RUV_TGS_2017_G-2-1054808,4.
 # X_ID = ID_MISSING
 # text = Í öðru lagi þá erum við að hugsa til framtíðar. 
 1	Í	í	ADP	P	_	3	case	_	_
@@ -1247,7 +1247,7 @@
 10	framtíðar	framtíð	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	8	obl	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.5
+# sent_id = RUV_TGS_2017_G-2-1054808,5.
 # X_ID = ID_MISSING
 # text = Fleistir mótsleikir okkar undanfarin fjögur til fimm ár hafa verið úrslitaleikir og enginn tími til að gera einhverjar tilraunir og gefa mönnum tækifæri. 
 1	Fleistir	fleistu	ADJ	ADJ-N	Case=Nom|Degree=Pos	2	amod	_	_
@@ -1275,7 +1275,7 @@
 23	tækifæri	tækifæri	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	21	obj	_	_
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.6
+# sent_id = RUV_TGS_2017_G-2-1054808,6.
 # X_ID = ID_MISSING
 # text = Framtíðin kemur hvort sem gengur vel eða illa og það gleymist oft í velgengninni að það kemur framtíð. 
 1	Framtíðin	framtíð	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	_
@@ -1298,7 +1298,7 @@
 18	framtíð	framtíð	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	17	obl	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.7
+# sent_id = RUV_TGS_2017_G-2-1054808,7.
 # X_ID = ID_MISSING
 # text = Við þurfum að vera undirbúnir fyrir hana og gefa mönnum tækifæri til að spila sína fyrstu landsleiki og sýna hvað þeir geta.“ segir Heimir.
 1	Við	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -1329,7 +1329,7 @@
 26	Heimir	heimir	PROPN	NPR-N	_	25	nsubj	_	_
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.8
+# sent_id = RUV_TGS_2017_G-2-1054808,8.
 # X_ID = ID_MISSING
 # text = Eingöngu leikmenn sem spila með félagsliðum á Norðurlöndunum eru í hópnum því mótið fer fram utan alþjóðlegra landsleikjadaga.
 1	Eingöngu	eingöngu	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -1352,7 +1352,7 @@
 18	landsleikjadaga	landsleikjadagur	NOUN	NS-G	Case=Gen|Definite=Ind|Number=Plur	14	obl	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.9
+# sent_id = RUV_TGS_2017_G-2-1054808,9.
 # X_ID = ID_MISSING
 # text = Nýliðarnir eru markmaðurinn Rúnar Alex Rúnarsson, varnarmennirnir Orri Sigurður Ómarsson, Viðar Ari Jónsson og Böðvar Böðvarsson, miðjumennirnir Óttar Magnús Karlsson og Sigurður Egill Lárusson og framherjinn Albert Guðmundsson.
 1	Nýliðarnir	nýlið	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	3	nsubj	_	_
@@ -1388,7 +1388,7 @@
 31	Guðmundsson	guðmundsson	PROPN	NPR-N	_	30	flat:name	_	_
 32	.	.	PUNCT	.	_	31	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.10
+# sent_id = RUV_TGS_2017_G-2-1054808,10.
 # X_ID = ID_MISSING
 # text = Mótið ber nafnið China cup 2017 eða Kínabikarinn þar sem fjögur lið spila. 
 1	Mótið	mót	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	_
@@ -1406,7 +1406,7 @@
 13	spila	spila	VERB	VBPI	Mood=Ind|Tense=Pres	8	acl:relcl	_	_
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054808,.11
+# sent_id = RUV_TGS_2017_G-2-1054808,11.
 # X_ID = ID_MISSING
 # text = Ísland mætir Kína þriðjudaginn 10. janúar klukkan 12:00 og svo annað hvort Króatíu eða Síle sem eigast við í hinum leiknum 11. janúar. Markmenn Hannes Þór Halldórsson - Randers FC Ögmundur Kristinsson - Hammarby Rúnar Alex Rúnarsson - Nordsjælland Varnarmenn Birkir Már Sævarsson - Hammarby Kári Árnason - Malmö Jón Guðni Fjóluson - Norrköping Kristinn Jónsson - Sarpsborg 08 Orri Sigurður Ómarsson - Valur Viðar Ari Jónsson - Fjölnir Böðvar Böðvarsson - FH Miðjumenn Theódór Elmar Bjarnason - AGF Arnór Smárason - Hammarby Björn Daníel Sverrisson - AGF Guðlaugur Victor Pálsson - Esbjerg Aron Sigurðarson - Tromsö Oliver Sigurjónsson - Breiðablik Óttar Magnús Karlsson - Molde BK Sigurður Egill Lárusson - Valur Sóknarmenn Elías Már Ómarsson - Gautaborg Kjartan Henrý Finnbogason - Horsens Björn Bergmann Sigurðarson - Molde BK Albert Guðmundsson - PSV
 1	Ísland	ísland	PROPN	NPR-N	_	2	nsubj	_	_
@@ -1546,7 +1546,7 @@
 135	-	-	PUNCT	,	_	119	punct	_	_
 136	PSV	psv	PROPN	NPR-G	_	127	nmod:poss	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.1
+# sent_id = RUV_ESP_2017_G-2-1057342,1.
 # X_ID = ID_MISSING
 # text = Fótboltamaðurinn og Sauðkrækingurinn Rúnar Már Sigurjónsson sem spilar fyrir úrvalsdeildarlið Grasshopper í Sviss og íslenska landsliðið var gestur knattspyrnudeildar Tindastóls á dögunum. 
 1	Fótboltamaðurinn	fótboltamaður	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	18	nsubj	_	_
@@ -1573,7 +1573,7 @@
 22	dögunum	dagur	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	19	obl	_	_
 23	.	.	PUNCT	.	_	22	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.2
+# sent_id = RUV_ESP_2017_G-2-1057342,2.
 # X_ID = ID_MISSING
 # text = Þar ræddi hann við unga og áhugasama knattspyrnuiðkendur sem fjölmenntu á svæðið um feril sinn og þátttökuna á EM síðasta sumar.
 1	Þar	þar	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -1599,7 +1599,7 @@
 21	sumar	sumar	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	19	obl	_	_
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.3
+# sent_id = RUV_ESP_2017_G-2-1057342,3.
 # X_ID = ID_MISSING
 # text = Rúnar fæddist á Sauðárkróki 18. júní 1990 og verður því 27 ára í sumar. 
 1	Rúnar	rúnar	PROPN	NPR-N	_	2	nsubj	_	_
@@ -1619,7 +1619,7 @@
 15	sumar	sumar	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	10	obl	_	_
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.4
+# sent_id = RUV_ESP_2017_G-2-1057342,4.
 # X_ID = ID_MISSING
 # text = Ferilinn hóf hann hjá Tindastóli en hefur síðan spilað fyrir Ými, HK, Val, PEC Zwolle í Hollandi, Sundsvall í Svíþjóð og Grasshopper í Sviss. 
 1	Ferilinn	ferill	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	2	obj	_	_
@@ -1652,7 +1652,7 @@
 28	Sviss	sviss	PROPN	NPR-D	_	26	obl	_	_
 29	.	.	PUNCT	.	_	28	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.5
+# sent_id = RUV_ESP_2017_G-2-1057342,5.
 # X_ID = ID_MISSING
 # text = Hann spilaði sinn fyrsta leik fyrir A-landslið karla 2012 og leikirnir eru nú orðnir tólf.
 1	Hann	hann	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -1674,7 +1674,7 @@
 17	tólf	tólf	NUM	NUM-N	Case=Nom	16	xcomp	_	_
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.6
+# sent_id = RUV_ESP_2017_G-2-1057342,6.
 # X_ID = ID_MISSING
 # text = Samkvæmt héraðsblaðinu Feykivar Rúnari tíðrætt um hugarfarið í spjalli sínu við krakkana. 
 1	Samkvæmt	samkvæmt	ADP	P	_	2	case	_	_
@@ -1691,7 +1691,7 @@
 12	krakkana	krakki	NOUN	NS-A	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	9	obl	_	_
 13	.	.	PUNCT	.	_	12	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.7
+# sent_id = RUV_ESP_2017_G-2-1057342,7.
 # X_ID = ID_MISSING
 # text = Það væri aðalatriðið í fótboltaheiminum og mikilvægt væri að halda einbeitingu og vera jákvæður. 
 1	Það	það	PRON	PRO-N	Case=Nom	3	nsubj	_	_
@@ -1710,7 +1710,7 @@
 14	jákvæður	jákvæður	ADJ	ADJ-N	Case=Nom|Degree=Pos	10	acl	_	_
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.8
+# sent_id = RUV_ESP_2017_G-2-1057342,8.
 # X_ID = ID_MISSING
 # text = Þá hefði fótboltinn sínar neikvæðu hliðar sem væri mikilvægt að ungir iðkendur gerðu sér grein fyrir, t.d. væri samkeppnin hörð og það litaði samskipti og traust við aðra fótboltamenn. 
 1	Þá	þá	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -1746,7 +1746,7 @@
 31	fótboltamenn	fótboltamaður	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	26	obl	_	_
 32	.	.	PUNCT	.	_	31	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.9
+# sent_id = RUV_ESP_2017_G-2-1057342,9.
 # X_ID = ID_MISSING
 # text = Lífið sem atvinnumaður í fótbolta gæti líka verið einmanalegt.
 1	Lífið	líf	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	6	nsubj	_	_
@@ -1760,7 +1760,7 @@
 9	einmanalegt	einmanalegur	ADJ	ADJ-N	Case=Nom|Degree=Pos	6	amod	_	_
 10	.	.	PUNCT	.	_	9	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057342,.10
+# sent_id = RUV_ESP_2017_G-2-1057342,10.
 # X_ID = ID_MISSING
 # text = Þrátt fyrir harðan heim sagðist Rúnar ekki vilja gera neitt annað, fótboltinn væri það sem hann kynni best og hann myndi hugsanlega alltaf vinna við fótbolta á einhvern hátt.
 1	Þrátt	þrátt	ADV	ADV	Degree=Pos	4	advmod	_	_
@@ -1795,7 +1795,7 @@
 30	hátt	háttur	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	25	obl	_	_
 31	.	.	PUNCT	.	_	30	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054845,.1
+# sent_id = RUV_TGS_2017_G-2-1054845,1.
 # X_ID = ID_MISSING
 # text = Geir Sveinsson landsliðsþjálfari í handbolta býst við að það skýrist í síðasta lagi á morgun hvort Aron Pálmarsson og Ásgeir Örn Hallgrímsson verði leikfærir fyrir HM í handbolta sem hefst í Frakklandi eftir 10 daga.
 1	Geir	geir	PROPN	NPR-N	_	6	nsubj	_	_
@@ -1835,7 +1835,7 @@
 35	daga	dagur	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	30	obl	_	_
 36	.	.	PUNCT	.	_	35	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.1
+# sent_id = RUV_ESP_2017_G-2-1065332,1.
 # X_ID = ID_MISSING
 # text = Stjórn og starfsfólk Íþróttasambands fatlaðra hefur lýst yfir vonbrigðum yfir því að Helgi Sveinsson, Evrópumeistari í spjótkasti, hafi ekki hlotið stig í kjöri Samtaka íþróttafréttamanna á Íþróttamanni ársins 2016. 
 1	Stjórn	stjórn	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	7	nsubj	_	_
@@ -1871,7 +1871,7 @@
 31	2016	2016	NUM	NUM-A	Case=Acc	29	obl	_	_
 32	.	.	PUNCT	.	_	31	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.2
+# sent_id = RUV_ESP_2017_G-2-1065332,2.
 # X_ID = ID_MISSING
 # text = Formaður Samtaka íþróttafréttamanna segir ekki litið niður á neinar íþróttir.
 1	Formaður	formaður	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
@@ -1886,7 +1886,7 @@
 10	íþróttir	íþrótt	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	6	obl	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.3
+# sent_id = RUV_ESP_2017_G-2-1065332,3.
 # X_ID = ID_MISSING
 # text = Á síðu Íþróttasambands fatlaðra má lesa eftirfarandi:
 1	Á	á	ADP	P	_	2	case	_	_
@@ -1898,7 +1898,7 @@
 7	eftirfarandi	eftirfarandi	ADJ	N-A	Case=Acc	6	obj	_	_
 8	:	:	PUNCT	.	_	7	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.4
+# sent_id = RUV_ESP_2017_G-2-1065332,4.
 # X_ID = ID_MISSING
 # text = „Stjórn og starfsfólk Íþróttasambands fatlaðra lýsa yfir vonbrigðum sínum á þeirri staðreynd að Evrópumeistarinn Helgi Sveinsson hafi ekki hlotið eitt einasta stig í kjöri Samtaka Íþróttafréttamanna á Íþróttamanni ársins 2016.
 1	„	„	PUNCT	"	_	7	punct	_	_
@@ -1934,7 +1934,7 @@
 31	2016	2016	NUM	NUM-A	Case=Acc	29	obl	_	_
 32	.	.	PUNCT	.	_	31	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.5
+# sent_id = RUV_ESP_2017_G-2-1065332,5.
 # X_ID = ID_MISSING
 # text = Fjöldi íþróttamanna gerði hávært tilkall til þess að vera inni á topp 10 listanum fyrir árið 2016 en alls voru 19 íþróttamenn sem hlutu stig í kosningunni. 
 1	Fjöldi	fjöldi	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	3	nsubj	_	_
@@ -1966,7 +1966,7 @@
 27	kosningunni	kosning	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	24	obl	_	_
 28	.	.	PUNCT	.	_	27	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.6
+# sent_id = RUV_ESP_2017_G-2-1065332,6.
 # X_ID = ID_MISSING
 # text = Allir sem fengu atkvæði í kosningunni eru vel að þeim komin og óskar Íþróttasamband fatlaðra þeim öllum innilega til hamingju. 
 1	Allir	allur	DET	Q-N	Case=Nom|Degree=Pos	11	nsubj	_	_
@@ -1991,7 +1991,7 @@
 20	hamingju	hamingja	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	13	obl	_	_
 21	.	.	PUNCT	.	_	20	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.7
+# sent_id = RUV_ESP_2017_G-2-1065332,7.
 # X_ID = ID_MISSING
 # text = Enginn íþróttamaður úr röðum fatlaðra hlaut stig í kjörinu þetta árið.
 1	Enginn	enginn	DET	Q-N	Case=Nom|Degree=Pos	2	amod	_	_
@@ -2007,7 +2007,7 @@
 11	árið	ár	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	6	obl	_	_
 12	.	.	PUNCT	.	_	11	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.8
+# sent_id = RUV_ESP_2017_G-2-1065332,8.
 # X_ID = ID_MISSING
 # text = Árið 2016 varð Helgi Sveinsson Evrópumeistari í spjótkasti í sameinuðum flokkum F42,43 og 44. 
 1	Árið	ár	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	3	obl	_	_
@@ -2026,7 +2026,7 @@
 14	44	fjórtán	NUM	NUM-N	Case=Nom	12	nummod	_	_
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.9
+# sent_id = RUV_ESP_2017_G-2-1065332,9.
 # X_ID = ID_MISSING
 # text = Þá setti hann nýtt Paralympic-met í flokki 42 á Paralympics sem fram fóru í Ríó de Janeiro þegar hann kastaði 53,96 metra og hafnaði í 5. sæti. 
 1	Þá	þá	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -2061,7 +2061,7 @@
 30	sæti	sæti	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	26	obl	_	_
 31	.	.	PUNCT	.	_	30	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.10
+# sent_id = RUV_ESP_2017_G-2-1065332,10.
 # X_ID = ID_MISSING
 # text = Á Paralympics er einnig keppt í sameinuðum flokkum aflimaðra (42,43 og 44) og er Helgi í flokki 42 eða þeirra sem keppa með mesta skerðingu innan flokkanna þriggja. 
 1	Á	á	ADP	P	_	2	case	_	_
@@ -2096,7 +2096,7 @@
 30	þriggja	þrír	NUM	NUM-G	Case=Gen	29	nummod	_	_
 31	.	.	PUNCT	.	_	30	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.11
+# sent_id = RUV_ESP_2017_G-2-1065332,11.
 # X_ID = ID_MISSING
 # text = Var hann einn úr hópi keppenda í flokki 42 sem komust í úrslit spjótkastkeppninnar í Ríó.
 1	Var	vera	AUX	BEDI	Mood=Ind|Tense=Past	3	cop	_	_
@@ -2117,7 +2117,7 @@
 16	Ríó	ríó	PROPN	NPR-D	_	14	obl	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.12
+# sent_id = RUV_ESP_2017_G-2-1065332,12.
 # X_ID = ID_MISSING
 # text = Er það einlæg von Íþróttasambands fatlaðra að ekki sé svo litið á að Evrópumeistaratitill í íþróttum fatlaðra og Paralympic-met séu svo léttvæg fundin að hægt sé að afskrifa slík afrek með öllu.“
 1	Er	vera	AUX	BEPI	Mood=Ind|Tense=Pres	3	cop	_	_
@@ -2157,7 +2157,7 @@
 35	.	.	PUNCT	.	_	34	punct	_	_
 36	“	“	PUNCT	"	_	35	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.13
+# sent_id = RUV_ESP_2017_G-2-1065332,13.
 # X_ID = ID_MISSING
 # text = Íþróttamaður ársins 2016 var kjörinn Gylfi Þór Sigurðsson, knattspyrnumaður hjá velska liðinu Swansea.
 1	Íþróttamaður	íþróttamaður	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	5	nsubj	_	_
@@ -2176,7 +2176,7 @@
 14	Swansea	ssansea	PROPN	NPR-G	_	13	appos	_	_
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.14
+# sent_id = RUV_ESP_2017_G-2-1065332,14.
 # X_ID = ID_MISSING
 # text = Eiríkur Stefán Ásgeirsson, formaður Samtaka íþróttafréttamanna, hafði þetta um málið að segja: 
 1	Eiríkur	eiríkur	PROPN	NPR-N	_	9	nsubj	_	_
@@ -2195,7 +2195,7 @@
 14	segja	segja	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 15	:	:	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065332,.15
+# sent_id = RUV_ESP_2017_G-2-1065332,15.
 # X_ID = ID_MISSING
 # text = „Svona var niðurstaðan að þessu sinni, við lítum ekki niður á neinar íþróttir.“.
 1	„	„	PUNCT	"	_	2	punct	_	_
@@ -2217,7 +2217,7 @@
 17	“	“	PUNCT	"	_	16	punct	_	_
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285534,.1
+# sent_id = RUV_TGS_2017_G-2-1285534,1.
 # X_ID = ID_MISSING
 # text = Í landsliðshópi Geirs Sveinssonar sem keppir fyrir Íslands hönd á HM í Frakklandi eru ungir og efnilegir leikmenn í bland við eldri og reynslumeiri. 
 1	Í	í	ADP	P	_	2	case	_	_
@@ -2246,7 +2246,7 @@
 24	reynslumeiri	reynslumiriil	ADJ	ADJR-A	Case=Acc|Degree=Cmp	22	amod	_	_
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285534,.2
+# sent_id = RUV_TGS_2017_G-2-1285534,2.
 # X_ID = ID_MISSING
 # text = Guðjón Valur Sigurðsson keppir á sínu 20. stórmóti, en Bjarki Már Elísson, Arnar Freyr Arnarsson, Janus Daði Smárason og Ómar Ingi Magnússon eru allir á sínu fyrsta stórmóti. 
 1	Guðjón	guðjón	PROPN	NPR-N	_	4	nsubj	_	_
@@ -2283,7 +2283,7 @@
 32	stórmóti	stórmót	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	4	conj	_	_
 33	.	.	PUNCT	.	_	32	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285534,.3
+# sent_id = RUV_TGS_2017_G-2-1285534,3.
 # X_ID = ID_MISSING
 # text = Upplýsingar um leikmenn Íslands má sjá hér fyrir neðan.
 1	Upplýsingar	upplýsing	NOUN	NS-A	Case=Nom|Definite=Ind|Number=Plur	6	obj	_	_
@@ -2297,7 +2297,7 @@
 9	neðan	neðan	ADV	ADV	Degree=Pos	7	obl	_	_
 10	.	.	PUNCT	.	_	9	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285534,.4
+# sent_id = RUV_TGS_2017_G-2-1285534,4.
 # X_ID = ID_MISSING
 # text = Vignir Svavarsson er veikur og fór ekki með liðinu til Kaupmannahafnar í dag þaðan sem liðið ferðast til Frakklands á morgun. 
 1	Vignir	vigni	PROPN	NPR-N	_	4	nsubj	_	_
@@ -2323,7 +2323,7 @@
 21	morgun	morgunn	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	17	obl	_	_
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285534,.5
+# sent_id = RUV_TGS_2017_G-2-1285534,5.
 # X_ID = ID_MISSING
 # text = Aron Pálmarsson er hins vegar kominn til móts við íslenska liðið, en það er þó enn óvíst um þátttöku hans á HM.
 1	Aron	aron	PROPN	NPR-N	_	6	nsubj	_	_
@@ -2351,7 +2351,7 @@
 23	HM	hm	PROPN	NPR-D	_	20	obl	_	_
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057360,.1
+# sent_id = RUV_ESP_2017_G-2-1057360,1.
 # X_ID = ID_MISSING
 # text = Unglingalandsliðsmanni í körfubolta var boðin nýjasta tegund af snjallsíma fyrir að hitta ekki úr fyrsta vítaskoti sínu í leik með landsliðinu fyrir nokkrum árum. 
 1	Unglingalandsliðsmanni	unglingalandsliðsmaður	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	5	nsubj	_	_
@@ -2380,7 +2380,7 @@
 24	árum	ár	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	19	obl	_	_
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057360,.2
+# sent_id = RUV_ESP_2017_G-2-1057360,2.
 # X_ID = ID_MISSING
 # text = Þetta kom fram á fundi Körfuknattleikssambands Íslands með foreldrum leikmanna í úrtakshópi fyrir unglingalandslið í körfubolta. 
 1	Þetta	þessi	DET	D-N	Case=Nom	2	nsubj	_	_
@@ -2401,7 +2401,7 @@
 16	körfubolta	körfubolti	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	14	obl	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057360,.3
+# sent_id = RUV_ESP_2017_G-2-1057360,3.
 # X_ID = ID_MISSING
 # text = Tilboðið kom frá manni sem setti sig í samband við leikmanninn stuttu fyrir landsliðsverkefni og ætlaði sér að græða á „klúðrinu“.
 1	Tilboðið	tilboð	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	_
@@ -2429,7 +2429,7 @@
 23	“	“	PUNCT	"	_	22	punct	_	_
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057360,.4
+# sent_id = RUV_ESP_2017_G-2-1057360,4.
 # X_ID = ID_MISSING
 # text = Leikmaðurinn var sextán ára þegar atvikið kom upp, fyrir tveimur til þremur árum, að sögn Hannesar S. Jónssonar formanns KKÍ en sambandið hafi ekki heyrt af þessu fyrr en eftir á og því ekki getað aðhafst neitt.
 1	Leikmaðurinn	leikmaður	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	7	nsubj	_	_
@@ -2473,7 +2473,7 @@
 39	neitt	neinn	DET	Q-A	Case=Acc|Degree=Pos	38	obj	_	_
 40	.	.	PUNCT	.	_	39	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057360,.5
+# sent_id = RUV_ESP_2017_G-2-1057360,5.
 # X_ID = ID_MISSING
 # text = „Þessi hluti kynningarinnar var til þess gerður að foreldrar átti sig á þeirri vá sem fylgir veðmálum og hagræðingu úrslita sem er því miður orðin fylgifiskur fótbolta, körfubolta og fleiri íþróttagreina,“ segir Hannes jafnframt í umfjöllun um málið í Morgunblaðinu í dag.
 1	„	„	PUNCT	"	_	36	punct	_	_
@@ -2524,7 +2524,7 @@
 46	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	44	obl	_	_
 47	.	.	PUNCT	.	_	46	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.1
+# sent_id = RUV_ESP_2017_G-2-1065338,1.
 # X_ID = ID_MISSING
 # text = Björn Einarsson, formaður Víkings, ætlar að gefa kost á sér til formanns Knattspyrnusambands Íslands. 
 1	Björn	björn	PROPN	NPR-N	_	7	nsubj	_	_
@@ -2545,7 +2545,7 @@
 16	Íslands	ísland	PROPN	NPR-G	_	15	nmod:poss	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.2
+# sent_id = RUV_ESP_2017_G-2-1065338,2.
 # X_ID = ID_MISSING
 # text = Þessu er haldið fram á fréttavefnum Vísi.
 1	Þessu	þessi	DET	D-D	Case=Dat	3	nsubj	_	_
@@ -2557,7 +2557,7 @@
 7	Vísi	vísir	PROPN	NPR-D	_	6	appos	_	_
 8	.	.	PUNCT	.	_	7	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.3
+# sent_id = RUV_ESP_2017_G-2-1065338,3.
 # X_ID = ID_MISSING
 # text = Það kom mörgum á óvart í gær þegar Geir Þorsteinsson, formaður KSÍ til tíu ára, sagðist ekki myndu bjóða sig fram til áframhaldandi setu á ársþingi sambandsins í febrúar.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	2	expl	_	_
@@ -2593,7 +2593,7 @@
 31	febrúar	febrúar	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	28	obl	_	_
 32	.	.	PUNCT	.	_	31	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.4
+# sent_id = RUV_ESP_2017_G-2-1065338,4.
 # X_ID = ID_MISSING
 # text = Guðni Bergsson, fyrrverandi landsliðsfyrirliði, hefur þegar tilkynnt framboð og Björn hafði fram til þessa legið undir feldi. 
 1	Guðni	guðni	PROPN	NPR-N	_	9	nsubj	_	_
@@ -2617,7 +2617,7 @@
 19	feldi	feldur	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	17	obl	_	_
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.5
+# sent_id = RUV_ESP_2017_G-2-1065338,5.
 # X_ID = ID_MISSING
 # text = Nafn Guðrúnar Ingu Sívertsen, varaformanns KSÍ, hefur einnig verið nefnt í þessu samhengi og sagðist hún í samtali við fotbolta.net ekki útiloka neitt í þeim efnum.
 1	Nafn	nafn	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	12	nsubj	_	_
@@ -2650,7 +2650,7 @@
 28	efnum	efni	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	24	obl	_	_
 29	.	.	PUNCT	.	_	28	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.6
+# sent_id = RUV_ESP_2017_G-2-1065338,6.
 # X_ID = ID_MISSING
 # text = Það virðist því stefna í spennandi formannskjör í Vestmannaeyjum í febrúar.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	2	expl	_	_
@@ -2666,7 +2666,7 @@
 11	febrúar	febrúar	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	9	obl	_	_
 12	.	.	PUNCT	.	_	11	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.7
+# sent_id = RUV_ESP_2017_G-2-1065338,7.
 # X_ID = ID_MISSING
 # text = Björn sendi frá sér eftirfarandi tilkynningu:
 1	Björn	björn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
@@ -2677,7 +2677,7 @@
 6	tilkynningu	tilkynning	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	_
 7	:	:	PUNCT	.	_	6	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.8
+# sent_id = RUV_ESP_2017_G-2-1065338,8.
 # X_ID = ID_MISSING
 # text = Björn Einarsson, formaður Knattspyrnufélagsins Víkings, hefur ákveðið að bjóða sig fram til formanns Knattspyrnusambands Íslands á ársþingi KSÍ 11. febrúar. 
 1	Björn	björn	PROPN	NPR-N	_	9	nsubj	_	_
@@ -2705,7 +2705,7 @@
 23	febrúar	febrúar	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	20	conj	_	_
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.9
+# sent_id = RUV_ESP_2017_G-2-1065338,9.
 # X_ID = ID_MISSING
 # text = Björn hefur mikla og víðtæka reynslu af stjórnarstörfum í íþrótta- og knattspyrnuhreyfingunni. 
 1	Björn	björn	PROPN	NPR-N	_	2	nsubj	_	_
@@ -2722,7 +2722,7 @@
 12	knattspyrnuhreyfingunni	knattspyrnuhreyfing	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	10	conj	_	_
 13	.	.	PUNCT	.	_	12	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.10
+# sent_id = RUV_ESP_2017_G-2-1065338,10.
 # X_ID = ID_MISSING
 # text = Hann var formaður knattspyrnudeildar Víkings 2007-2013 og formaður aðalstjórnar Víkings frá 2013 auk þess sem hann hefur setið í stjórn Íslensks toppfótbolta (ÍTF). 
 1	Hann	hann	PRON	PRO-N	Case=Nom	3	nsubj	_	_
@@ -2754,7 +2754,7 @@
 27	)	„	PUNCT	.	_	26	punct	_	_
 28	.	.	PUNCT	.	_	27	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.11
+# sent_id = RUV_ESP_2017_G-2-1065338,11.
 # X_ID = ID_MISSING
 # text = Björn hefur auk þess 20 ára reynslu af að stýra fyrirtækjum bæði hér á landi sem og erlendis. 
 1	Björn	björn	PROPN	NPR-N	_	2	nsubj	_	_
@@ -2777,7 +2777,7 @@
 18	erlendis	erlendis	ADV	ADV	Degree=Pos	17	advmod	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.12
+# sent_id = RUV_ESP_2017_G-2-1065338,12.
 # X_ID = ID_MISSING
 # text = Hann hefur verið framkvæmdastjóri TVG-Zimsen frá árinu 2006. 
 1	Hann	hann	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -2792,7 +2792,7 @@
 10	2006	2006	NUM	NUM-D	Case=Dat	9	appos	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.13
+# sent_id = RUV_ESP_2017_G-2-1065338,13.
 # X_ID = ID_MISSING
 # text = Björn mun ekki þiggja laun sem formaður KSÍ.
 1	Björn	björn	PROPN	NPR-N	_	4	nsubj	_	_
@@ -2805,7 +2805,7 @@
 8	KSÍ	ksí	PROPN	NPR-G	_	7	nmod:poss	_	_
 9	.	.	PUNCT	.	_	8	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.14
+# sent_id = RUV_ESP_2017_G-2-1065338,14.
 # X_ID = ID_MISSING
 # text = „Ég hef fengið mikla hvatningu úr knattspyrnuhreyfingunni undanfarnar vikur til að bjóða mig fram til formanns KSÍ. 
 1	„	„	PUNCT	"	_	4	punct	_	_
@@ -2828,7 +2828,7 @@
 18	KSÍ	ksí	PROPN	NPR-G	_	17	nmod:poss	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.15
+# sent_id = RUV_ESP_2017_G-2-1065338,15.
 # X_ID = ID_MISSING
 # text = Þetta er ákvörðun sem ég tek að mjög vel yfirlögðu ráði. 
 1	Þetta	þessi	DET	D-N	Case=Nom	3	nsubj	_	_
@@ -2844,7 +2844,7 @@
 11	ráði	ráð	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	6	obl	_	_
 12	.	.	PUNCT	.	_	11	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.16
+# sent_id = RUV_ESP_2017_G-2-1065338,16.
 # X_ID = ID_MISSING
 # text = Margt gott hefur áunnist innan sambandsins síðastliðinn áratug en engu að síður er skýr krafa um breytta og öflugri stjórnsýslu innan KSÍ sem mikilvægt er að hlusta á. 
 1	Margt	margur	DET	Q-N	Case=Nom|Degree=Pos	2	amod	_	_
@@ -2877,7 +2877,7 @@
 28	á	á	ADP	P	_	27	obl	_	_
 29	.	.	PUNCT	.	_	28	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.17
+# sent_id = RUV_ESP_2017_G-2-1065338,17.
 # X_ID = ID_MISSING
 # text = Ég tel mig koma með mikla reynslu og þekkingu úr knattspyrnuhreyfingunni og atvinnulífinu til að vinna að þessum breytingum með jákvæðum hætti og samvinnu allra aðila. 
 1	Ég	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -2908,7 +2908,7 @@
 26	aðila	aðili	NOUN	NS-G	Case=Gen|Definite=Ind|Number=Plur	25	conj	_	_
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.18
+# sent_id = RUV_ESP_2017_G-2-1065338,18.
 # X_ID = ID_MISSING
 # text = Mjög mikilvægt er að styrkja ímynd KSÍ gagnvart samfélaginu, aðildarfélögunum og samstarfsaðilum, innlendum sem erlendum. 
 1	Mjög	mjög	ADV	ADV	Degree=Pos	2	amod	_	_
@@ -2930,7 +2930,7 @@
 17	erlendum	erlendur	ADJ	ADJ-D	Case=Dat|Degree=Pos	15	amod	_	_
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.19
+# sent_id = RUV_ESP_2017_G-2-1065338,19.
 # X_ID = ID_MISSING
 # text = Það er mikill mannauður og reynsla innan stjórnar og á skrifstofu KSÍ sem nýta þarf vel og vandlega. 
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	8	expl	_	_
@@ -2953,7 +2953,7 @@
 18	vandlega	vandlega	ADV	ADV	Degree=Pos	16	advmod	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.20
+# sent_id = RUV_ESP_2017_G-2-1065338,20.
 # X_ID = ID_MISSING
 # text = Efla þarf sjálfstæði skrifstofu KSÍ og styrkja hana enn betur til að takast á við daglegan rekstur. 
 1	Efla	efla	VERB	VB	VerbForm=Inf	2	acl	_	_
@@ -2975,7 +2975,7 @@
 17	rekstur	rekstur	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	13	obl	_	_
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.21
+# sent_id = RUV_ESP_2017_G-2-1065338,21.
 # X_ID = ID_MISSING
 # text = Ennfremur er mikilvægt í mínum huga að tryggja þarf skýrt jafnvægi milli stjórnar KSÍ og skrifstofu sambandsins. 
 1	Ennfremur	ennfremu	ADV	ADV	Degree=Pos	3	advmod	_	_
@@ -2997,7 +2997,7 @@
 17	sambandsins	samband	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	16	nmod:poss	_	_
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.22
+# sent_id = RUV_ESP_2017_G-2-1065338,22.
 # X_ID = ID_MISSING
 # text = Það er mikil og góð vinna unnin í grasrótinni og á meðal aðildarfélaga KSÍ. 
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	7	expl	_	_
@@ -3016,7 +3016,7 @@
 14	KSÍ	ksí	PROPN	NPR-G	_	13	nmod:poss	_	_
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.23
+# sent_id = RUV_ESP_2017_G-2-1065338,23.
 # X_ID = ID_MISSING
 # text = Tryggja þarf öflugri brú á milli KSÍ og aðildarfélaganna sem hafa margar og ólíkar þarfir. 
 1	Tryggja	tryggja	VERB	VB	VerbForm=Inf	2	acl	_	_
@@ -3036,7 +3036,7 @@
 15	þarfir	þörf	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	11	obj	_	_
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.24
+# sent_id = RUV_ESP_2017_G-2-1065338,24.
 # X_ID = ID_MISSING
 # text = Ég mun beita mér fyrir því að að efla umgjörð og vinnuramma landshlutafulltrúa sambandsins og styrkja þannig tengingu landsbyggðarinnar við KSÍ. 
 1	Ég	ég	PRON	PRO-N	Case=Nom	3	nsubj	_	_
@@ -3062,7 +3062,7 @@
 21	KSÍ	ksí	PROPN	NPR-A	_	18	obl	_	_
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.25
+# sent_id = RUV_ESP_2017_G-2-1065338,25.
 # X_ID = ID_MISSING
 # text = Ég mun leggja mig allan fram og vinna af krafti og heilindum fyrir öll aðildarfélög KSÍ og íslenska knattspyrnu. 
 1	Ég	ég	PRON	PRO-N	Case=Nom	3	nsubj	_	_
@@ -3086,7 +3086,7 @@
 19	knattspyrnu	knattspyrna	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	15	conj	_	_
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1065338,.26
+# sent_id = RUV_ESP_2017_G-2-1065338,26.
 # X_ID = ID_MISSING
 # text = Tækifærin eru sannarlega til staðar í þessum frábæra meðbyr sem íslensku landsliðin, bæði kvenna og karla, hafa búið til fyrir okkur,“ segir Björn.
 1	Tækifærin	tækifær	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	5	nsubj	_	_
@@ -3118,7 +3118,7 @@
 27	Björn	björn	PROPN	NPR-N	_	26	nsubj	_	_
 28	.	.	PUNCT	.	_	27	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.1
+# sent_id = RUV_ESP_2017_G-2-1057362,1.
 # X_ID = ID_MISSING
 # text = Esja vann sinn fjórtánda leik í röð í Hertz-deild karla í íshokkí í gærkvöld. 
 1	Esja	esja	PROPN	NPR-N	_	2	nsubj	_	_
@@ -3139,7 +3139,7 @@
 16	gærkvöld	gærkvöld	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	2	obl	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.2
+# sent_id = RUV_ESP_2017_G-2-1057362,2.
 # X_ID = ID_MISSING
 # text = Liðið hafði þá betur gegn Skautafélagi Akureyrar 5-3 í jöfnum og spennandi leik.
 1	Liðið	lið	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	_
@@ -3159,7 +3159,7 @@
 15	leik	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	2	obl	_	_
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.3
+# sent_id = RUV_ESP_2017_G-2-1057362,3.
 # X_ID = ID_MISSING
 # text = Esja byrjaði betur en eftir því sem leið á fyrstu lotu komst SA betur inn í leikinn. 
 1	Esja	esja	PROPN	NPR-N	Case=Nom|Definite=Ind	2	nsubj	_	_
@@ -3181,7 +3181,7 @@
 17	leikinn	leikur	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	12	obl	_	_
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.4
+# sent_id = RUV_ESP_2017_G-2-1057362,4.
 # X_ID = ID_MISSING
 # text = Hvorugu liðinu tókst þó að skora fyrstu 20 mínúturnar.
 1	Hvorugu	hvorugur	DET	Q-D	Case=Dat|Degree=Pos	2	amod	_	_
@@ -3195,7 +3195,7 @@
 9	mínúturnar	mínúta	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	8	conj	_	_
 10	.	.	PUNCT	.	_	9	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.5
+# sent_id = RUV_ESP_2017_G-2-1057362,5.
 # X_ID = ID_MISSING
 # text = Mikko Salonen kom SA yfir í upphafi annarrar lotu en það tók Matthías Sigurðsson aðeins 20 sekúndur að jafna fyrir toppliðið. 
 1	Mikko	mikko	PROPN	NPR-N	_	3	nsubj	_	_
@@ -3221,7 +3221,7 @@
 21	toppliðið	topplið	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	19	obl	_	_
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.6
+# sent_id = RUV_ESP_2017_G-2-1057362,6.
 # X_ID = ID_MISSING
 # text = Andri Mikaelsson kom SA aftur yfir þegar um þrjár mínútur voru eftir af lotunni en aftur jöfnuðu Esjumenn stuttu síðar með marki frá Agli Þormóðssyni og staðan 2-2 fyrir lokalotuna.
 1	Andri	andri	PROPN	NPR-N	_	3	nsubj	_	_
@@ -3258,7 +3258,7 @@
 32	lokalotuna	lokalota	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	3	conj	_	_
 33	.	.	PUNCT	.	_	32	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.7
+# sent_id = RUV_ESP_2017_G-2-1057362,7.
 # X_ID = ID_MISSING
 # text = Egill var aftur á ferðinni í þriðju lotu þegar hann kom Esjumönnum yfir í fyrsta skipti í leiknum. 
 1	Egill	egill	PROPN	NPR-N	_	5	nsubj	_	_
@@ -3281,7 +3281,7 @@
 18	leiknum	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	16	obl	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.8
+# sent_id = RUV_ESP_2017_G-2-1057362,8.
 # X_ID = ID_MISSING
 # text = Andri Sverrisson breytti stöðunni svo í 4-2 en Akureyringar gáfust ekki upp og Sigurður Sigurðarson minnkaði muninn sjö mínútum fyrir leikslok. 
 1	Andri	andri	PROPN	NPR-N	_	3	nsubj	_	_
@@ -3309,7 +3309,7 @@
 23	leikslok	leikslok	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	21	obl	_	_
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.9
+# sent_id = RUV_ESP_2017_G-2-1057362,9.
 # X_ID = ID_MISSING
 # text = Ólafur Björnsson gulltryggði hins vegar sigur Esju 5-3 í blálokin og liðið er enn ósigrað á tímabilinu.
 1	Ólafur	ólafur	PROPN	NPR-N	_	3	nsubj	_	_
@@ -3333,7 +3333,7 @@
 19	tímabilinu	tímabil	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	17	obl	_	_
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.10
+# sent_id = RUV_ESP_2017_G-2-1057362,10.
 # X_ID = ID_MISSING
 # text = Björninn vann Skautafélag Reykjavíkur í gærkvöldi 12-2 og situr í öðru sæti deildarinnar ásamt SA. 
 1	Björninn	björni	PROPN	NPR-N	_	2	nsubj	_	_
@@ -3355,7 +3355,7 @@
 17	SA	sa	PROPN	NPR-D	_	11	obl	_	_
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057362,.11
+# sent_id = RUV_ESP_2017_G-2-1057362,11.
 # X_ID = ID_MISSING
 # text = Esja hefur örugga forystu á toppi deildarinnar.
 1	Esja	esja	PROPN	NPR-N	_	2	nsubj	_	_
@@ -3367,7 +3367,7 @@
 7	deildarinnar	deild	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	6	nmod:poss	_	_
 8	.	.	PUNCT	.	_	7	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.1
+# sent_id = RUV_ESP_2017_G-2-1057358,1.
 # X_ID = ID_MISSING
 # text = Tæplega 30% knattspyrnumanna á Íslandi, sem tóku þátt í íslenskri rannsókn, segjast stunda peningaspil vikulega eða oftar. 
 1	Tæplega	tæplega	ADV	ADV	Degree=Pos	4	advmod	_	_
@@ -3392,7 +3392,7 @@
 20	oftar	oft	ADV	ADVR	Degree=Cmp	18	advmod	_	_
 21	.	.	PUNCT	.	_	20	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.2
+# sent_id = RUV_ESP_2017_G-2-1057358,2.
 # X_ID = ID_MISSING
 # text = Um fimmtungur þeirra viðurkennir að þeir veðji á eigin leiki. 
 1	Um	um	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -3407,7 +3407,7 @@
 10	leiki	leikur	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	7	obl	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.3
+# sent_id = RUV_ESP_2017_G-2-1057358,3.
 # X_ID = ID_MISSING
 # text = Rúmlega sjö hundruð leikmenn tóku þátt í rannsókninni og niðurstöðurnar voru kynntar á ráðstefnu í Háskóla Íslands í gær. 
 1	Rúmlega	rúmlega	ADV	ADV	Degree=Pos	4	advmod	_	_
@@ -3431,7 +3431,7 @@
 19	gær	gær	ADV	ADV	Degree=Pos	16	obl	_	_
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.4
+# sent_id = RUV_ESP_2017_G-2-1057358,4.
 # X_ID = ID_MISSING
 # text = Aðeins 2,3% knattspyrnukvenna segjast stunda peningaspil vikulega, langflestar á erlendum vefsíðum.
 1	Aðeins	aðeins	ADV	FP	Degree=Pos	4	advmod	_	_
@@ -3449,7 +3449,7 @@
 13	vefsíðum	vefsíða	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	10	obl	_	_
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.5
+# sent_id = RUV_ESP_2017_G-2-1057358,5.
 # X_ID = ID_MISSING
 # text = Samkvæmt reglum Knattspyrnusambands Íslands mega samningsbundnir leikmenn á Íslandi ekki veðja á úrslit neinna leikja hérlendis - hvorki sinna eigin leikja né annarra liða. 
 1	Samkvæmt	samkvæmt	ADP	P	_	2	case	_	_
@@ -3478,7 +3478,7 @@
 24	liða	lið	NOUN	NS-G	Case=Gen|Definite=Ind|Number=Plur	21	conj	_	_
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.6
+# sent_id = RUV_ESP_2017_G-2-1057358,6.
 # X_ID = ID_MISSING
 # text = Af þeim rúmlega sjö hundruð, sem tóku þátt í rannsókninni, viðurkenndu um 7% að hafa veðjað á úrslit eigin leikja.
 1	Af	af	ADP	P	_	5	case	_	_
@@ -3506,7 +3506,7 @@
 23	leikja	leikur	NOUN	NS-G	Case=Gen|Definite=Ind|Number=Plur	21	nmod:poss	_	_
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057358,.7
+# sent_id = RUV_ESP_2017_G-2-1057358,7.
 # X_ID = ID_MISSING
 # text = Daníel Ólason, prófessor í sálfræði við HÍ og einn aðstandenda rannsóknarinnar, bendir á í samtali við Vísiað þrátt fyrir að niðurstöðurnar segi ekki til um hvort úrslitum leikja á Íslandi hafi verið hagrætt séu háar fjárhæðir undir og freistingin klárlega til staðar.
 1	Daníel	daníel	PROPN	NPR-N	_	14	nsubj	_	_
@@ -3555,7 +3555,7 @@
 44	staðar	staður	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	41	obl	_	_
 45	.	.	PUNCT	.	_	44	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.1
+# sent_id = RUV_ESP_2017_G-2-1057364,1.
 # X_ID = ID_MISSING
 # text = Arnar Davíð Jónsson sló í gærkvöldi tvö Íslandsmet í keilu, annað tíu ára gamalt, á Veitvet DBL-mótinu í Noregi. 
 1	Arnar	arnar	PROPN	NPR-N	_	4	nsubj	_	_
@@ -3583,7 +3583,7 @@
 23	Noregi	noregur	PROPN	NPR-D	_	21	obl	_	_
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.2
+# sent_id = RUV_ESP_2017_G-2-1057364,2.
 # X_ID = ID_MISSING
 # text = Hann spilaði frábærlega á 1352 í fimm leikjum, 270,4 að meðaltali.
 1	Hann	hann	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -3600,7 +3600,7 @@
 12	meðaltali	meðaltal	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	10	obl	_	_
 13	.	.	PUNCT	.	_	12	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.3
+# sent_id = RUV_ESP_2017_G-2-1057364,3.
 # X_ID = ID_MISSING
 # text = Í þessari fimm leikja röð sló hann metin tvö, þ.e.a.s. bæði í fjögurra og fimm leikja röð. 
 1	Í	í	ADP	P	_	5	case	_	_
@@ -3624,7 +3624,7 @@
 19	röð	röð	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	6	obl	_	_
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.4
+# sent_id = RUV_ESP_2017_G-2-1057364,4.
 # X_ID = ID_MISSING
 # text = Það fyrra, 1069 í fjögurra leikja röð, setti Hafþór Harðarson 2011 og Arnar bætti það um 25 pinna (samtals 1094). 
 1	Það	sá	DET	D-N	Case=Nom	10	obj	_	_
@@ -3653,7 +3653,7 @@
 24	)	„	PUNCT	.	_	23	punct	_	_
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.5
+# sent_id = RUV_ESP_2017_G-2-1057364,5.
 # X_ID = ID_MISSING
 # text = Hafþór átti líka síðara metið sem hann setti 2007, 1284 í fimm leikja röð, en Arnar bætti það svo um munaði um 68 pinna (samtals 1352).
 1	Hafþór	hafþór	PROPN	NPR-N	_	2	nsubj	_	_
@@ -3688,7 +3688,7 @@
 30	)	„	PUNCT	.	_	29	punct	_	_
 31	.	.	PUNCT	.	_	30	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.6
+# sent_id = RUV_ESP_2017_G-2-1057364,6.
 # X_ID = ID_MISSING
 # text = Arnar er núna að undirbúa sig fyrir stórt mót í Svíþjóð, AIK International, sem er haldið í Stokkhólmi þessa dagana og lýkur næstu helgi. 
 1	Arnar	arn	PROPN	NPR-N	_	0	root	_	_
@@ -3719,7 +3719,7 @@
 26	helgi	helgi	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	24	obl	_	_
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057364,.7
+# sent_id = RUV_ESP_2017_G-2-1057364,7.
 # X_ID = ID_MISSING
 # text = Magnús Guðmundsson verður þar einnig meðal keppenda.
 1	Magnús	magnús	PROPN	NPR-N	_	3	nsubj	_	_
@@ -3731,7 +3731,7 @@
 7	keppenda	keppandi	NOUN	NS-G	Case=Gen|Definite=Ind|Number=Plur	3	obl	_	_
 8	.	.	PUNCT	.	_	7	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.1
+# sent_id = RUV_TGS_2017_G-2-1321615,1.
 # X_ID = ID_MISSING
 # text = „Það er hellingur sem við getum lært af leiknum í gær. 
 1	„	„	PUNCT	"	_	2	punct	_	_
@@ -3748,7 +3748,7 @@
 12	gær	gær	ADV	ADV	Degree=Pos	10	obl	_	_
 13	.	.	PUNCT	.	_	12	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.2
+# sent_id = RUV_TGS_2017_G-2-1321615,2.
 # X_ID = ID_MISSING
 # text = Við þurfum kannski fyrst og fremst að hafa áfram trú á leikskipulaginu okkar. 
 1	Við	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -3766,7 +3766,7 @@
 13	okkar	ég	PRON	PRO-G	Case=Gen	12	nmod:poss	_	_
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.3
+# sent_id = RUV_TGS_2017_G-2-1321615,3.
 # X_ID = ID_MISSING
 # text = Við fórum aðeins flýta okkur þegar leið á seinni hálfleikinn eftir að hafa spilað fyrri hluta seinni hálfleiks bara nokkuð vel,“ sagði Janus Daði Smárason leikstjórnandi í íslenska landsliðinu í handbolta þegar RÚV ræddi við hann í dag.
 1	Við	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -3811,7 +3811,7 @@
 40	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	36	obl	_	_
 41	.	.	PUNCT	.	_	40	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.4
+# sent_id = RUV_TGS_2017_G-2-1321615,4.
 # X_ID = ID_MISSING
 # text = Janus telur íslenska landsliðið taka framförum í hverjum leik sem liðið spilar, en talsverðar breytingar hafa orðið á íslenska landsliðinu á síðustu mánuðum. 
 1	Janus	janus	PROPN	NPR-N	_	2	nsubj	_	_
@@ -3840,7 +3840,7 @@
 24	mánuðum	mánuður	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	18	obl	_	_
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.5
+# sent_id = RUV_TGS_2017_G-2-1321615,5.
 # X_ID = ID_MISSING
 # text = „Spánverjar eru eitt af þremur bestu liðum í heimi. 
 1	„	„	PUNCT	"	_	2	punct	_	_
@@ -3855,7 +3855,7 @@
 10	heimi	heimur	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	8	obl	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.6
+# sent_id = RUV_TGS_2017_G-2-1321615,6.
 # X_ID = ID_MISSING
 # text = Þannig það eru auðvitað bara forréttindi fyrir okkur að læra hvað þarf að gera betur til að vinna bestu liðin.“
 1	Þannig	þannig	ADV	ADV	Degree=Pos	0	root	_	_
@@ -3881,7 +3881,7 @@
 21	.	.	PUNCT	.	_	20	punct	_	_
 22	“	“	PUNCT	"	_	21	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.7
+# sent_id = RUV_TGS_2017_G-2-1321615,7.
 # X_ID = ID_MISSING
 # text = Ísland mætir Slóveníu í næsta leik á HM klukkan 13:45 á morgun. 
 1	Ísland	ísland	PROPN	NPR-N	_	2	nsubj	_	_
@@ -3898,7 +3898,7 @@
 12	morgun	morgunn	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	9	obl	_	_
 13	.	.	PUNCT	.	_	12	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.8
+# sent_id = RUV_TGS_2017_G-2-1321615,8.
 # X_ID = ID_MISSING
 # text = Janus telur slóvenska liðið gríðarlega sterkt. 
 1	Janus	janus	PROPN	NPR-N	_	2	nsubj	_	_
@@ -3909,7 +3909,7 @@
 6	sterkt	sterkur	ADJ	ADJ-A	Case=Acc|Degree=Pos	2	ccomp	_	_
 7	.	.	PUNCT	.	_	6	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.9
+# sent_id = RUV_TGS_2017_G-2-1321615,9.
 # X_ID = ID_MISSING
 # text = „Við þurfum að mæta vel innstilltir á móti Slóvenum. 
 1	„	„	PUNCT	"	_	3	punct	_	_
@@ -3924,7 +3924,7 @@
 10	Slóvenum	slóvenir	PROPN	NPRS-D	_	9	nmod:poss	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.10
+# sent_id = RUV_TGS_2017_G-2-1321615,10.
 # X_ID = ID_MISSING
 # text = Svona eins og við gerðum í gær, en við þurfum bara að eiga 60 frábærar mínútur til að vinna þá,“ sagði Janus um Slóvenana.
 1	Svona	svona	ADV	ADV	Degree=Pos	0	root	_	_
@@ -3956,7 +3956,7 @@
 27	Slóvenana	slóvenu	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	24	obl	_	_
 28	.	.	PUNCT	.	_	27	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.11
+# sent_id = RUV_TGS_2017_G-2-1321615,11.
 # X_ID = ID_MISSING
 # text = „Ef við förum ekki vel með boltann og endum sóknirnar okkar ekki vel, þá vitum við að Slóvenar keyra í bakið á okkur,“ sagði Janus vel meðvitaður um styrkleika slóvenska liðsins.
 1	„	„	PUNCT	"	_	17	punct	_	_
@@ -3996,7 +3996,7 @@
 35	liðsins	lið	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	33	nmod:poss	_	_
 36	.	.	PUNCT	.	_	35	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.12
+# sent_id = RUV_TGS_2017_G-2-1321615,12.
 # X_ID = ID_MISSING
 # text = Þau tíðindi bárust í morgun frá Haukum að Janus Daði myndi ekki snúa aftur til Hauka eftir HM, heldur færi beint til Álaborgar í Danmerkur. 
 1	Þau	sá	DET	D-N	Case=Nom	2	det	_	_
@@ -4027,7 +4027,7 @@
 26	Danmerkur	danmerk	PROPN	NPR-D	_	24	obl	_	_
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.13
+# sent_id = RUV_TGS_2017_G-2-1321615,13.
 # X_ID = ID_MISSING
 # text = Álaborg hafði gengið frá samningi við Janus Daða frá og með næsta sumri, en óskaði eftir því á þriðjudag að fá hann strax að heimsmeistaramóti loknu.
 1	Álaborg	álaborg	PROPN	NPR-N	_	3	nsubj	_	_
@@ -4059,7 +4059,7 @@
 27	loknu	ljúka	VERB	VAN-D	Case=Dat|Degree=Pos|Tense=Past	22	obl	_	_
 28	.	.	PUNCT	.	_	27	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.14
+# sent_id = RUV_TGS_2017_G-2-1321615,14.
 # X_ID = ID_MISSING
 # text = „Álaborg er bara með fimm útispilara og vildu bara fá aukinn liðsstyrk fyrir komandi átök. 
 1	„	„	PUNCT	"	_	7	punct	_	_
@@ -4080,7 +4080,7 @@
 16	átök	átak	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	11	obl	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.15
+# sent_id = RUV_TGS_2017_G-2-1321615,15.
 # X_ID = ID_MISSING
 # text = Þeir eru í bikarnum og svo úrslitakeppni framundan og svona. 
 1	Þeir	hann	PRON	PRO-N	Case=Nom	4	nsubj	_	_
@@ -4095,7 +4095,7 @@
 10	svona	svona	ADV	ADV	Degree=Pos	8	conj	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.16
+# sent_id = RUV_TGS_2017_G-2-1321615,16.
 # X_ID = ID_MISSING
 # text = Þannig þetta endaði svona og ég er bara spenntur,“ sagði Janus Daði sem þakkaði Haukum kærlega fyrir að vera svo liðlegir í því að leyfa honum að halda strax til Álaborgar.
 1	Þannig	þannig	ADV	ADV	Degree=Pos	12	advmod	_	_
@@ -4133,7 +4133,7 @@
 33	Álaborgar	álaborg	PROPN	NPR-G	_	30	obl	_	_
 34	.	.	PUNCT	.	_	33	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321615,.17
+# sent_id = RUV_TGS_2017_G-2-1321615,17.
 # X_ID = ID_MISSING
 # text = Rætt er við Janus Daða í spilaranum hér fyrir ofan.
 1	Rætt	ræta	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -4148,7 +4148,7 @@
 10	ofan	ofan	ADV	ADV	Degree=Pos	8	obl	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.1
+# sent_id = RUV_TGS_2017_G-2-1054741,1.
 # X_ID = ID_MISSING
 # text = Guðjón Valur Sigurðsson, fyrirliði íslenska karlalandsliðsins í handbolta, er á leið á sitt tuttugasta stórmót nú þegar HM í Frakklandi hefst í næstu viku. 
 1	Guðjón	guðjón	PROPN	NPR-N	_	13	nsubj	_	_
@@ -4179,7 +4179,7 @@
 26	viku	vika	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	23	obl	_	_
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.2
+# sent_id = RUV_TGS_2017_G-2-1054741,2.
 # X_ID = ID_MISSING
 # text = Guðjón Valur hefur þó lengi verið á þeirri skoðun að stórmót í handbolta séu alltof mörg.
 1	Guðjón	guðjón	PROPN	NPR-N	_	3	nsubj	_	_
@@ -4200,7 +4200,7 @@
 16	mörg	margur	ADJ	ADJ-N	Case=Nom|Degree=Pos	9	ccomp	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.3
+# sent_id = RUV_TGS_2017_G-2-1054741,3.
 # X_ID = ID_MISSING
 # text = Þrátt fyrir mikið leikjaálag og fjölda móta hefur Guðjón Valur aldrei skorast undan því að spila fyrir landsliðið. 
 1	Þrátt	þrátt	ADV	ADV	Degree=Pos	4	advmod	_	_
@@ -4223,7 +4223,7 @@
 18	landsliðið	landslið	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	16	obl	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.4
+# sent_id = RUV_TGS_2017_G-2-1054741,4.
 # X_ID = ID_MISSING
 # text = „Ef að maður tekur þá ákvörðun að gefa kost á sér og fara á mót, þá verður maður að taka því eins og það er lagt upp. Ekki væla yfir því hvernig leikjafyrirkomulagið er. 
 1	„	„	PUNCT	"	_	19	punct	_	_
@@ -4265,7 +4265,7 @@
 37	er	vera	AUX	BEPI	Mood=Ind|Tense=Pres	36	cop	_	_
 38	.	.	PUNCT	.	_	37	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.5
+# sent_id = RUV_TGS_2017_G-2-1054741,5.
 # X_ID = ID_MISSING
 # text = Ég tek þessu eins og það er, en reyni kannski að breyta einhverju þegar ég verð hættur að spila,“ segir Guðjón Valur.
 1	Ég	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -4295,7 +4295,7 @@
 25	Valur	valur	PROPN	NPR-N	_	24	flat:name	_	_
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.6
+# sent_id = RUV_TGS_2017_G-2-1054741,6.
 # X_ID = ID_MISSING
 # text = Guðjón hefur þó lengi verið þeirrar skoðunar að stórmót í handbolta eru of mörg. 
 1	Guðjón	guðjón	PROPN	NPR-N	_	2	nsubj	_	_
@@ -4314,7 +4314,7 @@
 14	mörg	margur	ADJ	ADJ-N	Case=Nom|Degree=Pos	2	ccomp	_	_
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.7
+# sent_id = RUV_TGS_2017_G-2-1054741,7.
 # X_ID = ID_MISSING
 # text = „Þú átt að fækka stórmótum - alveg klárlega. 
 1	„	„	PUNCT	"	_	3	punct	_	_
@@ -4328,7 +4328,7 @@
 9	klárlega	klárlega	ADV	ADV	Degree=Pos	8	advmod	_	_
 10	.	.	PUNCT	.	_	9	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.8
+# sent_id = RUV_TGS_2017_G-2-1054741,8.
 # X_ID = ID_MISSING
 # text = Það er enginn sem að veit hvort það sé HM eða EM framundan. 
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
@@ -4346,7 +4346,7 @@
 13	framundan	framundan	ADV	ADV	Degree=Pos	10	advmod	_	_
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.9
+# sent_id = RUV_TGS_2017_G-2-1054741,9.
 # X_ID = ID_MISSING
 # text = Þeir sem voru á Ólympíuleikunum eru að fara á sitt þriðja stórmót á tólf mánuðum. 
 1	Þeir	sá	DET	D-N	Case=Nom	0	root	_	_
@@ -4366,7 +4366,7 @@
 15	mánuðum	mánuður	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	12	obl	_	_
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.10
+# sent_id = RUV_TGS_2017_G-2-1054741,10.
 # X_ID = ID_MISSING
 # text = Það er engin vitglóra í því að mínu mati. 
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	6	expl	_	_
@@ -4380,7 +4380,7 @@
 9	mati	mat	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	6	obl	_	_
 10	.	.	PUNCT	.	_	9	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.11
+# sent_id = RUV_TGS_2017_G-2-1054741,11.
 # X_ID = ID_MISSING
 # text = Ég segi reyndar líka að það eigi að færa mótin aftur fyrir deildakeppnirnar og vera með þau í byrjun sumars. 
 1	Ég	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -4405,7 +4405,7 @@
 20	sumars	sumar	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	19	nmod:poss	_	_
 21	.	.	PUNCT	.	_	20	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.12
+# sent_id = RUV_TGS_2017_G-2-1054741,12.
 # X_ID = ID_MISSING
 # text = Þá hefur þú líka eitthvað fyrir áhorfendur. 
 1	Þá	þá	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -4417,7 +4417,7 @@
 7	áhorfendur	áhorfandi	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	2	obl	_	_
 8	.	.	PUNCT	.	_	7	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.13
+# sent_id = RUV_TGS_2017_G-2-1054741,13.
 # X_ID = ID_MISSING
 # text = Þá geta þeir verið úti og skemmt sér eins og við sjáum í Final4 úrslitahelgi Meistaradeildarinnar.“
 1	Þá	þá	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -4439,7 +4439,7 @@
 17	.	.	PUNCT	.	_	16	punct	_	_
 18	“	“	PUNCT	"	_	17	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.14
+# sent_id = RUV_TGS_2017_G-2-1054741,14.
 # X_ID = ID_MISSING
 # text = „Við höfum alltaf spilað í janúar. 
 1	„	„	PUNCT	"	_	5	punct	_	_
@@ -4451,7 +4451,7 @@
 7	janúar	janúar	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	5	obl	_	_
 8	.	.	PUNCT	.	_	7	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.15
+# sent_id = RUV_TGS_2017_G-2-1054741,15.
 # X_ID = ID_MISSING
 # text = Af því það hefur alltaf verið gert, þá er það gert áfram. 
 1	Af	af	ADP	P	_	2	case	_	_
@@ -4469,7 +4469,7 @@
 13	áfram	áfram	ADV	ADV	Degree=Pos	12	advmod	_	_
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.16
+# sent_id = RUV_TGS_2017_G-2-1054741,16.
 # X_ID = ID_MISSING
 # text = Það má engu breyta.“
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	4	expl	_	_
@@ -4479,7 +4479,7 @@
 5	.	.	PUNCT	.	_	4	punct	_	_
 6	“	“	PUNCT	"	_	5	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.17
+# sent_id = RUV_TGS_2017_G-2-1054741,17.
 # X_ID = ID_MISSING
 # text = Það sama virðist vera upp á teningnum í kvennahandboltanum og Þórir Hergeirsson þjálfari norska kvennalandsliðsins deilir skoðunum Guðjóns Vals. 
 1	Það	sá	DET	D-N	Case=Nom	3	nsubj	_	_
@@ -4503,7 +4503,7 @@
 19	Vals	valur	PROPN	NPR-G	_	18	flat:name	_	_
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.18
+# sent_id = RUV_TGS_2017_G-2-1054741,18.
 # X_ID = ID_MISSING
 # text = „Ég finn fyrir mikilli pressu frá okkar styrktaraðilum sem leggja mikla peninga í handboltann í Noregi, að þeir vilja að allir bestu leikmennirnir séu alltaf með landsliðinu,“ segir Þórir.
 1	„	„	PUNCT	"	_	3	punct	_	_
@@ -4541,7 +4541,7 @@
 33	Þórir	þórir	PROPN	NPR-N	_	32	nsubj	_	_
 34	.	.	PUNCT	.	_	33	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.19
+# sent_id = RUV_TGS_2017_G-2-1054741,19.
 # X_ID = ID_MISSING
 # text = Þórir telur besta handboltafólk heims spila alltof marga leiki yfir árið með félagsliðum sínum og landsliðum. 
 1	Þórir	þórir	PROPN	NPR-N	_	2	nsubj	_	_
@@ -4562,7 +4562,7 @@
 16	landsliðum	landslið	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	13	conj	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.20
+# sent_id = RUV_TGS_2017_G-2-1054741,20.
 # X_ID = ID_MISSING
 # text = „Þetta er orðið alltof mikið. 
 1	„	„	PUNCT	"	_	4	punct	_	_
@@ -4573,7 +4573,7 @@
 6	mikið	mikill	DET	Q-N	Case=Nom|Degree=Pos	5	amod	_	_
 7	.	.	PUNCT	.	_	6	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.21
+# sent_id = RUV_TGS_2017_G-2-1054741,21.
 # X_ID = ID_MISSING
 # text = Bestu leikmennirnir eru farnir að spila 80-90 leikmenn á ári.“
 1	Bestu	góður	ADJ	ADJS-N	Case=Nom|Degree=Sup	2	amod	_	_
@@ -4591,7 +4591,7 @@
 13	.	.	PUNCT	.	_	12	punct	_	_
 14	“	“	PUNCT	"	_	13	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.22
+# sent_id = RUV_TGS_2017_G-2-1054741,22.
 # X_ID = ID_MISSING
 # text = „En spurningin er líka hvort fólk fái ekki einhvern tímann ógeð þegar við erum alltaf að, og aldrei má gefa hvíld. 
 1	„	„	PUNCT	"	_	3	punct	_	_
@@ -4619,7 +4619,7 @@
 23	hvíld	hvíld	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	22	obj	_	_
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.23
+# sent_id = RUV_TGS_2017_G-2-1054741,23.
 # X_ID = ID_MISSING
 # text = Það er eins og fólk sé hrætt við að handboltinn gleymist ef við erum ekki alltaf að,“ segir Guðjón Valur Sigurðsson.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	20	expl	_	_
@@ -4647,7 +4647,7 @@
 23	Sigurðsson	sigurðsson	PROPN	NPR-N	_	21	dep	_	_
 24	.	.	PUNCT	.	_	23	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1054741,.24
+# sent_id = RUV_TGS_2017_G-2-1054741,24.
 # X_ID = ID_MISSING
 # text = Rætt er við Guðjón Val Sigurðsson og Þóri Hergeirsson í myndskeiðinu sem sjá má efst í fréttinni.
 1	Rætt	ræta	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -4669,7 +4669,7 @@
 17	fréttinni	frétt	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	13	obl	_	_
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.1
+# sent_id = RUV_TGS_2017_G-2-1285942,1.
 # X_ID = ID_MISSING
 # text = Íslenska karlalandsliðið í handbolta verður aðeins með 14 leikmenn á leikskýrslu þegar Ísland mætir Danmörku í lokaleik Bygma-bikarsins í handbolta í kvöld. 
 1	Íslenska	íslenskur	ADJ	ADJ-N	Case=Nom|Degree=Pos	2	amod	_	_
@@ -4698,7 +4698,7 @@
 24	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	14	obl	_	_
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.2
+# sent_id = RUV_TGS_2017_G-2-1285942,2.
 # X_ID = ID_MISSING
 # text = Liðin mætast í Árósum klukkan 19:15 í leik sem sýndur verður í beinni útsendingu RÚV 2.
 1	Liðin	lið	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	2	nsubj	_	_
@@ -4719,7 +4719,7 @@
 16	2	tveir	NUM	NPR-G	Case=Gen	15	nmod:poss	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.3
+# sent_id = RUV_TGS_2017_G-2-1285942,3.
 # X_ID = ID_MISSING
 # text = Arnar Freyr Arnarsson og Ómar Ingi Magnússon héldu til Serbíu í gær til móts við 21 árs landslið Íslands og verða því ekki með í dag. 
 1	Arnar	arnar	PROPN	NPR-N	_	8	nsubj	_	_
@@ -4750,7 +4750,7 @@
 26	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	21	obl	_	_
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.4
+# sent_id = RUV_TGS_2017_G-2-1285942,4.
 # X_ID = ID_MISSING
 # text = Það hafði raunar alltaf staðið til.
 1	Það	það	PRON	PRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	5	nsubj	_	_
@@ -4761,7 +4761,7 @@
 6	til	til	ADP	RP	_	5	compound:prt	_	_
 7	.	.	PUNCT	.	_	6	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.5
+# sent_id = RUV_TGS_2017_G-2-1285942,5.
 # X_ID = ID_MISSING
 # text = Bjarki Már Elísson og Vignir Svavarsson munu svo hvorugur spila leikinn við Danmörku í kvöld. 
 1	Bjarki	bjarki	PROPN	NPR-N	_	10	nsubj	_	_
@@ -4781,7 +4781,7 @@
 15	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	10	obl	_	_
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.6
+# sent_id = RUV_TGS_2017_G-2-1285942,6.
 # X_ID = ID_MISSING
 # text = Geir Sveinsson landsliðsþjálfari sagði við RÚV að smávægileg meiðsli hafi tekið sig upp hjá Bjarka Má og því hafi verið ákveðið að hvíla hann í kvöld.
 1	Geir	geir	PROPN	NPR-N	_	4	nsubj	_	_
@@ -4812,7 +4812,7 @@
 26	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	23	obl	_	_
 27	.	.	PUNCT	.	_	26	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.7
+# sent_id = RUV_TGS_2017_G-2-1285942,7.
 # X_ID = ID_MISSING
 # text = Vignir Svavarsson er svo orðinn veikur og verður því ekki með í dag. 
 1	Vignir	vigni	PROPN	NPR-N	_	5	nsubj	_	_
@@ -4830,7 +4830,7 @@
 13	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	8	obl	_	_
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.8
+# sent_id = RUV_TGS_2017_G-2-1285942,8.
 # X_ID = ID_MISSING
 # text = Vignir er nánast kominn í einangrum svo fleiri í hópnum verði ekki veikir. 
 1	Vignir	vigni	PROPN	NPRS-N	_	4	nsubj	_	_
@@ -4848,7 +4848,7 @@
 13	veikir	veikur	ADJ	ADJ-N	Case=Nom|Degree=Pos	11	amod	_	_
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.9
+# sent_id = RUV_TGS_2017_G-2-1285942,9.
 # X_ID = ID_MISSING
 # text = Kári Kristján Kristjánsson sem var herbergisfélagi Vignis er því fluttur út úr herbergi Vignis.
 1	Kári	kári	PROPN	NPR-N	_	10	nsubj	_	_
@@ -4867,7 +4867,7 @@
 14	Vignis	vigni	PROPN	NPR-G	_	13	nmod:poss	_	_
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1285942,.10
+# sent_id = RUV_TGS_2017_G-2-1285942,10.
 # X_ID = ID_MISSING
 # text = Leikur Íslands og Danmerkur hefst klukkan 19:15 og verður sýndur á RÚV 2.
 1	Leikur	leikur	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	5	nsubj	_	_
@@ -4885,7 +4885,7 @@
 13	2	tveir	NUM	NUM-N	Case=Nom	12	nmod:poss	_	_
 14	.	.	PUNCT	.	_	13	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057329,.1
+# sent_id = RUV_ESP_2017_G-2-1057329,1.
 # X_ID = ID_MISSING
 # text = Eins og fram hefur komið ætlar Geir Þorsteinsson ekki að gefa kost á sér að nýju eftir tíu ára setu sem formaður Knattspyrnusambands Íslands og hátt í 25 ára starf hjá sambandinu.
 1	Eins	eins	ADV	ADVR	Degree=Cmp	6	advmod	_	_
@@ -4922,7 +4922,7 @@
 32	sambandinu	samband	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	30	obl	_	_
 33	.	.	PUNCT	.	_	32	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057329,.2
+# sent_id = RUV_ESP_2017_G-2-1057329,2.
 # X_ID = ID_MISSING
 # text = Hann segist þó fullviss um að hann hefði borið sigur úr býtum á ársþingi KSÍ sem haldið verður í Vestmannaeyjum 11. febrúar og ekkert leynist í pokahorninu sem ekki þoli dagsljós.
 1	Hann	hann	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -4959,7 +4959,7 @@
 32	dagsljós	dagsljós	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	31	obj	_	_
 33	.	.	PUNCT	.	_	32	punct	_	_
 
-# sent_id = RUV_ESP_2017_G-2-1057329,.3
+# sent_id = RUV_ESP_2017_G-2-1057329,3.
 # X_ID = ID_MISSING
 # text = Viðtal Hans Steinars Bjarnasonar við Geir má finna í spilaranum að ofan.
 1	Viðtal	viðtal	NOUN	N-A	Case=Nom|Definite=Ind|Number=Sing	8	obj	_	_
@@ -4976,7 +4976,7 @@
 12	ofan	ofan	ADV	ADV	Degree=Pos	10	obl	_	_
 13	.	.	PUNCT	.	_	12	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.1
+# sent_id = RUV_TGS_2017_G-2-1055088,1.
 # X_ID = ID_MISSING
 # text = Vignir Svavarsson segist alltaf líta á það sem forréttindi að vera valinn í íslenska landsliðið. 
 1	Vignir	vignir	PROPN	NPR-N	_	3	nsubj	_	_
@@ -4996,7 +4996,7 @@
 15	landsliðið	landslið	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	12	obl	_	_
 16	.	.	PUNCT	.	_	15	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.2
+# sent_id = RUV_TGS_2017_G-2-1055088,2.
 # X_ID = ID_MISSING
 # text = Hann hlaut ekki náð fyrir augum landsliðsþjálfarans fyrir leikina í undankeppni EM í byrjun nóvember, en er nú valinn á ný í landsliðið.
 1	Hann	hann	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -5025,7 +5025,7 @@
 24	landsliðið	landslið	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	20	obl	_	_
 25	.	.	PUNCT	.	_	24	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.3
+# sent_id = RUV_TGS_2017_G-2-1055088,3.
 # X_ID = ID_MISSING
 # text = „Ég er alltaf stoltur og glaður með að vera valinn í landsliðið og það er engin undantekning á því núna þó ég hafi ekki verið í hóp síðast. 
 1	„	„	PUNCT	"	_	5	punct	_	_
@@ -5059,7 +5059,7 @@
 29	síðast	síðar	ADV	ADVS	Degree=Sup	24	advmod	_	_
 30	.	.	PUNCT	.	_	29	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.4
+# sent_id = RUV_TGS_2017_G-2-1055088,4.
 # X_ID = ID_MISSING
 # text = Ég er glaður að fá að vera með,“ segir Vignir Svavarsson í viðtali við RÚV.
 1	Ég	ég	PRON	PRO-N	Case=Nom	11	nsubj	_	_
@@ -5081,7 +5081,7 @@
 17	RÚV	rúv	PROPN	NPR-A	_	15	obl	_	_
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.5
+# sent_id = RUV_TGS_2017_G-2-1055088,5.
 # X_ID = ID_MISSING
 # text = Hvernig var að fylgjast með þessum undankeppnisleikjum þegar þú varst ekki með?
 1	Hvernig	hvernig	ADV	WADV	Degree=Pos	4	advmod	_	_
@@ -5098,7 +5098,7 @@
 12	með	með	ADP	RP	_	9	compound:prt	_	_
 13	?	?	PUNCT	.	_	12	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.6
+# sent_id = RUV_TGS_2017_G-2-1055088,6.
 # X_ID = ID_MISSING
 # text = „Ég verð að viðurkenna að það var svolítið skrýtið að vera allt í einu heima í stofu og að horfa á þetta í sjónvarpinu. 
 1	„	„	PUNCT	"	_	3	punct	_	_
@@ -5128,7 +5128,7 @@
 25	sjónvarpinu	sjónvarp	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	21	obl	_	_
 26	.	.	PUNCT	.	_	25	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.7
+# sent_id = RUV_TGS_2017_G-2-1055088,7.
 # X_ID = ID_MISSING
 # text = Þetta var undarleg tilfinning og undarlegri en ég bjóst við. 
 1	Þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
@@ -5143,7 +5143,7 @@
 10	við	við	ADP	P	_	9	compound:prt	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.8
+# sent_id = RUV_TGS_2017_G-2-1055088,8.
 # X_ID = ID_MISSING
 # text = Ég hélt að þetta yrði ekkert mál en það var skrýtið að horfa á strákanna,“ segir Vignir.
 1	Ég	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -5167,7 +5167,7 @@
 19	Vignir	vigni	PROPN	NPR-N	_	18	nsubj	_	_
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.9
+# sent_id = RUV_TGS_2017_G-2-1055088,9.
 # X_ID = ID_MISSING
 # text = „Ég hef alltaf barist fyrir sæti mínu í liðinu. 
 1	„	„	PUNCT	"	_	5	punct	_	_
@@ -5182,7 +5182,7 @@
 10	liðinu	lið	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	7	obl	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.10
+# sent_id = RUV_TGS_2017_G-2-1055088,10.
 # X_ID = ID_MISSING
 # text = Ég hef aldrei gengið að því vísu að vera í landsliðinu þó ég hafi verið þar í öll þessi ár. 
 1	Ég	ég	PRON	PRO-N	Case=Nom	4	nsubj	_	_
@@ -5207,7 +5207,7 @@
 20	ár	ár	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	15	obl	_	_
 21	.	.	PUNCT	.	_	20	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.11
+# sent_id = RUV_TGS_2017_G-2-1055088,11.
 # X_ID = ID_MISSING
 # text = Ég hef ekki haft stórt hlutverk innan liðsins og oft verið varaskeifa. 
 1	Ég	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -5224,7 +5224,7 @@
 12	varaskeifa	varaskeifa	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	2	conj	_	_
 13	.	.	PUNCT	.	_	12	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.12
+# sent_id = RUV_TGS_2017_G-2-1055088,12.
 # X_ID = ID_MISSING
 # text = Ég hef alltaf þurft að hafa fyrir þessu og það er engin breyting núna.“
 1	Ég	ég	PRON	PRO-N	Case=Nom	4	nsubj	_	_
@@ -5244,7 +5244,7 @@
 15	.	.	PUNCT	.	_	14	punct	_	_
 16	“	“	PUNCT	"	_	15	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055088,.13
+# sent_id = RUV_TGS_2017_G-2-1055088,13.
 # X_ID = ID_MISSING
 # text = Heyra má enn frekar í Vigni í myndbandinu hér að ofan.
 1	Heyra	heyra	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -5260,7 +5260,7 @@
 11	ofan	ofan	ADV	ADV	Degree=Pos	9	obl	_	_
 12	.	.	PUNCT	.	_	11	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.1
+# sent_id = RUV_TGS_2017_G-2-1321599,1.
 # X_ID = ID_MISSING
 # text = „Við verðum að ná strax áttum eftir leikinn við Spán í gærkvöld, því tíminn er knappur. 
 1	„	„	PUNCT	"	_	3	punct	_	_
@@ -5283,7 +5283,7 @@
 18	knappur	knappur	ADJ	ADJ-N	Case=Nom|Degree=Pos	15	ccomp	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.2
+# sent_id = RUV_TGS_2017_G-2-1321599,2.
 # X_ID = ID_MISSING
 # text = Það er stutt í næsta verkefni. 
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	3	expl	_	_
@@ -5294,7 +5294,7 @@
 6	verkefni	verkefni	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	3	obl	_	_
 7	.	.	PUNCT	.	_	6	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.3
+# sent_id = RUV_TGS_2017_G-2-1321599,3.
 # X_ID = ID_MISSING
 # text = Við skoðuðum Spánarleikinn strax saman í gærkvöld - hvað var gott og hvað mætti betur fara. 
 1	Við	ég	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -5315,7 +5315,7 @@
 16	fara	fara	VERB	VB	VerbForm=Inf	11	conj	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.4
+# sent_id = RUV_TGS_2017_G-2-1321599,4.
 # X_ID = ID_MISSING
 # text = Ég er bara í sjálfu sér nokkuð sáttur,“ sagði Geir Sveinsson landsliðsþjálfari þegar RÚV ræddi við hann í dag.
 1	Ég	ég	PRON	PRO-N	Case=Nom	11	nsubj	_	_
@@ -5341,7 +5341,7 @@
 21	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	17	obl	_	_
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.5
+# sent_id = RUV_TGS_2017_G-2-1321599,5.
 # X_ID = ID_MISSING
 # text = „Ég sé klárlega mun á liðinu með hverjum leik. 
 1	„	„	PUNCT	"	_	3	punct	_	_
@@ -5356,7 +5356,7 @@
 10	leik	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	3	obl	_	_
 11	.	.	PUNCT	.	_	10	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.6
+# sent_id = RUV_TGS_2017_G-2-1321599,6.
 # X_ID = ID_MISSING
 # text = Það er auðvitað tíminn sem hjálpar til við það að við verðum sífellt betri. 
 1	Það	það	PRON	PRO-N	Case=Nom	4	nsubj	_	_
@@ -5375,7 +5375,7 @@
 14	betri	góður	ADJ	ADJR-N	Case=Nom|Degree=Cmp	12	amod	_	_
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.7
+# sent_id = RUV_TGS_2017_G-2-1321599,7.
 # X_ID = ID_MISSING
 # text = Ég vildi fá sem mest út úr þessum leik í gær og samhæfa menn sem mest. 
 1	Ég	ég	PRON	PRO-N	Case=Nom	3	nsubj	_	_
@@ -5396,7 +5396,7 @@
 16	mest	mikið	ADV	ADVS	Degree=Sup	13	advmod	_	_
 17	.	.	PUNCT	.	_	16	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.8
+# sent_id = RUV_TGS_2017_G-2-1321599,8.
 # X_ID = ID_MISSING
 # text = Það gekk upp að mörgu leyti. 
 1	Það	það	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -5407,7 +5407,7 @@
 6	leyti	leyti	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	2	obl	_	_
 7	.	.	PUNCT	.	_	6	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.9
+# sent_id = RUV_TGS_2017_G-2-1321599,9.
 # X_ID = ID_MISSING
 # text = Nú er aðalatriðið að nýta það góða úr fyrri hluta leiksins og læra af seinni hlutanum,“ sagði Geir Sveinsson.
 1	Nú	nú	ADV	ADV	Degree=Pos	19	advmod	_	_
@@ -5433,7 +5433,7 @@
 21	Sveinsson	sveinsson	PROPN	NPR-N	_	20	flat:name	_	_
 22	.	.	PUNCT	.	_	21	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.10
+# sent_id = RUV_TGS_2017_G-2-1321599,10.
 # X_ID = ID_MISSING
 # text = Næsti leikur Íslands á HM í Frakklandi er gegn Slóveníu á morgun. 
 1	Næsti	næstur	ADJ	ADJS-N	Case=Nom|Degree=Sup	2	amod	_	_
@@ -5450,7 +5450,7 @@
 12	morgun	morgunn	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	10	obl	_	_
 13	.	.	PUNCT	.	_	12	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.11
+# sent_id = RUV_TGS_2017_G-2-1321599,11.
 # X_ID = ID_MISSING
 # text = Slóvenía burstaði Angóla í fyrsta leik sínum og Geir segir ekki hægt að dæma Slóvena út frá þeim leik. 
 1	Slóvenía	slóvenía	PROPN	NPR-N	_	2	nsubj	_	_
@@ -5474,7 +5474,7 @@
 19	leik	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	14	obl	_	_
 20	.	.	PUNCT	.	_	19	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.12
+# sent_id = RUV_TGS_2017_G-2-1321599,12.
 # X_ID = ID_MISSING
 # text = „Það er enginn veginn hægt. 
 1	„	„	PUNCT	"	_	6	punct	_	_
@@ -5485,7 +5485,7 @@
 6	hægt	hægur	ADJ	ADJ-N	Case=Nom|Degree=Pos	0	root	_	_
 7	.	.	PUNCT	.	_	6	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.13
+# sent_id = RUV_TGS_2017_G-2-1321599,13.
 # X_ID = ID_MISSING
 # text = Miklu frekar að dæma þá útfrá frammistöðu þeirra á Ólympíuleikunum eða í æfingaleikjum við Frakkland hér í Frakklandi. 
 1	Miklu	mikill	DET	Q-D	Case=Dat|Degree=Pos	2	obl	_	_
@@ -5508,7 +5508,7 @@
 18	Frakklandi	frakkland	PROPN	NPR-D	_	13	obl	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.14
+# sent_id = RUV_TGS_2017_G-2-1321599,14.
 # X_ID = ID_MISSING
 # text = Þetta er gríðarlega sterkt lið sem spilar mjög góðan handbolta og Slóvenar eru ekkert síðri en Spánn.“
 1	Þetta	þessi	DET	D-N	Case=Nom	5	nsubj	_	_
@@ -5531,7 +5531,7 @@
 18	.	.	PUNCT	.	_	17	punct	_	_
 19	“	“	PUNCT	"	_	18	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1321599,.15
+# sent_id = RUV_TGS_2017_G-2-1321599,15.
 # X_ID = ID_MISSING
 # text = Nánar er rætt við Geir Sveinsson í spilaranum hér fyrir ofan.
 1	Nánar	náit	ADV	ADVR	Degree=Cmp	3	advmod	_	_
@@ -5547,7 +5547,7 @@
 11	ofan	ofan	ADV	ADV	Degree=Pos	9	obl	_	_
 12	.	.	PUNCT	.	_	11	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.1
+# sent_id = RUV_TGS_2017_G-2-1055049,1.
 # X_ID = ID_MISSING
 # text = Aron Pálmarsson landsliðsmaður í handbolta segir Evrópumótið í Póllandi enn sitja í sér, nú næstum ári síðar. 
 1	Aron	aron	PROPN	NPR-N	_	6	nsubj	_	_
@@ -5570,7 +5570,7 @@
 18	síðar	síðar	ADV	ADVR	Degree=Cmp	15	advmod	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.2
+# sent_id = RUV_TGS_2017_G-2-1055049,2.
 # X_ID = ID_MISSING
 # text = Hann segir landsliðsmenn staðráðna í að gera betur á HM í Frakklandi sem hefst eftir hálfan mánuð.
 1	Hann	hann	PRON	PRO-N	Case=Nom	2	nsubj	_	_
@@ -5592,7 +5592,7 @@
 17	mánuð	mánuður	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	14	obl	_	_
 18	.	.	PUNCT	.	_	17	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.3
+# sent_id = RUV_TGS_2017_G-2-1055049,3.
 # X_ID = ID_MISSING
 # text = Ísland hefur leik á HM í Frakklandi 12. janúar þegar liðið mætir Spáni. 
 1	Ísland	ísland	PROPN	NPR-N	_	2	nsubj	_	_
@@ -5611,7 +5611,7 @@
 14	Spáni	spánn	PROPN	NPR-D	_	13	obj	_	_
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.4
+# sent_id = RUV_TGS_2017_G-2-1055049,4.
 # X_ID = ID_MISSING
 # text = Leikmenn Íslands eru staðráðnir í því að gera vel á HM, eftir vonbrigðin á EM í Póllandi á þessu ári, en mótið situr enn í sumum leikmönnum.
 1	Leikmenn	leikmaður	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	4	nsubj	_	_
@@ -5645,7 +5645,7 @@
 29	leikmönnum	leikmaður	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	25	obl	_	_
 30	.	.	PUNCT	.	_	29	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.5
+# sent_id = RUV_TGS_2017_G-2-1055049,5.
 # X_ID = ID_MISSING
 # text = „Þetta var mjög lélegt hjá okkur og það er leiðinlegt þegar gengur illa. 
 1	„	„	PUNCT	"	_	5	punct	_	_
@@ -5664,7 +5664,7 @@
 14	illa	illa	ADV	ADV	Degree=Pos	13	advmod	_	_
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.6
+# sent_id = RUV_TGS_2017_G-2-1055049,6.
 # X_ID = ID_MISSING
 # text = Það eru nýir leikmenn inni núna og nýr þjálfari þannig að við erum með hreint blað.“ segir Aron.
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
@@ -5689,7 +5689,7 @@
 20	Aron	aron	PROPN	NPR-N	_	19	nsubj	_	_
 21	.	.	PUNCT	.	_	20	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.7
+# sent_id = RUV_TGS_2017_G-2-1055049,7.
 # X_ID = ID_MISSING
 # text = Arnór Atlason tekur undir það. 
 1	Arnór	arnór	PROPN	NPR-N	_	3	nsubj	_	_
@@ -5699,7 +5699,7 @@
 5	það	það	PRON	PRO-A	Case=Acc	3	obl	_	_
 6	.	.	PUNCT	.	_	5	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.8
+# sent_id = RUV_TGS_2017_G-2-1055049,8.
 # X_ID = ID_MISSING
 # text = „Það sem situr eftir er að við komumst ekki upp úr riðlinum en þetta er bara nýtt mót og við þurfum bara að einbeita okkur að komast upp úr riðlinum og þá getur allt gerst.“
 1	„	„	PUNCT	"	_	2	punct	_	_
@@ -5741,7 +5741,7 @@
 37	.	.	PUNCT	.	_	36	punct	_	_
 38	“	“	PUNCT	"	_	37	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.9
+# sent_id = RUV_TGS_2017_G-2-1055049,9.
 # X_ID = ID_MISSING
 # text = Ásgeir Örn Hallgrímsson segir alltaf ríkja bartsýni. 
 1	Ásgeir	ásgeir	PROPN	NPR-N	_	4	nsubj	_	_
@@ -5753,7 +5753,7 @@
 7	bartsýni	bartsýni	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	6	nsubj	_	_
 8	.	.	PUNCT	.	_	7	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.10
+# sent_id = RUV_TGS_2017_G-2-1055049,10.
 # X_ID = ID_MISSING
 # text = „Manni líður alltaf eins og við getum farið mjög langt í hverju móti. 
 1	„	„	PUNCT	"	_	3	punct	_	_
@@ -5772,7 +5772,7 @@
 14	móti	mót	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	9	obl	_	_
 15	.	.	PUNCT	.	_	14	punct	_	_
 
-# sent_id = RUV_TGS_2017_G-2-1055049,.11
+# sent_id = RUV_TGS_2017_G-2-1055049,11.
 # X_ID = ID_MISSING
 # text = Það er bara spenna og tilhlökkun.“
 1	Það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
