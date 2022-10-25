@@ -439,13 +439,13 @@
 14	heimasíðu	heimasíða	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	9	obl	_	_
 15	Alþingis	alþingi	PROPN	NPR-G	_	14	nmod:poss	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	15	punct	_	_
-17	eru	vera	AUX	BEPI	Mood=Ind|Tense=Pres	3	cop	_	_
+17	eru	vera	AUX	BEPI	Mood=Ind|Tense=Pres	23	cop	_	_
 18	meiri	mikill	DET	QR-N	Case=Nom|Degree=Pos	19	amod	_	_
-19	líkur	líkur	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	3	nsubj	_	_
+19	líkur	líkur	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	23	nsubj	_	_
 20	á	á	ADP	P	_	23	case	_	_
 21	að	að	SCONJ	C	_	23	mark	_	_
 22	maður	maður	PRON	MAN-N	_	23	nsubj	_	_
-23	hætti	hætta	VERB	VBPS	Mood=Sub|Tense=Pres	3	obl	_	_
+23	hætti	hætta	VERB	VBPS	Mood=Sub|Tense=Pres	5	ccomp	_	_
 24	og	og	CCONJ	CONJ	_	25	cc	_	_
 25	fari	fara	VERB	VBPS	Mood=Sub|Tense=Pres	23	conj	_	_
 26	að	að	PART	TO	_	27	mark	_	_
@@ -21665,8 +21665,8 @@
 6	og	og	CCONJ	CONJ	_	8	cc	_	_
 7	betra	góður	ADJ	ADJR-A	Case=Acc|Degree=Cmp	8	amod	_	_
 8	tækifæri	tækifæri	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	4	obj	_	_
-9	er	vera	AUX	BEPI	Mood=Ind|Tense=Pres	4	cop	_	_
-10	ég	ég	PRON	PRO-N	Case=Nom	4	nsubj	_	_
+9	er	vera	AUX	BEPI	Mood=Ind|Tense=Pres	11	cop	_	_
+10	ég	ég	PRON	PRO-N	Case=Nom	11	nsubj	_	_
 11	sannfærður	sannfærður	ADJ	ADJ-N	Case=Nom|Degree=Pos	4	amod	_	_
 12	um	um	ADP	P	_	16	case	_	_
 13	að	að	SCONJ	C	_	16	mark	_	_
@@ -25707,10 +25707,10 @@
 23	að	að	PART	TO	_	24	mark	_	_
 24	gera	gera	VERB	DO	VerbForm=Inf	22	acl	_	SpaceAfter=No
 25	,	,	PUNCT	,	_	24	punct	_	_
-26	þá	þá	ADV	ADV	Degree=Pos	4	advmod	_	_
-27	er	vera	AUX	BEPI	Mood=Ind|Tense=Pres	4	cop	_	_
-28	ég	ég	PRON	PRO-N	Case=Nom	4	nsubj	_	_
-29	ekki	ekki	ADV	NEG	_	4	advmod	_	_
+26	þá	þá	ADV	ADV	Degree=Pos	30	advmod	_	_
+27	er	vera	AUX	BEPI	Mood=Ind|Tense=Pres	30	cop	_	_
+28	ég	ég	PRON	PRO-N	Case=Nom	30	nsubj	_	_
+29	ekki	ekki	ADV	NEG	_	30	advmod	_	_
 30	viss	viss	ADJ	ADJ-N	Case=Nom|Degree=Pos	4	amod	_	_
 31	um	um	ADP	P	_	34	case	_	_
 32	að	að	SCONJ	C	_	34	mark	_	_
@@ -50882,9 +50882,9 @@
 12	dæmis	dæmi	ADV	N-G	Case=Gen|Definite=Ind|Number=Sing	9	advmod	_	_
 13	við	við	ADP	P	_	14	case	_	_
 14	orkuna	orka	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	9	obl	_	_
-15	erum	vera	AUX	BEPI	Mood=Ind|Tense=Pres	9	cop	_	_
-16	við	ég	PRON	PRO-N	Case=Nom	9	nsubj	_	_
-17	kannski	kannski	ADV	ADV	Degree=Pos	9	advmod	_	_
+15	erum	vera	AUX	BEPI	Mood=Ind|Tense=Pres	19	cop	_	_
+16	við	ég	PRON	PRO-N	Case=Nom	19	nsubj	_	_
+17	kannski	kannski	ADV	ADV	Degree=Pos	19	advmod	_	_
 18	að	að	PART	TO	_	19	mark	_	_
 19	tala	tala	VERB	VB	VerbForm=Inf	9	acl	_	_
 20	um	um	ADP	P	_	23	case	_	_
@@ -67001,11 +67001,11 @@
 # sent_id = RUV_TGS_2016_G-2-1032149.SANITY,18.2464
 # X_ID = ID_MISSING
 # text = Þá ég ég kannski bara nokkuð jafna möguleika í báðum þessum greinum þegar ég fer til Ríó“ sagði Hrafnhildur.
-1	Þá	þá	ADV	ADV	Degree=Pos	19	advmod	_	_
-2	ég	ég	X	X	_	19	dep	_	_
-3	ég	ég	PRON	PRO-N	Case=Nom	19	nsubj	_	_
-4	kannski	kannski	ADV	ADV	Degree=Pos	19	advmod	_	_
-5	bara	bara	ADV	FP	Degree=Pos	19	advmod	_	_
+1	Þá	þá	ADV	ADV	Degree=Pos	8	advmod	_	_
+2	ég	ég	X	X	_	8	dep	_	_
+3	ég	ég	PRON	PRO-N	Case=Nom	8	nsubj	_	_
+4	kannski	kannski	ADV	ADV	Degree=Pos	8	advmod	_	_
+5	bara	bara	ADV	FP	Degree=Pos	8	advmod	_	_
 6	nokkuð	nokkur	DET	Q-A	Case=Acc|Degree=Pos	7	obl	_	_
 7	jafna	jafn	ADJ	ADJ-A	Case=Acc|Degree=Pos	8	amod	_	_
 8	möguleika	möguleiki	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	19	obj	_	_
