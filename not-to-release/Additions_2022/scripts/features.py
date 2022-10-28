@@ -14,7 +14,7 @@ import requests
 
 from collections import defaultdict
 
-from rules import UD_map, OTB_map, Icepahc_feats, abbr_map
+from rules import UD_map, OTB_map, Icepahc_feats, abbr_map, lex_class_map
 
 
 def decode_escaped(string, lemma=False):
@@ -37,6 +37,7 @@ def decode_escaped(string, lemma=False):
         return string
     else:
         return string
+
 
 class Features:
     """ """
@@ -184,7 +185,7 @@ class Features:
             tagged = json.loads(res.text)
             return {
                 pair["word"]: (pair["tag"], pair["lemma"])
-                for pair in tagged["paragraphs"][0]["sentences"][0]
+                for pair in [j for i in tagged["paragraphs"][0]["sentences"] for j in i]
             }
         except:
             raise FeatureExtractionError(
@@ -414,4 +415,3 @@ class ICE_Features:
             return self._es_features(self.tag)
         else:
             return self._other_features(self.tag)
-

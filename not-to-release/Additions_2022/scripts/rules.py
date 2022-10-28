@@ -1,4 +1,3 @@
-
 UD_map = {
     # ipsd_tag : UD_tag
     "N": "NOUN",  # generalized nouns tagged as NOUN
@@ -200,4 +199,17 @@ abbr_map = {
     "$s.": (r"\$s\.", "segja", "s", "segja"),
     "t.$": (r"t\.\$", "til", "til", ""),
     "$d.": (r"\$d\.", "dæmis", "dæmis", ""),
+}
+
+lex_class_map = {
+    "a": ("ADP", "ADV", "ADJ"),
+    "c": ("CCONJ", "SCONJ", "PART"),
+    "e": ("OTHER"),
+    "f": ("PRON", "DET"),
+    "g": ("DET"),
+    "l": ("ADJ", "DET", "ADV"),
+    "n": ("NOUN", "PROPN"),
+    "s": ("VERB", "AUX"),
+    "t": ("NUM", "ADJ"),
+    "x": ("X", "SYM", "INTJ"),
 }
