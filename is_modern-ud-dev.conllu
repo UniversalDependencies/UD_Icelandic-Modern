@@ -85,7 +85,7 @@
 15	sett	setja	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	_
 16	fram	fram	ADP	RP	_	15	compound:prt	_	_
 17	í	í	ADP	P	_	18	case	_	_
-18	fjárlögum	fjárlag	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	15	obl	_	SpaceAfter=No
+18	fjárlögum	fjárlög	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	15	obl	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	_
 
 # X_ID = ID_MISSING
@@ -195,8 +195,8 @@
 47	þess	það	PRON	PRO-G	Case=Gen	46	nmod:poss	_	_
 48	er	vera	AUX	BEPI	Mood=Ind|Tense=Pres	49	cop	_	_
 49	varið	verja	VERB	VAN	Tense=Past|VerbForm=Part	42	obl	_	_
-50	eins	_	ADV	ADVR	Degree=Cmp	42	advmod	_	_
-51	og	_	ADP	P	_	55	case	_	_
+50	eins	eins	ADV	ADVR	Degree=Cmp	42	advmod	_	_
+51	og	og	ADP	P	_	55	case	_	_
 52	fólk	fólk	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	55	nsubj	_	_
 53	getur	geta	AUX	MDPI	Mood=Ind|Tense=Pres	55	aux	_	_
 54	núna	núna	ADV	ADV	Degree=Pos	55	advmod	_	_
@@ -465,7 +465,7 @@
 27	í	í	ADP	P	_	28	case	_	_
 28	samvinnu	samvinna	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	26	obl	_	_
 29	við	við	ADP	P	_	31	case	_	_
-30	aðrar	annar	PRON	OTHER-A	Case=Acc	31	det	_	_
+30	aðrar	annar	PRON	OTHERS-A	Case=Acc	31	det	_	_
 31	þjóðir	þjóð	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	28	obl	_	SpaceAfter=No
 32	,	,	PUNCT	,	_	31	punct	_	_
 33	af	af	ADP	P	_	34	case	_	_
@@ -536,8 +536,8 @@
 8	í	í	ADP	P	_	10	case	_	_
 9	eilífu	eilífur	ADJ	ADJ-D	Case=Dat|Degree=Pos	10	amod	_	_
 10	hléi	hlé	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	6	obl	_	_
-11	eins	_	ADV	ADVR	Degree=Cmp	6	advmod	_	_
-12	og	_	ADP	P	_	13	case	_	_
+11	eins	eins	ADV	ADVR	Degree=Cmp	6	advmod	_	_
+12	og	og	ADP	P	_	13	case	_	_
 13	Sviss	sviss	PROPN	NPR-N	_	11	obl	_	SpaceAfter=No
 14	?	?	PUNCT	.	_	13	punct	_	_
 
@@ -785,8 +785,8 @@
 4	bara	bara	ADV	FP	Degree=Pos	16	advmod	_	_
 5	þannig	þannig	ADV	ADV	Degree=Pos	16	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
-7	eins	_	ADV	ADVR	Degree=Cmp	16	advmod	_	_
-8	og	_	ADP	P	_	11	case	_	_
+7	eins	eins	ADV	ADVR	Degree=Cmp	16	advmod	_	_
+8	og	og	ADP	P	_	11	case	_	_
 9	margir	margur	DET	Q-N	Case=Nom|Degree=Pos	11	nsubj	_	_
 10	hafa	hafa	AUX	HVPI	Mood=Ind|Tense=Pres	11	aux	_	_
 11	rætt	ræða	VERB	VBN	Tense=Past|VerbForm=Part	7	obl	_	_
@@ -871,8 +871,8 @@
 8	svona	svona	ADV	ADV	Degree=Pos	6	advmod	_	_
 9	til	til	ADP	P	_	10	case	_	_
 10	framtíðar	framtíð	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	6	obl	_	_
-11	eins	_	ADV	ADVR	Degree=Cmp	6	advmod	_	_
-12	og	_	ADP	P	_	16	case	_	_
+11	eins	eins	ADV	ADVR	Degree=Cmp	6	advmod	_	_
+12	og	og	ADP	P	_	16	case	_	_
 13	við	ég	PRON	PRO-N	Case=Nom	16	nsubj	_	_
 14	erum	vera	AUX	BEPI	Mood=Ind|Tense=Pres	16	cop	_	_
 15	að	að	PART	TO	_	16	mark	_	_
@@ -1089,10 +1089,10 @@
 # X_ID = ID_MISSING
 # sent_id = ALTHINGI_BO_2014_G-33-4598544,4.43
 # text = Ég var að segja að hún virðist ganga illa í praxís, hún gerir það.
-1	Ég	ég	PRON	PRO-N	Case=Nom	0	root	_	_
+1	Ég	ég	PRON	PRO-N	Case=Nom	4	nsubj	_	_
 2	var	vera	AUX	BEDI	Mood=Ind|Tense=Past	1	cop	_	_
 3	að	að	PART	TO	_	4	mark	_	_
-4	segja	segja	VERB	VB	VerbForm=Inf	1	acl	_	_
+4	segja	segja	VERB	VB	VerbForm=Inf	0	root	_	_
 5	að	að	SCONJ	C	_	7	mark	_	_
 6	hún	hún	PRON	PRO-N	Case=Nom	7	nsubj	_	_
 7	virðist	virða	VERB	VBPI	Mood=Ind|Tense=Pres	4	ccomp	_	_
@@ -1101,8 +1101,8 @@
 10	í	í	ADP	P	_	11	case	_	_
 11	praxís	praxís	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	8	obl	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	_	_
-13	hún	hún	PRON	PRO-N	Case=Nom	8	parataxis	_	_
-14	gerir	gera	VERB	DOPI	Mood=Ind|Tense=Pres	13	xcomp	_	_
+13	hún	hún	PRON	PRO-N	Case=Nom	14	nsubj	_	_
+14	gerir	gera	VERB	DOPI	Mood=Ind|Tense=Pres	4	parataxis	_	_
 15	það	það	PRON	PRO-A	Case=Acc	13	obj	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	_
 
@@ -1250,7 +1250,7 @@
 13	erum	vera	AUX	BEPI	Mood=Ind|Tense=Pres	15	cop	_	_
 14	að	að	PART	TO	_	15	mark	_	_
 15	setja	setja	VERB	VB	VerbForm=Inf	10	acl:relcl	_	_
-16	lög	lag	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	15	obj	_	SpaceAfter=No
+16	lög	lög	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	15	obj	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	16	punct	_	_
 18	og	og	CCONJ	CONJ	_	21	cc	_	_
 19	þessar	þessi	DET	D-N	Case=Nom	20	det	_	_
@@ -1363,7 +1363,7 @@
 4	Bara	bara	ADV	ADV	Degree=Pos	17	advmod	_	_
 5	svo	svo	ADV	ADV	Degree=Pos	4	advmod	_	_
 6	ég	ég	PRON	PRO-N	Case=Nom	7	nsubj	_	_
-7	hnykki	hnykkja	VERB	VBPI	Mood=Ind|Tense=Pres	4	advcl	_	_
+7	hnykki	hnykkja	VERB	VBPS	Mood=Sub|Tense=Pres	4	advcl	_	_
 8	á	á	ADP	P	_	9	case	_	_
 9	því	sá	DET	D-D	Case=Dat	7	obl	_	_
 10	sem	sem	SCONJ	C	_	11	mark	_	_
@@ -1475,8 +1475,8 @@
 30	þessum	þessi	DET	D-D	Case=Dat	31	det	_	_
 31	upplýsingum	upplýsing	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	29	obj	_	SpaceAfter=No
 32	,	,	PUNCT	,	_	31	punct	_	_
-33	eins	_	ADV	ADVR	Degree=Cmp	26	advmod	_	_
-34	og	_	ADP	P	_	36	case	_	_
+33	eins	eins	ADV	ADVR	Degree=Cmp	26	advmod	_	_
+34	og	og	ADP	P	_	36	case	_	_
 35	ráðgjafarhópurinn	ráðgjafarhópur	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	36	nsubj	_	_
 36	gerir	gera	VERB	DOPI	Mood=Ind|Tense=Pres	33	obl	_	_
 37	grein	grein	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	36	obj	_	_
@@ -1530,8 +1530,8 @@
 13	að	að	PART	TO	_	14	mark	_	_
 14	sniðganga	sniðganga	VERB	VB	VerbForm=Inf	12	acl	_	_
 15	rammaáætlun	rammaáætlun	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	14	obj	_	_
-16	eins	_	ADV	ADVR	Degree=Cmp	14	advmod	_	_
-17	og	_	ADP	P	_	21	case	_	_
+16	eins	eins	ADV	ADVR	Degree=Cmp	14	advmod	_	_
+17	og	og	ADP	P	_	21	case	_	_
 18	breytingartillaga	breytingartillaga	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	21	nsubj	_	_
 19	meiri	mikill	DET	QR-G	Case=Gen|Degree=Pos	18	nmod:poss	_	_
 20	hlutans	hluti	NOUN	N-G	Case=Gen|Definite=Ind|Number=Sing	19	conj	_	_
@@ -1847,7 +1847,7 @@
 4	,	,	PUNCT	,	_	5	punct	_	_
 5	jöklafræðingar	jöklafræðingur	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	3	conj	_	_
 6	og	og	CCONJ	CONJ	_	3	conj	_	_
-7	aðrir	annar	PRON	OTHER-N	Case=Nom	6	det	_	_
+7	aðrir	annar	PRON	OTHERS-N	Case=Nom	6	det	_	_
 8	sem	sem	SCONJ	C	_	9	mark	_	_
 9	þurfa	þurfa	VERB	VBPI	Mood=Ind|Tense=Pres	3	acl:relcl	_	_
 10	að	að	PART	TO	_	11	mark	_	_
@@ -2152,7 +2152,7 @@
 12	mér	ég	PRON	PRO-D	Case=Dat	8	obl	_	_
 13	og	og	CCONJ	CONJ	_	15	cc	_	_
 14	kannski	kannski	ADV	ADV	Degree=Pos	15	advmod	_	_
-15	öðrum	annar	PRON	OTHER-D	Case=Dat	12	conj	_	_
+15	öðrum	annar	PRON	OTHERS-D	Case=Dat	12	conj	_	_
 16	sem	sem	SCONJ	C	_	22	mark	_	_
 17	eru	vera	AUX	BEPI	Mood=Ind|Tense=Pres	22	cop	_	_
 18	ekki	ekki	ADV	NEG	_	22	advmod	_	_
@@ -2701,7 +2701,7 @@
 8	og	og	CCONJ	CONJ	_	9	cc	_	_
 9	sjá	sjá	VERB	VB	VerbForm=Inf	5	conj	_	_
 10	hvað	hver	PRON	WPRO-N	Case=Nom	12	obj	_	_
-11	aðrir	annar	PRON	OTHER-N	Case=Nom	12	det	_	_
+11	aðrir	annar	PRON	OTHERS-N	Case=Nom	12	det	_	_
 12	nefndarmenn	nefndarmaður	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	9	ccomp	_	_
 13	hafa	hafa	AUX	HVPI	Mood=Ind|Tense=Pres	12	aux	_	_
 14	um	um	ADP	P	_	12	obj	_	_
@@ -2797,7 +2797,7 @@
 3	fyrir	fyrir	ADP	P	_	4	case	_	_
 4	samkynhneigða	samkynhneigður	ADJ	ADJ-A	Case=Acc|Degree=Pos	2	obl	_	_
 5	í	í	ADP	P	_	6	case	_	_
-6	lögum	lag	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	2	obl	_	_
+6	lögum	lög	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	2	obl	_	_
 7	kom	koma	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
 8	ekki	ekki	ADV	NEG	_	7	advmod	_	_
 9	sem	sem	SCONJ	C	_	10	mark	_	_
@@ -2966,8 +2966,8 @@
 19	sagt	segja	VERB	VAN	Tense=Past|VerbForm=Part	2	conj	_	OriginalHead=0
 20	fyrir	fyrir	ADP	P	_	21	case	_	_
 21	mann	maður	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	19	obl	_	_
-22	eins	_	ADV	ADVR	Degree=Cmp	21	advmod	_	_
-23	og	_	ADP	P	_	24	case	_	_
+22	eins	eins	ADV	ADVR	Degree=Cmp	21	advmod	_	_
+23	og	og	ADP	P	_	24	case	_	_
 24	mig	ég	PRON	PRO-A	Case=Acc	22	obl	_	_
 25	sem	sem	SCONJ	C	_	26	mark	_	_
 26	telur	telja	VERB	VBPI	Mood=Ind|Tense=Pres	21	acl:relcl	_	_
@@ -3395,8 +3395,8 @@
 7	líta	líta	VERB	VB	VerbForm=Inf	5	acl	_	_
 8	á	á	ADP	P	_	9	case	_	_
 9	þetta	þessi	DET	D-A	Case=Acc	7	obl	_	_
-10	eins	_	ADV	ADVR	Degree=Cmp	7	advmod	_	_
-11	og	_	ADP	P	_	12	case	_	_
+10	eins	eins	ADV	ADVR	Degree=Cmp	7	advmod	_	_
+11	og	og	ADP	P	_	12	case	_	_
 12	tölva	tölva	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	10	obl	_	_
 13	eða	eða	CCONJ	CONJ	_	16	cc	_	_
 14	einhvers	einhver	DET	Q-G	Case=Gen|Degree=Pos	16	amod	_	_
@@ -3721,8 +3721,8 @@
 5	nýttur	nýta	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 6	í	í	ADP	P	_	7	case	_	_
 7	aðgerðir	aðgerð	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	5	obl	_	_
-8	eins	_	ADV	ADVR	Degree=Cmp	7	advmod	_	_
-9	og	_	ADP	P	_	10	case	_	_
+8	eins	eins	ADV	ADVR	Degree=Cmp	7	advmod	_	_
+9	og	og	ADP	P	_	10	case	_	_
 10	110<percent/>leiðina	110<percent/>leið	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	8	obl	_	_
 11	og	og	CCONJ	CONJ	_	13	cc	_	_
 12	honum	hann	PRON	PRO-D	Case=Dat	13	nsubj	_	_
@@ -3741,8 +3741,8 @@
 2	er	vera	AUX	BEPI	Mood=Ind|Tense=Pres	3	cop	_	_
 3	því	það	PRON	PRO-D	Case=Dat	0	root	_	_
 4	ekki	ekki	ADV	NEG	_	3	advmod	_	_
-5	eins	_	ADV	ADVR	Degree=Cmp	3	advmod	_	_
-6	og	_	ADP	P	_	9	case	_	_
+5	eins	eins	ADV	ADVR	Degree=Cmp	3	advmod	_	_
+6	og	og	ADP	P	_	9	case	_	_
 7	Íbúðalánasjóður	íbúðalánasjóður	PROPN	NPR-N	_	9	nsubj	_	_
 8	hafi	hafa	AUX	HVPS	Mood=Sub|Tense=Pres	9	aux	_	_
 9	gleymst	gleyma	VERB	VBN	Tense=Past|VerbForm=Part	5	obl	_	_
@@ -3797,8 +3797,8 @@
 41	brýn	brýnn	ADJ	ADJ-A	Case=Acc|Degree=Pos	42	amod	_	_
 42	verkefni	verkefni	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	39	obl	_	SpaceAfter=No
 43	,	,	PUNCT	,	_	42	punct	_	_
-44	eins	_	ADV	ADVR	Degree=Cmp	35	advmod	_	_
-45	og	_	ADP	P	_	48	case	_	_
+44	eins	eins	ADV	ADVR	Degree=Cmp	35	advmod	_	_
+45	og	og	ADP	P	_	48	case	_	_
 46	við	ég	PRON	PRO-N	Case=Nom	48	nsubj	_	_
 47	erum	vera	AUX	BEPI	Mood=Ind|Tense=Pres	48	cop	_	_
 48	sammála	sammála	ADJ	ADJ-N	Case=Nom|Degree=Pos	44	obl	_	_
@@ -4031,7 +4031,7 @@
 21	var	vera	AUX	BEDI	Mood=Ind|Tense=Past	20	cop	_	_
 22	að	að	ADP	P	_	24	case	_	_
 23	hallalausum	hallalaus	ADJ	ADJ-D	Case=Dat|Degree=Pos	24	amod	_	_
-24	fjárlögum	fjárlag	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	20	obl	_	SpaceAfter=No
+24	fjárlögum	fjárlög	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	20	obl	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	24	punct	_	_
 
 # X_IDs = ID_MISSING ; ID_MISSING ; ID_MISSING
@@ -4077,7 +4077,7 @@
 38	að	að	PART	TO	_	39	mark	_	_
 39	ná	ná	VERB	VB	VerbForm=Inf	37	acl	_	_
 40	hallalausum	hallalaus	ADJ	ADJ-D	Case=Dat|Degree=Pos	41	amod	_	_
-41	fjárlögum	fjárlag	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	39	obj	_	_
+41	fjárlögum	fjárlög	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	39	obj	_	_
 42	2014	2014	NUM	NUM-A	Case=Acc	41	obl	_	_
 43	og	og	CCONJ	CONJ	_	46	cc	_	_
 44	ég	ég	PRON	PRO-N	Case=Nom	46	nsubj	_	_
@@ -4444,8 +4444,8 @@
 26	mjög	mjög	ADV	ADV	Degree=Pos	27	amod	_	_
 27	mikilli	mikill	DET	Q-D	Case=Dat|Degree=Pos	28	amod	_	_
 28	arðsemi	arðsemi	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	24	obl	_	_
-29	eins	_	ADV	ADVR	Degree=Cmp	23	advmod	_	_
-30	og	_	ADP	P	_	32	case	_	_
+29	eins	eins	ADV	ADVR	Degree=Cmp	23	advmod	_	_
+30	og	og	ADP	P	_	32	case	_	_
 31	við	ég	PRON	PRO-N	Case=Nom	32	nsubj	_	_
 32	sjáum	sjá	VERB	VBPI	Mood=Ind|Tense=Pres	29	obl	_	_
 33	á	á	ADP	P	_	35	case	_	_
@@ -4630,8 +4630,8 @@
 49	krónur	króna	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	43	obl	_	_
 50	á	á	ADP	P	_	51	case	_	_
 51	mánuði	mánuður	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	49	obl	_	_
-52	eins	_	ADV	ADVR	Degree=Cmp	49	advmod	_	_
-53	og	_	ADP	P	_	57	case	_	_
+52	eins	eins	ADV	ADVR	Degree=Cmp	49	advmod	_	_
+53	og	og	ADP	P	_	57	case	_	_
 54	menn	maður	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	57	nsubj	_	_
 55	voru	vera	AUX	BEDI	Mood=Ind|Tense=Past	57	cop	_	_
 56	að	að	PART	TO	_	57	mark	_	_
@@ -4957,8 +4957,8 @@
 4	og	og	CCONJ	CONJ	_	3	cc	_	_
 5	réttilega	réttilega	ADV	ADV	Degree=Pos	3	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
-7	eins	_	ADV	ADVR	Degree=Cmp	2	advmod	_	_
-8	og	_	ADP	P	_	13	case	_	_
+7	eins	eins	ADV	ADVR	Degree=Cmp	2	advmod	_	_
+8	og	og	ADP	P	_	13	case	_	_
 9	hv.	háttvirtur	ADJ	ADJ-N	Case=Nom|Degree=Pos	10	amod	_	_
 10	þm.	þingmaður	PROPN	NPR-N	_	13	nsubj	_	_
 11	Birgir	birgir	PROPN	NPR-N	_	10	flat:name	_	_
@@ -4992,7 +4992,7 @@
 3	oft	oft	ADV	ADV	Degree=Pos	4	advmod	_	_
 4	mikil	mikill	DET	Q-N	Case=Nom|Degree=Pos	0	root	_	_
 5	þegar	þegar	SCONJ	P	_	6	mark	_	_
-6	komast	koma	VERB	VB-1	VerbForm=Inf	4	advcl	_	_
+6	komast	koma	VERB	VB	VerbForm=Inf	4	advcl	_	_
 7	á	eiga	VERB	VBPI	Mood=Ind|Tense=Pres	6	dep	_	_
 8	áfram	áfram	ADV	ADV	Degree=Pos	6	advmod	_	_
 9	með	með	ADP	P	_	11	case	_	_
@@ -5488,8 +5488,8 @@
 23	strengnum	strengur	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	21	obl	_	_
 24	óx	vaxa	VERB	VBDI	Mood=Ind|Tense=Past	2	conj	_	OriginalHead=0
 25	ekki	ekki	ADV	NEG	_	24	advmod	_	_
-26	eins	_	ADV	ADVR	Degree=Cmp	24	advmod	_	_
-27	og	_	ADP	P	_	30	case	_	_
+26	eins	eins	ADV	ADVR	Degree=Cmp	24	advmod	_	_
+27	og	og	ADP	P	_	30	case	_	_
 28	menn	maður	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	30	nsubj	_	_
 29	höfðu	hafa	AUX	HVDI	Mood=Ind|Tense=Past	30	aux	_	_
 30	vonast	vona	VERB	VBN	Tense=Past|VerbForm=Part	26	obl	_	_
