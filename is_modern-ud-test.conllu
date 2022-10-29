@@ -11399,3 +11399,218 @@
 23	HM	hm	PROPN	NPR-D	_	20	obl	_	IFD_tag=as|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285942,1.416
+# text = Íslenska karlalandsliðið í handbolta verður aðeins með 14 leikmenn á leikskýrslu þegar Ísland mætir Danmörku í lokaleik Bygma-bikarsins í handbolta í kvöld.
+1	Íslenska	íslenskur	ADJ	ADJ-N	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	IFD_tag=lhenvf
+2	karlalandsliðið	karlalandslið	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	5	nsubj	_	IFD_tag=nheng
+3	í	í	ADP	P	_	4	case	_	IFD_tag=ao
+4	handbolta	handbolti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	IFD_tag=nkeþ
+5	verður	verða	VERB	RDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
+6	aðeins	aðeins	ADV	FP	_	9	advmod	_	IFD_tag=aa
+7	með	með	ADP	P	_	9	case	_	IFD_tag=aa
+8	14	fjórtán	NUM	NUM-A	NumType=Card	9	nummod	_	IFD_tag=ta
+9	leikmenn	leikmaður	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	IFD_tag=nkfo
+10	á	á	ADP	P	_	11	case	_	IFD_tag=aþ
+11	leikskýrslu	leikskýrsla	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	IFD_tag=nveþ
+12	þegar	þegar	ADP	P	_	14	case	_	IFD_tag=c
+13	Ísland	ísland	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	14	nsubj	_	IFD_tag=nhen-s
+14	mætir	mæta	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	obl	_	IFD_tag=sfg3en
+15	Danmörku	danmörk	PROPN	NPR-A	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	14	obj	_	IFD_tag=nveþ-s
+16	í	í	ADP	P	_	17	case	_	IFD_tag=ao
+17	lokaleik	lokaleikur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	14	obl	_	IFD_tag=nkeþ
+18	Bygma-bikarsins	bygma-bikarinn	PROPN	NPR-G	_	17	nmod:poss	_	IFD_tag=x
+19	í	í	ADP	P	_	20	case	_	IFD_tag=ao
+20	handbolta	handbolti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	18	obl	_	IFD_tag=nkeþ
+21	í	í	ADP	P	_	22	case	_	IFD_tag=ao
+22	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	14	obl	_	IFD_tag=nheo|SpaceAfter=No
+23	.	.	PUNCT	.	_	22	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285942,2.417
+# text = Liðin mætast í Árósum klukkan 19:15 í leik sem sýndur verður í beinni útsendingu RÚV 2.
+1	Liðin	lið	NOUN	NS-N	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	2	nsubj	_	IFD_tag=nhfng
+2	mætast	mæta	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	IFD_tag=sfm3fn
+3	í	í	ADP	P	_	4	case	_	IFD_tag=aþ
+4	Árósum	árósar	PROPN	NPRS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	2	obl	_	IFD_tag=nkfþ-s
+5	klukkan	klukka	NOUN	N-A	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	advcl	_	IFD_tag=nveng
+6	19:15	19:15	NUM	NUM-N	NumType=Card	5	xcomp	_	IFD_tag=ta
+7	í	í	ADP	P	_	8	case	_	IFD_tag=aþ
+8	leik	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	IFD_tag=nkeþ
+9	sem	sem	SCONJ	C	_	10	mark	_	IFD_tag=ct
+10	sýndur	sýna	VERB	VAN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	acl:relcl	_	IFD_tag=sþgken
+11	verður	verða	AUX	RDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	IFD_tag=sfg3en
+12	í	í	ADP	P	_	14	case	_	IFD_tag=aþ
+13	beinni	beinn	ADJ	ADJ-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	IFD_tag=lveþsf
+14	útsendingu	útsending	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	10	obl	_	IFD_tag=nveþ
+15	RÚV	rúv	PROPN	NPR-G	_	14	nmod:poss	_	IFD_tag=as
+16	2	tveir	NUM	NPR-G	NumType=Card	15	nmod:poss	_	IFD_tag=ta|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285942,3.418
+# text = Arnar Freyr Arnarsson og Ómar Ingi Magnússon héldu til Serbíu í gær til móts við 21 árs landslið Íslands og verða því ekki með í dag.
+1	Arnar	arnar	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	IFD_tag=nken-s
+2	Freyr	freyr	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	Arnarsson	arnarsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	dep	_	IFD_tag=nken-s
+4	og	og	CCONJ	CONJ	_	5	cc	_	IFD_tag=c
+5	Ómar	ómar	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	IFD_tag=nken-s
+6	Ingi	ingi	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	flat:name	_	IFD_tag=nken-s
+7	Magnússon	magnússon	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	dep	_	IFD_tag=nken-s
+8	héldu	halda	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3fþ
+9	til	til	ADP	P	_	10	case	_	IFD_tag=ae
+10	Serbíu	serbía	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	IFD_tag=nvee-s
+11	í	í	ADP	P	_	12	case	_	IFD_tag=ao
+12	gær	gær	ADV	ADV	_	8	obl	_	IFD_tag=aa
+13	til	til	ADP	P	_	14	case	_	IFD_tag=ae
+14	móts	mót	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	8	obl	_	IFD_tag=nhee
+15	við	við	ADP	P	_	18	case	_	IFD_tag=ao
+16	21	21	NUM	NUM-G	NumType=Card	17	nummod	_	IFD_tag=ta
+17	árs	ár	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	18	nmod:poss	_	IFD_tag=nhee
+18	landslið	landslið	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	14	obl	_	IFD_tag=nheo
+19	Íslands	ísland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	18	nmod:poss	_	IFD_tag=nhee-s
+20	og	og	CCONJ	CONJ	_	21	cc	_	IFD_tag=c
+21	verða	verða	VERB	RDPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	IFD_tag=sfg3fn
+22	því	það	PRON	PRO-D	_	21	obl	_	IFD_tag=aa
+23	ekki	ekki	ADV	NEG	_	21	advmod	_	IFD_tag=aa
+24	með	með	ADP	RP	_	21	compound:prt	_	IFD_tag=aa
+25	í	í	ADP	P	_	26	case	_	IFD_tag=ao
+26	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	21	obl	_	IFD_tag=nkeo|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285942,4.419
+# text = Það hafði raunar alltaf staðið til.
+1	Það	það	PRON	PRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	5	nsubj	_	IFD_tag=fphen
+2	hafði	hafa	AUX	HVDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	IFD_tag=sfg3eþ
+3	raunar	raunar	ADV	ADV	_	5	advmod	_	IFD_tag=aa
+4	alltaf	alltaf	ADV	ADV	_	5	advmod	_	IFD_tag=aa
+5	staðið	standa	VERB	VBN	VerbForm=Sup|Voice=Act	0	root	_	IFD_tag=ssg
+6	til	til	ADP	RP	_	5	compound:prt	_	IFD_tag=aa|SpaceAfter=No
+7	.	.	PUNCT	.	_	6	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285942,5.420
+# text = Bjarki Már Elísson og Vignir Svavarsson munu svo hvorugur spila leikinn við Danmörku í kvöld.
+1	Bjarki	bjarki	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	IFD_tag=nken-s
+2	Már	már	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	Elísson	elísson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	dep	_	IFD_tag=nken-s
+4	og	og	CCONJ	CONJ	_	5	cc	_	IFD_tag=c
+5	Vignir	vignir	PROPN	NPRS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	IFD_tag=nken-s
+6	Svavarsson	svavarsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	flat:name	_	IFD_tag=nken-s
+7	munu	munu	AUX	MDPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	IFD_tag=sfg3fn
+8	svo	svo	ADV	ADV	_	10	advmod	_	IFD_tag=aa
+9	hvorugur	hvorugur	DET	Q-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	10	amod	_	IFD_tag=foken
+10	spila	spila	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	IFD_tag=sng
+11	leikinn	leikur	NOUN	N-A	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	10	obj	_	IFD_tag=nkeog
+12	við	við	ADP	P	_	13	case	_	IFD_tag=ao
+13	Danmörku	danmörk	PROPN	NPR-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	IFD_tag=nveo-s
+14	í	í	ADP	P	_	15	case	_	IFD_tag=ao
+15	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nheo|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285942,6.421
+# text = Geir Sveinsson landsliðsþjálfari sagði við RÚV að smávægileg meiðsli hafi tekið sig upp hjá Bjarka Má og því hafi verið ákveðið að hvíla hann í kvöld.
+1	Geir	geir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
+2	Sveinsson	sveinsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	landsliðsþjálfari	landsliðsþjálfari	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	appos	_	IFD_tag=nken
+4	sagði	segja	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
+5	við	við	ADP	P	_	6	case	_	IFD_tag=ao
+6	RÚV	rúv	PROPN	NPR-A	_	4	obl	_	IFD_tag=as
+7	að	að	SCONJ	C	_	11	mark	_	IFD_tag=cn
+8	smávægileg	smávægilegur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Plur	9	amod	_	IFD_tag=lhfnsf
+9	meiðsli	meiðsli	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	11	nsubj	_	IFD_tag=nhfn
+10	hafi	hafa	AUX	HVPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	IFD_tag=svg3en
+11	tekið	taka	VERB	VBN	VerbForm=Sup|Voice=Act	4	ccomp	_	IFD_tag=ssg
+12	sig	sig	PRON	PRO-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	11	obj	_	IFD_tag=fpheo
+13	upp	upp	ADP	RP	_	11	compound:prt	_	IFD_tag=aa
+14	hjá	hjá	ADP	P	_	15	case	_	IFD_tag=aþ
+15	Bjarka	bjarki	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	11	obl	_	IFD_tag=nkeþ-s
+16	Má	már	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	15	flat:name	_	IFD_tag=nkeþ-s
+17	og	og	CCONJ	CONJ	_	21	cc	_	IFD_tag=c
+18	því	það	PRON	PRO-D	_	21	obl	_	IFD_tag=aa
+19	hafi	hafa	AUX	HVPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	aux	_	IFD_tag=svg3en
+20	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	21	cop	_	IFD_tag=ssg
+21	ákveðið	ákveða	VERB	VAN	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	11	conj	_	IFD_tag=sþghen
+22	að	að	PART	TO	_	23	mark	_	IFD_tag=cn
+23	hvíla	hvíla	VERB	VB	VerbForm=Inf|Voice=Act	21	acl	_	IFD_tag=sng
+24	hann	hann	PRON	PRO-A	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	23	obj	_	IFD_tag=fpkeo
+25	í	í	ADP	P	_	26	case	_	IFD_tag=ao
+26	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	23	obl	_	IFD_tag=nheo|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285942,7.422
+# text = Vignir Svavarsson er svo orðinn veikur og verður því ekki með í dag.
+1	Vignir	vigni	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	IFD_tag=nken-s
+2	Svavarsson	svavarsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	IFD_tag=sfg3en
+4	svo	svo	ADV	ADV	_	5	advmod	_	IFD_tag=aa
+5	orðinn	verða	VERB	RDN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþgken
+6	veikur	veikur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	IFD_tag=lkensf
+7	og	og	CCONJ	CONJ	_	8	cc	_	IFD_tag=c
+8	verður	verða	VERB	RDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	IFD_tag=sfg3en
+9	því	það	PRON	PRO-D	_	8	obl	_	IFD_tag=aa
+10	ekki	ekki	ADV	NEG	_	8	advmod	_	IFD_tag=aa
+11	með	með	ADP	RP	_	8	compound:prt	_	IFD_tag=aa
+12	í	í	ADP	P	_	13	case	_	IFD_tag=ao
+13	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	IFD_tag=nkeo|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285942,8.423
+# text = Vignir er nánast kominn í einangrum svo fleiri í hópnum verði ekki veikir.
+1	Vignir	vigni	PROPN	NPRS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
+2	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	IFD_tag=sfg3en
+3	nánast	nánast	ADV	ADVS	Degree=Sup	4	advmod	_	IFD_tag=aae
+4	kominn	koma	VERB	VBN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþgken
+5	í	í	ADP	P	_	6	case	_	IFD_tag=aþ
+6	einangrum	einangrun	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	4	obl	_	IFD_tag=nhfþ
+7	svo	svo	ADP	P	_	11	case	_	IFD_tag=aa
+8	fleiri	margur	DET	QR-N	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	11	nsubj	_	IFD_tag=lkfnvm
+9	í	í	ADP	P	_	10	case	_	IFD_tag=aþ
+10	hópnum	hópur	NOUN	N-D	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	IFD_tag=nkeþg
+11	verði	verða	VERB	RDPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	obl	_	IFD_tag=svg3en
+12	ekki	ekki	ADV	NEG	_	11	advmod	_	IFD_tag=aa
+13	veikir	veikur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	IFD_tag=lkfnsf|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285942,9.424
+# text = Kári Kristján Kristjánsson sem var herbergisfélagi Vignis er því fluttur út úr herbergi Vignis.
+1	Kári	kári	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	IFD_tag=nken-s
+2	Kristján	kristján	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	Kristjánsson	kristjánsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	dep	_	IFD_tag=nken-s
+4	sem	sem	SCONJ	C	_	6	mark	_	IFD_tag=ct
+5	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	IFD_tag=sfg3eþ
+6	herbergisfélagi	herbergisfélagi	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	acl:relcl	_	IFD_tag=nken
+7	Vignis	vignir	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	nmod:poss	_	IFD_tag=nkee-s
+8	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	IFD_tag=sfg3en
+9	því	það	PRON	PRO-D	_	10	obl	_	IFD_tag=aa
+10	fluttur	flytja	VERB	VAN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþgken
+11	út	út	ADP	RP	_	13	compound:prt	_	IFD_tag=aa
+12	úr	úr	ADP	P	_	13	case	_	IFD_tag=aþ
+13	herbergi	herbergi	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nheþ
+14	Vignis	vignir	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	nmod:poss	_	IFD_tag=nkee-s|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285942,10.425
+# text = Leikur Íslands og Danmerkur hefst klukkan 19:15 og verður sýndur á RÚV 2.
+1	Leikur	leikur	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	IFD_tag=nken
+2	Íslands	ísland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	1	nmod:poss	_	IFD_tag=nhee-s
+3	og	og	CCONJ	CONJ	_	2	cc	_	IFD_tag=c
+4	Danmerkur	danmörk	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	2	dep	_	IFD_tag=nvee-s
+5	hefst	hefja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	IFD_tag=sfm3en
+6	klukkan	klukka	NOUN	N-N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	advcl	_	IFD_tag=nveng
+7	19:15	19:15	NUM	NUM-N	NumType=Card	6	xcomp	_	IFD_tag=ta
+8	og	og	CCONJ	CONJ	_	10	cc	_	IFD_tag=c
+9	verður	verða	AUX	RDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	IFD_tag=sfg3en
+10	sýndur	sýna	VERB	VAN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	conj	_	IFD_tag=sþgken
+11	á	á	ADP	P	_	12	case	_	IFD_tag=aþ
+12	RÚV	rúv	PROPN	NPR-D	_	10	obl	_	IFD_tag=as
+13	2	tveir	NUM	NUM-N	NumType=Card	12	nmod:poss	_	IFD_tag=ta|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
+
+
