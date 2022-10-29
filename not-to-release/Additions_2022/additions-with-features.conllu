@@ -1111,12 +1111,10 @@
 18	áður	áður	ADV	ADVR	_	19	advmod	_	IFD_tag=aa
 19	farið	fara	VERB	VBN	VerbForm=Sup|Voice=Act	3	conj	_	IFD_tag=ssg
 20	með	með	ADP	P	_	23	case	_	IFD_tag=aþ
-21	A	a	NUM	NUM-D	Case=Dat	23	dep	_	IFD_tag=x|SpaceAfter=No
-22	-	-	PUNCT	,	_	21	punct	_	IFD_tag=x|SpaceAfter=No
-23	landsliðinu	landslið	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	19	obl	_	IFD_tag=nheþg
-24	á	á	ADP	P	_	25	case	_	IFD_tag=ao
-25	stórmót	stórmót	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	19	obl	_	IFD_tag=nheo|SpaceAfter=No
-26	.	.	PUNCT	.	_	25	punct	_	IFD_tag=.
+21	A-landsliðinu	a-landslið	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	19	obl	_	IFD_tag=nheþg
+22	á	á	ADP	P	_	23	case	_	IFD_tag=ao
+23	stórmót	stórmót	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	19	obl	_	IFD_tag=nheo|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
 # sent_id = RUV_TGS_2017_G-2-1307543,6.
 # X_ID = ID_MISSING
@@ -1168,22 +1166,20 @@
 6	valdi	velja	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
 7	sjö	sjö	NUM	NUM-A	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	8	nummod	_	IFD_tag=tfkfo
 8	nýliða	nýliði	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	6	obj	_	IFD_tag=nkfo
-9	í	í	ADP	P	_	12	case	_	IFD_tag=aþ
-10	A	a	NUM	NUM-A	Case=Acc	12	dep	_	IFD_tag=x|SpaceAfter=No
-11	-	-	PUNCT	,	_	10	punct	_	IFD_tag=x|SpaceAfter=No
-12	landsliðið	landslið	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	6	obl	_	IFD_tag=x
-13	sem	sem	SCONJ	C	_	16	mark	_	IFD_tag=ct
-14	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	IFD_tag=sfg3en
+9	í	í	ADP	P	_	10	case	_	IFD_tag=aþ
+10	A-landsliðið	a-landslið	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	6	obl	_	IFD_tag=x
+11	sem	sem	SCONJ	C	_	14	mark	_	IFD_tag=ct
+12	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	IFD_tag=sfg3en
+13	á	á	ADP	P	_	14	case	_	IFD_tag=ao
+14	leið	leið	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	10	acl:relcl	_	IFD_tag=nveþ
 15	á	á	ADP	P	_	16	case	_	IFD_tag=ao
-16	leið	leið	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	12	acl:relcl	_	IFD_tag=nveþ
-17	á	á	ADP	P	_	18	case	_	IFD_tag=ao
-18	æfingamót	æfingamót	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	16	obl	_	IFD_tag=nheo
-19	í	í	ADP	P	_	20	case	_	IFD_tag=aþ
-20	Kína	kína	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	18	obl	_	IFD_tag=nheþ-s
-21	í	í	ADP	P	_	23	case	_	IFD_tag=aþ
-22	næstu	næstur	ADJ	ADJS-D	Case=Dat|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing	23	amod	_	IFD_tag=lveþve
-23	viku	vika	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	16	obl	_	IFD_tag=nveþ|SpaceAfter=No
-24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
+16	æfingamót	æfingamót	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	14	obl	_	IFD_tag=nheo
+17	í	í	ADP	P	_	16	case	_	IFD_tag=aþ
+18	Kína	kína	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	16	obl	_	IFD_tag=nheþ-s
+19	í	í	ADP	P	_	21	case	_	IFD_tag=aþ
+20	næstu	næstur	ADJ	ADJS-D	Case=Dat|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing	21	amod	_	IFD_tag=lveþve
+21	viku	vika	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	14	obl	_	IFD_tag=nveþ|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	punct	_	IFD_tag=.
 
 # sent_id = RUV_TGS_2017_G-2-1054808,2.
 # X_ID = ID_MISSING
@@ -1606,18 +1602,17 @@
 2	fæddist	fæða	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	IFD_tag=sfm3eþ
 3	á	á	ADP	P	_	4	case	_	IFD_tag=aþ
 4	Sauðárkróki	sauðárkrókur	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	IFD_tag=nkeþ-s
-5	18	átján	NUM	NUM-A	Case=Acc	2	obl	_	IFD_tag=x|SpaceAfter=No
-6	.	.	PUNCT	,	_	5	punct	_	IFD_tag=.
-7	júní	júní	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	5	conj	_	IFD_tag=nkeo
-8	1990	1990	NUM	NUM-A	NumType=Card	2	obl	_	IFD_tag=ta
-9	og	og	CCONJ	CONJ	_	10	cc	_	IFD_tag=c
-10	verður	verða	VERB	RDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	IFD_tag=sfg3en
-11	því	það	PRON	PRO-D	_	10	obl	_	IFD_tag=aa
-12	27	27	NUM	NUM-G	NumType=Card	13	nummod	_	IFD_tag=ta
-13	ára	ár	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	10	amod	_	IFD_tag=nhfe
-14	í	í	ADP	P	_	15	case	_	IFD_tag=ao
-15	sumar	sumar	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nheo|SpaceAfter=No
-16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
+5	18.	átjándi	ADJ	ADJ-A	Case=Acc	6	amod	_	IFD_tag=x|SpaceAfter=No
+6	júní	júní	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	IFD_tag=nkeo
+7	1990	1990	NUM	NUM-A	NumType=Card	2	obl	_	IFD_tag=ta
+8	og	og	CCONJ	CONJ	_	9	cc	_	IFD_tag=c
+9	verður	verða	VERB	RDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	IFD_tag=sfg3en
+10	því	það	PRON	PRO-D	_	9	obl	_	IFD_tag=aa
+11	27	27	NUM	NUM-G	NumType=Card	12	nummod	_	IFD_tag=ta
+12	ára	ár	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	9	amod	_	IFD_tag=nhfe
+13	í	í	ADP	P	_	14	case	_	IFD_tag=ao
+14	sumar	sumar	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	9	obl	_	IFD_tag=nheo|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
 
 # sent_id = RUV_ESP_2017_G-2-1057342,4.
 # X_ID = ID_MISSING
@@ -2021,10 +2016,12 @@
 9	í	í	ADP	P	_	11	case	_	IFD_tag=aþ
 10	sameinuðum	sameinaður	ADJ	ADJ-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	IFD_tag=lkfþsf
 11	flokkum	flokkur	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	3	obl	_	IFD_tag=nkfþ
-12	F42,43	f42,43	NUM	NUM-N	Case=Nom	11	appos	_	IFD_tag=x
-13	og	og	CCONJ	CONJ	_	12	cc	_	IFD_tag=c
-14	44	44	NUM	NUM-N	NumType=Card	12	nummod	_	IFD_tag=ta|SpaceAfter=No
-15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
+12	F42	f42	NOUN	N-N	Case=Nom	11	appos	_	IFD_tag=x|SpaceAfter=No
+13	,	,	PUNCT	,	_	14	punct	_	IFD_tag=,|SpaceAfter=No
+14	43	43	NUM	NUM-N	NumType=Card	12	conj	_	IFD_tag=ta
+15	og	og	CCONJ	CONJ	_	16	cc	_	IFD_tag=c
+16	44	44	NUM	NUM-N	NumType=Card	12	nummod	_	IFD_tag=ta|SpaceAfter=No
+17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
 
 # sent_id = RUV_ESP_2017_G-2-1065332,9.
 # X_ID = ID_MISSING
@@ -2032,34 +2029,31 @@
 1	Þá	þá	ADV	ADV	_	2	advmod	_	IFD_tag=aa
 2	setti	setja	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
 3	hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	IFD_tag=fpken
-4	nýtt	nýr	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	IFD_tag=lheosf
-5	Paralympic	paralympic	PROPN	NPR-A	_	2	dep	_	IFD_tag=x|SpaceAfter=No
-6	-	-	PUNCT	,	_	5	punct	_	IFD_tag=x|SpaceAfter=No
-7	met	met	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	2	obj	_	IFD_tag=x
-8	í	í	ADP	P	_	9	case	_	IFD_tag=ao
-9	flokki	flokkur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	IFD_tag=nkeþ
-10	42	42	NUM	NUM-N	NumType=Card	9	nmod:poss	_	IFD_tag=ta
-11	á	á	ADP	P	_	12	case	_	IFD_tag=aþ
-12	Paralympics	paralympics	PROPN	NPR-D	Foreign=Yes	2	obl	_	IFD_tag=e
-13	sem	sem	SCONJ	C	_	15	mark	_	IFD_tag=ct
-14	fram	fram	ADP	RP	_	15	compound:prt	_	IFD_tag=aa
-15	fóru	fara	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl:relcl	_	IFD_tag=sfg3fþ
-16	í	í	ADP	P	_	17	case	_	IFD_tag=ao
-17	Ríó	ríó	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	15	obl	_	IFD_tag=nheþ-s
-18	de	de	PROPN	NPR-D	Foreign=Yes	17	flat:name	_	IFD_tag=e
-19	Janeiro	janeiro	PROPN	NPR-D	Foreign=Yes	17	dep	_	IFD_tag=e
-20	þegar	þegar	ADP	P	_	22	case	_	IFD_tag=c
-21	hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	22	nsubj	_	IFD_tag=fpken
-22	kastaði	kasta	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	obl	_	IFD_tag=sfg3eþ
-23	53,96	53,96	NUM	NUM-A	NumType=Card	24	nummod	_	IFD_tag=ta
-24	metra	metri	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	22	obl	_	IFD_tag=nkfo
-25	og	og	CCONJ	CONJ	_	26	cc	_	IFD_tag=c
-26	hafnaði	hafna	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	conj	_	IFD_tag=sfg3eþ
-27	í	í	ADP	P	_	30	case	_	IFD_tag=ao
-28	5	fimm	NUM	NUM-D	Case=Dat	30	nummod	_	IFD_tag=x|SpaceAfter=No
-29	.	.	PUNCT	,	_	28	punct	_	IFD_tag=.
-30	sæti	sæti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	26	obl	_	IFD_tag=nheþ|SpaceAfter=No
-31	.	.	PUNCT	.	_	30	punct	_	IFD_tag=.
+4	nýtt	nýr	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	IFD_tag=lheosf
+5	Paralympic-met	paralympic-met	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	2	obj	_	IFD_tag=x
+6	í	í	ADP	P	_	7	case	_	IFD_tag=ao
+7	flokki	flokkur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	IFD_tag=nkeþ
+8	42	42	NUM	NUM-N	NumType=Card	7	nmod:poss	_	IFD_tag=ta
+9	á	á	ADP	P	_	10	case	_	IFD_tag=aþ
+10	Paralympics	paralympics	PROPN	NPR-D	Foreign=Yes	2	obl	_	IFD_tag=e
+11	sem	sem	SCONJ	C	_	13	mark	_	IFD_tag=ct
+12	fram	fram	ADP	RP	_	13	compound:prt	_	IFD_tag=aa
+13	fóru	fara	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	IFD_tag=sfg3fþ
+14	í	í	ADP	P	_	15	case	_	IFD_tag=ao
+15	Ríó	ríó	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	13	obl	_	IFD_tag=nheþ-s
+16	de	de	PROPN	NPR-D	Foreign=Yes	15	flat:name	_	IFD_tag=e
+17	Janeiro	janeiro	PROPN	NPR-D	Foreign=Yes	15	dep	_	IFD_tag=e
+18	þegar	þegar	ADP	P	_	20	case	_	IFD_tag=c
+19	hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	20	nsubj	_	IFD_tag=fpken
+20	kastaði	kasta	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	obl	_	IFD_tag=sfg3eþ
+21	53,96	53,96	NUM	NUM-A	NumType=Card	22	nummod	_	IFD_tag=ta
+22	metra	metri	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	20	obl	_	IFD_tag=nkfo
+23	og	og	CCONJ	CONJ	_	24	cc	_	IFD_tag=c
+24	hafnaði	hafna	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	_	IFD_tag=sfg3eþ
+25	í	í	ADP	P	_	27	case	_	IFD_tag=ao
+26	5.	fimmti	ADJ	ADJ-D	Case=Dat	27	amod	_	IFD_tag=x|SpaceAfter=No
+27	sæti	sæti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	24	obl	_	IFD_tag=nheþ|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	punct	_	IFD_tag=.
 
 # sent_id = RUV_ESP_2017_G-2-1065332,10.
 # X_ID = ID_MISSING
@@ -2073,28 +2067,30 @@
 7	sameinuðum	sameinaður	ADJ	ADJ-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	IFD_tag=lkfþsf
 8	flokkum	flokkur	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	IFD_tag=nkfþ
 9	aflimaðra	aflimaður	ADJ	ADJ-G	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	8	nmod:poss	_	IFD_tag=lkfesf
-10	(	„	PUNCT	,	_	9	punct	_	IFD_tag=(|SpaceAfter=No
-11	42,43	42,43	NUM	NUM-N	NumType=Card	8	appos	_	IFD_tag=ta
-12	og	og	CCONJ	CONJ	_	11	cc	_	IFD_tag=c
-13	44	44	NUM	NUM-N	NumType=Card	11	nummod	_	IFD_tag=ta|SpaceAfter=No
-14	)	„	PUNCT	,	_	13	punct	_	IFD_tag=)
-15	og	og	CCONJ	CONJ	_	19	cc	_	IFD_tag=c
-16	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	IFD_tag=sfg3en
-17	Helgi	helgi	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	19	nsubj	_	IFD_tag=nken-s
-18	í	í	ADP	P	_	19	case	_	IFD_tag=aþ
-19	flokki	flokkur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	5	conj	_	IFD_tag=nkeþ
-20	42	42	NUM	NUM-G	NumType=Card	19	nmod:poss	_	IFD_tag=ta
-21	eða	eða	CCONJ	CONJ	_	22	cc	_	IFD_tag=c
-22	þeirra	sá	DET	D-G	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	20	conj	_	IFD_tag=fakfe
-23	sem	sem	SCONJ	C	_	24	mark	_	IFD_tag=ct
-24	keppa	keppa	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	acl:relcl	_	IFD_tag=sfg3fn
-25	með	með	ADP	P	_	27	case	_	IFD_tag=ao
-26	mesta	mikill	DET	QS-A	Case=Acc|Definite=Ind|Degree=Sup|Gender=Fem|Number=Sing	27	amod	_	IFD_tag=lveose
-27	skerðingu	skerðing	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	24	obl	_	IFD_tag=nveo
-28	innan	innan	ADP	P	_	29	case	_	IFD_tag=ae
-29	flokkanna	flokkur	NOUN	NS-G	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	24	obl	_	IFD_tag=nkfeg
-30	þriggja	þrír	NUM	NUM-G	Case=Gen|Gender=Masc|Number=Plur|NumType=Card	29	nummod	_	IFD_tag=tfkfe|SpaceAfter=No
-31	.	.	PUNCT	.	_	30	punct	_	IFD_tag=.
+10	(	(	PUNCT	,	_	9	punct	_	IFD_tag=(|SpaceAfter=No
+11	42	42	NUM	NUM-N	NumType=Card	8	appos	_	IFD_tag=ta
+12	,	,	PUNCT	,	_	13	punct	_	IFD_tag=,|SpaceAfter=No
+13	43	43	NUM	NUM-N	NumType=Card	11	nummod	_	IFD_tag=ta
+14	og	og	CCONJ	CONJ	_	11	cc	_	IFD_tag=c
+15	44	44	NUM	NUM-N	NumType=Card	11	nummod	_	IFD_tag=ta|SpaceAfter=No
+16	)	)	PUNCT	,	_	15	punct	_	IFD_tag=)
+17	og	og	CCONJ	CONJ	_	21	cc	_	IFD_tag=c
+18	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	_	IFD_tag=sfg3en
+19	Helgi	helgi	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	21	nsubj	_	IFD_tag=nken-s
+20	í	í	ADP	P	_	21	case	_	IFD_tag=aþ
+21	flokki	flokkur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	5	conj	_	IFD_tag=nkeþ
+22	42	42	NUM	NUM-G	NumType=Card	21	nmod:poss	_	IFD_tag=ta
+23	eða	eða	CCONJ	CONJ	_	24	cc	_	IFD_tag=c
+24	þeirra	sá	DET	D-G	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	21	conj	_	IFD_tag=fakfe
+25	sem	sem	SCONJ	C	_	26	mark	_	IFD_tag=ct
+26	keppa	keppa	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	acl:relcl	_	IFD_tag=sfg3fn
+27	með	með	ADP	P	_	29	case	_	IFD_tag=ao
+28	mesta	mikill	DET	QS-A	Case=Acc|Definite=Ind|Degree=Sup|Gender=Fem|Number=Sing	29	amod	_	IFD_tag=lveose
+29	skerðingu	skerðing	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	26	obl	_	IFD_tag=nveo
+30	innan	innan	ADP	P	_	31	case	_	IFD_tag=ae
+31	flokkanna	flokkur	NOUN	NS-G	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	26	obl	_	IFD_tag=nkfeg
+32	þriggja	þrír	NUM	NUM-G	Case=Gen|Gender=Masc|Number=Plur|NumType=Card	31	nummod	_	IFD_tag=tfkfe|SpaceAfter=No
+33	.	.	PUNCT	.	_	32	punct	_	IFD_tag=.
 
 # sent_id = RUV_ESP_2017_G-2-1065332,11.
 # X_ID = ID_MISSING
