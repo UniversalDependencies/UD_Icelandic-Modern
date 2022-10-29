@@ -10182,7 +10182,7 @@
 6	um	um	ADP	P	_	7	case	_	IFD_tag=ao
 7	áramótin	áramót	NOUN	NS-A	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	11	obl	_	IFD_tag=nhfog
 8	1992	1992	NUM	NUM-A	NumType=Card	7	appos	_	IFD_tag=ta|SpaceAfter=No
-9	-	til	CCONJ	CONJ	_		cc	_	IFD_tag=-|SpaceAfter=No
+9	-	til	CCONJ	CONJ	_	8	cc	_	IFD_tag=-|SpaceAfter=No
 10	93	93	NUM	NUM-A	NumType=Card	8	appos	_	IFD_tag=ta
 11	hóf	hefja	VERB	VBDI	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	IFD_tag=sfg1eþ
 12	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	IFD_tag=fp1en
