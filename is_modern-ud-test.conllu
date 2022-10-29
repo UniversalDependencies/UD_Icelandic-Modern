@@ -11032,11 +11032,11 @@
 # X_ID = ID_MISSING
 # sent_id = RUV_ESP_2017_G-2-1057360,5.404
 # text = „Þessi hluti kynningarinnar var til þess gerður að foreldrar átti sig á þeirri vá sem fylgir veðmálum og hagræðingu úrslita sem er því miður orðin fylgifiskur fótbolta, körfubolta og fleiri íþróttagreina,“ segir Hannes jafnframt í umfjöllun um málið í Morgunblaðinu í dag.
-1	„	„	PUNCT	"	_	36	punct	_	IFD_tag=„|SpaceAfter=No
+1	„	„	PUNCT	"	_	2	punct	_	IFD_tag=„|SpaceAfter=No
 2	Þessi	þessi	DET	D-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	IFD_tag=faken
 3	hluti	hluti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	IFD_tag=nken
 4	kynningarinnar	kynning	NOUN	N-G	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod:poss	_	IFD_tag=nveeg
-5	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	36	cop	_	IFD_tag=sfg3eþ
+5	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	IFD_tag=sfg3eþ
 6	til	til	ADP	P	_	7	case	_	IFD_tag=ae
 7	þess	það	PRON	PRO-G	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	8	obl	_	IFD_tag=fphee
 8	gerður	gera	VERB	DAN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþgken
@@ -11066,7 +11066,7 @@
 32	fleiri	margur	DET	QR-G	Case=Gen|Definite=Def|Degree=Cmp|Gender=Fem|Number=Plur	33	amod	_	IFD_tag=lvfevm
 33	íþróttagreina	íþróttagrein	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	28	conj	_	IFD_tag=nvfe|SpaceAfter=No
 34	,	,	PUNCT	,	_	33	punct	_	IFD_tag=,|SpaceAfter=No
-35	“	“	PUNCT	"	_	34	punct	_	IFD_tag=“
+35	“	“	PUNCT	"	_	33	punct	_	IFD_tag=“
 36	segir	segja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	IFD_tag=sfg3en
 37	Hannes	hannes	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	36	nsubj	_	IFD_tag=nken-s
 38	jafnframt	jafnframt	ADV	ADV	_	36	advmod	_	IFD_tag=aa
