@@ -10013,3 +10013,367 @@
 15	ofan	ofan	ADP	P	_	13	obl	_	IFD_tag=aa|SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
 
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,1.362
+# text = Geir Þorsteinsson sem verið hefur formaður Knattspyrnusambands Íslands frá 2007 ætlar ekki að gefa kost á sér til endurkjörs formanns á ársþingi sambandsins í febrúar.
+1	Geir	geir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	11	nsubj	_	IFD_tag=nken-s
+2	Þorsteinsson	þorsteinsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	sem	sem	SCONJ	C	_	4	mark	_	IFD_tag=ct
+4	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	1	acl:relcl	_	IFD_tag=ssg
+5	hefur	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	IFD_tag=sfg3en
+6	formaður	formaður	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	xcomp	_	IFD_tag=nken
+7	Knattspyrnusambands	knattspyrnusamband	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	6	nmod:poss	_	IFD_tag=nhee-s
+8	Íslands	ísland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	7	nmod:poss	_	IFD_tag=nhee-s
+9	frá	frá	ADP	P	_	10	case	_	IFD_tag=aþ
+10	2007	2007	NUM	NUM-D	NumType=Card	4	obl	_	IFD_tag=ta
+11	ætlar	ætla	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
+12	ekki	ekki	ADV	NEG	_	11	advmod	_	IFD_tag=aa
+13	að	að	PART	TO	_	14	mark	_	IFD_tag=cn
+14	gefa	gefa	VERB	VB	VerbForm=Inf|Voice=Act	11	acl	_	IFD_tag=sng
+15	kost	kostur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	14	obj	_	IFD_tag=nkeo
+16	á	á	ADP	P	_	17	case	_	IFD_tag=aþ
+17	sér	sig	PRON	PRO-D	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	15	obl	_	IFD_tag=fpkeþ
+18	til	til	ADP	P	_	19	case	_	IFD_tag=ae
+19	endurkjörs	endurkjör	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	14	obl	_	IFD_tag=nhee
+20	formanns	formaður	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	19	nmod:poss	_	IFD_tag=nkee
+21	á	á	ADP	P	_	22	case	_	IFD_tag=aþ
+22	ársþingi	ársþing	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	14	obl	_	IFD_tag=nheþ
+23	sambandsins	samband	NOUN	N-G	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	22	nmod:poss	_	IFD_tag=nheeg
+24	í	í	ADP	P	_	25	case	_	IFD_tag=aþ
+25	febrúar	febrúar	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	22	obl	_	IFD_tag=nkeþ|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,2.363
+# text = Þetta kemur fram í yfirlýsingu sem hann sendi frá sér rétt í þessu.
+1	Þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	IFD_tag=fahen
+2	kemur	koma	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
+3	fram	fram	ADP	RP	_	5	compound:prt	_	IFD_tag=aa
+4	í	í	ADP	P	_	5	case	_	IFD_tag=aþ
+5	yfirlýsingu	yfirlýsing	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	2	obl	_	IFD_tag=nveþ
+6	sem	sem	SCONJ	C	_	8	mark	_	IFD_tag=ct
+7	hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	8	nsubj	_	IFD_tag=fpken
+8	sendi	senda	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	IFD_tag=sfg3eþ
+9	frá	frá	ADP	P	_	10	case	_	IFD_tag=aþ
+10	sér	sig	PRON	PRO-D	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	8	obl	_	IFD_tag=fpkeþ
+11	rétt	rétt	ADV	ADV	_	13	advmod	_	IFD_tag=aa
+12	í	í	ADP	P	_	13	case	_	IFD_tag=aþ
+13	þessu	þessi	DET	D-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	IFD_tag=faheþ|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,3.364
+# text = Geir varð framkvæmdastjóri KSÍ 1997 og formaður tíu árum síðar.
+1	Geir	geir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nken-s
+2	varð	verða	VERB	RDDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
+3	framkvæmdastjóri	framkvæmdastjóri	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	xcomp	_	IFD_tag=nken
+4	KSÍ	ksí	PROPN	NPR-G	_	3	nmod:poss	_	IFD_tag=as
+5	1997	1997	NUM	NUM-A	NumType=Card	4	obl	_	IFD_tag=ta
+6	og	og	CCONJ	CONJ	_	7	cc	_	IFD_tag=c
+7	formaður	formaður	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	conj	_	IFD_tag=nken
+8	tíu	tíu	NUM	NUM-D	Case=Dat|Gender=Neut|Number=Plur|NumType=Card	9	nummod	_	IFD_tag=tfhfþ
+9	árum	ár	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	10	obl	_	IFD_tag=nhfþ
+10	síðar	síðar	ADV	ADVR	Degree=Cmp	7	advmod	_	IFD_tag=aam|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,4.365
+# text = Kosið verður um nýjan formann í Vestmannaeyjum 11. febrúar.
+1	Kosið	kjsaa	VERB	VAN	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþghen
+2	verður	verða	AUX	RDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	IFD_tag=sfg3en
+3	um	um	ADP	P	_	5	case	_	IFD_tag=ao
+4	nýjan	nýr	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	IFD_tag=lkeosf
+5	formann	formaður	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	IFD_tag=nkeo
+6	í	í	ADP	P	_	7	case	_	IFD_tag=aþ
+7	Vestmannaeyjum	vestmannaeyjar	PROPN	NPRS-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Plur	1	obl	_	IFD_tag=nvfþ-s
+8	11.	ellefti	ADJ	ADJ-A	Case=Acc	9	amod	_	IFD_tag=x
+9	febrúar	febrúar	NOUN	N-G	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	7	conj	_	IFD_tag=nkeo|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,5.366
+# text = Nú þegar hefur Guðni Bergsson gefið kost á sér og Björn Einarsson íhugar málið.
+1	Nú	nú	ADV	ADV	_	6	advmod	_	IFD_tag=aa
+2	þegar	þegar	ADV	ADV	_	1	advmod	_	IFD_tag=c
+3	hefur	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	IFD_tag=sfg3en
+4	Guðni	guðni	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	IFD_tag=nken-s
+5	Bergsson	bergsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	flat:name	_	IFD_tag=nken-s
+6	gefið	gefa	VERB	VBN	VerbForm=Sup|Voice=Act	0	root	_	IFD_tag=ssg
+7	kost	kostur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	IFD_tag=nkeo
+8	á	á	ADP	P	_	9	case	_	IFD_tag=aþ
+9	sér	sig	PRON	PRO-D	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	7	obl	_	IFD_tag=fpkeþ
+10	og	og	CCONJ	CONJ	_	13	cc	_	IFD_tag=c
+11	Björn	björn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	IFD_tag=nken-s
+12	Einarsson	einarsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	11	flat:name	_	IFD_tag=nken-s
+13	íhugar	íhuga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	IFD_tag=sfg3en
+14	málið	mál	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	13	obj	_	IFD_tag=nheog|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
+
+# sent_id = RUV_ESP_2017_G-2-1057336,6.367
+# X_ID = ID_MISSING
+# text = Yfirlýsing Geirs er svohljóðandi:
+1	Yfirlýsing	yfirlýsing	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	IFD_tag=nven
+2	Geirs	geir	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	nmod:poss	_	IFD_tag=nkee-s
+3	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	IFD_tag=sfg3en
+4	svohljóðandi	svohljóðandi	ADJ	ADJ-N	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	IFD_tag=lvenof|SpaceAfter=No
+5	:	:	PUNCT	,	_	4	punct	_	IFD_tag=:
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,7.368
+# text = „Snemma á níunda áratugnum fyrir rúmum 30 árum hóf ég afskipti af knattspyrnumálum utan mín félags þegar ég tók að mér niðurröðun knattspyrnuleikja í Reykjavík, sat síðan í stjórn KSÍ 1986-87 undir forystu Ellerts B. Schram og tók að mér formennsku í mótanefnd KSÍ.
+1	„	„	PUNCT	"	_	10	punct	_	IFD_tag=„|SpaceAfter=No
+2	Snemma	snemma	ADV	ADV	_	5	advmod	_	IFD_tag=aa
+3	á	á	ADP	P	_	5	case	_	IFD_tag=aþ
+4	níunda	níundi	ADJ	ADJ-D	Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	IFD_tag=lkeþvf
+5	áratugnum	áratugur	NOUN	N-D	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	IFD_tag=nkeþg
+6	fyrir	fyrir	ADP	P	_	9	case	_	IFD_tag=aþ
+7	rúmum	rúmur	ADJ	ADJ-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Neut|Number=Plur	9	amod	_	IFD_tag=lhfþsf
+8	30	þrjátíu	NUM	NUM-D	NumType=Card	9	nummod	_	IFD_tag=ta
+9	árum	ár	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	5	obl	_	IFD_tag=nhfþ
+10	hóf	hefja	VERB	VBDI	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg1eþ
+11	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	IFD_tag=fp1en
+12	afskipti	afskipti	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	10	obj	_	IFD_tag=nhfo
+13	af	af	ADP	P	_	14	case	_	IFD_tag=aþ
+14	knattspyrnumálum	knattspyrnumál	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	12	obl	_	IFD_tag=nhfþ
+15	utan	utan	ADP	P	_	17	case	_	IFD_tag=ae
+16	mín	minn	PRON	PRO-G	Case=Gen|Number=Sing|Person=1|PronType=Prs	17	nmod:poss	_	IFD_tag=fp1ee
+17	félags	félag	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nhee
+18	þegar	þegar	ADP	P	_	20	case	_	IFD_tag=c
+19	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	IFD_tag=fp1en
+20	tók	taka	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	obl	_	IFD_tag=sfg3eþ
+21	að	að	ADP	P	_	22	case	_	IFD_tag=aþ
+22	mér	ég	PRON	PRO-D	Case=Dat|Number=Sing|Person=1|PronType=Prs	20	obl	_	IFD_tag=fp1eþ
+23	niðurröðun	niðurröðun	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	20	obj	_	IFD_tag=nveo
+24	knattspyrnuleikja	knattspyrnuleikur	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	23	nmod:poss	_	IFD_tag=nkfe
+25	í	í	ADP	P	_	26	case	_	IFD_tag=aþ
+26	Reykjavík	reykjavík	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	24	obl	_	IFD_tag=nveþ-s|SpaceAfter=No
+27	,	,	PUNCT	,	_	26	punct	_	IFD_tag=,
+28	sat	sitja	VERB	VBDI	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	IFD_tag=sfg1eþ
+29	síðan	síðan	ADV	ADV	_	28	advmod	_	IFD_tag=aa
+30	í	í	ADP	P	_	31	case	_	IFD_tag=aþ
+31	stjórn	stjórn	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	28	obl	_	IFD_tag=nveþ
+32	KSÍ	ksí	PROPN	NPR-G	_	31	nmod:poss	_	IFD_tag=as
+33	1986	1986	NUM	NUM-A	NumType=Card	28	obl	_	IFD_tag=ta|SpaceAfter=No
+34	-	til	CCONJ	CONJ	_	33	cc	_	IFD_tag=-|SpaceAfter=No
+35	87	87	NUM	NUM-N	NumType=Card	33	obl	_	IFD_tag=ta
+36	undir	undir	ADP	P	_	37	case	_	IFD_tag=aþ
+37	forystu	forysta	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	28	obl	_	IFD_tag=nveþ
+38	Ellerts	ellert	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	37	nmod:poss	_	IFD_tag=nkee-s
+39	B.	b.	PROPN	NPR-G	_	38	flat:name	_	IFD_tag=as
+40	Schram	schram	PROPN	NPR-G	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	38	dep	_	IFD_tag=nken-s
+41	og	og	CCONJ	CONJ	_	42	cc	_	IFD_tag=c
+42	tók	taka	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	IFD_tag=sfg3eþ
+43	að	að	ADP	P	_	44	case	_	IFD_tag=aþ
+44	mér	ég	PRON	PRO-D	Case=Dat|Number=Sing|Person=1|PronType=Prs	42	obl	_	IFD_tag=fp1eþ
+45	formennsku	formennska	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	42	obj	_	IFD_tag=nveo
+46	í	í	ADP	P	_	47	case	_	IFD_tag=aþ
+47	mótanefnd	mótanefnd	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	45	obl	_	IFD_tag=nveþ
+48	KSÍ	ksí	PROPN	NPR-G	_	47	nmod:poss	_	IFD_tag=as|SpaceAfter=No
+49	.	.	PUNCT	.	_	48	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,8.369
+# text = Eitt leiddi af öðru og um áramótin 1992-93 hóf ég störf á skrifstofu KSÍ, en þá hafði Eggert Magnússon tekið við formennsku KSÍ.
+1	Eitt	einn	DET	ONE-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	2	nsubj	_	IFD_tag=fohen
+2	leiddi	leiða	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
+3	af	af	ADP	P	_	4	case	_	IFD_tag=aþ
+4	öðru	annar	PRON	OTHER-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	2	obl	_	IFD_tag=foheþ
+5	og	og	CCONJ	CONJ	_	11	cc	_	IFD_tag=c
+6	um	um	ADP	P	_	7	case	_	IFD_tag=ao
+7	áramótin	áramót	NOUN	NS-A	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	11	obl	_	IFD_tag=nhfog
+8	1992	1992	NUM	NUM-A	NumType=Card	7	appos	_	IFD_tag=ta|SpaceAfter=No
+9	-	til	CCONJ	CONJ	_		cc	_	IFD_tag=-|SpaceAfter=No
+10	93	93	NUM	NUM-A	NumType=Card	8	appos	_	IFD_tag=ta
+11	hóf	hefja	VERB	VBDI	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	IFD_tag=sfg1eþ
+12	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	IFD_tag=fp1en
+13	störf	starf	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	11	obj	_	IFD_tag=nhfo
+14	á	á	ADP	P	_	15	case	_	IFD_tag=aþ
+15	skrifstofu	skrifstofa	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	IFD_tag=nveþ
+16	KSÍ	ksí	PROPN	NPR-G	_	15	nmod:poss	_	IFD_tag=as|SpaceAfter=No
+17	,	,	PUNCT	,	_	16	punct	_	IFD_tag=,
+18	en	en	CCONJ	CONJ	_	23	cc	_	IFD_tag=c
+19	þá	þá	ADV	ADV	_	23	advmod	_	IFD_tag=aa
+20	hafði	hafa	AUX	HVDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	aux	_	IFD_tag=sfg3eþ
+21	Eggert	eggert	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	23	nsubj	_	IFD_tag=nken-s
+22	Magnússon	magnússon	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	21	flat:name	_	IFD_tag=nken-s
+23	tekið	taka	VERB	VBN	VerbForm=Sup|Voice=Act	2	conj	_	IFD_tag=ssg
+24	við	við	ADP	P	_	25	case	_	IFD_tag=ao
+25	formennsku	formennska	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	23	obl	_	IFD_tag=nveo
+26	KSÍ	ksí	PROPN	NPR-G	_	25	nmod:poss	_	IFD_tag=as|SpaceAfter=No
+27	.	.	PUNCT	.	_	26	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,9.370
+# text = Ég tók síðan við sem framkvæmdastjóri KSÍ 1997 og hef verið formaður síðan 2007.
+1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1en
+2	tók	taka	VERB	VBDI	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg1eþ
+3	síðan	síðan	ADV	ADV	_	2	advmod	_	IFD_tag=aa
+4	við	við	ADP	RP	_	2	compound:prt	_	IFD_tag=aa
+5	sem	sem	SCONJ	C	_	6	mark	_	IFD_tag=c
+6	framkvæmdastjóri	framkvæmdastjóri	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	advcl	_	IFD_tag=nken
+7	KSÍ	ksí	PROPN	NPR-G	_	6	nmod:poss	_	IFD_tag=as
+8	1997	1997	NUM	NUM-A	NumType=Card	2	obl	_	IFD_tag=ta
+9	og	og	CCONJ	CONJ	_	10	cc	_	IFD_tag=c
+10	hef	hafa	VERB	HVPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	IFD_tag=sfg1en
+11	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	10	cop	_	IFD_tag=ssg
+12	formaður	formaður	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	xcomp	_	IFD_tag=nken
+13	síðan	síðan	ADP	P	_	10	case	_	IFD_tag=aa
+14	2007	2007	NUM	NUM-A	NumType=Card	10	obl	_	IFD_tag=ta|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,10.371
+# text = Um þessi áramót hef ég staðið vaktina fyrir KSÍ samfellt í tæpan aldarfjórðung.
+1	Um	um	ADP	P	_	3	case	_	IFD_tag=ao
+2	þessi	þessi	DET	D-A	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	3	det	_	IFD_tag=fahfo
+3	áramót	áramót	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	6	obl	_	IFD_tag=nhfo
+4	hef	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	IFD_tag=sfg1en
+5	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	IFD_tag=fp1en
+6	staðið	standa	VERB	VBN	VerbForm=Sup|Voice=Act	0	root	_	IFD_tag=ssg
+7	vaktina	vakt	NOUN	N-A	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	obj	_	IFD_tag=nveog
+8	fyrir	fyrir	ADP	P	_	9	case	_	IFD_tag=ao
+9	KSÍ	ksí	PROPN	NPR-A	_	6	obl	_	IFD_tag=as
+10	samfellt	samfellt	ADV	ADV	_	6	advmod	_	IFD_tag=aa
+11	í	í	ADP	P	_	13	case	_	IFD_tag=ao
+12	tæpan	tæpur	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	IFD_tag=lkeosf
+13	aldarfjórðung	aldarfjórðungur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	IFD_tag=nkeo|SpaceAfter=No
+14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,11.372
+# text = Starfið hefur verið fjölbreytt og skemmtilegt en um leið krefjandi.
+1	Starfið	starf	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	IFD_tag=nheng
+2	hefur	hafa	VERB	HVPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
+3	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	2	cop	_	IFD_tag=ssg
+4	fjölbreytt	fjölbreyttur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	IFD_tag=lhensf
+5	og	og	CCONJ	CONJ	_	4	cc	_	IFD_tag=c
+6	skemmtilegt	skemmtilegur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	IFD_tag=lhensf
+7	en	en	CCONJ	CONJ	_	10	cc	_	IFD_tag=c
+8	um	um	ADP	P	_	9	case	_	IFD_tag=ao
+9	leið	leið	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	10	obl	_	IFD_tag=nveo
+10	krefjandi	krefja	VERB	VAG	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	IFD_tag=lhenof|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,12.373
+# text = Góðir stjórnunarhættir kalla á endurnýjun í forystu samtaka eins og KSÍ.
+1	Góðir	góður	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	IFD_tag=lkfnsf
+2	stjórnunarhættir	stjórnunarháttur	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	3	nsubj	_	IFD_tag=nkfn
+3	kalla	kalla	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3fn
+4	á	á	ADP	P	_	5	case	_	IFD_tag=ao
+5	endurnýjun	endurnýjun	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	IFD_tag=nveo
+6	í	í	ADP	P	_	7	case	_	IFD_tag=aþ
+7	forystu	forysta	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	IFD_tag=nveþ
+8	samtaka	samtök	NOUN	NS-G	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	7	nmod:poss	_	IFD_tag=lkfosf
+9	eins	eins	ADV	ADVR	_	8	advmod	_	IFD_tag=aa
+10	og	og	ADP	P	_	11	case	_	IFD_tag=c
+11	KSÍ	ksí	PROPN	NPR-G	_	9	obl	_	IFD_tag=as|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,13.374
+# text = Eftir vandlega íhugun hef ég ákveðið að gefa ekki kost á mér til endurkjörs á næsta ársþingi og bið samstarfsfólk í KSÍ, aðildarfélög KSÍ og forystumenn íslenskra knattspyrnufélaga að virða ákvörðun mína og sameinast um að kjósa nýjan formann íslenskri knattspyrnu til heilla.
+1	Eftir	eftir	ADP	P	_	3	case	_	IFD_tag=ao
+2	vandlega	vandlegur	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	IFD_tag=lveosf
+3	íhugun	íhugun	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	obl	_	IFD_tag=nveo
+4	hef	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	IFD_tag=sfg1en
+5	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	IFD_tag=fp1en
+6	ákveðið	ákveða	VERB	VBN	VerbForm=Sup|Voice=Act	0	root	_	IFD_tag=ssg
+7	að	að	PART	TO	_	8	mark	_	IFD_tag=cn
+8	gefa	gefa	VERB	VB	VerbForm=Inf|Voice=Act	6	acl	_	IFD_tag=sng
+9	ekki	ekki	ADV	NEG	_	8	advmod	_	IFD_tag=aa
+10	kost	kostur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	IFD_tag=nkeo
+11	á	á	ADP	P	_	12	case	_	IFD_tag=aþ
+12	mér	ég	PRON	PRO-D	Case=Dat|Number=Sing|Person=1|PronType=Prs	10	obl	_	IFD_tag=fp1eþ
+13	til	til	ADP	P	_	14	case	_	IFD_tag=ae
+14	endurkjörs	endurkjör	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nhee
+15	á	á	ADP	P	_	17	case	_	IFD_tag=aþ
+16	næsta	næstur	ADJ	ADJS-D	Case=Dat|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing	17	amod	_	IFD_tag=lheþve
+17	ársþingi	ársþing	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	10	obl	_	IFD_tag=nheþ
+18	og	og	CCONJ	CONJ	_	19	cc	_	IFD_tag=c
+19	bið	biðja	VERB	VBPI	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	IFD_tag=sbg2fn
+20	samstarfsfólk	samstarfsfólk	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	19	iobj	_	IFD_tag=nheo
+21	í	í	ADP	P	_	22	case	_	IFD_tag=ao
+22	KSÍ	ksí	PROPN	NPR-D	_	20	obl	_	IFD_tag=as|SpaceAfter=No
+23	,	,	PUNCT	,	_	22	punct	_	IFD_tag=,
+24	aðildarfélög	aðildarfélag	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	20	conj	_	IFD_tag=nhfo
+25	KSÍ	ksí	PROPN	NPR-G	_	24	nmod:poss	_	IFD_tag=as
+26	og	og	CCONJ	CONJ	_	27	cc	_	IFD_tag=c
+27	forystumenn	forystumaður	NOUN	NS-A	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	20	conj	_	IFD_tag=nkfn
+28	íslenskra	íslenskur	ADJ	ADJ-G	Case=Gen|Definite=Ind|Degree=Pos|Gender=Neut|Number=Plur	29	amod	_	IFD_tag=lhfesf
+29	knattspyrnufélaga	knattspyrnufélög	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	27	nmod:poss	_	IFD_tag=nhfe
+30	að	að	PART	TO	_	31	mark	_	IFD_tag=cn
+31	virða	virða	VERB	VB	VerbForm=Inf|Voice=Act	19	acl	_	IFD_tag=sng
+32	ákvörðun	ákvörðun	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	31	obj	_	IFD_tag=nveo
+33	mína	minn	PRON	PRO-A	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	32	nmod:poss	_	IFD_tag=feveo
+34	og	og	CCONJ	CONJ	_	35	cc	_	IFD_tag=c
+35	sameinast	sameina	VERB	VB	VerbForm=Inf|Voice=Mid	31	acl	_	IFD_tag=snm
+36	um	um	ADP	P	_	38	case	_	IFD_tag=ao
+37	að	að	PART	TO	_	38	mark	_	IFD_tag=cn
+38	kjósa	kjósa	VERB	VB	VerbForm=Inf|Voice=Act	35	obl	_	IFD_tag=sng
+39	nýjan	nýr	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	40	amod	_	IFD_tag=lkeosf
+40	formann	formaður	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	38	obj	_	IFD_tag=nkeo
+41	íslenskri	íslenskur	ADJ	ADJ-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	42	amod	_	IFD_tag=lveþsf
+42	knattspyrnu	knattspyrna	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	38	iobj	_	IFD_tag=nveþ
+43	til	til	ADP	P	_	42	case	_	IFD_tag=ae
+44	heilla	heill	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	42	obl	_	IFD_tag=nvfe|SpaceAfter=No
+45	.	.	PUNCT	.	_	44	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,14.375
+# text = Ég er stoltur af starfi mínu og framlagi til íslenskrar knattspyrnu og hef ávallt haft hagsmuni heildarinnar í huga.
+1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
+2	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	IFD_tag=sfg1en
+3	stoltur	stoltur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	IFD_tag=lkensf
+4	af	af	ADP	P	_	5	case	_	IFD_tag=aþ
+5	starfi	starf	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	3	amod	_	IFD_tag=nheþ
+6	mínu	minn	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	5	nmod:poss	_	IFD_tag=feheþ
+7	og	og	CCONJ	CONJ	_	8	cc	_	IFD_tag=c
+8	framlagi	framlag	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	5	conj	_	IFD_tag=nheþ
+9	til	til	ADP	P	_	11	case	_	IFD_tag=ae
+10	íslenskrar	íslenskur	ADJ	ADJ-G	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	IFD_tag=lveesf
+11	knattspyrnu	knattspyrna	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	IFD_tag=nvee
+12	og	og	CCONJ	CONJ	_	13	cc	_	IFD_tag=c
+13	hef	hafa	VERB	HVPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	IFD_tag=sfg1en
+14	ávallt	ávallt	ADV	ADV	_	13	advmod	_	IFD_tag=aa
+15	haft	hafa	AUX	HVN	VerbForm=Sup|Voice=Act	13	dep	_	IFD_tag=ssg
+16	hagsmuni	hagsmunir	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	13	obj	_	IFD_tag=nkfo
+17	heildarinnar	heild	NOUN	N-G	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	16	nmod:poss	_	IFD_tag=nveeg
+18	í	í	ADP	P	_	19	case	_	IFD_tag=aþ
+19	huga	hugi	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	IFD_tag=nkeþ|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,15.376
+# text = Knattspyrnusamband Íslands stendur nú - utan sem innan vallar - öflugara en nokkru sinni fyrr.
+1	Knattspyrnusamband	knattspyrnusamband	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	3	nsubj	_	IFD_tag=nhen
+2	Íslands	ísland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	1	nmod:poss	_	IFD_tag=nhee-s
+3	stendur	standa	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
+4	nú	nú	ADV	ADV	_	3	advmod	_	IFD_tag=aa
+5	-	-	PUNCT	,	_	4	punct	_	IFD_tag=-
+6	utan	utan	ADV	ADV	_	3	advmod	_	IFD_tag=aa
+7	sem	sem	SCONJ	C	_	9	mark	_	IFD_tag=c
+8	innan	innan	ADP	P	_	9	case	_	IFD_tag=ae
+9	vallar	völlur	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	3	advcl	_	IFD_tag=nkee
+10	-	-	PUNCT	,	_	9	punct	_	IFD_tag=-
+11	öflugara	öflugur	ADJ	ADJR-A	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	amod	_	IFD_tag=nven
+12	en	en	ADP	P	_	14	case	_	IFD_tag=c
+13	nokkru	nokkur	DET	Q-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	14	amod	_	IFD_tag=foheþ
+14	sinni	sinn	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	11	amod	_	IFD_tag=nheþ
+15	fyrr	snemma	ADV	ADVR	Degree=Cmp	14	advmod	_	IFD_tag=aam|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_ESP_2017_G-2-1057336,16.377
+# text = Áfram Ísland, Geir Þorsteinsson, formaður KSÍ.”
+1	Áfram	áfram	ADV	ADV	_	2	advmod	_	IFD_tag=aa
+2	Ísland	ísland	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	IFD_tag=nhen-s|SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	_	IFD_tag=,
+4	Geir	geir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	appos	_	IFD_tag=nken-s
+5	Þorsteinsson	þorsteinsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	flat:name	_	IFD_tag=nken-s|SpaceAfter=No
+6	,	,	PUNCT	,	_	5	punct	_	IFD_tag=,
+7	formaður	formaður	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	appos	_	IFD_tag=nken
+8	KSÍ	ksí	PROPN	NPR-G	_	7	nmod:poss	_	IFD_tag=as|SpaceAfter=No
+9	.	.	PUNCT	.	_	8	punct	_	IFD_tag=.|SpaceAfter=No
+10	”	;	PUNCT	"	NumType=Card	9	punct	_	IFD_tag=ta
+
