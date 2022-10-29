@@ -11080,3 +11080,189 @@
 46	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	44	obl	_	IFD_tag=nkeo|SpaceAfter=No
 47	.	.	PUNCT	.	_	46	punct	_	IFD_tag=.
 
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1307543,1.405
+# text = Stefán Rafn Sigurmannsson vinstri hornamaður er kominn til Frakklands og æfði með íslenska landsliðinu í Metz í gær.
+1	Stefán	stefán	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	IFD_tag=nken-s
+2	Rafn	rafn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	Sigurmannsson	sigurmannsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	dep	_	IFD_tag=nken-s
+4	vinstri	vinstri	ADJ	ADJ-N	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	IFD_tag=lkenvf
+5	hornamaður	hornamaður	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	appos	_	IFD_tag=nken
+6	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	IFD_tag=sfg3en
+7	kominn	koma	VERB	VBN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþgken
+8	til	til	ADP	P	_	9	case	_	IFD_tag=ae
+9	Frakklands	frakkland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	7	obl	_	IFD_tag=nhee-s
+10	og	og	CCONJ	CONJ	_	11	cc	_	IFD_tag=c
+11	æfði	æfa	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	IFD_tag=sfg3eþ
+12	með	með	ADP	P	_	14	case	_	IFD_tag=aþ
+13	íslenska	íslenskur	ADJ	ADJ-D	Case=Dat|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	IFD_tag=lheþvf
+14	landsliðinu	landslið	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	11	obl	_	IFD_tag=nheþg
+15	í	í	ADP	P	_	16	case	_	IFD_tag=aa
+16	Metz	metz	PROPN	NPR-D	Foreign=Yes	11	obl	_	IFD_tag=e
+17	í	í	ADP	P	_	18	case	_	IFD_tag=aa
+18	gær	gær	ADV	ADV	_	11	obl	_	IFD_tag=aa|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1307543,2.406
+# text = Stefán Rafn var einn þeirra sem ekki komst í gegnum niðurskurð Geirs Sveinssonar landsliðsþjálfara áður en Ísland hélt á fjögurra þjóða æfingamót í Danmörku um síðustu helgi, en er nú kominn aftur inn í hópinn.
+1	Stefán	stefán	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
+2	Rafn	rafn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	IFD_tag=sfg3eþ
+4	einn	einn	DET	ONE-N	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	0	root	_	IFD_tag=tfken
+5	þeirra	sá	DET	D-G	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	4	obl	_	IFD_tag=fakfe
+6	sem	sem	SCONJ	C	_	8	mark	_	IFD_tag=ct
+7	ekki	ekki	ADV	NEG	_	8	advmod	_	IFD_tag=aa
+8	komst	koma	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	5	acl:relcl	_	IFD_tag=sfm3eþ
+9	í	í	ADP	P	_	11	case	_	IFD_tag=ao
+10	gegnum	gegnum	ADP	P	_	11	case	_	IFD_tag=ao
+11	niðurskurð	niðurskurður	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	IFD_tag=nkeo
+12	Geirs	geir	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	11	nmod:poss	_	IFD_tag=nkee-s
+13	Sveinssonar	sveinsson	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	12	flat:name	_	IFD_tag=nkee-s
+14	landsliðsþjálfara	landsliðsþjálfari	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	12	appos	_	IFD_tag=nkee
+15	áður	áður	ADV	ADVR	_	8	advmod	_	IFD_tag=aa
+16	en	en	ADP	P	_	18	case	_	IFD_tag=c
+17	Ísland	ísland	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	18	nsubj	_	IFD_tag=nhen-s
+18	hélt	halda	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	obl	_	IFD_tag=sfg3eþ
+19	á	á	ADP	P	_	22	case	_	IFD_tag=aþ
+20	fjögurra	fjórir	NUM	NUM-G	Case=Gen|Gender=Fem|Number=Plur|NumType=Card	21	nummod	_	IFD_tag=tfvfe
+21	þjóða	þjóð	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	22	nmod:poss	_	IFD_tag=nvfe
+22	æfingamót	æfingamót	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	18	obl	_	IFD_tag=nheo
+23	í	í	ADP	P	_	24	case	_	IFD_tag=ao
+24	Danmörku	danmörk	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	18	obl	_	IFD_tag=nveþ-s
+25	um	um	ADP	P	_	27	case	_	IFD_tag=ao
+26	síðustu	síðari	ADJ	ADJS-A	Case=Acc|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing	27	amod	_	IFD_tag=lveove
+27	helgi	helgi	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	18	obl	_	IFD_tag=nveo|SpaceAfter=No
+28	,	,	PUNCT	,	_	27	punct	_	IFD_tag=,
+29	en	en	CCONJ	CONJ	_	32	cc	_	IFD_tag=c
+30	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	IFD_tag=sfg3en
+31	nú	nú	ADV	ADV	_	32	advmod	_	IFD_tag=aa
+32	kominn	koma	VERB	VBN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	4	conj	_	IFD_tag=sþgken
+33	aftur	aftur	ADV	ADV	_	32	advmod	_	IFD_tag=aa
+34	inn	inn	ADP	RP	_	36	compound:prt	_	IFD_tag=aa
+35	í	í	ADP	P	_	36	case	_	IFD_tag=ao
+36	hópinn	hópur	NOUN	N-A	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	32	obl	_	IFD_tag=nkeog|SpaceAfter=No
+37	.	.	PUNCT	.	_	36	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1307543,3.407
+# text = Þau svör fengust frá HSÍ að ástæða þess að Stefán Rafn væri kominn til Metz væri til að vera til taks, vegna meiðsla Bjarka Más Elíssonar.
+1	Þau	sá	DET	D-N	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	2	det	_	IFD_tag=fahfn
+2	svör	svar	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	3	nsubj	_	IFD_tag=nhfn
+3	fengust	fá	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	IFD_tag=sfm3fþ
+4	frá	frá	ADP	P	_	5	case	_	IFD_tag=aþ
+5	HSÍ	hsí	PROPN	NPR-D	_	3	obl	_	IFD_tag=as
+6	að	að	SCONJ	C	_	7	mark	_	IFD_tag=cn
+7	ástæða	ástæða	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	IFD_tag=nven
+8	þess	það	PRON	PRO-G	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	7	nmod:poss	_	IFD_tag=fphee
+9	að	að	SCONJ	C	_	13	mark	_	IFD_tag=cn
+10	Stefán	stefán	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	IFD_tag=nken-s
+11	Rafn	rafn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	flat:name	_	IFD_tag=nken-s
+12	væri	vera	AUX	BEDS	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	IFD_tag=svg3eþ
+13	kominn	koma	VERB	VBN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	ccomp	_	IFD_tag=sþgken
+14	til	til	ADP	P	_	15	case	_	IFD_tag=ae
+15	Metz	metu	PROPN	NPR-G	Foreign=Yes	13	obl	_	IFD_tag=e
+16	væri	vera	AUX	BEDS	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	IFD_tag=svg3eþ
+17	til	til	ADP	P	_	18	case	_	IFD_tag=ae
+18	að	að	PART	TO	_	7	obl	_	IFD_tag=cn
+19	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	18	advcl	_	IFD_tag=sng
+20	til	til	ADP	P	_	21	case	_	IFD_tag=ae
+21	taks	tak	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	18	obl	_	IFD_tag=nhee|SpaceAfter=No
+22	,	,	PUNCT	,	_	21	punct	_	IFD_tag=,
+23	vegna	vegna	ADP	P	_	24	case	_	IFD_tag=ae
+24	meiðsla	meiðsli	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	18	obl	_	IFD_tag=nhfe
+25	Bjarka	bjarki	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	24	nmod:poss	_	IFD_tag=nkee-s
+26	Más	már	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	25	flat:name	_	IFD_tag=nkee-s
+27	Elíssonar	elísson	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	25	dep	_	IFD_tag=nkee-s|SpaceAfter=No
+28	.	.	PUNCT	.	_	27	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1307543,4.408
+# text = Bjarki Már missti af leik Íslands og Danmerkur í Árósum á sunnudag eftir að meiðsli tók sig upp.
+1	Bjarki	bjarki	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken-s
+2	Már	már	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	missti	missa	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
+4	af	af	ADP	P	_	5	case	_	IFD_tag=aþ
+5	leik	leikur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	IFD_tag=nkeþ
+6	Íslands	ísland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	5	nmod:poss	_	IFD_tag=nhee-s
+7	og	og	CCONJ	CONJ	_	6	cc	_	IFD_tag=c
+8	Danmerkur	danmörk	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	6	dep	_	IFD_tag=nvee-s
+9	í	í	ADP	P	_	10	case	_	IFD_tag=aþ
+10	Árósum	árósar	PROPN	NPRS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	IFD_tag=nkfþ-s
+11	á	á	ADP	P	_	12	case	_	IFD_tag=ao
+12	sunnudag	sunnudagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	IFD_tag=nkeo
+13	eftir	eftir	ADP	P	_	16	case	_	IFD_tag=ao
+14	að	að	SCONJ	C	_	16	mark	_	IFD_tag=c
+15	meiðsli	meiðsli	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	16	nsubj	_	IFD_tag=nhen
+16	tók	taka	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	obl	_	IFD_tag=sfg3eþ
+17	sig	sig	PRON	PRO-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	16	obj	_	IFD_tag=fpheo
+18	upp	upp	ADP	RP	_	16	compound:prt	_	IFD_tag=aa|SpaceAfter=No
+19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1307543,5.409
+# text = Stefán Rafn hefur verið í íslenska landsliðinu á síðustu fjórum stórmótum, en Bjarki Már hefur aldrei áður farið með A-landsliðinu á stórmót.
+1	Stefán	stefán	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken-s
+2	Rafn	rafn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	hefur	hafa	VERB	HVPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
+4	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	3	cop	_	IFD_tag=ssg
+5	í	í	ADP	P	_	7	case	_	IFD_tag=aþ
+6	íslenska	íslenskur	ADJ	ADJ-D	Case=Dat|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	IFD_tag=lheþvf
+7	landsliðinu	landslið	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	3	obl	_	IFD_tag=nheþg
+8	á	á	ADP	P	_	11	case	_	IFD_tag=ao
+9	síðustu	síðari	ADJ	ADJS-D	Case=Dat|Definite=Def|Degree=Sup|Gender=Neut|Number=Plur	11	amod	_	IFD_tag=lhfþve
+10	fjórum	fjórir	NUM	NUM-D	Case=Dat|Gender=Neut|Number=Plur|NumType=Card	11	nummod	_	IFD_tag=tfhfþ
+11	stórmótum	stórmót	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	3	obl	_	IFD_tag=nhfþ|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	punct	_	IFD_tag=,
+13	en	en	CCONJ	CONJ	_	19	cc	_	IFD_tag=c
+14	Bjarki	bjarki	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	19	nsubj	_	IFD_tag=nken-s
+15	Már	már	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	14	flat:name	_	IFD_tag=nken-s
+16	hefur	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	aux	_	IFD_tag=sfg3en
+17	aldrei	aldrei	ADV	ADV	_	19	advmod	_	IFD_tag=aa
+18	áður	áður	ADV	ADVR	_	19	advmod	_	IFD_tag=aa
+19	farið	fara	VERB	VBN	VerbForm=Sup|Voice=Act	3	conj	_	IFD_tag=ssg
+20	með	með	ADP	P	_	23	case	_	IFD_tag=aþ
+21	A-landsliðinu	a-landslið	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	19	obl	_	IFD_tag=nheþg
+22	á	á	ADP	P	_	23	case	_	IFD_tag=ao
+23	stórmót	stórmót	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	19	obl	_	IFD_tag=nheo|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1307543,6.410
+# text = Ástand Bjarka Más verður skoðað betur í dag, en Ísland þarf að tilkynna 16 manna hóp fyrir leikinn á móti Spáni annað kvöld, á tæknifundi klukkan 18 að íslenskum tíma í kvöld.
+1	Ástand	ástand	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	5	nsubj	_	IFD_tag=nhen
+2	Bjarka	bjarki	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	nmod:poss	_	IFD_tag=nkee-s
+3	Más	más	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	2	flat:name	_	IFD_tag=nkee-s
+4	verður	verða	AUX	RDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	IFD_tag=sfg3en
+5	skoðað	skoða	VERB	VAN	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþghen
+6	betur	vel	ADV	ADVR	Degree=Cmp	5	advmod	_	IFD_tag=aam
+7	í	í	ADP	P	_	8	case	_	IFD_tag=ao
+8	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	IFD_tag=nkeo|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	punct	_	IFD_tag=,
+10	en	en	CCONJ	CONJ	_	12	cc	_	IFD_tag=c
+11	Ísland	ísland	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	12	nsubj	_	IFD_tag=nhen-s
+12	þarf	þurfa	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	IFD_tag=sfg3en
+13	að	að	PART	TO	_	14	mark	_	IFD_tag=aþ
+14	tilkynna	tilkynna	VERB	VB	VerbForm=Inf|Voice=Act	12	acl	_	IFD_tag=sng
+15	16	sextán	NUM	NUM-G	NumType=Card	16	nummod	_	IFD_tag=ta
+16	manna	maður	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	17	nmod:poss	_	IFD_tag=nkfe
+17	hóp	hópur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	14	obj	_	IFD_tag=nkeo
+18	fyrir	fyrir	ADP	P	_	19	case	_	IFD_tag=ao
+19	leikinn	leikur	NOUN	N-A	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	IFD_tag=nkeog
+20	á	á	ADP	P	_	21	case	_	IFD_tag=aþ
+21	móti	mót	NOUN	N-D	_	19	obl	_	IFD_tag=aþ
+22	Spáni	spánn	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	21	nmod:poss	_	IFD_tag=nkeþ-s
+23	annað	annar	ADJ	ADJ-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	24	amod	_	IFD_tag=foheo
+24	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	19	obl	_	IFD_tag=nheo|SpaceAfter=No
+25	,	,	PUNCT	,	_	24	punct	_	IFD_tag=,
+26	á	á	ADP	P	_	27	case	_	IFD_tag=aþ
+27	tæknifundi	tæknifundur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	14	obl	_	IFD_tag=nheþ
+28	klukkan	klukka	NOUN	N-A	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	27	acl	_	IFD_tag=nveng
+29	18	átján	NUM	NUM-N	NumType=Card	28	appos	_	IFD_tag=ta
+30	að	að	ADP	P	_	32	case	_	IFD_tag=aþ
+31	íslenskum	íslenskur	ADJ	ADJ-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	IFD_tag=lkeþsf
+32	tíma	tími	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	28	obl	_	IFD_tag=nkeþ
+33	í	í	ADP	P	_	34	case	_	IFD_tag=ao
+34	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	28	obl	_	IFD_tag=nheo|SpaceAfter=No
+35	.	.	PUNCT	.	_	34	punct	_	IFD_tag=.
+
