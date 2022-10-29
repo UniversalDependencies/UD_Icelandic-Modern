@@ -11613,4 +11613,287 @@
 13	2	tveir	NUM	NUM-N	NumType=Card	12	nmod:poss	_	IFD_tag=ta|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
 
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,1.426
+# text = Vignir Svavarsson segist alltaf líta á það sem forréttindi að vera valinn í íslenska landsliðið.
+1	Vignir	vignir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	IFD_tag=nken-s
+2	Svavarsson	svavarsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	segist	segja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	IFD_tag=sfm3en
+4	alltaf	alltaf	ADV	ADV	_	3	advmod	_	IFD_tag=aa
+5	líta	líta	VERB	VB	VerbForm=Inf|Voice=Act	3	acl	_	IFD_tag=sng
+6	á	á	ADP	P	_	7	case	_	IFD_tag=ao
+7	það	það	PRON	PRO-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	IFD_tag=faheo
+8	sem	sem	SCONJ	C	_	9	mark	_	IFD_tag=ct
+9	forréttindi	forréttindi	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	5	advcl	_	IFD_tag=nhfo
+10	að	að	PART	TO	_	12	mark	_	IFD_tag=cn
+11	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	12	cop	_	IFD_tag=sng
+12	valinn	velja	VERB	VAN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	7	acl	_	IFD_tag=sþgken
+13	í	í	ADP	P	_	15	case	_	IFD_tag=ao
+14	íslenska	íslenskur	ADJ	ADJ-A	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	IFD_tag=lheovf
+15	landsliðið	landslið	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	12	obl	_	IFD_tag=nheog|SpaceAfter=No
+16	.	.	PUNCT	.	_	15	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,2.427
+# text = Hann hlaut ekki náð fyrir augum landsliðsþjálfarans fyrir leikina í undankeppni EM í byrjun nóvember, en er nú valinn á ný í landsliðið.
+1	Hann	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	IFD_tag=fpken
+2	hlaut	hljóta	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
+3	ekki	ekki	ADV	NEG	_	2	advmod	_	IFD_tag=aa
+4	náð	náð	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	IFD_tag=nveo
+5	fyrir	fyrir	ADP	P	_	6	case	_	IFD_tag=ao
+6	augum	auga	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	2	obl	_	IFD_tag=nhfþ
+7	landsliðsþjálfarans	landsliðsþjálfari	NOUN	N-G	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod:poss	_	IFD_tag=nkeeg
+8	fyrir	fyrir	ADP	P	_	9	case	_	IFD_tag=ao
+9	leikina	leikur	NOUN	NS-A	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	2	obl	_	IFD_tag=nkfog
+10	í	í	ADP	P	_	11	case	_	IFD_tag=ao
+11	undankeppni	undankeppni	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	9	obl	_	IFD_tag=nveþ
+12	EM	em	PROPN	NPR-G	_	11	nmod:poss	_	IFD_tag=as
+13	í	í	ADP	P	_	14	case	_	IFD_tag=ao
+14	byrjun	byrjun	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	9	obl	_	IFD_tag=nveþ
+15	nóvember	nóvember	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	14	nmod:poss	_	IFD_tag=nkee|SpaceAfter=No
+16	,	,	PUNCT	,	_	15	punct	_	IFD_tag=,
+17	en	en	CCONJ	CONJ	_	20	cc	_	IFD_tag=c
+18	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	IFD_tag=sfg3en
+19	nú	nú	ADV	ADV	_	20	advmod	_	IFD_tag=aa
+20	valinn	velja	VERB	VAN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	2	conj	_	IFD_tag=sþgken
+21	á	á	ADP	P	_	22	case	_	IFD_tag=aa
+22	ný	ný	ADV	ADV	_	20	obl	_	IFD_tag=aa
+23	í	í	ADP	P	_	24	case	_	IFD_tag=ao
+24	landsliðið	landslið	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	20	obl	_	IFD_tag=nheog|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,3.428
+# text = „Ég er alltaf stoltur og glaður með að vera valinn í landsliðið og það er engin undantekning á því núna þó ég hafi ekki verið í hóp síðast.
+1	„	„	PUNCT	"	_	5	punct	_	IFD_tag=„|SpaceAfter=No
+2	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	IFD_tag=fp1en
+3	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	IFD_tag=sfg3en
+4	alltaf	alltaf	ADV	ADV	_	5	advmod	_	IFD_tag=aa
+5	stoltur	stoltur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	IFD_tag=lkensf
+6	og	og	CCONJ	CONJ	_	7	cc	_	IFD_tag=c
+7	glaður	glaður	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	IFD_tag=lkensf
+8	með	með	ADP	P	_	11	case	_	IFD_tag=ao
+9	að	að	PART	TO	_	5	mark	_	IFD_tag=cn
+10	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	11	cop	_	IFD_tag=sng
+11	valinn	velja	VERB	VAN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	5	amod	_	IFD_tag=sþgken
+12	í	í	ADP	P	_	13	case	_	IFD_tag=ao
+13	landsliðið	landslið	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	11	obl	_	IFD_tag=nheog
+14	og	og	CCONJ	CONJ	_	15	cc	_	IFD_tag=c
+15	það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	5	conj	_	IFD_tag=fphen
+16	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	IFD_tag=sfg3en
+17	engin	enginn	DET	Q-N	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	18	amod	_	IFD_tag=foven
+18	undantekning	undantekning	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	IFD_tag=nven
+19	á	á	ADP	P	_	20	case	_	IFD_tag=aþ
+20	því	það	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	18	obl	_	IFD_tag=fpheþ
+21	núna	núna	ADV	ADV	_	15	advmod	_	IFD_tag=aa
+22	þó	þó	ADP	P	_	24	case	_	IFD_tag=aa
+23	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	_	IFD_tag=fp1en
+24	hafi	hafa	AUX	HVPS	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	15	obl	_	IFD_tag=svg1en
+25	ekki	ekki	ADV	NEG	_	24	advmod	_	IFD_tag=aa
+26	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	24	cop	_	IFD_tag=ssg
+27	í	í	ADP	P	_	28	case	_	IFD_tag=ao
+28	hóp	hópur	NOUN	N-D	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	24	obl	_	IFD_tag=nkeo
+29	síðast	síðar	ADV	ADVS	Degree=Sup	24	advmod	_	IFD_tag=aae|SpaceAfter=No
+30	.	.	PUNCT	.	_	29	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,4.429
+# text = Ég er glaður að fá að vera með,“ segir Vignir Svavarsson í viðtali við RÚV.
+1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	IFD_tag=fp1en
+2	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	IFD_tag=sfg1en
+3	glaður	glaður	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	IFD_tag=lkensf
+4	að	að	PART	TO	_	5	mark	_	IFD_tag=cn
+5	fá	fá	VERB	VB	VerbForm=Inf|Voice=Act	11	acl	_	IFD_tag=sng
+6	að	að	PART	TO	_	5	acl	_	IFD_tag=cn
+7	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	6	cop	_	IFD_tag=sng
+8	með	með	ADP	RP	_	6	compound:prt	_	IFD_tag=aa|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	punct	_	IFD_tag=,|SpaceAfter=No
+10	“	“	PUNCT	"	_	9	punct	_	IFD_tag=“
+11	segir	segja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
+12	Vignir	vignir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	11	nsubj	_	IFD_tag=nken-s
+13	Svavarsson	svavarsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	12	flat:name	_	IFD_tag=nken-s
+14	í	í	ADP	P	_	15	case	_	IFD_tag=aþ
+15	viðtali	viðtal	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	11	obl	_	IFD_tag=nheþ
+16	við	við	ADP	P	_	17	case	_	IFD_tag=ao
+17	RÚV	rúv	PROPN	NPR-A	_	15	obl	_	IFD_tag=as|SpaceAfter=No
+18	.	.	PUNCT	.	_	17	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,5.430
+# text = Hvernig var að fylgjast með þessum undankeppnisleikjum þegar þú varst ekki með?
+1	Hvernig	hvernig	ADV	WADV	_	4	advmod	_	IFD_tag=aa
+2	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	IFD_tag=sfg3eþ
+3	að	að	PART	TO	_	4	mark	_	IFD_tag=cn
+4	fylgjast	fylgja	VERB	VB	VerbForm=Inf|Voice=Mid	0	root	_	IFD_tag=snm
+5	með	með	ADP	P	_	7	case	_	IFD_tag=aa
+6	þessum	þessi	DET	D-D	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	7	det	_	IFD_tag=favfþ
+7	undankeppnisleikjum	undankeppnisleikur	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Plur	4	obl	_	IFD_tag=nvfþ
+8	þegar	þegar	ADP	P	_	9	case	_	IFD_tag=c
+9	þú	þú	PRON	PRO-N	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	obl	_	IFD_tag=fp2en
+10	varst	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	IFD_tag=sfg2eþ
+11	ekki	ekki	ADV	NEG	_	9	advmod	_	IFD_tag=aa
+12	með	með	ADP	RP	_	9	compound:prt	_	IFD_tag=aa|SpaceAfter=No
+13	?	?	PUNCT	.	_	12	punct	_	IFD_tag=?
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,6.431
+# text = „Ég verð að viðurkenna að það var svolítið skrýtið að vera allt í einu heima í stofu og að horfa á þetta í sjónvarpinu.
+1	„	„	PUNCT	"	_	3	punct	_	IFD_tag=„|SpaceAfter=No
+2	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
+3	verð	verða	VERB	RDPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg1en
+4	að	að	PART	TO	_	5	mark	_	IFD_tag=cn
+5	viðurkenna	viðurkenna	VERB	VB	VerbForm=Inf|Voice=Act	3	acl	_	IFD_tag=sng
+6	að	að	SCONJ	C	_	10	mark	_	IFD_tag=cn
+7	það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	10	expl	_	IFD_tag=fphen
+8	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	IFD_tag=sfg3eþ
+9	svolítið	svolítið	ADV	ADV	_	10	amod	_	IFD_tag=aa
+10	skrýtið	skrýtinn	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	ccomp	_	IFD_tag=lhensf
+11	að	að	PART	TO	_	5	acl	_	IFD_tag=cn
+12	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	11	cop	_	IFD_tag=sng
+13	allt	allur	DET	Q-A	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	11	obl	_	IFD_tag=fohen
+14	í	í	ADP	P	_	13	case	_	IFD_tag=aþ
+15	einu	einn	DET	ONE-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	13	obl	_	IFD_tag=lheþsf
+16	heima	heima	ADV	ADV	_	11	advmod	_	IFD_tag=aa
+17	í	í	ADP	P	_	18	case	_	IFD_tag=aþ
+18	stofu	stofa	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	13	obl	_	IFD_tag=nveþ
+19	og	og	CCONJ	CONJ	_	21	cc	_	IFD_tag=c
+20	að	að	PART	TO	_	21	mark	_	IFD_tag=cn
+21	horfa	horfa	VERB	VB	VerbForm=Inf|Voice=Act	11	acl	_	IFD_tag=sng
+22	á	á	ADP	P	_	23	case	_	IFD_tag=ao
+23	þetta	þessi	DET	D-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	21	obl	_	IFD_tag=faheo
+24	í	í	ADP	P	_	25	case	_	IFD_tag=aþ
+25	sjónvarpinu	sjónvarp	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	21	obl	_	IFD_tag=nheþg|SpaceAfter=No
+26	.	.	PUNCT	.	_	25	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,7.432
+# text = Þetta var undarleg tilfinning og undarlegri en ég bjóst við.
+1	Þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	IFD_tag=fahen
+2	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	IFD_tag=sfg3eþ
+3	undarleg	undarlegur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	IFD_tag=lvensf
+4	tilfinning	tilfinning	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	conj	_	IFD_tag=nven
+5	og	og	CCONJ	CONJ	_	6	cc	_	IFD_tag=c
+6	undarlegri	undarlegur	ADJ	ADJR-N	Case=Nom|Definite=Def|Degree=Cmp|Gender=Fem|Number=Sing	3	conj	_	IFD_tag=lvenvm
+7	en	en	ADP	P	_	9	case	_	IFD_tag=c
+8	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	IFD_tag=fp1en
+9	bjóst	búa	VERB	VBDI	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	6	amod	_	IFD_tag=sfm1eþ
+10	við	við	ADP	P	_	9	compound:prt	_	IFD_tag=aa|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,8.433
+# text = Ég hélt að þetta yrði ekkert mál en það var skrýtið að horfa á strákanna,“ segir Vignir.
+1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	IFD_tag=fp1en
+2	hélt	halda	VERB	VBDI	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg1eþ
+3	að	að	SCONJ	C	_	5	mark	_	IFD_tag=cn
+4	þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	IFD_tag=fahen
+5	yrði	verða	VERB	RDDS	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	IFD_tag=svg3eþ
+6	ekkert	enginn	DET	Q-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	amod	_	IFD_tag=fohen
+7	mál	mál	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	5	xcomp	_	IFD_tag=nhen
+8	en	en	CCONJ	CONJ	_	11	cc	_	IFD_tag=c
+9	það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	11	expl	_	IFD_tag=fphen
+10	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	IFD_tag=sfg3eþ
+11	skrýtið	skrýtinn	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	conj	_	IFD_tag=lhensf
+12	að	að	PART	TO	_	13	mark	_	IFD_tag=cn
+13	horfa	horfa	VERB	VB	VerbForm=Inf|Voice=Act	11	acl	_	IFD_tag=sng
+14	á	á	ADP	P	_	15	case	_	IFD_tag=ao
+15	strákanna	strákur	NOUN	NS-A	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	obl	_	IFD_tag=nkfeg|SpaceAfter=No
+16	,	,	PUNCT	,	_	18	punct	_	IFD_tag=,|SpaceAfter=No
+17	“	“	PUNCT	"	_	16	punct	_	IFD_tag=“
+18	segir	segja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	IFD_tag=sfg3en
+19	Vignir	vigni	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	18	nsubj	_	IFD_tag=nken-s|SpaceAfter=No
+20	.	.	PUNCT	.	_	19	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,9.434
+# text = „Ég hef alltaf barist fyrir sæti mínu í liðinu.
+1	„	„	PUNCT	"	_	5	punct	_	IFD_tag=„|SpaceAfter=No
+2	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	IFD_tag=fp1en
+3	hef	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	IFD_tag=sfg1en
+4	alltaf	alltaf	ADV	ADV	_	5	advmod	_	IFD_tag=aa
+5	barist	berja	VERB	VBN	VerbForm=Sup|Voice=Mid	0	root	_	IFD_tag=ssm
+6	fyrir	fyrir	ADP	P	_	7	case	_	IFD_tag=aþ
+7	sæti	sæti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	5	obl	_	IFD_tag=nheþ
+8	mínu	minn	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	7	nmod:poss	_	IFD_tag=feheþ
+9	í	í	ADP	P	_	10	case	_	IFD_tag=aþ
+10	liðinu	lið	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	7	obl	_	IFD_tag=nheþg|SpaceAfter=No
+11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,10.435
+# text = Ég hef aldrei gengið að því vísu að vera í landsliðinu þó ég hafi verið þar í öll þessi ár.
+1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	IFD_tag=fp1en
+2	hef	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	IFD_tag=sfg1en
+3	aldrei	aldrei	ADV	ADV	_	4	advmod	_	IFD_tag=aa
+4	gengið	ganga	VERB	VBN	VerbForm=Sup|Voice=Act	0	root	_	IFD_tag=ssg
+5	að	að	ADP	P	_	6	case	_	IFD_tag=cn
+6	því	það	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	4	obl	_	IFD_tag=fpheþ
+7	vísu	vís	ADJ	ADJ-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	IFD_tag=lheþsf
+8	að	að	PART	TO	_	6	acl	_	IFD_tag=cn
+9	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	8	cop	_	IFD_tag=sng
+10	í	í	ADP	P	_	11	case	_	IFD_tag=ao
+11	landsliðinu	landslið	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	8	obl	_	IFD_tag=nheþg
+12	þó	þó	ADP	P	_	15	case	_	IFD_tag=aa
+13	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	IFD_tag=fp1en
+14	hafi	hafa	AUX	HVPS	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux	_	IFD_tag=svg1en
+15	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	4	obl	_	IFD_tag=ssg
+16	þar	þar	ADV	ADV	_	15	advmod	_	IFD_tag=aa
+17	í	í	ADP	P	_	20	case	_	IFD_tag=ao
+18	öll	allur	DET	Q-A	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	20	amod	_	IFD_tag=fohfo
+19	þessi	þessi	DET	D-A	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	20	det	_	IFD_tag=fahfo
+20	ár	ár	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	15	obl	_	IFD_tag=nhfo|SpaceAfter=No
+21	.	.	PUNCT	.	_	20	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,11.436
+# text = Ég hef ekki haft stórt hlutverk innan liðsins og oft verið varaskeifa.
+1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	IFD_tag=fp1en
+2	hef	hafa	VERB	HVPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	IFD_tag=sfg1en
+3	ekki	ekki	ADV	NEG	_	4	advmod	_	IFD_tag=aa
+4	haft	hafa	AUX	HVN	VerbForm=Sup|Voice=Act	0	root	_	IFD_tag=ssg
+5	stórt	stór	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	IFD_tag=lheosf
+6	hlutverk	hlutverk	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	4	obj	_	IFD_tag=nheo
+7	innan	innan	ADP	P	_	8	case	_	IFD_tag=ae
+8	liðsins	lið	NOUN	N-G	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	6	obl	_	IFD_tag=nheeg
+9	og	og	CCONJ	CONJ	_	12	cc	_	IFD_tag=c
+10	oft	oft	ADV	ADV	_	12	advmod	_	IFD_tag=aa
+11	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	12	cop	_	IFD_tag=ssg
+12	varaskeifa	varaskeifa	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	4	conj	_	IFD_tag=nven|SpaceAfter=No
+13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,12.437
+# text = Ég hef alltaf þurft að hafa fyrir þessu og það er engin breyting núna.“
+1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	IFD_tag=fp1en
+2	hef	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	IFD_tag=sfg1en
+3	alltaf	alltaf	ADV	ADV	_	4	advmod	_	IFD_tag=aa
+4	þurft	þurfa	VERB	VBN	VerbForm=Sup|Voice=Act	0	root	_	IFD_tag=ssg
+5	að	að	PART	TO	_	4	acl	_	IFD_tag=cn
+6	hafa	hafa	AUX	HV	VerbForm=Inf|Voice=Act	5	aux	_	IFD_tag=sng
+7	fyrir	fyrir	ADP	P	_	8	case	_	IFD_tag=aþ
+8	þessu	þessi	DET	D-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	IFD_tag=faheþ
+9	og	og	CCONJ	CONJ	_	10	cc	_	IFD_tag=c
+10	það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	4	conj	_	IFD_tag=fphen
+11	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	IFD_tag=sfg3en
+12	engin	enginn	DET	Q-N	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	13	amod	_	IFD_tag=foven
+13	breyting	breyting	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obl	_	IFD_tag=nven
+14	núna	núna	ADV	ADV	_	10	advmod	_	IFD_tag=aa|SpaceAfter=No
+15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.|SpaceAfter=No
+16	“	“	PUNCT	"	_	15	punct	_	IFD_tag=“
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1055088,13.438
+# text = Heyra má enn frekar í Vigni í myndbandinu hér að ofan.
+1	Heyra	heyra	VERB	VB	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	IFD_tag=nven
+2	má	mega	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	IFD_tag=sfg3en
+3	enn	enn	ADV	ADV	_	1	advmod	_	IFD_tag=aa
+4	frekar	frekar	ADV	ADVR	Degree=Cmp	3	advmod	_	IFD_tag=aam
+5	í	í	ADP	P	_	6	case	_	IFD_tag=aþ
+6	Vigni	vignir	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	IFD_tag=nkeþ-s
+7	í	í	ADP	P	_	8	case	_	IFD_tag=aþ
+8	myndbandinu	myndband	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	1	obl	_	IFD_tag=nheþg
+9	hér	hér	ADV	ADV	_	8	obl	_	IFD_tag=aa
+10	að	að	ADP	P	_	9	case	_	IFD_tag=aa
+11	ofan	ofan	ADV	ADV	_	9	obl	_	IFD_tag=aa|SpaceAfter=No
+12	.	.	PUNCT	.	_	11	punct	_	IFD_tag=.
 
