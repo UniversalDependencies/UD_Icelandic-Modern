@@ -11153,7 +11153,7 @@
 4	frá	frá	ADP	P	_	5	case	_	IFD_tag=aþ
 5	HSÍ	hsí	PROPN	NPR-D	_	3	obl	_	IFD_tag=as
 6	að	að	SCONJ	C	_	7	mark	_	IFD_tag=cn
-7	ástæða	ástæða	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	16	nsubj	_	IFD_tag=nven
+7	ástæða	ástæða	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	IFD_tag=nven
 8	þess	það	PRON	PRO-G	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	7	nmod:poss	_	IFD_tag=fphee
 9	að	að	SCONJ	C	_	13	mark	_	IFD_tag=cn
 10	Stefán	stefán	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	IFD_tag=nken-s
@@ -11164,13 +11164,13 @@
 15	Metz	metu	PROPN	NPR-G	Foreign=Yes	13	obl	_	IFD_tag=e
 16	væri	vera	AUX	BEDS	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	IFD_tag=svg3eþ
 17	til	til	ADP	P	_	18	case	_	IFD_tag=ae
-18	að	að	PART	TO	_	7	obl	_	IFD_tag=cn
-19	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	18	advcl	_	IFD_tag=sng
+18	að	að	PART	TO	_	21	obl	_	IFD_tag=cn
+19	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	21	advcl	_	IFD_tag=sng
 20	til	til	ADP	P	_	21	case	_	IFD_tag=ae
-21	taks	tak	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	18	obl	_	IFD_tag=nhee|SpaceAfter=No
+21	taks	tak	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	13	obl	_	IFD_tag=nhee|SpaceAfter=No
 22	,	,	PUNCT	,	_	21	punct	_	IFD_tag=,
 23	vegna	vegna	ADP	P	_	24	case	_	IFD_tag=ae
-24	meiðsla	meiðsli	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	18	obl	_	IFD_tag=nhfe
+24	meiðsla	meiðsli	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	21	obl	_	IFD_tag=nhfe
 25	Bjarka	bjarki	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	24	nmod:poss	_	IFD_tag=nkee-s
 26	Más	már	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	25	flat:name	_	IFD_tag=nkee-s
 27	Elíssonar	elísson	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	25	dep	_	IFD_tag=nkee-s|SpaceAfter=No
