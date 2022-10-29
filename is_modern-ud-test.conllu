@@ -11704,7 +11704,7 @@
 3	glaður	glaður	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	IFD_tag=lkensf
 4	að	að	PART	TO	_	5	mark	_	IFD_tag=cn
 5	fá	fá	VERB	VB	VerbForm=Inf|Voice=Act	3	acl	_	IFD_tag=sng
-6	að	að	PART	TO	_	7	acl	_	IFD_tag=cn
+6	að	að	PART	TO	_	8	acl	_	IFD_tag=cn
 7	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	8	cop	_	IFD_tag=sng
 8	með	með	ADP	RP	_	5	compound:prt	_	IFD_tag=aa|SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	IFD_tag=,|SpaceAfter=No
