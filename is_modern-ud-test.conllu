@@ -10747,7 +10747,7 @@
 23	og	og	CCONJ	CONJ	_	24	cc	_	IFD_tag=c
 24	hafnaði	hafna	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	_	IFD_tag=sfg3eþ
 25	í	í	ADP	P	_	27	case	_	IFD_tag=ao
-26	5.	fimmti	ADJ	ADJ-D	Case=Dat	27	amod	_	IFD_tag=x|SpaceAfter=No
+26	5.	fimmti	ADJ	ADJ-D	Case=Dat	27	amod	_	IFD_tag=x
 27	sæti	sæti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	24	obl	_	IFD_tag=nheþ|SpaceAfter=No
 28	.	.	PUNCT	.	_	27	punct	_	IFD_tag=.
 
@@ -10764,7 +10764,7 @@
 8	flokkum	flokkur	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	IFD_tag=nkfþ
 9	aflimaðra	aflimaður	ADJ	ADJ-G	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	8	nmod:poss	_	IFD_tag=lkfesf
 10	(	(	PUNCT	,	_	9	punct	_	IFD_tag=(|SpaceAfter=No
-11	42	42	NUM	NUM-N	NumType=Card	8	appos	_	IFD_tag=ta
+11	42	42	NUM	NUM-N	NumType=Card	8	appos	_	IFD_tag=ta|SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	_	IFD_tag=,|SpaceAfter=No
 13	43	43	NUM	NUM-N	NumType=Card	11	nummod	_	IFD_tag=ta
 14	og	og	CCONJ	CONJ	_	11	cc	_	IFD_tag=c
@@ -10855,7 +10855,7 @@
 3	2016	2016	NUM	NUM-A	NumType=Card	2	appos	_	IFD_tag=ta
 4	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	IFD_tag=sfg3eþ
 5	kjörinn	kjósa	VERB	VAN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþgken
-6	Gylfi	gylfi	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	IFD_tag=nken-s
+6	Gylfi	gylfi	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	xcomp	_	IFD_tag=nken-s
 7	Þór	þór	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	flat:name	_	IFD_tag=nken-s
 8	Sigurðsson	sigurðsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	dep	_	IFD_tag=nken-s|SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	IFD_tag=,
@@ -10988,7 +10988,7 @@
 # X_ID = ID_MISSING
 # sent_id = RUV_ESP_2017_G-2-1057360,4.403
 # text = Leikmaðurinn var sextán ára þegar atvikið kom upp, fyrir tveimur til þremur árum, að sögn Hannesar S. Jónssonar formanns KKÍ en sambandið hafi ekki heyrt af þessu fyrr en eftir á og því ekki getað aðhafst neitt.
-1	Leikmaðurinn	leikmaður	NOUN	N-N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	IFD_tag=nkeng
+1	Leikmaðurinn	leikmaður	NOUN	N-N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nkeng
 2	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	IFD_tag=sfg3eþ
 3	sextán	sextán	NUM	NUM-G	Case=Gen|Gender=Neut|Number=Plur|NumType=Card	4	nummod	_	IFD_tag=tfhfe
 4	ára	ár	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	0	root	_	IFD_tag=nhfe
@@ -11034,7 +11034,7 @@
 # text = „Þessi hluti kynningarinnar var til þess gerður að foreldrar átti sig á þeirri vá sem fylgir veðmálum og hagræðingu úrslita sem er því miður orðin fylgifiskur fótbolta, körfubolta og fleiri íþróttagreina,“ segir Hannes jafnframt í umfjöllun um málið í Morgunblaðinu í dag.
 1	„	„	PUNCT	"	_	36	punct	_	IFD_tag=„|SpaceAfter=No
 2	Þessi	þessi	DET	D-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	IFD_tag=faken
-3	hluti	hluti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	36	nsubj	_	IFD_tag=nken
+3	hluti	hluti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	IFD_tag=nken
 4	kynningarinnar	kynning	NOUN	N-G	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod:poss	_	IFD_tag=nveeg
 5	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	36	cop	_	IFD_tag=sfg3eþ
 6	til	til	ADP	P	_	7	case	_	IFD_tag=ae
