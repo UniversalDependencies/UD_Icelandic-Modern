@@ -11699,17 +11699,17 @@
 # X_ID = ID_MISSING
 # sent_id = RUV_TGS_2017_G-2-1055088,4.429
 # text = Ég er glaður að fá að vera með,“ segir Vignir Svavarsson í viðtali við RÚV.
-1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	IFD_tag=fp1en
-2	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	IFD_tag=sfg1en
-3	glaður	glaður	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	IFD_tag=lkensf
+1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
+2	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	IFD_tag=sfg1en
+3	glaður	glaður	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	IFD_tag=lkensf
 4	að	að	PART	TO	_	5	mark	_	IFD_tag=cn
-5	fá	fá	VERB	VB	VerbForm=Inf|Voice=Act	11	acl	_	IFD_tag=sng
-6	að	að	PART	TO	_	5	acl	_	IFD_tag=cn
-7	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	6	cop	_	IFD_tag=sng
-8	með	með	ADP	RP	_	6	compound:prt	_	IFD_tag=aa|SpaceAfter=No
+5	fá	fá	VERB	VB	VerbForm=Inf|Voice=Act	3	acl	_	IFD_tag=sng
+6	að	að	PART	TO	_	7	acl	_	IFD_tag=cn
+7	vera	vera	AUX	BE	VerbForm=Inf|Voice=Act	8	cop	_	IFD_tag=sng
+8	með	með	ADP	RP	_	5	compound:prt	_	IFD_tag=aa|SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	IFD_tag=,|SpaceAfter=No
-10	“	“	PUNCT	"	_	9	punct	_	IFD_tag=“
-11	segir	segja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
+10	“	“	PUNCT	"	_	8	punct	_	IFD_tag=“
+11	segir	segja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	IFD_tag=sfg3en
 12	Vignir	vignir	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	11	nsubj	_	IFD_tag=nken-s
 13	Svavarsson	svavarsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	12	flat:name	_	IFD_tag=nken-s
 14	í	í	ADP	P	_	15	case	_	IFD_tag=aþ
@@ -11848,9 +11848,9 @@
 # sent_id = RUV_TGS_2017_G-2-1055088,11.436
 # text = Ég hef ekki haft stórt hlutverk innan liðsins og oft verið varaskeifa.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	IFD_tag=fp1en
-2	hef	hafa	VERB	HVPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	IFD_tag=sfg1en
+2	hef	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	IFD_tag=sfg1en
 3	ekki	ekki	ADV	NEG	_	4	advmod	_	IFD_tag=aa
-4	haft	hafa	AUX	HVN	VerbForm=Sup|Voice=Act	0	root	_	IFD_tag=ssg
+4	haft	hafa	VERB	HVN	VerbForm=Sup|Voice=Act	0	root	_	IFD_tag=ssg
 5	stórt	stór	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	IFD_tag=lheosf
 6	hlutverk	hlutverk	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	4	obj	_	IFD_tag=nheo
 7	innan	innan	ADP	P	_	8	case	_	IFD_tag=ae
