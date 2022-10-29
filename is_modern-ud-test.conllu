@@ -11158,7 +11158,7 @@
 9	að	að	SCONJ	C	_	13	mark	_	IFD_tag=cn
 10	Stefán	stefán	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	IFD_tag=nken-s
 11	Rafn	rafn	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	flat:name	_	IFD_tag=nken-s
-12	væri	vera	AUX	BEDS	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	IFD_tag=svg3eþ
+12	væri	vera	AUX	BEDS	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	IFD_tag=svg3eþ
 13	kominn	koma	VERB	VBN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	ccomp	_	IFD_tag=sþgken
 14	til	til	ADP	P	_	15	case	_	IFD_tag=ae
 15	Metz	metu	PROPN	NPR-G	Foreign=Yes	13	obl	_	IFD_tag=e
@@ -11302,9 +11302,9 @@
 2	Valur	valur	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
 3	Sigurðsson	sigurðsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	dep	_	IFD_tag=nken-s
 4	keppir	keppa	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
-5	á	á	ADP	P	_	9	case	_	IFD_tag=aþ
-6	sínu	sinn	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	9	nmod:poss	_	IFD_tag=feheþ
-7	20.	tuttugasti	ADJ	ADJ-D	Case=Dat	9	amod	_	IFD_tag=x
+5	á	á	ADP	P	_	8	case	_	IFD_tag=aþ
+6	sínu	sinn	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	8	nmod:poss	_	IFD_tag=feheþ
+7	20.	tuttugasti	ADJ	ADJ-D	Case=Dat	8	amod	_	IFD_tag=x
 8	stórmóti	stórmót	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	4	obl	_	IFD_tag=nheþ|SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	IFD_tag=,
 10	en	en	CCONJ	CONJ	_	31	cc	_	IFD_tag=c
