@@ -11153,7 +11153,7 @@
 4	frá	frá	ADP	P	_	5	case	_	IFD_tag=aþ
 5	HSÍ	hsí	PROPN	NPR-D	_	3	obl	_	IFD_tag=as
 6	að	að	SCONJ	C	_	7	mark	_	IFD_tag=cn
-7	ástæða	ástæða	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	IFD_tag=nven
+7	ástæða	ástæða	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	16	nsubj	_	IFD_tag=nven
 8	þess	það	PRON	PRO-G	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	7	nmod:poss	_	IFD_tag=fphee
 9	að	að	SCONJ	C	_	13	mark	_	IFD_tag=cn
 10	Stefán	stefán	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	IFD_tag=nken-s
@@ -11265,4 +11265,137 @@
 33	í	í	ADP	P	_	34	case	_	IFD_tag=ao
 34	kvöld	kvöld	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	28	obl	_	IFD_tag=nheo|SpaceAfter=No
 35	.	.	PUNCT	.	_	34	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285534,1.411
+# text = Í landsliðshópi Geirs Sveinssonar sem keppir fyrir Íslands hönd á HM í Frakklandi eru ungir og efnilegir leikmenn í bland við eldri og reynslumeiri.
+1	Í	í	ADP	P	_	2	case	_	IFD_tag=aþ
+2	landsliðshópi	landsliðshópur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	IFD_tag=nkeþ
+3	Geirs	geir	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	2	nmod:poss	_	IFD_tag=nkee-s
+4	Sveinssonar	sveinsson	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	3	flat:name	_	IFD_tag=nkee-s
+5	sem	sem	SCONJ	C	_	6	mark	_	IFD_tag=ct
+6	keppir	keppa	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	IFD_tag=sfg3en
+7	fyrir	fyrir	ADP	P	_	9	case	_	IFD_tag=ao
+8	Íslands	ísland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	9	nmod:poss	_	IFD_tag=nhee-s
+9	hönd	hönd	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	obl	_	IFD_tag=nveo
+10	á	á	ADP	P	_	11	case	_	IFD_tag=aþ
+11	HM	hm	PROPN	NPR-D	_	6	obl	_	IFD_tag=as
+12	í	í	ADP	P	_	13	case	_	IFD_tag=ao
+13	Frakklandi	frakkland	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	11	obl	_	IFD_tag=nheþ-s
+14	eru	vera	AUX	BEPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	IFD_tag=sfg3fn
+15	ungir	ungur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	18	amod	_	IFD_tag=lkfnsf
+16	og	og	CCONJ	CONJ	_	15	cc	_	IFD_tag=c
+17	efnilegir	efnilegur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	15	amod	_	IFD_tag=lkfnsf
+18	leikmenn	leikmaður	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	2	nsubj	_	IFD_tag=nkfn
+19	í	í	ADP	P	_	20	case	_	IFD_tag=ao
+20	bland	bland	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	2	obl	_	IFD_tag=nheo
+21	við	við	ADP	P	_	22	case	_	IFD_tag=ao
+22	eldri	gamall	ADJ	ADJR-A	Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	20	obl	_	IFD_tag=lkfovm
+23	og	og	CCONJ	CONJ	_	22	cc	_	IFD_tag=c
+24	reynslumeiri	reynslumikill	ADJ	ADJR-A	Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	22	amod	_	IFD_tag=lkfovm|SpaceAfter=No
+25	.	.	PUNCT	.	_	24	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285534,2.412
+# text = Guðjón Valur Sigurðsson keppir á sínu 20. stórmóti, en Bjarki Már Elísson, Arnar Freyr Arnarsson, Janus Daði Smárason og Ómar Ingi Magnússon eru allir á sínu fyrsta stórmóti.
+1	Guðjón	guðjón	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
+2	Valur	valur	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	Sigurðsson	sigurðsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	dep	_	IFD_tag=nken-s
+4	keppir	keppa	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
+5	á	á	ADP	P	_	9	case	_	IFD_tag=aþ
+6	sínu	sinn	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	9	nmod:poss	_	IFD_tag=feheþ
+7	20.	tuttugasti	ADJ	ADJ-D	Case=Dat	9	amod	_	IFD_tag=x
+8	stórmóti	stórmót	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	4	obl	_	IFD_tag=nheþ|SpaceAfter=No
+9	,	,	PUNCT	,	_	8	punct	_	IFD_tag=,
+10	en	en	CCONJ	CONJ	_	31	cc	_	IFD_tag=c
+11	Bjarki	bjarki	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	31	nsubj	_	IFD_tag=nken-s
+12	Már	már	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	11	flat:name	_	IFD_tag=nken-s
+13	Elísson	elísson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	11	dep	_	IFD_tag=nken-s|SpaceAfter=No
+14	,	,	PUNCT	,	_	15	punct	_	IFD_tag=,
+15	Arnar	arnar	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	11	conj	_	IFD_tag=nken-s
+16	Freyr	freyr	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	15	flat:name	_	IFD_tag=nken-s
+17	Arnarsson	arnarsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	15	dep	_	IFD_tag=nken-s|SpaceAfter=No
+18	,	,	PUNCT	,	_	19	punct	_	IFD_tag=,
+19	Janus	janus	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	11	conj	_	IFD_tag=nken-s
+20	Daði	daði	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	19	flat:name	_	IFD_tag=nken-s
+21	Smárason	smárason	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	19	dep	_	IFD_tag=nken-s
+22	og	og	CCONJ	CONJ	_	23	cc	_	IFD_tag=c
+23	Ómar	ómar	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	11	conj	_	IFD_tag=nken-s
+24	Ingi	ingi	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	23	flat:name	_	IFD_tag=nken-s
+25	Magnússon	magnússon	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	23	dep	_	IFD_tag=nken-s
+26	eru	vera	AUX	BEPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	cop	_	IFD_tag=sfg3fn
+27	allir	allur	DET	Q-N	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	31	amod	_	IFD_tag=fokfn
+28	á	á	ADP	P	_	31	case	_	IFD_tag=aþ
+29	sínu	sinn	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	31	nmod:poss	_	IFD_tag=feheþ
+30	fyrsta	fyrstur	ADJ	ADJS-D	Case=Dat|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing	31	amod	_	IFD_tag=lheþve
+31	stórmóti	stórmót	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	4	conj	_	IFD_tag=nheþ|SpaceAfter=No
+32	.	.	PUNCT	.	_	31	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285534,3.413
+# text = Upplýsingar um leikmenn Íslands má sjá hér fyrir neðan.
+1	Upplýsingar	upplýsing	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	6	obj	_	IFD_tag=nvfo
+2	um	um	ADP	P	_	3	case	_	IFD_tag=ao
+3	leikmenn	leikmaður	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	1	obl	_	IFD_tag=nkfo
+4	Íslands	ísland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	3	nmod:poss	_	IFD_tag=nhee-s
+5	má	mega	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	IFD_tag=sfg3en
+6	sjá	sjá	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	IFD_tag=sng
+7	hér	hér	ADV	ADV	_	6	obl	_	IFD_tag=aa
+8	fyrir	fyrir	ADP	P	_	7	case	_	IFD_tag=aa
+9	neðan	neðan	ADV	ADV	_	7	obl	_	IFD_tag=aa|SpaceAfter=No
+10	.	.	PUNCT	.	_	9	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285534,4.414
+# text = Vignir Svavarsson er veikur og fór ekki með liðinu til Kaupmannahafnar í dag þaðan sem liðið ferðast til Frakklands á morgun.
+1	Vignir	vigni	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nken-s
+2	Svavarsson	svavarsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	IFD_tag=sfg3en
+4	veikur	veikur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	IFD_tag=lkensf
+5	og	og	CCONJ	CONJ	_	6	cc	_	IFD_tag=c
+6	fór	fara	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	IFD_tag=sfg3eþ
+7	ekki	ekki	ADV	NEG	_	6	advmod	_	IFD_tag=aa
+8	með	með	ADP	P	_	9	case	_	IFD_tag=aþ
+9	liðinu	lið	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	6	obl	_	IFD_tag=nheþg
+10	til	til	ADP	P	_	11	case	_	IFD_tag=ae
+11	Kaupmannahafnar	kaupmannahöfn	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	6	obl	_	IFD_tag=nvee-s
+12	í	í	ADP	P	_	13	case	_	IFD_tag=ao
+13	dag	dagur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	IFD_tag=nkeo
+14	þaðan	þaðan	ADV	ADV	_	17	advmod	_	IFD_tag=aa
+15	sem	sem	SCONJ	C	_	17	mark	_	IFD_tag=c
+16	liðið	lið	NOUN	N-N	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	17	nsubj	_	IFD_tag=sþghen
+17	ferðast	ferðast	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	acl:relcl	_	IFD_tag=sfm3en
+18	til	til	ADP	P	_	19	case	_	IFD_tag=ae
+19	Frakklands	frakkland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	17	obl	_	IFD_tag=nhee-s
+20	á	á	ADP	P	_	21	case	_	IFD_tag=ao
+21	morgun	morgunn	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	IFD_tag=nkeo|SpaceAfter=No
+22	.	.	PUNCT	.	_	21	punct	_	IFD_tag=.
+
+# X_ID = ID_MISSING
+# sent_id = RUV_TGS_2017_G-2-1285534,5.415
+# text = Aron Pálmarsson er hins vegar kominn til móts við íslenska liðið, en það er þó enn óvíst um þátttöku hans á HM.
+1	Aron	aron	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	IFD_tag=nken-s
+2	Pálmarsson	pálmarsson	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	flat:name	_	IFD_tag=nken-s
+3	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	IFD_tag=sfg3en
+4	hins	hinn	DET	D-G	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	IFD_tag=fakee
+5	vegar	vegur	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	IFD_tag=nkee
+6	kominn	koma	VERB	VBN	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþgken
+7	til	til	ADP	P	_	8	case	_	IFD_tag=ae
+8	móts	mót	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	6	obl	_	IFD_tag=nhee
+9	við	við	ADP	P	_	11	case	_	IFD_tag=ao
+10	íslenska	íslenskur	ADJ	ADJ-A	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	IFD_tag=lheovf
+11	liðið	lið	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	8	obl	_	IFD_tag=nheog|SpaceAfter=No
+12	,	,	PUNCT	,	_	11	punct	_	IFD_tag=,
+13	en	en	CCONJ	CONJ	_	18	cc	_	IFD_tag=c
+14	það	það	PRON	ES	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	18	expl	_	IFD_tag=fphen
+15	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	IFD_tag=sfg3en
+16	þó	þó	ADV	ADV	_	18	advmod	_	IFD_tag=aa
+17	enn	enn	ADV	ADV	_	18	advmod	_	IFD_tag=aa
+18	óvíst	óvís	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	6	conj	_	IFD_tag=lhensf
+19	um	um	ADP	P	_	20	case	_	IFD_tag=ao
+20	þátttöku	þátttaka	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	18	obl	_	IFD_tag=nveo
+21	hans	hann	PRON	PRO-G	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	20	nmod:poss	_	IFD_tag=fpkee
+22	á	á	ADP	P	_	23	case	_	IFD_tag=aþ
+23	HM	hm	PROPN	NPR-D	_	20	obl	_	IFD_tag=as|SpaceAfter=No
+24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
