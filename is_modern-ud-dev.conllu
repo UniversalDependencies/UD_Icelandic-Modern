@@ -8245,8 +8245,8 @@
 # sent_id = RUV_ESP_2016_G-2-1033175,15.324
 # text = Og eins og ég sagði oft þá var ég ekkert sérstakur spretthlaupari.
 1	Og	og	CCONJ	CONJ	_	2	cc	_	IFD_tag=c
-2	eins	_	ADV	ADVR	_	0	root	_	IFD_tag=aa
-3	og	_	ADP	P	_	5	case	_	IFD_tag=x
+2	eins	eins	ADV	ADVR	_	0	root	_	IFD_tag=aa
+3	og	og	ADP	P	_	5	case	_	IFD_tag=x
 4	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	IFD_tag=fp1en
 5	sagði	segja	VERB	VBDI	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	obl	_	IFD_tag=sfg1eþ
 6	oft	oft	ADV	ADV	_	5	advmod	_	IFD_tag=aa
@@ -8560,8 +8560,8 @@
 34	illt	illur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	IFD_tag=lhensf
 35	í	í	ADP	P	_	36	case	_	IFD_tag=aþ
 36	hælunum	hæll	NOUN	NS-D	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	34	amod	_	IFD_tag=nkfþg
-37	eins	_	ADV	ADVR	_	33	advmod	_	IFD_tag=aa
-38	og	_	ADP	P	_	40	case	_	IFD_tag=x
+37	eins	eins	ADV	ADVR	_	33	advmod	_	IFD_tag=aa
+38	og	og	ADP	P	_	40	case	_	IFD_tag=x
 39	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	40	nsubj	_	IFD_tag=fp1en
 40	sagði	segja	VERB	VBDI	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	37	obl	_	IFD_tag=sfg1eþ|SpaceAfter=No
 41	.	.	PUNCT	.	_	40	punct	_	IFD_tag=.
