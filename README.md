@@ -40,12 +40,12 @@ A subset of the UD corpus has been manually corrected after the automatic conver
 
 **Training data**
 
-62,071 words in total
+61,817 words in total
 
 - `ALTHINGI_BO_2013` - 16 sentences
 - `ALTHINGI_BO_2014` - 174 sentences
 - `ALTHINGI_BO_2015` - 284 sentences
-- `ALTHINGI_HHG_2013` - 627 sentences
+- `ALTHINGI_HHG_2013` - 621 sentences
 - `ALTHINGI_SJS_2013` - 658 sentences
 - `ALTHINGI_TKG_2011` - 449 sentences
 - `RUV_ESP_2016` - 238 sentences
