@@ -93,7 +93,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
 
 * 2022-11-15 v2.11
   * Duplicate sentences removed.
-  * Texts labeled `RUV_TGS_2017` and `RUV_ESP_2017` added to testing data; these were parsed with [COMBO-based UD Parser 22.10](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/272) and the output corrected.
+  * Texts labeled `RUV_TGS_2017` and `RUV_ESP_2017` added to testing data; these were parsed with [COMBO-based UD Parser 22.10](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/272) and the output subsequently corrected.
   * Validation errors fixed (too many subjects).
   * Deprels for 'þegar', 'ef', 'nema', 'þótt' and 'þó' changed from `case` to `mark`.
   * Some lemma fixes.
