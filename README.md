@@ -1,6 +1,6 @@
 # Summary
 
-UD_Icelandic-Modern is a conversion of the modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) to the Universal Dependencies scheme.
+UD_Icelandic-Modern is a conversion of the [modern additions](https://github.com/antonkarl/icecorpus/tree/master/finished/additions2019) to the Icelandic Parsed Historical Corpus (IcePaHC) to the Universal Dependencies scheme.
 
 The conversion was done using [UDConverter](https://github.com/thorunna/UDConverter).
 
