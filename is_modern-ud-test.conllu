@@ -1004,7 +1004,7 @@
 # text = En auðvitað á það ekki að vera þannig að læknar og hjúkrunarfræðingar séu að gera það á sinn eigin kostnað.
 1	En	en	CCONJ	CONJ	_	3	cc	_	IFD_tag=c
 2	auðvitað	auðvitað	ADV	ADV	_	3	advmod	_	IFD_tag=aa
-3	á	eiga	VERB	VBPI	_	0	root	_	IFD_tag=ao
+3	á	eiga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 4	það	það	PRON	PRO-N	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	3	nsubj	_	IFD_tag=fpheo
 5	ekki	ekki	ADV	NEG	_	3	advmod	_	IFD_tag=aa
 6	að	að	PART	TO	_	3	acl	_	IFD_tag=cn
@@ -1449,7 +1449,7 @@
 11	og	og	CCONJ	CONJ	_	14	cc	_	IFD_tag=c
 12	hefur	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	IFD_tag=sfg3en
 13	hún	hún	PRON	PRO-N	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	14	nsubj	_	IFD_tag=fpven
-14	móttekið	móttaka	VERB	VBN	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Plur	2	conj	_	IFD_tag=lhfosf|OriginalHead=0
+14	móttekið	móttaka	VERB	VBN	VerbForm=Sup|Voice=Act	2	conj	_	IFD_tag=ssg|OriginalHead=0
 15	þau	sá	DET	D-A	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	16	det	_	IFD_tag=fahfo
 16	skilaboð	skilaboð	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	14	obj	_	IFD_tag=nhfo|SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	IFD_tag=.
@@ -1679,7 +1679,7 @@
 6	því	það	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	4	obl	_	IFD_tag=fpheþ
 7	hvernig	hvernig	ADV	WADV	_	9	advmod	_	IFD_tag=aa
 8	Landspítalinn	landspítali	PROPN	NPR-N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	IFD_tag=nkengs
-9	á	eiga	VERB	VBPI	_	6	ccomp	_	IFD_tag=aa
+9	á	eiga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	IFD_tag=sfg3en
 10	enn	enn	ADV	ADV	_	11	amod	_	IFD_tag=aa
 11	eina	einn	DET	ONE-A	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	12	amod	_	IFD_tag=foveo
 12	ferðina	ferð	NOUN	N-A	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	obl	_	IFD_tag=nveog
@@ -2530,7 +2530,7 @@
 22	saman	saman	ADV	ADV	_	20	advmod	_	IFD_tag=aa|SpaceAfter=No
 23	,	,	PUNCT	,	_	22	punct	_	IFD_tag
 24	sem	sem	SCONJ	C	_	25	mark	_	IFD_tag=ct
-25	á	eiga	VERB	VBPI	_	14	acl:relcl	_	IFD_tag=aa
+25	á	eiga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	IFD_tag=sfg3en
 26	sér	sig	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	25	iobj	_	IFD_tag=fpheþ
 27	kannski	kannski	ADV	ADV	_	25	advmod	_	IFD_tag=aa
 28	einhverja	einhver	DET	Q-A	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	29	amod	_	IFD_tag=foveo
@@ -6409,7 +6409,7 @@
 16	vona	vona	VERB	VB	VerbForm=Inf|Voice=Act	11	parataxis	_	IFD_tag=sng
 17	að	að	SCONJ	C	_	19	mark	_	IFD_tag=cn
 18	þetta	þessi	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	19	nsubj	_	IFD_tag=fahen
-19	falli	falla	VERB	VBPS	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	16	ccomp	_	IFD_tag=nheþ|SpaceAfter=No
+19	falli	falla	VERB	VBPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	ccomp	_	IFD_tag=svg3en|SpaceAfter=No
 20	,	,	PUNCT	,	_	19	punct	_	IFD_tag
 21	og	og	CCONJ	CONJ	_	22	cc	_	IFD_tag=c
 22	fara	fara	VERB	VB	VerbForm=Inf|Voice=Act	2	conj	_	IFD_tag=sng
@@ -7271,17 +7271,17 @@
 # sent_id = RUV_ESP_2016_G-2-1031892,9.256
 # X_ID = ID_MISSING
 # text = Þett er nefnilega fyrir fólk á öllum aldri, ekki síst fyrir gamalt fólk.
-1	Þett	þetja	VERB	VAN	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	IFD_tag=nhen
-2	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	IFD_tag=sfg3en
-3	nefnilega	nefnilega	ADV	ADV	_	1	advmod	_	IFD_tag=aa
+1	Þett	þetta	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	nsubj	_	IFD_tag=fahen
+2	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	IFD_tag=sfg3en
+3	nefnilega	nefnilega	ADV	ADV	_	5	advmod	_	IFD_tag=aa
 4	fyrir	fyrir	ADP	P	_	5	case	_	IFD_tag=ao
-5	fólk	fólk	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	11	obl	_	IFD_tag=nheo
+5	fólk	fólk	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	IFD_tag=nheo
 6	á	á	ADP	P	_	8	case	_	IFD_tag=aþ
 7	öllum	allur	DET	Q-D	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	8	amod	_	IFD_tag=fokeþ
 8	aldri	aldur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	IFD_tag=nkeþ|SpaceAfter=No
 9	,	,	PUNCT	,	_	11	punct	_	IFD_tag
 10	ekki	ekki	ADV	NEG	_	11	advmod	_	IFD_tag=aa
-11	síst	varla	ADV	ADVS	Degree=Sup	1	obl	_	IFD_tag=aae
+11	síst	varla	ADV	ADVS	Degree=Sup	5	obl	_	IFD_tag=aae
 12	fyrir	fyrir	ADP	P	_	14	case	_	IFD_tag=ao
 13	gamalt	gamall	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	IFD_tag=lheosf
 14	fólk	fólk	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	11	obl	_	IFD_tag=nheo|SpaceAfter=No
@@ -7540,7 +7540,7 @@
 14	,	,	PUNCT	,	_	16	punct	_	IFD_tag
 15	að	að	ADP	P	_	16	case	_	IFD_tag=cn
 16	því	það	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	3	conj	_	IFD_tag=fpheþ
-17	er	er	SCONJ	C	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	mark	_	IFD_tag=sfg3en
+17	er	er	SCONJ	C	_	19	mark	_	IFD_tag=ct
 18	fram	fram	ADP	RP	_	19	compound:prt	_	IFD_tag=aa
 19	kemur	koma	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	IFD_tag=sfg3en
 20	á	á	ADP	P	_	21	case	_	IFD_tag=aþ
@@ -8129,7 +8129,7 @@
 # sent_id = RUV_TGS_2016_G-2-1031601.SANITY,5.290
 # X_ID = ID_MISSING
 # text = Hlusta má á pistilinn í spilaranum hér fyrir ofan.
-1	Hlusta	hlusta	VERB	VB	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	IFD_tag=nven
+1	Hlusta	hlusta	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	IFD_tag=sng
 2	má	mega	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	IFD_tag=sfg3en
 3	á	á	ADP	P	_	4	case	_	IFD_tag=ao
 4	pistilinn	pistill	NOUN	N-A	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	IFD_tag=nkeog
@@ -8620,7 +8620,7 @@
 # X_ID = ID_MISSING
 # text = Chusovitina á þó talsvert langt í að ná meti kanadíska knapans Ian Millar sem keppt hefur á 10 Ólympíuleikum.
 1	Chusovitina	chusovitina	PROPN	NPR-N	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	IFD_tag=nveog
-2	á	eiga	VERB	VBPI	_	0	root	_	IFD_tag=aþ
+2	á	eiga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 3	þó	þó	ADV	ADV	_	2	advmod	_	IFD_tag=aa
 4	talsvert	talsvert	ADV	ADV	_	2	obj	_	IFD_tag=aa
 5	langt	langur	ADJ	ADJ-A	_	4	amod	_	IFD_tag=aa
@@ -8860,7 +8860,7 @@
 # X_ID = ID_MISSING
 # text = Swahn á líka metið yfir elstu íþróttamenn til að vinna gullverðlaun á Ólympíuleikum.
 1	Swahn	swahn	PROPN	NPR-N	Foreign=Yes	2	nsubj	_	IFD_tag=e
-2	á	eiga	VERB	VBPI	_	0	root	_	IFD_tag=aþ
+2	á	eiga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 3	líka	líka	ADV	ALSO	_	2	advmod	_	IFD_tag=aa
 4	metið	met	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	2	obj	_	IFD_tag=nheog
 5	yfir	yfir	ADP	P	_	7	case	_	IFD_tag=ao
@@ -8904,7 +8904,7 @@
 25	það	það	PRON	PRO-A	Case=Acc	22	obl	_	IFD_tag=x|SpaceAfter=No
 26	,	,	PUNCT	,	_	28	punct	_	IFD_tag=x
 27	þá	þá	ADV	ADV	Degree=Pos	28	advmod	_	IFD_tag=x
-28	á	eiga	VERB	VBPI	_	8	conj	_	IFD_tag=aþ
+28	á	eiga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	IFD_tag=sfg3en
 29	Swahn	swahn	PROPN	NPR-N	_	28	nsubj	_	IFD_tag=x
 30	líka	líka	ADV	ALSO	_	28	advmod	_	IFD_tag=x
 31	metið	met	NOUN	N-A	Case=Acc|Definite=Ind|Number=Sing	28	obj	_	IFD_tag=x
@@ -8970,7 +8970,7 @@
 # sent_id = RUV_TGS_2016_G-2-1031601.SANITY,35.320
 # X_ID = ID_MISSING
 # text = Elsti Íslendingurinn til að keppa á Ólympíuleikum var Carl J. Eiríksson sem var 62 ára þegar hann keppti í skotfimi á leikunum í Barcelona 1992.
-1	Elsti	elsa	VERB	VBDI	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	2	dep	_	IFD_tag=lkenve
+1	Elsti	gamall	ADJ	ADJS-N	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	2	amod	_	IFD_tag=lkenve
 2	Íslendingurinn	íslendingur	PROPN	NPR-N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	IFD_tag=nkengs
 3	til	til	ADP	P	_	5	case	_	IFD_tag=ae
 4	að	að	PART	TO	_	5	mark	_	IFD_tag=cn
@@ -11884,7 +11884,7 @@
 # sent_id = RUV_TGS_2017_G-2-1055088,13.438
 # X_ID = ID_MISSING
 # text = Heyra má enn frekar í Vigni í myndbandinu hér að ofan.
-1	Heyra	heyra	VERB	VB	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	IFD_tag=nven
+1	Heyra	heyra	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	IFD_tag=sng
 2	má	mega	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	IFD_tag=sfg3en
 3	enn	enn	ADV	ADV	_	1	advmod	_	IFD_tag=aa
 4	frekar	frekar	ADV	ADVR	Degree=Cmp	3	advmod	_	IFD_tag=aam

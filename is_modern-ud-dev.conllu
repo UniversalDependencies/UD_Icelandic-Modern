@@ -4681,7 +4681,7 @@
 7	óbreytt	óbreyttur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	IFD_tag=lvensf|SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	_	IFD_tag
 9	þá	þá	ADV	ADV	_	10	advmod	_	IFD_tag=aa
-10	á	eiga	VERB	VBPI	Mood=Ind|Tense=Pres	2	conj	_	IFD_tag=x|OriginalHead=0
+10	á	eiga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	IFD_tag=sfg3en|OriginalHead=0
 11	persónufrádrátturinn	persónufrádráttur	NOUN	N-N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	IFD_tag=nkeng
 12	í	í	ADP	P	_	13	case	_	IFD_tag=aþ
 13	sjálfu	sjálfur	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	10	obl	_	IFD_tag=fbheþ
@@ -6100,7 +6100,7 @@
 # X_ID = ID_MISSING
 # text = Hver á þessa ríkisstjórn með húð og hári?
 1	Hver	hver	PRON	WPRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	obj	_	IFD_tag=fsken
-2	á	eiga	VERB	VBPI	Mood=Ind|Tense=Pres	0	root	_	IFD_tag=x
+2	á	eiga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 3	þessa	þessi	DET	D-A	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	IFD_tag=faveo
 4	ríkisstjórn	ríkisstjórn	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	IFD_tag=nveo
 5	með	með	ADP	P	_	6	case	_	IFD_tag=aþ
@@ -8729,7 +8729,7 @@
 4	landsliðsþjálfari	landsliðsþjálfari	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	appos	_	IFD_tag=nken
 5	Íslands	ísland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	4	nmod:poss	_	IFD_tag=nhee-s|SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	IFD_tag
-7	á	eiga	VERB	VBPI	Mood=Ind|Tense=Pres	0	root	_	IFD_tag=x
+7	á	eiga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 8	von	von	NOUN	N-A	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	7	obj	_	IFD_tag=nveþ
 9	á	á	ADP	P	_	11	case	_	IFD_tag=aþ
 10	breyttum	breyttur	ADJ	ADJ-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	IFD_tag=lkeþsf
@@ -9067,7 +9067,7 @@
 10	bætt	bæta	VERB	VBN	VerbForm=Sup|Voice=Act	6	ccomp	_	IFD_tag=ssg
 11	og	og	CCONJ	CONJ	_	13	cc	_	IFD_tag=c
 12	ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	IFD_tag=fp1en
-13	á	eiga	VERB	VBPI	Mood=Ind|Tense=Pres	1	conj	_	IFD_tag=x|OriginalHead=0
+13	á	eiga	VERB	VBPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	IFD_tag=sfg1en|OriginalHead=0
 14	meira	mikill	DET	Q-A	Case=Acc	13	ccomp	_	IFD_tag=x
 15	inni	inni	ADV	ADV	_	14	advmod	_	IFD_tag=aa|SpaceAfter=No
 16	,	,	PUNCT	,	_	15	punct	_	IFD_tag|SpaceAfter=No
@@ -9922,7 +9922,7 @@
 6	inn	inn	ADP	RP	_	8	compound:prt	_	IFD_tag=aa
 7	á	á	ADP	P	_	8	case	_	IFD_tag=aþ
 8	mótið	mót	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	4	obl	_	IFD_tag=nheog
-9	á	eiga	VERB	VBPI	Mood=Ind|Tense=Pres	0	root	_	IFD_tag=x
+9	á	eiga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 10	Hrafnhildur	hrafnhildur	PROPN	NPR-N	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	9	nsubj	_	IFD_tag=nveþ-s
 11	9.	níundi	ADJ	ADJ-A	NumType=Card	13	amod	_	IFD_tag=ta
 12	besta	góður	ADJ	ADJS-A	Case=Acc|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	11	amod	_	IFD_tag=lkeove
