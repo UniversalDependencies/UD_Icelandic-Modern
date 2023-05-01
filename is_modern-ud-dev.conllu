@@ -1702,7 +1702,7 @@
 5	sáttur	sáttur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	IFD_tag=lkensf
 6	við	við	ADP	P	_	10	case	_	IFD_tag=aa
 7	Forseti	forseti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	IFD_tag=nken-s
-8	hringir	hringja	VERB	VBPI	Mood=Ind|Tense=Pres	10	dep	_	IFD_tag=x|SpaceAfter=No
+8	hringir	hringja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	dep	_	IFD_tag=sfg3en|SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	_	IFD_tag=.
 10	niðurstöðuna	niðurstaða	NOUN	N-A	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	amod	_	IFD_tag=nveog|SpaceAfter=No
 11	,	,	PUNCT	,	_	10	punct	_	IFD_tag

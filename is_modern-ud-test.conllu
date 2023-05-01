@@ -941,7 +941,7 @@
 20	mögulegu	mögulegur	ADJ	ADJ-D	Case=Dat|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur	21	amod	_	IFD_tag=lhfþvf
 21	gögnum	gagn	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	13	obl	_	IFD_tag=nhfþ
 22	Forseti	forseti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	23	nsubj	_	IFD_tag=nken-s
-23	hringir	hringja	VERB	VBPI	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	4	conj	_	IFD_tag=nkfn|OriginalHead=0|SpaceAfter=No
+23	hringir	hringja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	IFD_tag=sfg3en|OriginalHead=0|SpaceAfter=No
 24	.	.	PUNCT	.	_	23	punct	_	IFD_tag=.
 
 # sent_id = ALTHINGI_BO_2014_G-33-4521344,15.41
@@ -1791,7 +1791,7 @@
 57	langar	langa	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 58	mig	ég	PRON	PRO-A	Case=Acc|Number=Sing|Person=1|PronType=Prs	57	nsubj	_	IFD_tag=fp1eo
 59	Forseti	forseti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	60	nsubj	_	IFD_tag=nken
-60	hringir	hringja	VERB	VBPI	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	57	dep	_	IFD_tag=nkfn|SpaceAfter=No
+60	hringir	hringja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	57	dep	_	IFD_tag=sfg3en|SpaceAfter=No
 61	.	.	PUNCT	.	_	60	punct	_	IFD_tag=.
 62	að	að	PART	TO	_	63	mark	_	IFD_tag=cn
 63	spyrja	spyrja	VERB	VB	VerbForm=Inf	57	acl	_	IFD_tag=x|SpaceAfter=No
@@ -3718,7 +3718,7 @@
 15	ekki	ekki	ADV	NEG	_	7	parataxis	_	IFD_tag=aa
 16	aðallega	aðallega	ADV	ADV	_	15	advmod	_	IFD_tag=aa
 17	Forseti	forseti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	18	nsubj	_	IFD_tag=nken-s
-18	hringir	hringja	VERB	VBPI	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	7	dep	_	IFD_tag=nken|SpaceAfter=No
+18	hringir	hringja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	dep	_	IFD_tag=sfg3en|SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	IFD_tag=.
 20	heldur	heldur	ADV	ADVR	Degree=Cmp	22	advmod	_	IFD_tag=x
 21	um	um	ADP	P	_	22	case	_	IFD_tag=ao
@@ -4084,7 +4084,7 @@
 5	fréttir	frétt	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	2	obj	_	IFD_tag=nvfo
 6	af	af	ADP	P	_	10	case	_	IFD_tag=aþ
 7	Forseti	forseti	NOUN	N-N	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	8	nsubj	_	IFD_tag=nkeþ-s
-8	hringir	hringja	VERB	VBPI	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	10	dep	_	IFD_tag=nkfn|SpaceAfter=No
+8	hringir	hringja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	dep	_	IFD_tag=sfg3en|SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	_	IFD_tag=.
 10	ásókn	ásókn	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	5	obl	_	IFD_tag=x
 11	í	í	ADP	P	_	12	case	_	IFD_tag=x
@@ -4541,7 +4541,7 @@
 # X_ID = ID_MISSING
 # text = Forseti hringir.
 1	Forseti	forseti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	IFD_tag=nken
-2	hringir	hringja	VERB	VBPI	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	IFD_tag=nkfn|SpaceAfter=No
+2	hringir	hringja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en|SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	IFD_tag=.
 
 # sent_id = ALTHINGI_SJS_2013_G-33-4496708,17.165
