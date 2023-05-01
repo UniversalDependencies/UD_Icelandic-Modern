@@ -7271,7 +7271,7 @@
 # sent_id = RUV_ESP_2016_G-2-1031892,9.256
 # X_ID = ID_MISSING
 # text = Þett er nefnilega fyrir fólk á öllum aldri, ekki síst fyrir gamalt fólk.
-1	Þett	þetta	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	nsubj	_	IFD_tag=fahen
+1	Þett	þetta	DET	D-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	IFD_tag=fahen
 2	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	IFD_tag=sfg3en
 3	nefnilega	nefnilega	ADV	ADV	_	5	advmod	_	IFD_tag=aa
 4	fyrir	fyrir	ADP	P	_	5	case	_	IFD_tag=ao
@@ -8684,7 +8684,7 @@
 3	svo	svo	ADV	ADV	_	2	advmod	_	IFD_tag=aa
 4	á	á	ADP	P	_	6	case	_	IFD_tag=aþ
 5	öllum	allur	DET	Q-D	Case=Dat|Gender=Fem|Number=Plur|PronType=Ind	6	amod	_	IFD_tag=fovfþ
-6	leikum	leik	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Plur	2	obl	_	IFD_tag=nvfþ
+6	leikum	leikur	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Plur	2	obl	_	IFD_tag=nvfþ
 7	frá	frá	ADP	P	_	10	case	_	IFD_tag=aa
 8	og	og	CCONJ	CONJ	_	10	cc	_	IFD_tag=c
 9	með	með	ADP	P	_	10	case	_	IFD_tag=ao
@@ -8722,7 +8722,7 @@
 14	yrði	verða	VERB	RDDS	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	IFD_tag=svg3eþ
 15	með	með	ADP	RP	_	14	compound:prt	_	IFD_tag=aa
 16	á	á	ADP	P	_	17	case	_	IFD_tag=aþ
-17	leikunum	leika	NOUN	NS-D	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	14	obl	_	IFD_tag=nkfþg
+17	leikunum	leikur	NOUN	NS-D	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	14	obl	_	IFD_tag=nkfþg
 18	í	í	ADP	P	_	19	case	_	IFD_tag=aþ
 19	Ríó	ríó	PROPN	NPR-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	17	obl	_	IFD_tag=nheþ-s|SpaceAfter=No
 20	,	,	PUNCT	,	_	19	punct	_	IFD_tag
@@ -8804,7 +8804,7 @@
 4	í	í	ADP	P	_	5	case	_	IFD_tag=aþ
 5	eigu	eiga	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	IFD_tag=nveþ
 6	sænsku	sænska	NOUN	N-G	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	nmod:poss	_	IFD_tag=lveevf
-7	skyttunar	skyttun	X	X	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	6	dep	_	IFD_tag=nvee
+7	skyttunar	skytta	X	X	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	dep	_	IFD_tag=nveeg
 8	Oscars	oscar	PROPN	NPR-G	Foreign=Yes	6	appos	_	IFD_tag=e
 9	Swahn	swahn	PROPN	NPR-G	Foreign=Yes	8	flat:name	_	IFD_tag=e
 10	sem	sem	SCONJ	C	_	17	mark	_	IFD_tag=ct
@@ -8931,7 +8931,7 @@
 9	1920	1920	NUM	NUM-A	NumType=Card	6	obl	_	IFD_tag=ta
 10	þá	þá	ADV	ADV	_	13	advmod	_	IFD_tag=aa
 11	á	á	ADP	P	_	13	case	_	IFD_tag=aþ
-12	sjötugastaogþriðja	sjötugastaogþriðji	ADJ	ADJ-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	13	amod	_	IFD_tag=nkeþ
+12	sjötugastaogþriðja	sjötugastiogþriðji	ADJ	ADJ-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	13	amod	_	IFD_tag=nkeþ
 13	aldursári	aldursár	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	2	obl	_	IFD_tag=nheþ|SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	IFD_tag=.
 
@@ -8956,7 +8956,7 @@
 16	vann	vinna	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	IFD_tag=sfg3eþ
 17	gull	gull	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	16	obj	_	IFD_tag=nheo
 18	í	í	ADP	P	_	19	case	_	IFD_tag=aþ
-19	bogfimi	bogfimur	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	17	obl	_	IFD_tag=nveþ
+19	bogfimi	bogfimi	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	17	obl	_	IFD_tag=nveþ
 20	í	í	ADP	P	_	21	case	_	IFD_tag=aþ
 21	St.	st.	PROPN	NPR-D	_	16	obl	_	IFD_tag=as
 22	Louis	louis	PROPN	NPR-D	Foreign=Yes	21	flat:name	_	IFD_tag=e
@@ -9029,7 +9029,7 @@
 8	og	og	CCONJ	CONJ	_	9	cc	_	IFD_tag=c
 9	endaði	enda	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	IFD_tag=sfg3eþ|OriginalHead=0
 10	í	í	ADP	P	_	12	case	_	IFD_tag=aþ
-11	50.	50.	ADJ	ADJ-D	NumType=Card	12	amod	_	IFD_tag=ta
+11	50.	fimmtugasti	ADJ	ADJ-D	NumType=Card	12	amod	_	IFD_tag=ta
 12	sæti	sæti	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	9	obl	_	IFD_tag=nheþ
 13	af	af	ADP	P	_	15	case	_	IFD_tag=aþ
 14	52	52	NUM	NUM-D	NumType=Card	15	nummod	_	IFD_tag=ta
@@ -9110,7 +9110,7 @@
 9	2	tveir	NUM	NUM-N	NumType=Card	8	nmod:poss	_	IFD_tag=ta|SpaceAfter=No
 10	,	,	PUNCT	,	_	9	punct	_	IFD_tag
 11	mánudagskvöldið	mánudagskvöld	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	4	obl	_	IFD_tag=nheog
-12	25.	25.	NUM	NUM-A	NumType=Card	13	nummod	_	IFD_tag=ta
+12	25.	tuttugastiogfimmti	NUM	NUM-A	NumType=Card	13	nummod	_	IFD_tag=ta
 13	júlí	júlí	NOUN	N-G	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	11	appos	_	IFD_tag=nkeo
 14	2016	2016	NUM	NUM-A	NumType=Card	13	obl	_	IFD_tag=ta|SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	IFD_tag=.
@@ -10079,7 +10079,7 @@
 # sent_id = RUV_ESP_2017_G-2-1057336,4.365
 # X_ID = ID_MISSING
 # text = Kosið verður um nýjan formann í Vestmannaeyjum 11. febrúar.
-1	Kosið	kjsaa	VERB	VAN	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþghen
+1	Kosið	kjósa	VERB	VAN	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	IFD_tag=sþghen
 2	verður	verða	AUX	RDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	IFD_tag=sfg3en
 3	um	um	ADP	P	_	5	case	_	IFD_tag=ao
 4	nýjan	nýr	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	IFD_tag=lkeosf
