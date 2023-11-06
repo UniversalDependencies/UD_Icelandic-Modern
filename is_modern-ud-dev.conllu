@@ -3972,7 +3972,7 @@
 24	slíkar	slíkur	PRON	SUCH-A	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	25	det	_	IFD_tag=fbvfo
 25	aðstæður	aðstæður	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	20	obl	_	IFD_tag=nvfo
 26	og	og	CCONJ	CONJ	_	27	cc	_	IFD_tag=c
-27	leggja	leggja	VERB	VB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl	_	IFD_tag=sfg3fn
+27	leggja	leggja	VERB	VB	VerbForm=Inf|Voice=Act	20	acl	_	IFD_tag=sng
 28	þær	sá	DET	D-A	Case=Acc|Gender=Fem|Number=Plur|PronType=Prs	29	det	_	IFD_tag=fpvfo
 29	byrðar	byrði	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	27	obj	_	IFD_tag=nvfo
 30	á	á	ADP	P	_	32	case	_	IFD_tag=ao
@@ -4118,14 +4118,14 @@
 22	afsala	afsala	VERB	VB	VerbForm=Inf|Voice=Act	20	acl	_	IFD_tag=sng
 23	sér	sig	PRON	PRO-D	Case=Dat|Gender=Fem|Number=Plur|PronType=Prs	22	obj	_	IFD_tag=fpvfþ
 24	eða	eða	CCONJ	CONJ	_	25	cc	_	IFD_tag=c
-25	selja	selja	VERB	VB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	acl	_	IFD_tag=sfg3fn
+25	selja	selja	VERB	VB	VerbForm=Inf|Voice=Act	22	acl	_	IFD_tag=sng
 26	þær	sá	DET	D-A	Case=Acc|Gender=Fem|Number=Plur|PronType=Prs	27	det	_	IFD_tag=fpvfo
 27	eignir	eign	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	25	obj	_	IFD_tag=nvfo|SpaceAfter=No
 28	,	,	PUNCT	,	_	27	punct	_	IFD_tag
 29	losa	losa	VERB	VB	VerbForm=Inf|Voice=Act	22	acl	_	IFD_tag=sng
 30	þær	hún	PRON	PRO-A	Case=Acc|Gender=Fem|Number=Plur|PronType=Prs	29	obj	_	IFD_tag=fpvfo
 31	eða	eða	CCONJ	CONJ	_	32	cc	_	IFD_tag=c
-32	láta	láta	VERB	VB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	acl	_	IFD_tag=sfg3fn
+32	láta	láta	VERB	VB	VerbForm=Inf|Voice=Act	22	acl	_	IFD_tag=sng
 33	þær	hún	PRON	PRO-A	Case=Acc|Gender=Fem|Number=Plur|PronType=Prs	34	nsubj	_	IFD_tag=fpvfo
 34	skila	skila	VERB	VB	VerbForm=Inf|Voice=Act	32	acl	_	IFD_tag=sng
 35	af	af	ADP	P	_	36	case	_	IFD_tag=aþ
@@ -6302,7 +6302,7 @@
 16	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	IFD_tag=sfg3en
 17	í	í	ADP	P	_	13	acl:relcl	_	IFD_tag=aa
 18	og	og	CCONJ	CONJ	_	19	cc	_	IFD_tag=c
-19	reyna	reyna	VERB	VB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	IFD_tag=sfg3fn
+19	reyna	reyna	VERB	VB	VerbForm=Inf|Voice=Act	9	csubj	_	IFD_tag=sng
 20	að	að	PART	TO	_	21	mark	_	IFD_tag=cn
 21	nálgast	nálgast	VERB	VB	VerbForm=Inf|Voice=Mid	19	acl	_	IFD_tag=snm
 22	hvert	hver	DET	Q-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	23	amod	_	IFD_tag=foheo
@@ -8444,7 +8444,7 @@
 5	einfaldasta	einfaldur	ADJ	ADJS-N	Case=Nom|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing	6	amod	_	IFD_tag=lvenve
 6	greinin	grein	NOUN	N-N	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	xcomp	_	IFD_tag=nveng|SpaceAfter=No
 7	,	,	PUNCT	,	_	6	punct	_	IFD_tag
-8	hlaupa	hlaupa	VERB	VB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	IFD_tag=sfg3fn
+8	hlaupa	hlaupa	VERB	VB	VerbForm=Inf|Voice=Act	4	acl	_	IFD_tag=sng
 9	bara	bara	ADV	FP	_	8	advmod	_	IFD_tag=aa
 10	hratt	hratt	ADV	ADV	_	8	advmod	_	IFD_tag=aa|SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	IFD_tag=.
