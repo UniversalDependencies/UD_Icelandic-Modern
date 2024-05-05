@@ -1,6 +1,6 @@
 # Summary
 
-UD_Icelandic-Modern is a conversion of the [modern additions](https://github.com/antonkarl/icecorpus/tree/master/finished/additions2019) to the Icelandic Parsed Historical Corpus (IcePaHC) to the Universal Dependencies scheme.
+UD_Icelandic-Modern is a conversion of the [modern additions](https://github.com/antonkarl/icecorpus/tree/master/additions2019) to the Icelandic Parsed Historical Corpus (IcePaHC) to the Universal Dependencies scheme.
 
 
 # Introduction
@@ -9,7 +9,7 @@ The conversion was done using [UDConverter](https://github.com/thorunna/UDConver
 
 Note that the treebank data in versions 2.8-2.10 is flawed in that various sentences are duplicated, resulting in an overlap between train / dev / test. This issue has been fixed as of version 2.11.
 
-The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) is a corpus which includes 21st-century texts NOT found in [IcePaHC](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/62). These texts were originally manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme as used for IcePaHC. These parsed texts were then automatically converted to the Universal Dependencies scheme to create UD_Icelandic-Modern. The corpus consists of 80,395 tokens in total. The texts are unprepared parliament speeches by four Icelandic members of parliament in the period 2011–2015 and sports news texts from two reporters at the Icelandic National Broadcasting Service (RÚV) from 2016 and – as of version 2.11 – from 2017. These 21st-century additions are not found in [IcePaHC](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/62) (which, however, contains two narrative texts from the 21st century).
+The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) is a corpus which includes 21st-century texts NOT found in [IcePaHC](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/62). These texts were manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme as used for IcePaHC. These parsed texts were then automatically converted to the Universal Dependencies scheme to create UD_Icelandic-Modern. The corpus consists of 80 thousand tokens in total. The texts are unprepared parliament speeches by four Icelandic members of parliament in the period 2011–2015 and sports news texts from two reporters at the Icelandic National Broadcasting Service (RÚV) from 2016 and – as of version 2.11 – from 2017. These 21st-century additions are not found in [IcePaHC](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/62) (which, however, contains two narrative texts from the 21st century).
 
 Each sentence ID (`sent_id`) in UD_Icelandic-Modern carries the following information:
 
@@ -21,7 +21,7 @@ Each sentence ID (`sent_id`) in UD_Icelandic-Modern carries the following inform
 - Name of original file (`G-33-4647803`)
 - Sentence index within file (`.1`)
 
-Along with sentence IDs within the UD corpus, each sentence contains an `X_ID` flag, indicating the original sentence(s) in IcePaHC. This is useful as some sentences in the UD scheme have more than one original sentence in IcePaHC. As sentence IDs are currently not represented in the modern-text IcePaHC, this flag is left blank, as `ID_MISSING` for each original sentence.
+Along with sentence IDs within the UD corpus, each sentence contains an `X_ID` flag, indicating the original sentence(s) in IcePaHC. This is useful as some sentences in the UD scheme have more than one original sentence in IcePaHC. As sentence IDs are currently not represented in the original parsed corpus found [here](https://github.com/antonkarl/icecorpus/tree/master/additions2019), this flag is left blank, as `ID_MISSING` for each original sentence.
 
 
 ## Manually corrected portion
@@ -84,13 +84,15 @@ A subset of the UD corpus has been manually corrected after the automatic conver
 
 This project was funded by The Strategic Research and Development Programme for Language Technology, grant no. 180020-5301.
 
-The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) are available [here](https://github.com/antonkarl/icecorpus/tree/master/finished/additions2019).
+The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) are available [here](https://github.com/antonkarl/icecorpus/tree/master/additions2019).
 
 Morphological features were generated using ABLTagger, a PoS tagger for Icelandic, developed by Steinþór Steingrímsson, Örvar Kárason and Hrafn Loftsson and available [here](https://github.com/steinst/ABLTagger).
 
 
 # Changelog
 
+* 2024-05-15 v2.14
+  * A few corrections, mainly feature fixes.
 * 2023-11-15 v2.13
   * A few feature fixes.
 * 2023-05-15 v2.12

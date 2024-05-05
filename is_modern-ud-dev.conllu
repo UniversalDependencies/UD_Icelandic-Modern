@@ -69,7 +69,7 @@
 # X_IDs = ID_MISSING ; ID_MISSING
 # text = Ég er sammála þingmanninum, það slær mig líka mjög skringilega hvernig þetta er sett fram í fjárlögum.
 1	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1en
-2	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	IFD_tag=sfg3en
+2	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	IFD_tag=sfg1en
 3	sammála	sammála	ADJ	ADJ-N	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	IFD_tag=lvenof
 4	þingmanninum	þingmaður	NOUN	N-D	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	IFD_tag=nkeþg|SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	IFD_tag
@@ -444,7 +444,7 @@
 6	annarri	annar	PRON	OTHER-D	Case=Dat|Gender=Fem|Number=Sing|PronType=Ind	7	det	_	IFD_tag=foveþ
 7	stöðu	staða	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	IFD_tag=nveþ
 8	en	en	CCONJ	CONJ	_	9	cc	_	IFD_tag=c
-9	við	ég	PRON	PRO-N	Case=Nom	7	obl	_	IFD_tag=x
+9	við	ég	PRON	PRO-N	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	obl	_	IFD_tag=f1pfn
 10	þar	þar	ADV	ADV	_	7	advmod	_	IFD_tag=aa
 11	sem	sem	SCONJ	C	_	13	mark	_	IFD_tag=c
 12	þeir	hann	PRON	PRO-N	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	13	nsubj	_	IFD_tag=fpkfn
@@ -514,7 +514,7 @@
 31	,	,	PUNCT	,	_	30	punct	_	IFD_tag
 32	eða	eða	CCONJ	CONJ	_	34	cc	_	IFD_tag=c
 33	hvað	hver	PRON	WPRO-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	34	obj	_	IFD_tag=fsheo
-34	sér	sjá	VERB	VBPI	Mood=Ind|Tense=Pres	1	conj	_	IFD_tag=x|OriginalHead=0
+34	sér	sjá	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	IFD_tag=sfg3en|OriginalHead=0
 35	hún	hún	PRON	PRO-N	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	34	nsubj	_	IFD_tag=fpven
 36	fyrir	fyrir	ADP	P	_	37	case	_	IFD_tag=aþ
 37	sér	sig	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	34	obl	_	IFD_tag=fpheþ
@@ -527,7 +527,7 @@
 # X_ID = ID_MISSING
 # text = Getum við sætt okkur við að vera í eilífu hléi eins og Sviss?
 1	Getum	geta	AUX	MDPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	IFD_tag=sfg1fn
-2	við	ég	PRON	PRO-N	Case=Nom	3	nsubj	_	IFD_tag=x
+2	við	ég	PRON	PRO-N	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=f1pfn
 3	sætt	sætta	VERB	VBN	VerbForm=Sup|Voice=Act	0	root	_	IFD_tag=ssg
 4	okkur	ég	PRON	PRO-A	Case=Dat|Number=Plur|Person=1|PronType=Prs	3	obj	_	IFD_tag=fp1fþ
 5	við	við	ADP	P	_	6	case	_	IFD_tag=ao
@@ -607,7 +607,7 @@
 19	fyrir	fyrir	ADP	RP	_	18	compound:prt	_	IFD_tag=ao
 20	meira	mikill	DET	QR-A	Case=Acc|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing	22	obj	_	IFD_tag=lheovm
 21	að	að	PART	TO	_	22	mark	_	IFD_tag=cn
-22	segja	segja	ADV	VB	VerbForm=Inf	25	advmod	_	IFD_tag=x
+22	segja	segja	ADV	VB	VerbForm=Inf|Voice=Act	25	advmod	_	IFD_tag=sng
 23	vel	vel	ADV	ADV	_	25	advmod	_	IFD_tag=aa
 24	fyrir	fyrir	ADP	P	_	25	case	_	IFD_tag=ao
 25	kosningar	kosning	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	18	obl	_	IFD_tag=nvfo|SpaceAfter=No
@@ -2068,7 +2068,7 @@
 4	Vitsmunaleg	vitsmunalegur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Plur	5	amod	_	IFD_tag=lhfnsf
 5	geta	geta	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	7	nsubj	_	IFD_tag=x
 6	mín	minn	PRON	PRO-N	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	nmod:poss	_	IFD_tag=fp1ee
-7	nær	ná	VERB	VBPI	Mood=Ind|Tense=Pres	0	root	_	IFD_tag=x
+7	nær	ná	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 8	ekki	ekki	ADV	NEG	_	7	advmod	_	IFD_tag=aa
 9	utan	utan	ADV	ADV	_	11	advmod	_	IFD_tag=aa
 10	um	um	ADP	P	_	11	case	_	IFD_tag=ao
@@ -2489,7 +2489,7 @@
 13	fólks	fólk	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	12	nmod:poss	_	IFD_tag=nhee|SpaceAfter=No
 14	,	,	PUNCT	,	_	13	punct	_	IFD_tag
 15	en	en	CCONJ	CONJ	_	17	cc	_	IFD_tag=c
-16	við	ég	PRON	PRO-N	Case=Nom	17	nsubj	_	IFD_tag=x
+16	við	ég	PRON	PRO-N	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	IFD_tag=f1pfn
 17	búum	búa	VERB	VBPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	IFD_tag=sfg1fn|OriginalHead=0
 18	við	við	ADP	P	_	20	case	_	IFD_tag=ao
 19	þann	sá	DET	D-A	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	IFD_tag=fakeo
@@ -2563,7 +2563,7 @@
 16	,	,	PUNCT	,	_	15	punct	_	IFD_tag
 17	hvort	hvort	SCONJ	WQ	_	20	mark	_	IFD_tag=c
 18	sem	sem	SCONJ	C	_	17	fixed	_	IFD_tag=ct
-19	við	ég	PRON	PRO-N	Case=Nom	20	nsubj	_	IFD_tag=x
+19	við	ég	PRON	PRO-N	Case=Nom|Number=Plur|Person=1|PronType=Prs	20	nsubj	_	IFD_tag=fp1fn
 20	köllum	kalla	VERB	VBPS	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	ccomp	_	IFD_tag=sfg1fn
 21	það	það	PRON	PRO-A	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	22	nsubj	_	IFD_tag=fphen
 22	lækkun	lækkun	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	20	ccomp	_	IFD_tag=nveo
@@ -2576,7 +2576,7 @@
 29	eða	eða	CCONJ	CONJ	_	33	cc	_	IFD_tag=c
 30	hvað	hver	PRON	WPRO-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	33	obj	_	IFD_tag=fsheo
 31	sem	sem	SCONJ	C	_	33	mark	_	IFD_tag=ct
-32	við	ég	PRON	PRO-N	Case=Nom	33	nsubj	_	IFD_tag=x
+32	við	ég	PRON	PRO-N	Case=Nom|Number=Plur|Person=1|PronType=Prs	33	nsubj	_	IFD_tag=fp1fn
 33	köllum	kalla	VERB	VBPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	20	conj	_	IFD_tag=sfg1fn
 34	það	það	PRON	PRO-A	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	33	ccomp	_	IFD_tag=fphen|SpaceAfter=No
 35	,	,	PUNCT	,	_	52	punct	_	IFD_tag
@@ -3290,7 +3290,7 @@
 12	á	á	ADP	P	_	14	case	_	IFD_tag=aþ
 13	sama	sami	ADJ	ADJ-D	Case=Dat|Degree=Pos	14	amod	_	IFD_tag=x
 14	tíma	tími	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing	15	obl	_	IFD_tag=nkeþ
-15	heldur	halda	VERB	VBPI	Mood=Ind|Tense=Pres	10	ccomp	_	IFD_tag=x
+15	heldur	halda	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	_	IFD_tag=sfg3en
 16	alltaf	alltaf	ADV	ADV	_	15	advmod	_	IFD_tag=aa
 17	í	í	ADP	P	_	18	case	_	IFD_tag=ao
 18	mann	maður	PRON	MAN-A	_	15	obl	_	IFD_tag=x
@@ -3765,7 +3765,7 @@
 9	upp	upp	ADP	RP	_	7	compound:prt	_	IFD_tag=aa
 10	og	og	CCONJ	CONJ	_	12	cc	_	IFD_tag=c
 11	eiginlega	eiginlega	ADV	ADV	_	12	advmod	_	IFD_tag=aa
-12	harma	harma	VERB	VB	VerbForm=Inf	7	acl	_	IFD_tag=x
+12	harma	harma	VERB	VB	VerbForm=Inf|Voice=Act	7	acl	_	IFD_tag=sng
 13	að	að	SCONJ	C	_	15	mark	_	IFD_tag=x
 14	það	það	PRON	PRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	15	nsubj	_	IFD_tag=fphen
 15	skyldi	skulu	AUX	MDDS	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	IFD_tag=svg3eþ
@@ -3950,7 +3950,7 @@
 2	gaf	gefa	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
 3	meira	mikill	DET	QR-A	Case=Acc|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing	5	obj	_	IFD_tag=lheovm
 4	að	að	PART	TO	_	5	mark	_	IFD_tag=cn
-5	segja	segja	ADV	VB	VerbForm=Inf	2	advmod	_	IFD_tag=x
+5	segja	segja	ADV	VB	VerbForm=Inf|Voice=Act	2	advmod	_	IFD_tag=sng
 6	út	út	ADP	RP	_	2	compound:prt	_	IFD_tag=aa
 7	tímamótaskýrslu	tímamótaskýrsla	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	IFD_tag=nveo
 8	síðastliðið	síðastliðinn	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	IFD_tag=lheosf
@@ -4050,7 +4050,7 @@
 11	eða	eða	CCONJ	CONJ	_	15	cc	_	IFD_tag=c
 12	meira	mikill	DET	QR-A	Case=Acc|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing	14	obj	_	IFD_tag=lheovm
 13	að	að	PART	TO	_	14	mark	_	IFD_tag=c
-14	segja	segja	ADV	VB	VerbForm=Inf	15	advmod	_	IFD_tag=x
+14	segja	segja	ADV	VB	VerbForm=Inf|Voice=Act	15	advmod	_	IFD_tag=sng
 15	fjögur	fjórir	NUM	NUM-A	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	10	conj	_	IFD_tag=tfhfo
 16	og	og	CCONJ	CONJ	_	15	cc	_	IFD_tag=c
 17	hálft	hálfur	ADJ	ADJ-A	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	IFD_tag=lhensf
@@ -5765,7 +5765,7 @@
 # sent_id = ALTHINGI_TKG_2011_G-33-4515035,4.224
 # X_ID = ID_MISSING
 # text = Við sjálfstæðismenn þurft að sitja undir þeim ásökunum að við höfum alltaf reynt að standa vörð um kvótakerfið og ekki viljað breyta því frá upphafi.
-1	Við	ég	PRON	PRO-N	Case=Nom	3	nsubj	_	IFD_tag=x
+1	Við	ég	PRON	PRO-N	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=fp1fn
 2	sjálfstæðismenn	sjálfstæðismaður	NOUN	NS-N	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	1	appos	_	IFD_tag=nkfo
 3	þurft	þurfa	VERB	VBN	VerbForm=Sup|Voice=Act	0	root	_	IFD_tag=ssg
 4	að	að	PART	TO	_	5	mark	_	IFD_tag=cn
