@@ -5717,7 +5717,7 @@
 55	njóta	njóta	VERB	VB	VerbForm=Inf|Voice=Act	48	obl	_	IFD_tag=sng
 56	sinna	sinn	PRON	PRO-G	Case=Gen	58	nmod:poss	_	IFD_tag=x
 57	eigin	eigin	ADJ	ADJ-G	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	58	amod	_	IFD_tag=lkfeof
-58	krafta	krafti	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	55	obj	_	IFD_tag=nkfe|SpaceAfter=No
+58	krafta	kraftur	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	55	obj	_	IFD_tag=nkfe|SpaceAfter=No
 59	.	.	PUNCT	.	_	58	punct	_	IFD_tag=.
 
 # sent_id = ALTHINGI_TKG_2011_G-33-4515035,2.222
@@ -8645,8 +8645,8 @@
 # X_IDs = ID_MISSING ; ID_MISSING
 # text = Norðmaðurinn Åge Hareide stýrði sinni fyrstu æfingu hjá danska landsliðinu í gær og Danir velta því mikið fyrir sér hvort miklar breytingar muni strax sjást á spilamennsku landsliðsins undir hans stjórn.
 1	Norðmaðurinn	norðmaður	PROPN	NPR-N	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	IFD_tag=nkengs
-2	Åge	Åge	PROPN	NPR-N	_	1	flat:name	_	IFD_tag=x
-3	Hareide	Hareide	PROPN	NPR-N	_	2	flat:name	_	IFD_tag=x
+2	Åge	åge	PROPN	NPR-N	_	1	flat:name	_	IFD_tag=x
+3	Hareide	hareide	PROPN	NPR-N	_	2	flat:name	_	IFD_tag=x
 4	stýrði	stýra	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3eþ
 5	sinni	sinn	PRON	PRO-D	Case=Dat|Gender=Fem|Number=Sing|PronType=Prs	7	nmod:poss	_	IFD_tag=feveþ
 6	fyrstu	fyrstur	ADJ	ADJS-D	Case=Dat|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing	7	amod	_	IFD_tag=lveþve
@@ -8713,7 +8713,7 @@
 12	að	að	PART	TO	_	13	mark	_	IFD_tag=cn
 13	spila	spila	VERB	VB	VerbForm=Inf|Voice=Act	11	acl	_	IFD_tag=sng
 14	fyrir	fyrir	ADP	P	_	15	dep	_	IFD_tag=ao
-15	Danmörki	danmörki	X	X	_	13	obl	_	IFD_tag=x|SpaceAfter=No
+15	Danmörki	danmörk	X	X	_	13	obl	_	IFD_tag=x|SpaceAfter=No
 16	,	,	PUNCT	,	_	15	punct	_	IFD_tag|SpaceAfter=No
 17	“	“	PUNCT	"	_	16	punct	_	IFD_tag=“
 18	sagði	segja	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	IFD_tag=sfg3eþ
@@ -9952,7 +9952,7 @@
 2	mun	munu	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	IFD_tag=sfg3en
 3	Hrafnhildur	hrafnhildur	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	IFD_tag=nven-s
 4	synda	synda	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	IFD_tag=sng
-5	bringsundið	bringsund	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	4	obj	_	IFD_tag=nheog
+5	bringsundið	bringusund	NOUN	N-A	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	4	obj	_	IFD_tag=nheog
 6	með	með	ADP	P	_	7	case	_	IFD_tag=aþ
 7	boðsundssveit	boðsundssveit	NOUN	N-D	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	IFD_tag=nveo
 8	Íslands	ísland	PROPN	NPR-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	7	nmod:poss	_	IFD_tag=nhee-s
