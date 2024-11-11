@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Icelandic-Modern:
-commit ab987f7ee4c299570c161cc672fb41d1d1266e2f
-Merge: dff7592 65bddeb
+commit 2bb5a1324d6fb8620483b9bb2591cf8d4defb9a8
+Merge: 1e49851 4cff084
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 80394 of 80394 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.77387909306905.
@@ -15,13 +15,13 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 47541 out of 80394 total words have one or more features.
+Features: 47543 out of 80394 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL       1762
-Udapi: found 1762 bugs.
+               TOTAL       1763
+Udapi: found 1763 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 80394 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang is --max-err=10 UD_Icelandic-Modern/is_modern-ud-dev.conllu
@@ -29,13 +29,6 @@ Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang is --max-err=10 UD_Icelandic-Modern/is_modern-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang is --max-err=10 UD_Icelandic-Modern/is_modern-ud-train.conllu
-[Line 66068 Sent RUV_ESP_2016_G-2-1039771.SANITY,3.2436 Node 22]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 66068 Sent RUV_ESP_2016_G-2-1039771.SANITY,3.2436 Node 22]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 66068 Sent RUV_ESP_2016_G-2-1039771.SANITY,3.2436 Node 22]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 66068 Sent RUV_ESP_2016_G-2-1039771.SANITY,3.2436 Node 22]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 66068 Sent RUV_ESP_2016_G-2-1039771.SANITY,3.2436 Node 22]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 72070 Sent RUV_TGS_2016_G-2-1032964.SANITY,5.2682 Node 15]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-Warnings: 6
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
@@ -44,8 +37,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.635074545834366) = 0.162839627137017
 (weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.780829415130482) = 0.240255204655533
+(weight=0.307692307692308) * (score{udapi}=0.780705027738388) = 0.240216931611812
 (weight=0.0769230769230769) * (score{udeprels}=0.67027027027027) = 0.0515592515592516
-(TOTAL score=0.679058306579554) * (availability=1) * (validity=1) = 0.679058306579554
+(TOTAL score=0.679020033535833) * (availability=1) * (validity=1) = 0.679020033535833
 STARS = 3.5
-UD_Icelandic-Modern	0.679058306579554	3.5
+UD_Icelandic-Modern	0.679020033535833	3.5
