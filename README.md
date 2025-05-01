@@ -91,6 +91,8 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
 
 # Changelog
 
+* 2025-05-15 v2.16
+  * A few feature fixes.
 * 2024-11-15 v2.15
   * Remaining flat-foreign warnings fixed.
   * All leaf-det warnings fixed.

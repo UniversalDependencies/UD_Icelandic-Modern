@@ -2658,8 +2658,8 @@
 3	þetta	þessi	DET	D-N	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	IFD_tag=faheo
 4	ekki	ekki	ADV	NEG	_	7	advmod	_	IFD_tag=aa
 5	alveg	alveg	ADV	ADV	_	7	advmod	_	IFD_tag=aa
-6	eins	eins	ADV	ADVR-XXX	_	5	advmod	_	IFD_tag=aa
-7	heita	heita	VERB	VB	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	IFD_tag=lheovf
+6	eins	eins	ADV	ADVR	_	5	advmod	_	IFD_tag=aa
+7	heita	heita	VERB	VB	VerbForm=Inf|Voice=Act	0	root	_	IFD_tag=sng
 8	auðlindagjald	auðlindagjald	NOUN	N-N	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	7	xcomp	_	IFD_tag=nheo
 9	ef	ef	SCONJ	P	_	13	mark	_	IFD_tag=c
 10	markmiðið	markmið	NOUN	N-N	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	13	nsubj	_	IFD_tag=nheng
@@ -4112,7 +4112,7 @@
 # sent_id = ALTHINGI_SJS_2013_G-33-4496708,1.149
 # X_ID = ID_MISSING
 # text = Frú forseti. Ég geri ráð fyrir að hv. ræðumaður þekki mig orðið það vel af langri samveru að hann viti að þótt ég hafi farið hér nokkuð mikinn í ræðu minni sé það ekki endilega ávísun á að ég geti svo ekki orðið diplómatískur og miðlað málum.
-1	Frú	frú	NOUN	N-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	vocative	_	IFD_tag=lkensf
+1	Frú	frú	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	5	vocative	_	IFD_tag=nven
 2	forseti	forseti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	IFD_tag=nken|SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	IFD_tag=.
 4	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	IFD_tag=fp1en
@@ -5907,7 +5907,7 @@
 # sent_id = ALTHINGI_TKG_2011_G-33-4497467,1.207
 # X_ID = ID_MISSING
 # text = Frú forseti. Þegar við lögðum af stað í þá vegferð að sækja um aðild að Evrópusambandinu héldu menn hér inni þá að okkar leið og vegferð yrði önnur en annarra þjóða sem hafa sótt um aðild?
-1	Frú	frú	NOUN	N-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	18	vocative	_	IFD_tag=lkensf
+1	Frú	frú	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	18	vocative	_	IFD_tag=nven
 2	forseti	forseti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	IFD_tag=nken|SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	IFD_tag=.
 4	Þegar	þegar	SCONJ	P	_	6	mark	_	IFD_tag=x
@@ -6796,7 +6796,7 @@
 # sent_id = ALTHINGI_TKG_2011_G-33-4522153,1.238
 # X_ID = ID_MISSING
 # text = Frú forseti. Ég skal aðeins útskýra þetta með sjávarútveginn.
-1	Frú	frú	NOUN	N-N	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	vocative	_	IFD_tag=lkenof
+1	Frú	frú	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	7	vocative	_	IFD_tag=nven
 2	forseti	forseti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	IFD_tag=nken|SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	IFD_tag=.
 4	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	IFD_tag=fp1en
@@ -8803,9 +8803,9 @@
 3	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	IFD_tag=sfg3en
 4	í	í	ADP	P	_	5	case	_	IFD_tag=aþ
 5	eigu	eiga	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	IFD_tag=nveþ
-6	sænsku	sænska	NOUN	N-G	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	nmod:poss	_	IFD_tag=lveevf
-7	skyttunar	skytta	X	X	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	dep	_	IFD_tag=nveeg
-8	Oscars	oscar	PROPN	NPR-G	Foreign=Yes	6	appos	_	IFD_tag=e
+6	sænsku	sænska	ADJ	ADJ-G	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	IFD_tag=lveevf
+7	skyttunar	skytta	NOUN	N-G	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod:poss	_	IFD_tag=nveeg
+8	Oscars	oscar	PROPN	NPR-G	Foreign=Yes	7	appos	_	IFD_tag=e
 9	Swahn	swahn	PROPN	NPR-G	Foreign=Yes	8	flat:name	_	IFD_tag=e
 10	sem	sem	SCONJ	C	_	17	mark	_	IFD_tag=ct
 11	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	cop	_	IFD_tag=sfg3eþ
@@ -10264,7 +10264,7 @@
 5	endurnýjun	endurnýjun	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	3	obl	_	IFD_tag=nveo
 6	í	í	ADP	P	_	7	case	_	IFD_tag=aþ
 7	forystu	forysta	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	IFD_tag=nveþ
-8	samtaka	samtök	NOUN	NS-G	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	7	nmod:poss	_	IFD_tag=lkfosf
+8	samtaka	samtök	NOUN	NS-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	7	nmod:poss	_	IFD_tag=nhfe
 9	eins	eins	ADV	ADVR	_	8	advmod	_	IFD_tag=aa
 10	og	og	ADP	P	_	11	case	_	IFD_tag=c
 11	KSÍ	ksí	PROPN	NPR-G	_	9	obl	_	IFD_tag=as|SpaceAfter=No
