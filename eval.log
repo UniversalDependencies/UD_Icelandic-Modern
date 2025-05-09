@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Icelandic-Modern:
-commit 2bb5a1324d6fb8620483b9bb2591cf8d4defb9a8
-Merge: 1e49851 4cff084
+commit cf22382982dabbbcadc5f2bc1377aa95e142f817
+Merge: ce801e9 e31d5b1
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 80394 of 80394 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.77387909306905.
@@ -20,25 +20,42 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL       1763
-Udapi: found 1763 bugs.
+               TOTAL       1204
+Udapi: found 1204 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 80394 words.
-Genres: found 2 out of 17 known.
+Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang is --max-err=10 UD_Icelandic-Modern/is_modern-ud-dev.conllu
+[Line 2564 Sent ALTHINGI_HHG_2013_G-33-4525575,14.105 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'hvort sem' does not have the 'ExtPos' feature
+Warnings: 1
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang is --max-err=10 UD_Icelandic-Modern/is_modern-ud-test.conllu
+[Line 2490 Sent ALTHINGI_HHG_2013_G-33-4492074,6.100 Node 28]: [L3 Warning fixed-without-extpos] Fixed expression 'hvort sem' does not have the 'ExtPos' feature
+[Line 4966 Sent ALTHINGI_SJS_2013_G-33-4496709,13.178 Node 43]: [L3 Warning fixed-without-extpos] Fixed expression 'hvort sem' does not have the 'ExtPos' feature
+Warnings: 2
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang is --max-err=10 UD_Icelandic-Modern/is_modern-ud-train.conllu
+[Line 2020 Sent ALTHINGI_BO_2014_G-33-4698744,5.78 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 16019 Sent ALTHINGI_HHG_2013_G-33-4705681,8.622 Node 42]: [L3 Warning fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 17750 Sent ALTHINGI_HHG_2013_G-33-4727073,6.686 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 18398 Sent ALTHINGI_HHG_2013_G-33-4736504,7.709 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 21139 Sent ALTHINGI_HHG_2013_G-33-4794202,5.809 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'hvort sem' does not have the 'ExtPos' feature
+[Line 25420 Sent ALTHINGI_HHG_2013_G-33-4858131,6.959 Node 19]: [L3 Warning fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 26723 Sent ALTHINGI_HHG_2013_G-33-4875931,2.1002 Node 48]: [L3 Warning fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 27828 Sent ALTHINGI_HHG_2013_G-33-4901642,2.1050 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 30414 Sent ALTHINGI_SJS_2013_G-33-4542313,8.1147 Node 28]: [L3 Warning fixed-without-extpos] Fixed expression 'hvort sem' does not have the 'ExtPos' feature
+[Line 45475 Sent ALTHINGI_SJS_2013_G-33-4736548,14.1645 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+Warnings: 16
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
+(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.635074545834366) = 0.162839627137017
 (weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.780705027738388) = 0.240216931611812
+(weight=0.307692307692308) * (score{udapi}=0.850237579918899) = 0.261611563051969
 (weight=0.0769230769230769) * (score{udeprels}=0.67027027027027) = 0.0515592515592516
-(TOTAL score=0.679020033535833) * (availability=1) * (validity=1) = 0.679020033535833
+(TOTAL score=0.699911899767343) * (availability=1) * (validity=1) = 0.699911899767343
 STARS = 3.5
-UD_Icelandic-Modern	0.679020033535833	3.5
+UD_Icelandic-Modern	0.699911899767343	3.5
