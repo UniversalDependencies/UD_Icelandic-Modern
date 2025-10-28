@@ -1200,7 +1200,7 @@
 8	að	að	PART	TO	_	9	mark	_	IFD_tag=cn
 9	taka	taka	VERB	VB	VerbForm=Inf|Voice=Act	7	acl	_	IFD_tag=sng
 10	ákveðið	ákveðið	ADV	ADV	_	11	amod	_	IFD_tag=aa
-11	mikið	mikill	ADJ	Q-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	IFD_tag=lheosf
+11	mikið	mikill	ADJ	Q-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	10	obj	_	IFD_tag=lheosf
 12	af	af	ADP	P	_	13	case	_	IFD_tag=aþ
 13	vínarbrauðinu	vínarbrauð	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	9	obl	_	IFD_tag=nheþg
 14	sínu	sinn	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	13	nmod:poss	_	IFD_tag=feheþ
@@ -1212,7 +1212,7 @@
 20	og	og	CCONJ	CONJ	_	9	cc	_	IFD_tag=c
 21	svo	svo	ADV	ADV	_	9	advmod	_	IFD_tag=aa
 22	aðeins	aðeins	ADV	ADV	_	23	amod	_	IFD_tag=aa
-23	meira	mikill	ADJ	QR-A	Case=Nom|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing	22	amod	_	IFD_tag=lhenvm
+23	meira	mikill	ADJ	QR-A	Case=Nom|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing	11	conj	_	IFD_tag=lhenvm
 24	af	af	ADP	P	_	25	case	_	IFD_tag=aþ
 25	fransbrauðinu	fransbrauð	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	9	obl	_	IFD_tag=nheþg|SpaceAfter=No
 26	,	,	PUNCT	,	_	25	punct	_	IFD_tag
