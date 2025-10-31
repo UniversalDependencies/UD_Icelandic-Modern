@@ -2704,10 +2704,10 @@
 11	aðrir	annar	PRON	OTHERS-N	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	12	det	_	IFD_tag=fokfn
 12	nefndarmenn	nefndarmaður	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	9	ccomp	_	IFD_tag=nkfn
 13	hafa	hafa	AUX	HVPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	IFD_tag=sfg3fn
-14	um	um	ADP	P	_	12	obj	_	IFD_tag=ao
+14	um	um	ADP	P	_	15	case	_	IFD_tag=ao
 15	þær	hún	PRON	PRO-A	Case=Acc|Gender=Fem|Number=Plur|PronType=Prs	17	obl	_	IFD_tag=fpvfo
 16	að	að	PART	TO	_	17	mark	_	IFD_tag=cn
-17	segja	segja	VERB	VB	VerbForm=Inf|Voice=Act	14	xcomp	_	IFD_tag=sng
+17	segja	segja	VERB	VB	VerbForm=Inf|Voice=Act	12	xcomp	_	IFD_tag=sng
 18	og	og	CCONJ	CONJ	_	19	cc	_	IFD_tag=c
 19	reyna	reyna	VERB	VB	VerbForm=Inf|Voice=Act	5	conj	_	IFD_tag=sng
 20	að	að	PART	TO	_	21	mark	_	IFD_tag=cn
