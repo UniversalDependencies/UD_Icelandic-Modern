@@ -2000,12 +2000,12 @@
 # sent_id = ALTHINGI_BO_2015_G-33-4594314,6.82
 # X_IDs = ID_MISSING ; ID_MISSING
 # text = Hvað varðar leigukvóta eða þá leið sem hv. þingmaður nefndi hef ég ekki skoðað hana nógu vel en hún er sett fram, held ég, til þess að skipta hlutanum upp á einhvern ákveðinn hátt.
-1	Hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	IFD_tag=fshen
+1	Hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	nsubj	_	IFD_tag=fshen
 2	varðar	varða	ADV	VBPI	Mood=Ind|Tense=Pres	14	advmod	_	IFD_tag=x
-3	leigukvóta	leigukvóti	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	6	obl	_	IFD_tag=nkfo
+3	leigukvóta	leigukvóti	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	2	obj	_	IFD_tag=nkfo
 4	eða	eða	CCONJ	CONJ	_	6	cc	_	IFD_tag=c
 5	þá	sá	DET	D-A	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	IFD_tag=faveo
-6	leið	leið	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	IFD_tag=nveo
+6	leið	leið	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	3	conj	_	IFD_tag=nveo
 7	sem	sem	SCONJ	C	_	10	mark	_	IFD_tag=ct
 8	hv.	háttvirtur	ADJ	ADJ-N	_	9	amod	_	IFD_tag=as
 9	þingmaður	þingmaður	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	IFD_tag=nken
@@ -2041,7 +2041,7 @@
 # sent_id = ALTHINGI_BO_2015_G-33-4594314,7.83
 # X_ID = ID_MISSING
 # text = Hvað varðar 10 kr. Forseti hringir. þá kemst ég ekki í að fara yfir það.
-1	Hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	IFD_tag=fshen
+1	Hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	nsubj	_	IFD_tag=fshen
 2	varðar	varða	ADV	VBPI	Mood=Ind|Tense=Pres	9	advmod	_	IFD_tag=x
 3	10	tíu	NUM	NUM-A	NumType=Card	4	nummod	_	IFD_tag=ta
 4	kr.	króna	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	2	obj	_	IFD_tag=x
