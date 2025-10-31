@@ -200,9 +200,9 @@
 23	þannig	þannig	ADV	ADV	_	18	advmod	_	IFD_tag=aa
 24	lækkað	lækka	VERB	VBN	VerbForm=Sup|Voice=Act	18	dep	_	IFD_tag=ssg
 25	þessa	þessi	DET	D-A	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	26	det	_	IFD_tag=fakfo
-26	sjóði	sjóður	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	18	obj	_	IFD_tag=nkfo
+26	sjóði	sjóður	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	24	obj	_	IFD_tag=nkfo
 27	án	án	ADP	P	_	28	case	_	IFD_tag=ae
-28	þess	það	PRON	PRO-G	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	18	obl	_	IFD_tag=fphee
+28	þess	það	PRON	PRO-G	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	24	obl	_	IFD_tag=fphee
 29	að	að	PART	TO	_	30	mark	_	IFD_tag=cn
 30	spyrja	spyrja	VERB	VB	VerbForm=Inf|Voice=Act	28	acl	_	IFD_tag=sng
 31	kóng	kóngur	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	30	iobj	_	IFD_tag=nkeo
@@ -3285,7 +3285,7 @@
 # sent_id = ALTHINGI_BO_2014_G-33-4879443,4.128
 # X_IDs = ID_MISSING ; ID_MISSING
 # text = Hvað varðar lækkun gjalda með þeirri forsendu sem þingmaðurinn nefnir réttilega, ef ég skil meirihlutaálitið rétt, að treysta á auknar veiðar, þá er það mikil spámennska, það er það.
-1	Hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	IFD_tag=fshen
+1	Hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	nsubj	_	IFD_tag=fshen
 2	varðar	varða	ADV	VBPI	Mood=Ind|Tense=Pres	29	advmod	_	IFD_tag=x
 3	lækkun	lækkun	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	IFD_tag=nveo
 4	gjalda	gjald	NOUN	NS-G	Case=Gen|Definite=Ind|Number=Plur	3	nmod:poss	_	IFD_tag=x
@@ -11521,7 +11521,7 @@
 9	og	og	CCONJ	CONJ	_	5	cc	_	IFD_tag=c
 10	örugglega	örugglega	ADV	ADV	_	5	advmod	_	IFD_tag=aa
 11	bara	bara	ADV	FP	_	5	advmod	_	IFD_tag=aa
-12	meginmáli	meginmál	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	5	obj	_	IFD_tag=nheþ|SpaceAfter=No
+12	meginmáli	meginmál	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	8	conj	_	IFD_tag=nheþ|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
 # sent_id = ALTHINGI_BO_2015_G-33-4927424,11.458
@@ -11776,10 +11776,10 @@
 5	náttúrupassafrumvarp	náttúrupassafrumvarp	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	4	obj	_	IFD_tag=nheo
 6	og	og	CCONJ	CONJ	_	4	cc	_	IFD_tag=c
 7	breytt	breyta	VERB	VBN	VerbForm=Sup|Voice=Act	4	dep	_	IFD_tag=ssg
-8	því	það	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	4	obj	_	IFD_tag=fpheþ
+8	því	það	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	7	obj	_	IFD_tag=fpheþ
 9	í	í	ADP	P	_	11	case	_	IFD_tag=ao
 10	blandaða	blandaður	ADJ	ADJ-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	IFD_tag=lveosf
-11	leið	leið	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	IFD_tag=nveo|SpaceAfter=No
+11	leið	leið	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	IFD_tag=nveo|SpaceAfter=No
 12	?	?	PUNCT	.	_	11	punct	_	IFD_tag=?
 
 # sent_id = ALTHINGI_BO_2015_G-33-4934628,11.473
