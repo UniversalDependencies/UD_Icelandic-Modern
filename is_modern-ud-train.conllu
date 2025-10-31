@@ -13057,7 +13057,7 @@
 14	sjálfu	sjálfur	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	IFD_tag=fbheþ
 15	sér	sig	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	14	nmod	_	IFD_tag=fpheþ
 16	hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	17	nsubj	_	IFD_tag=fshen
-17	viðkemur	viðkoma	VERB	VBPI	Mood=Ind|Tense=Pres	14	advmod	_	IFD_tag=x
+17	viðkemur	viðkoma	VERB	VBPI	Mood=Ind|Tense=Pres	14	ccomp	_	IFD_tag=x
 18	þessu	þessi	DET	D-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	20	det	_	IFD_tag=faheþ
 19	tiltekna	tiltekinn	ADJ	ADJ-D	Case=Dat|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	IFD_tag=lheþvf
 20	máli	mál	NOUN	N-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	17	obj	_	IFD_tag=nheþ|SpaceAfter=No
@@ -19553,17 +19553,17 @@
 1	Samkvæmt	samkvæmt	ADP	P	_	3	case	_	IFD_tag=aþ
 2	125.	125.	ADJ	ADJ-D	NumType=Card	3	amod	_	IFD_tag=ta
 3	gr.	grein	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	23	obl	_	IFD_tag=x
-4	skal	skulu	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	aux	_	IFD_tag=sfg3en
-5	hver	hver	DET	Q-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	23	nsubj	_	IFD_tag=foken
-6	sem	sem	SCONJ	C	_	12	mark	_	IFD_tag=ct
-7	opinberlega	opinberlega	ADV	ADV	_	12	advmod	_	IFD_tag=aa
-8	dregur	draga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	dep	_	IFD_tag=sfg3en
-9	dár	dár	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	12	obj	_	IFD_tag=nheo
-10	að	að	ADP	P	_	12	obl	_	IFD_tag=aþ
+4	skal	skulu	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	IFD_tag=sfg3en
+5	hver	hver	DET	Q-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	8	det	_	IFD_tag=foken
+6	sem	sem	SCONJ	C	_	8	mark	_	IFD_tag=ct
+7	opinberlega	opinberlega	ADV	ADV	_	8	advmod	_	IFD_tag=aa
+8	dregur	draga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl:relcl	_	IFD_tag=sfg3en
+9	dár	dár	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	8	obj	_	IFD_tag=nheo
+10	að	að	ADP	P	_	9	compound:prt	_	IFD_tag=aþ
 11	eða	eða	CCONJ	CONJ	_	12	cc	_	IFD_tag=c
-12	smánar	smána	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	IFD_tag=sfg3en
+12	smánar	smána	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	IFD_tag=sfg3en
 13	trúarkenningar	trúarkenning	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	12	obj	_	IFD_tag=nvfo
-14	eða	eða	CCONJ	CONJ	_	13	cc	_	IFD_tag=c
+14	eða	eða	CCONJ	CONJ	_	15	cc	_	IFD_tag=c
 15	guðsdýrkun	guðsdýrkun	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	13	conj	_	IFD_tag=nveo
 16	löglegs	löglegur	ADJ	ADJ-G	Case=Gen|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	IFD_tag=lheesf
 17	trúarbragðafélags	trúarbragðafélag	NOUN	N-G	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	13	nmod:poss	_	IFD_tag=nhee
@@ -22336,7 +22336,7 @@
 # sent_id = ALTHINGI_HHG_2013_G-33-4805581,9.852
 # X_ID = ID_MISSING
 # text = Hvað varðar skuldamálin nú brann ég alveg á tíma og það sem Lars Christensen sagði, þá er ástæða fyrir því að við píratar lofuðum ekki svona skuldalækkunum í kosningabaráttunni.
-1	Hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	snubj	_	IFD_tag=fshen
+1	Hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	nsubj	_	IFD_tag=fshen
 2	varðar	varða	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	obl	_	IFD_tag=sfg3en
 3	skuldamálin	skuldamál	NOUN	NS-A	Case=Acc|Definite=Def|Gender=Neut|Number=Plur	11	obl	_	IFD_tag=nhfog
 4	nú	nú	ADV	ADV	_	5	advmod	_	IFD_tag=aa
@@ -35882,7 +35882,7 @@
 58	ákvæði	ákvæði	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Neut|Number=Plur	50	advcl	_	IFD_tag=nhfo
 59	í	í	ADP	P	_	60	case	_	IFD_tag=aþ
 60	lögum	lag	NOUN	NS-D	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur	58	obl	_	IFD_tag=nhfþ
-61	þá	þá	ADV	ADV	_	62	advmod	_	IFD_tag=aa
+61	þá	þá	ADV	ADV	_	63	advmod	_	IFD_tag=aa
 62	og	og	CCONJ	CONJ	_	63	cc	_	IFD_tag=c
 63	beitt	beita	VERB	VBN	VerbForm=Sup|Voice=Act	58	dep	_	IFD_tag=ssg
 64	þeim	hann	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Plur|PronType=Prs	63	obj	_	IFD_tag=fphfþ|SpaceAfter=No
@@ -40094,7 +40094,7 @@
 7	í	í	ADP	P	_	8	case	_	IFD_tag=aa
 8	sundur	sundur	ADV	ADV	_	6	obl	_	IFD_tag=aa
 9	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	IFD_tag=sfg3en
-10	hver	hver	PRON	WPRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	16	nsubj	_	IFD_tag=foken
+10	hver	hver	PRON	WPRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	IFD_tag=foken
 11	hluti	hluti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	16	nsubj	_	IFD_tag=nken
 12	lánanna	lán	NOUN	NS-G	Case=Gen|Definite=Def|Gender=Neut|Number=Plur	11	nmod:poss	_	IFD_tag=nhfeg
 13	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	IFD_tag=sfg3eþ
