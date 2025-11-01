@@ -90,7 +90,8 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
 
 
 # Changelog
-
+* 2025-11-15 v2.17
+  * Validation errors corrected (too-many-objects).
 * 2025-05-15 v2.16
   * A few feature fixes.
 * 2024-11-15 v2.15
