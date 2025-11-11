@@ -1199,8 +1199,8 @@
 7	eigi	eiga	VERB	VBPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	IFD_tag=svg3en
 8	að	að	PART	TO	_	9	mark	_	IFD_tag=cn
 9	taka	taka	VERB	VB	VerbForm=Inf|Voice=Act	7	acl	_	IFD_tag=sng
-10	ákveðið	ákveðið	ADV	ADV	_	9	obj	_	IFD_tag=aa
-11	mikið	mikill	DET	Q-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	IFD_tag=lheosf
+10	ákveðið	ákveðið	ADV	ADV	_	11	amod	_	IFD_tag=aa
+11	mikið	mikill	ADJ	Q-A	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	9	obj	_	IFD_tag=lheosf
 12	af	af	ADP	P	_	13	case	_	IFD_tag=aþ
 13	vínarbrauðinu	vínarbrauð	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	9	obl	_	IFD_tag=nheþg
 14	sínu	sinn	PRON	PRO-D	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	13	nmod:poss	_	IFD_tag=feheþ
@@ -1211,8 +1211,8 @@
 19	skatta	skattur	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	9	obl	_	IFD_tag=nkfo
 20	og	og	CCONJ	CONJ	_	9	cc	_	IFD_tag=c
 21	svo	svo	ADV	ADV	_	9	advmod	_	IFD_tag=aa
-22	aðeins	aðeins	ADV	ADV	_	9	obj	_	IFD_tag=aa
-23	meira	mikill	DET	QR-A	Case=Nom|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing	22	amod	_	IFD_tag=lhenvm
+22	aðeins	aðeins	ADV	ADV	_	23	amod	_	IFD_tag=aa
+23	meira	mikill	ADJ	QR-A	Case=Nom|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing	11	conj	_	IFD_tag=lhenvm
 24	af	af	ADP	P	_	25	case	_	IFD_tag=aþ
 25	fransbrauðinu	fransbrauð	NOUN	N-D	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	9	obl	_	IFD_tag=nheþg|SpaceAfter=No
 26	,	,	PUNCT	,	_	25	punct	_	IFD_tag
@@ -2000,12 +2000,12 @@
 # sent_id = ALTHINGI_BO_2015_G-33-4594314,6.82
 # X_IDs = ID_MISSING ; ID_MISSING
 # text = Hvað varðar leigukvóta eða þá leið sem hv. þingmaður nefndi hef ég ekki skoðað hana nógu vel en hún er sett fram, held ég, til þess að skipta hlutanum upp á einhvern ákveðinn hátt.
-1	Hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	IFD_tag=fshen
+1	Hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	nsubj	_	IFD_tag=fshen
 2	varðar	varða	ADV	VBPI	Mood=Ind|Tense=Pres	14	advmod	_	IFD_tag=x
-3	leigukvóta	leigukvóti	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	6	obl	_	IFD_tag=nkfo
+3	leigukvóta	leigukvóti	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	2	obj	_	IFD_tag=nkfo
 4	eða	eða	CCONJ	CONJ	_	6	cc	_	IFD_tag=c
 5	þá	sá	DET	D-A	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	IFD_tag=faveo
-6	leið	leið	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	IFD_tag=nveo
+6	leið	leið	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	3	conj	_	IFD_tag=nveo
 7	sem	sem	SCONJ	C	_	10	mark	_	IFD_tag=ct
 8	hv.	háttvirtur	ADJ	ADJ-N	_	9	amod	_	IFD_tag=as
 9	þingmaður	þingmaður	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	IFD_tag=nken
@@ -2041,7 +2041,7 @@
 # sent_id = ALTHINGI_BO_2015_G-33-4594314,7.83
 # X_ID = ID_MISSING
 # text = Hvað varðar 10 kr. Forseti hringir. þá kemst ég ekki í að fara yfir það.
-1	Hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	IFD_tag=fshen
+1	Hvað	hver	PRON	WPRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	nsubj	_	IFD_tag=fshen
 2	varðar	varða	ADV	VBPI	Mood=Ind|Tense=Pres	9	advmod	_	IFD_tag=x
 3	10	tíu	NUM	NUM-A	NumType=Card	4	nummod	_	IFD_tag=ta
 4	kr.	króna	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	2	obj	_	IFD_tag=x
@@ -2704,10 +2704,10 @@
 11	aðrir	annar	PRON	OTHERS-N	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	12	det	_	IFD_tag=fokfn
 12	nefndarmenn	nefndarmaður	NOUN	NS-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	9	ccomp	_	IFD_tag=nkfn
 13	hafa	hafa	AUX	HVPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	IFD_tag=sfg3fn
-14	um	um	ADP	P	_	12	obj	_	IFD_tag=ao
+14	um	um	ADP	P	_	15	case	_	IFD_tag=ao
 15	þær	hún	PRON	PRO-A	Case=Acc|Gender=Fem|Number=Plur|PronType=Prs	17	obl	_	IFD_tag=fpvfo
 16	að	að	PART	TO	_	17	mark	_	IFD_tag=cn
-17	segja	segja	VERB	VB	VerbForm=Inf|Voice=Act	14	xcomp	_	IFD_tag=sng
+17	segja	segja	VERB	VB	VerbForm=Inf|Voice=Act	12	xcomp	_	IFD_tag=sng
 18	og	og	CCONJ	CONJ	_	19	cc	_	IFD_tag=c
 19	reyna	reyna	VERB	VB	VerbForm=Inf|Voice=Act	5	conj	_	IFD_tag=sng
 20	að	að	PART	TO	_	21	mark	_	IFD_tag=cn
@@ -6099,7 +6099,7 @@
 # sent_id = ALTHINGI_TKG_2011_G-33-4522123,2.241
 # X_ID = ID_MISSING
 # text = Hver á þessa ríkisstjórn með húð og hári?
-1	Hver	hver	PRON	WPRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	obj	_	IFD_tag=fsken
+1	Hver	hver	PRON	WPRO-N	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	IFD_tag=fsken
 2	á	eiga	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=sfg3en
 3	þessa	þessi	DET	D-A	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	IFD_tag=faveo
 4	ríkisstjórn	ríkisstjórn	NOUN	N-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	IFD_tag=nveo

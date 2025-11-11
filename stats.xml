@@ -15,12 +15,12 @@
   <fusions unique="3" /><!-- Afsakaðu, eignaupplýsingar, fyrirgefðu -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">4318</tag><!-- háttvirtur, góður, virðulegur, hæstvirtur, hægur, síðari, fyrstur, nýr, stór, íslenskur -->
+    <tag name="ADJ">4320</tag><!-- háttvirtur, góður, virðulegur, hæstvirtur, hægur, síðari, fyrstur, nýr, stór, íslenskur -->
     <tag name="ADP">10209</tag><!-- í, á, til, um, með, fyrir, við, að, af, fram -->
-    <tag name="ADV">6960</tag><!-- ekki, þá, svo, hér, bara, eins, þar, vel, nú, þannig -->
+    <tag name="ADV">6959</tag><!-- ekki, þá, svo, hér, bara, eins, þar, vel, nú, þannig -->
     <tag name="AUX">5304</tag><!-- vera, hafa, geta, vilja, munu, verða, mega, skulu, fá -->
     <tag name="CCONJ">2838</tag><!-- og, en, eða, bæði, til, né, hvorki, plús, enda, milli -->
-    <tag name="DET">3702</tag><!-- þessi, sá, allur, einhver, mikill, einn, enginn, hinn, margur, hver -->
+    <tag name="DET">3700</tag><!-- þessi, sá, allur, einhver, mikill, einn, enginn, hinn, margur, hver -->
     <tag name="INTJ">81</tag><!-- nei, já, jú, ja, takk, húrra, jæja, kommon, vá, æ -->
     <tag name="NOUN">13644</tag><!-- forseti, mál, þingmaður, ár, maður, tími, fólk, leikur, ráðherra, ríkisstjórn -->
     <tag name="NUM">1048</tag><!-- tveir, þrír, hundrað, fjórir, 200, núll, fimm, fimmtíu, sextán, tíu -->
@@ -29,7 +29,7 @@
     <tag name="PROPN">2743</tag><!-- ísland, þingmaður, ólympíuleikar, hrafnhildur, alþingi, rúv, ríó, em, íslendingur, evrópusamband -->
     <tag name="PUNCT">6354</tag><!-- ., ,, ?, :, „, “, ;, -, !, ( -->
     <tag name="SCONJ">3849</tag><!-- að, sem, ef, þegar, en, hvort, nema, þó, þótt, meðan -->
-    <tag name="VERB">9295</tag><!-- koma, eiga, gera, fara, verða, taka, segja, halda, þurfa, sjá -->
+    <tag name="VERB">9296</tag><!-- koma, eiga, gera, fara, verða, taka, segja, halda, þurfa, sjá -->
     <tag name="X">90</tag><!-- molde, 2016, að, eidur, fk, i, se, your, zijn, 22 -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -78,19 +78,19 @@
     <dep name="advmod">6127</dep>
     <dep name="amod">4646</dep>
     <dep name="appos">351</dep>
-    <dep name="aux">1559</dep>
-    <dep name="case">8877</dep>
-    <dep name="cc">2781</dep>
-    <dep name="ccomp">1812</dep>
+    <dep name="aux">1560</dep>
+    <dep name="case">8878</dep>
+    <dep name="cc">2782</dep>
+    <dep name="ccomp">1813</dep>
     <dep name="compound">2</dep>
-    <dep name="compound:prt">999</dep>
-    <dep name="conj">3003</dep>
+    <dep name="compound:prt">1000</dep>
+    <dep name="conj">3021</dep>
     <dep name="cop">3400</dep>
     <dep name="csubj">11</dep>
-    <dep name="dep">747</dep>
-    <dep name="det">1524</dep>
+    <dep name="dep">738</dep>
+    <dep name="det">1526</dep>
     <dep name="discourse">70</dep>
-    <dep name="expl">415</dep>
+    <dep name="expl">414</dep>
     <dep name="fixed">19</dep>
     <dep name="flat:foreign">34</dep>
     <dep name="flat:name">481</dep>
@@ -98,14 +98,14 @@
     <dep name="mark">5784</dep>
     <dep name="nmod">72</dep>
     <dep name="nmod:poss">1841</dep>
-    <dep name="nsubj">6801</dep>
+    <dep name="nsubj">6831</dep>
     <dep name="nummod">578</dep>
-    <dep name="obj">3285</dep>
-    <dep name="obl">9749</dep>
+    <dep name="obj">3240</dep>
+    <dep name="obl">9747</dep>
     <dep name="parataxis">204</dep>
     <dep name="punct">6354</dep>
     <dep name="root">3535</dep>
     <dep name="vocative">253</dep>
-    <dep name="xcomp">642</dep>
+    <dep name="xcomp">644</dep>
   </deps>
 </treebank>
