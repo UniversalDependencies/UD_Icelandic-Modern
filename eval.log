@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Icelandic-Modern:
-commit 9eedc7c2bf8603c6f022af74058841866b582485
-Merge: 1544211 649ff84
+commit f8c86b15db3ca3e118cd9bb514e458dbeae0a303
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 19:47:02 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'is_modern'
 Language code (from CoNLL-U file name) = 'is'
@@ -25,48 +25,101 @@ Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang is --max-err=10 UD_Icelandic-Modern/is_modern-ud-dev.conllu
-[Line 21 Sent ALTHINGI_BO_2013_G-33-4727062,1.1]: [L3 Warning obl-should-be-nmod] The parent (node [16] 'okkur') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 29 Sent ALTHINGI_BO_2013_G-33-4727062,1.1]: [L3 Warning obl-should-be-nmod] The parent (node [23] 'vinnu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 38 Sent ALTHINGI_BO_2013_G-33-4727062,1.1]: [L3 Warning obl-should-be-nmod] The parent (node [33] 'manneskjunum') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 41 Sent ALTHINGI_BO_2013_G-33-4727062,1.1]: [L3 Warning obl-should-be-nmod] The parent (node [35] 'bak') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 136 Sent ALTHINGI_BO_2013_G-33-4727062,5.5]: [L3 Warning pron-det-without-prontype] The word 'einn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 162 Sent ALTHINGI_BO_2013_G-33-4727062,6.6]: [L3 Warning obl-should-be-nmod] The parent (node [12] 'þátttöku') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 168 Sent ALTHINGI_BO_2013_G-33-4727062,6.6]: [L3 Warning pron-det-without-prontype] The word 'því' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 297 Sent ALTHINGI_BO_2013_G-33-4743644,4.11]: [L3 Warning obl-should-be-nmod] The parent (node [5] 'afstöðu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 352 Sent ALTHINGI_BO_2013_G-33-4743644,6.13]: [L3 Warning obl-should-be-nmod] The parent (node [16] 'við') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 380 Sent ALTHINGI_BO_2013_G-33-4743644,7.14]: [L3 Warning pron-det-without-prontype] The word 'maður' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-Warnings: 289
-*** PASSED ***
+[Line 21 Sent ALTHINGI_BO_2013_G-33-4727062,1.1]: [L3 SYNTAX obl-should-be-nmod] The parent (node [16] 'okkur') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 29 Sent ALTHINGI_BO_2013_G-33-4727062,1.1]: [L3 SYNTAX obl-should-be-nmod] The parent (node [23] 'vinnu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 38 Sent ALTHINGI_BO_2013_G-33-4727062,1.1]: [L3 SYNTAX obl-should-be-nmod] The parent (node [33] 'manneskjunum') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 41 Sent ALTHINGI_BO_2013_G-33-4727062,1.1]: [L3 SYNTAX obl-should-be-nmod] The parent (node [35] 'bak') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 136 Sent ALTHINGI_BO_2013_G-33-4727062,5.5]: [L3 WARNING pron-det-without-prontype] The word 'einn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 162 Sent ALTHINGI_BO_2013_G-33-4727062,6.6]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] 'þátttöku') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 168 Sent ALTHINGI_BO_2013_G-33-4727062,6.6]: [L3 WARNING pron-det-without-prontype] The word 'því' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 297 Sent ALTHINGI_BO_2013_G-33-4743644,4.11]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'afstöðu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 352 Sent ALTHINGI_BO_2013_G-33-4743644,6.13]: [L3 SYNTAX obl-should-be-nmod] The parent (node [16] 'við') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 380 Sent ALTHINGI_BO_2013_G-33-4743644,7.14]: [L3 WARNING pron-det-without-prontype] The word 'maður' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 431 Sent ALTHINGI_BO_2014_G-33-4616309,2.18]: [L3 SYNTAX obl-should-be-nmod] The parent (node [1] 'Samanburðurinn') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 469 Sent ALTHINGI_BO_2014_G-33-4616309,3.19]: [L3 SYNTAX obl-should-be-nmod] The parent (node [28] 'samvinnu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 498 Sent ALTHINGI_BO_2014_G-33-4616309,4.20]: [L3 SYNTAX obl-should-be-nmod] The parent (node [17] 'tíð') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 608 Sent ALTHINGI_BO_2014_G-33-4587316,3.24]: [L3 WARNING pron-det-without-prontype] The word 'meira' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 790 Sent ALTHINGI_BO_2014_G-33-4592176,2.32]: [L3 WARNING pron-det-without-prontype] The word 'margir' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 808 Sent ALTHINGI_BO_2014_G-33-4592176,2.32]: [L3 WARNING pron-det-without-prontype] The word 'margir' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 950 Sent ALTHINGI_BO_2014_G-33-4592176,8.38]: [L3 WARNING pron-det-without-prontype] The word 'miklu' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 980 Sent ALTHINGI_BO_2014_G-33-4592176,8.38]: [L3 WARNING pron-det-without-prontype] The word 'miklu' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1114 Sent ALTHINGI_BO_2014_G-33-4598544,5.44]: [L3 WARNING pron-det-without-prontype] The word 'því' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1536 Sent ALTHINGI_BO_2015_G-33-4576665,3.62]: [L3 WARNING pron-det-without-prontype] The word 'meiri' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 2564 Sent ALTHINGI_HHG_2013_G-33-4525575,14.105]: [L3 WARNING fixed-without-extpos] Fixed expression 'hvort sem' does not have the 'ExtPos' feature
+Warnings: 101
+SYNTAX errors: 188
+*** FAILED *** with 188 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang is --max-err=10 UD_Icelandic-Modern/is_modern-ud-test.conllu
-[Line 19 Sent ALTHINGI_BO_2013_G-33-4656263,2.2]: [L3 Warning pron-det-without-prontype] The word 'margir' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 119 Sent ALTHINGI_BO_2013_G-33-4656263,7.7]: [L3 Warning pron-det-without-prontype] The word 'einn' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 156 Sent ALTHINGI_BO_2013_G-33-4666392,1.9]: [L3 Warning pron-det-without-prontype] The word 'því' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 160 Sent ALTHINGI_BO_2013_G-33-4666392,1.9]: [L3 Warning pron-det-without-prontype] The word 'því' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 192 Sent ALTHINGI_BO_2013_G-33-4666392,2.10]: [L3 Warning pron-det-without-prontype] The word 'maður' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 215 Sent ALTHINGI_BO_2013_G-33-4666392,3.11]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'Við') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 244 Sent ALTHINGI_BO_2013_G-33-4666392,4.12]: [L3 Warning pron-det-without-prontype] The word 'við' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 255 Sent ALTHINGI_BO_2013_G-33-4666392,4.12]: [L3 Warning obl-should-be-nmod] The parent (node [12] 'komur') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 316 Sent ALTHINGI_BO_2013_G-33-4666392,6.14]: [L3 Warning pron-det-without-prontype] The word 'því' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 331 Sent ALTHINGI_BO_2014_G-33-4608528,1.15]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'stuðninginn') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-...suppressing further errors regarding Warning
-Warnings: 458
-*** PASSED ***
+[Line 19 Sent ALTHINGI_BO_2013_G-33-4656263,2.2]: [L3 WARNING pron-det-without-prontype] The word 'margir' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 119 Sent ALTHINGI_BO_2013_G-33-4656263,7.7]: [L3 WARNING pron-det-without-prontype] The word 'einn' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 156 Sent ALTHINGI_BO_2013_G-33-4666392,1.9]: [L3 WARNING pron-det-without-prontype] The word 'því' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 160 Sent ALTHINGI_BO_2013_G-33-4666392,1.9]: [L3 WARNING pron-det-without-prontype] The word 'því' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 192 Sent ALTHINGI_BO_2013_G-33-4666392,2.10]: [L3 WARNING pron-det-without-prontype] The word 'maður' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 215 Sent ALTHINGI_BO_2013_G-33-4666392,3.11]: [L3 SYNTAX obl-should-be-nmod] The parent (node [1] 'Við') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 244 Sent ALTHINGI_BO_2013_G-33-4666392,4.12]: [L3 WARNING pron-det-without-prontype] The word 'við' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 255 Sent ALTHINGI_BO_2013_G-33-4666392,4.12]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] 'komur') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 316 Sent ALTHINGI_BO_2013_G-33-4666392,6.14]: [L3 WARNING pron-det-without-prontype] The word 'því' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 331 Sent ALTHINGI_BO_2014_G-33-4608528,1.15]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'stuðninginn') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 372 Sent ALTHINGI_BO_2014_G-33-4608528,2.16]: [L3 SYNTAX obl-should-be-nmod] The parent (node [32] 'heilla') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 386 Sent ALTHINGI_BO_2014_G-33-4608528,3.17]: [L3 WARNING pron-det-without-prontype] The word 'mikið' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 396 Sent ALTHINGI_BO_2014_G-33-4608528,4.18]: [L3 WARNING pron-det-without-prontype] The word 'mikið' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 400 Sent ALTHINGI_BO_2014_G-33-4608528,4.18]: [L3 WARNING pron-det-without-prontype] The word 'hvort' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 428 Sent ALTHINGI_BO_2014_G-33-4608528,4.18]: [L3 SYNTAX obl-should-be-nmod] The parent (node [34] 'staðar') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 461 Sent ALTHINGI_BO_2014_G-33-4507277,1.20]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'spurningarnar') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 474 Sent ALTHINGI_BO_2014_G-33-4507277,2.21]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'hugmyndum') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 483 Sent ALTHINGI_BO_2014_G-33-4507277,2.21]: [L3 SYNTAX obl-should-be-nmod] The parent (node [14] 'við') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 512 Sent ALTHINGI_BO_2014_G-33-4507277,2.21]: [L3 SYNTAX obl-should-be-nmod] The parent (node [44] 'jöfnun') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 590 Sent ALTHINGI_BO_2014_G-33-4507277,5.24]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'áherslu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+...suppressing further messages regarding WARNING/MORPHO
+[Line 2490 Sent ALTHINGI_HHG_2013_G-33-4492074,6.100]: [L3 WARNING fixed-without-extpos] Fixed expression 'hvort sem' does not have the 'ExtPos' feature
+[Line 4966 Sent ALTHINGI_SJS_2013_G-33-4496709,13.178]: [L3 WARNING fixed-without-extpos] Fixed expression 'hvort sem' does not have the 'ExtPos' feature
+Warnings: 186
+SYNTAX errors: 269
+*** FAILED *** with 269 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang is --max-err=10 UD_Icelandic-Modern/is_modern-ud-train.conllu
-[Line 56 Sent ALTHINGI_BO_2013_G-33-4894243,3.3]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'niðurskurðinn') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 119 Sent ALTHINGI_BO_2013_G-33-4894243,6.6]: [L3 Warning pron-det-without-prontype] The word 'svolítið' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 125 Sent ALTHINGI_BO_2013_G-33-4894243,6.6]: [L3 Warning obl-should-be-nmod] The parent (node [7] 'reynslu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 136 Sent ALTHINGI_BO_2013_G-33-4894243,6.6]: [L3 Warning obl-should-be-nmod] The parent (node [25] 'nefndarstörfum') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 155 Sent ALTHINGI_BO_2013_G-33-4894243,6.6]: [L3 Warning obl-should-be-nmod] The parent (node [33] 'samráðs') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 250 Sent ALTHINGI_BO_2013_G-33-4927514,1.9]: [L3 Warning obl-should-be-nmod] The parent (node [12] 'gleði') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 313 Sent ALTHINGI_BO_2013_G-33-4927514,4.12]: [L3 Warning obl-should-be-nmod] The parent (node [18] 'ég') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 355 Sent ALTHINGI_BO_2013_G-33-4927514,4.12]: [L3 Warning pron-det-without-prontype] The word 'maður' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 362 Sent ALTHINGI_BO_2013_G-33-4927514,4.12]: [L3 Warning pron-det-without-prontype] The word 'maður' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 398 Sent ALTHINGI_BO_2013_G-33-4927514,6.14]: [L3 Warning pron-det-without-prontype] The word 'mörgum' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-Warnings: 1968
-*** PASSED ***
-Validity: 1
+[Line 56 Sent ALTHINGI_BO_2013_G-33-4894243,3.3]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'niðurskurðinn') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 119 Sent ALTHINGI_BO_2013_G-33-4894243,6.6]: [L3 WARNING pron-det-without-prontype] The word 'svolítið' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 125 Sent ALTHINGI_BO_2013_G-33-4894243,6.6]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'reynslu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 136 Sent ALTHINGI_BO_2013_G-33-4894243,6.6]: [L3 SYNTAX obl-should-be-nmod] The parent (node [25] 'nefndarstörfum') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 155 Sent ALTHINGI_BO_2013_G-33-4894243,6.6]: [L3 SYNTAX obl-should-be-nmod] The parent (node [33] 'samráðs') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 250 Sent ALTHINGI_BO_2013_G-33-4927514,1.9]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] 'gleði') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 313 Sent ALTHINGI_BO_2013_G-33-4927514,4.12]: [L3 SYNTAX obl-should-be-nmod] The parent (node [18] 'ég') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 355 Sent ALTHINGI_BO_2013_G-33-4927514,4.12]: [L3 WARNING pron-det-without-prontype] The word 'maður' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 362 Sent ALTHINGI_BO_2013_G-33-4927514,4.12]: [L3 WARNING pron-det-without-prontype] The word 'maður' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 398 Sent ALTHINGI_BO_2013_G-33-4927514,6.14]: [L3 WARNING pron-det-without-prontype] The word 'mörgum' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 417 Sent ALTHINGI_BO_2013_G-33-4927514,6.14]: [L3 WARNING pron-det-without-prontype] The word 'maður' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 427 Sent ALTHINGI_BO_2013_G-33-4927514,7.15]: [L3 WARNING pron-det-without-prontype] The word 'maður' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 437 Sent ALTHINGI_BO_2013_G-33-4927514,7.15]: [L3 WARNING pron-det-without-prontype] The word 'hinni' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 443 Sent ALTHINGI_BO_2013_G-33-4927514,7.15]: [L3 WARNING pron-det-without-prontype] The word 'meiri' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 447 Sent ALTHINGI_BO_2013_G-33-4927514,7.15]: [L3 WARNING pron-det-without-prontype] The word 'maður' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 470 Sent ALTHINGI_BO_2013_G-33-4927514,8.16]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'tengsl') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 504 Sent ALTHINGI_BO_2014_G-33-4618570,2.18]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'mál') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 594 Sent ALTHINGI_BO_2014_G-33-4618570,4.20]: [L3 WARNING pron-det-without-prontype] The word 'miklu' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 764 Sent ALTHINGI_BO_2014_G-33-4644921,3.26]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] 'við') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 917 Sent ALTHINGI_BO_2014_G-33-4644921,9.32]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'væntingar') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 2020 Sent ALTHINGI_BO_2014_G-33-4698744,5.78]: [L3 WARNING fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 16019 Sent ALTHINGI_HHG_2013_G-33-4705681,8.622]: [L3 WARNING fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 17750 Sent ALTHINGI_HHG_2013_G-33-4727073,6.686]: [L3 WARNING fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 18398 Sent ALTHINGI_HHG_2013_G-33-4736504,7.709]: [L3 WARNING fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 21139 Sent ALTHINGI_HHG_2013_G-33-4794202,5.809]: [L3 WARNING fixed-without-extpos] Fixed expression 'hvort sem' does not have the 'ExtPos' feature
+[Line 25420 Sent ALTHINGI_HHG_2013_G-33-4858131,6.959]: [L3 WARNING fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 26723 Sent ALTHINGI_HHG_2013_G-33-4875931,2.1002]: [L3 WARNING fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 27828 Sent ALTHINGI_HHG_2013_G-33-4901642,2.1050]: [L3 WARNING fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+[Line 30414 Sent ALTHINGI_SJS_2013_G-33-4542313,8.1147]: [L3 WARNING fixed-without-extpos] Fixed expression 'hvort sem' does not have the 'ExtPos' feature
+[Line 45475 Sent ALTHINGI_SJS_2013_G-33-4736548,14.1645]: [L3 WARNING fixed-without-extpos] Fixed expression 'svo sem' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 660
+SYNTAX errors: 1293
+*** FAILED *** with 1293 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
 (weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
 (weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
@@ -74,6 +127,6 @@ Validity: 1
 (weight=0.0740740740740741) * (score{split}=0.67) = 0.0496296296296296
 (weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
 (weight=0.111111111111111) * (score{udeprels}=0.67027027027027) = 0.0744744744744745
-(TOTAL score=0.633100486366651) * (availability=1) * (validity=1) = 0.633100486366651
-STARS = 3
-UD_Icelandic-Modern	0.633100486366651	3
+(TOTAL score=0.633100486366651) * (availability=1) * (validity=0.01) = 0.00633100486366651
+STARS = 0
+UD_Icelandic-Modern	0.00633100486366651	0
